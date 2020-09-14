@@ -39,18 +39,17 @@
 
 <table style="width:100%">
   <tr>
-    <th>روز</th>
     <th >15-17</th>
     <th >13-15</th>
     <th>10-12</th>
     <th>8-10</th>
-   
+    <th>روز</th>
   </tr>
   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
     <th>شنبه</th>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
   </tr>
 </table>
