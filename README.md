@@ -4,13 +4,13 @@
 <br>
 [1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering)
 <br>
-[1115029_02	سمينار	2]()
+[1115029_02	سمينار	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)
 <br>
 [1115133_01	شيوه ارائه مطالب علمي وفني	2]()
 <br>
 [1115157_01	نظريه زبانهاوماشين ها	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
 <br>
-[1115257_03	سمينار ( تحقيق و تتبع نظري )	2]()
+[1115257_03	سمينار ( تحقيق و تتبع نظري )	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)
 <br>
 [1115272_01	مديريت پروژه هاي نرم افزاري	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)
 <br>
