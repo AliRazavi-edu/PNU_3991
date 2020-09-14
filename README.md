@@ -32,3 +32,30 @@
 <br>
 [1322110_01	طراحي واسط كاربر	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
 <br>
+
+<table style="width:100%">
+  <tr>
+    <th>ردیف</th>
+    <th >شماره و گروه درس</th>
+    <th colspan="2">واحد</th>
+    <th>وضعیت درس</th>
+    <th>نوع درس</th>
+    <th>نام استاد</th>
+    <th>روز و ساعت درس</th>
+    <th>نحوه ارائه</th>
+    <th>منابع درس</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1115025_01</td>
+    <td>الگوريتم هاي پيشرفته</td>
+    <td>3/00</td>
+    <td>0/00</td>
+    <td>عادی</td>
+    <td>تخصصی</td>
+    <td>رضوی ابراهیمی سیدعلی</td>
+    <td></td>
+    <td>عادی</td>
+     <td></td>
+  </tr>
+</table>
