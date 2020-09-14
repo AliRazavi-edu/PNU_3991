@@ -6,7 +6,7 @@
 <br>
 [1115029_02	سمينار	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)
 <br>
-[1115133_01	شيوه ارائه مطالب علمي وفني	2]()
+[1115133_01	شيوه ارائه مطالب علمي وفني	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 <br>
 [1115157_01	نظريه زبانهاوماشين ها	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
 <br>
@@ -18,7 +18,7 @@
 <br>
 [1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies)
 <br>
-[1322010_01	روش پژوهش و ارائه	2]()
+[1322010_01	روش پژوهش و ارائه	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 <br>
 [1322029_02	كارآموزي	1](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship)
 <br>
