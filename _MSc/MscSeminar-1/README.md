@@ -17,4 +17,4 @@
 
 ###   (word فایل) راهنمای سمینار  
 
-[Download File:[(/Files/_AR_920304_Seminar_Scoring.docx)
+[Download File:](/Files/_AR_920304_Seminar_Scoring.docx)
