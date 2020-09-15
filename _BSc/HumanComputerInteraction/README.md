@@ -5,7 +5,7 @@
 - [Human Computer Interaction](# Human Computer Interaction)
     * [راهنمای نام گذاری پوشه ها بر اساس فصل های کتاب منبع](#راهنمای-نام-گذاری-پوشه-ها-بر-اساس-فصل-های-کتاب-منبع)
     
-###    (human-computer interaction: fundamentals and practice gerard jounghyun kim)راهنمای نام گذاری پوشه ها بر اساس فصل های کتاب منبع
+###    (human-computer interaction)راهنمای نام گذاری پوشه ها بر اساس فصل های کتاب منبع
 ![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/Human%20Computer%20Interaction.png)
 # Table of contents
 
