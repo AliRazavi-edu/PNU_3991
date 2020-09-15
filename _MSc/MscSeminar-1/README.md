@@ -17,5 +17,5 @@
 
 ###   (word فایل) راهنمای سمینار  
 
-[Download](/assessment/_AR_920304_Seminar_Scoring.pdf)
-<p align="right"> Download _AR_920304_Seminar_Scoring.pdf<a href="/assessment/_AR_920304_Seminar_Scoring.pdf">کلیک کنید</a></p>
+[_AR_920304_Seminar_Scoring.docx](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1/assessment)
+
