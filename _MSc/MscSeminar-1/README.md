@@ -8,7 +8,10 @@
 ###    ()راهنمای سمینار
  
 ![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar1.png)
+<br>
 ![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar2.png)
+<br>
 ![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar3%20.png)
+<br>
 ![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar4.png)
 
