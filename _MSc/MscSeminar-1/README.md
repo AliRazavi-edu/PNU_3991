@@ -1,46 +1,14 @@
-## لیست دانشجویان
+## MscSeminar-1
 
-<table style="width:100%">
-  <tr>
-    <th >نام خانوادگی</th>
-    <th>نام</th>
-    <th>شماره دانشجویی</th>
-    <th>ردیف</th>
-  </tr>
-  <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th>1</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th>2</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th>3</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th>4</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th>5</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th>6</th>
-  </tr>
-</table>
+> درس سمینار - 02-1115029
+
+- [MscSeminar-1](#MscSeminar-1)
+    *[راهنمای سمینار](#راهنمای-سمینار)
+    
+###    ()راهنمای سمینار
+ 
+![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar1.png)
+![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar2.png)
+![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar3%20.png)
+![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar4.png)
+
