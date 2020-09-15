@@ -9,9 +9,9 @@
  
 ![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar1.png)
 <br>
-![Logo]()
+![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar%202.png)
 <br>
-![Logo]()
+![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar%203%20.png)
 <br>
-![Logo]()
+![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar%204.png)
 
