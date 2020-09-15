@@ -15,4 +15,6 @@
 <br>
 ![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar%204.png)
 
-File<a href="AR_920304_Seminar_Scoring.docx"> AR_920304_Seminar_Scoring.docx </a>
+###   (word فایل) راهنمای سمینار  
+
+Download File:<a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/MscSeminar-1/Files/_AR_920304_Seminar_Scoring.docx"> AR_920304_Seminar_Scoring.docx </a>
