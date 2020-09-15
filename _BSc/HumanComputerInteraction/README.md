@@ -1,8 +1,8 @@
 ## Human Computer Interaction
 
-> 01-1322108 -درس تعامل انسان و كامپيوتر 
+>1322108-01 -درس تعامل انسان و كامپيوتر 
 
-- [Human Computer Interaction](# Human Computer Interaction)
+- [Human Computer Interaction](#Human Computer Interaction)
     * [راهنمای نام گذاری پوشه ها بر اساس فصل های کتاب منبع](#راهنمای-نام-گذاری-پوشه-ها-بر-اساس-فصل-های-کتاب-منبع)
     
 ###    (human-computer interaction)راهنمای نام گذاری پوشه ها بر اساس فصل های کتاب منبع
