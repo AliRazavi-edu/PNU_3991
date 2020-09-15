@@ -17,4 +17,4 @@
 
 ###   (word فایل) راهنمای سمینار  
 
-Download File:<a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/MscSeminar-1/Files/_AR_920304_Seminar_Scoring.docx"> AR_920304_Seminar_Scoring.docx </a>
+[Download File:[(/Files/_AR_920304_Seminar_Scoring.docx)
