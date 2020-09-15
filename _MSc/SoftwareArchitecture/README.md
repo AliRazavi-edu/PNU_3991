@@ -17,45 +17,44 @@
 
 
 
-## Part ONE INtrOductION
-- cHaPtEr 1 What Is Software architecture?
-- cHaPtEr 2 Why Is Software architecture Important?
-- cHaPtEr 3 the Many contexts of Software architecture
+## PART ONE INTRODUCTION
+- CHAPTER 1 What Is Software architecture?
+- CHAPTER 2 Why Is Software architecture Important?
+- CHAPTER 3 the Many contexts of Software architecture
 
 
-## Part tWO QualIty attrIbutES
-- cHaPtEr 4 understanding Quality attributes
-- cHaPtEr 5 availability
-- cHaPtEr 6 Interoperability
-- cHaPtEr 7 Modifiability
-- cHaPtEr 8 Performance
-- cHaPtEr 9 Security
-- cHaPtEr 10 testability
-- cHaPtEr 11 usability
-- cHaPtEr 12 Other Quality attributes
-- cHaPtEr 13 architectural tactics and Patterns
-- cHaPtEr 14 Quality attribute Modeling and analysis
+## PART TWO QUALITY ATTRIBUTES
+- CHAPTER 4 understanding Quality attributes
+- CHAPTER 5 availability
+- CHAPTER 6 Interoperability
+- CHAPTER 7 Modifiability
+- CHAPTER 8 Performance
+- CHAPTER 9 Security
+- CHAPTER 10 testability
+- CHAPTER 11 usability
+- CHAPTER 12 Other Quality attributes
+- CHAPTER 13 architectural tactics and Patterns
+- CHAPTER 14 Quality attribute Modeling and analysis
 
 
-## Part tHrEE arcHItEcturE IN tHE lIfE
-cyclE
-- cHaPtEr 15 architecture in agile Projects
-- cHaPtEr 16 architecture and requirements
-- cHaPtEr 17 designing an architecture
-- cHaPtEr 18 documenting Software architectures
-- cHaPtEr 19 architecture, Implementation, and testing
-- cHaPtEr 20 architecture reconstruction and conformance
-- cHaPtEr 21 architecture Evaluation
-- cHaPtEr 22 Management and Governance
-## Part fOur arcHItEcturE aNd buSINESS
-- cHaPtEr 23 Economic analysis of architectures
-- cHaPtEr 24 architecture competence
-- cHaPtEr 25 architecture and Software Product lines
+## PART THREE ARCHITECTURE IN THE LIFE CYCLE
+- CHAPTER 15 architecture in agile Projects
+- CHAPTER 16 architecture and requirements
+- CHAPTER 17 designing an architecture
+- CHAPTER 18 documenting Software architectures
+- CHAPTER 19 architecture, Implementation, and testing
+- CHAPTER 20 architecture reconstruction and conformance
+- CHAPTER 21 architecture Evaluation
+- CHAPTER 22 Management and Governance
+## PART FOuR ARCHITECTURE AND BUSINESS
+- CHAPTER 23 Economic analysis of architectures
+- CHAPTER 24 architecture competence
+- CHAPTER 25 architecture and Software Product lines
 
-## Part fIVE tHE braVE NEW WOrld
-- cHaPtEr 26 architecture in the cloud
-- cHaPtEr 27 architectures for the Edge
-- cHaPtEr 28 Epilogue
+## PART FIVE THE BRAVE NEW WORLD
+- CHAPTER 26 architecture in the cloud
+- CHAPTER 27 architectures for the Edge
+- CHAPTER 28 Epilogue
 
 ## References
 ## About the Authors
