@@ -52,3 +52,10 @@
 ## REFERENCES
 ## INDEX
 
+
+---
+> دیگر منابع
+
+- [Sommerville Slides(9th Edition) ](http://ceit.aut.ac.ir/~91131079/SE2/SE2%20Website/Other%20Slides/Ian%20Sommerville%20-%20Software%20Engineering%20-%209th%20Edition.zip)
+- [Whitten-Bentley Slides (7th Edition)](http://ceit.aut.ac.ir/~91131079/SE2/SE2%20Website/Other%20Slides/Bentley.rar)
+
