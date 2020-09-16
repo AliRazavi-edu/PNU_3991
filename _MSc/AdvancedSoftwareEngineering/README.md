@@ -2,7 +2,7 @@
 
 > 1115026-01 -درس مهندسي نرم افزارپيشرفته 
 
-- [پاورپوینت ها]()
+- [پاورپوینت ها](http://ceit.aut.ac.ir/~91131079/SE2/SE2%20Website/Other%20Slides/Pressman7.rar)
     
 ###    (Software Engineering ٧th Edition -Roger S. Pressman)
 <a href="http://engineersrepository.blog.ir/post/15"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/software.png"> </a>
