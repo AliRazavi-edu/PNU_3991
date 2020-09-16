@@ -1,5 +1,23 @@
 ## نحوه ارزشیابی درس
 
+<table style="width:100%">
+  <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th></th>
+  </tr>
+</table>
 
 ---------------
 >## منبع درس
@@ -40,5 +58,3 @@
 > ## دیگر منابع
 
 [Designing with the Mind in Mind](http://index-of.co.uk/Programming-Library/Designing%20with%20the%20Mind%20in%20Mind%20Simple%20-%20Johnson%20-%20Kaufmann%20(2010).pdf)
-
-- [CS 235 User Interface Design - San Jose State University](https://www.cs.sjsu.edu/~mak/archive/CS235/)
