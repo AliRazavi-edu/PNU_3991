@@ -5,7 +5,8 @@
 - [پاورپوینت ها](https://people.eecs.ku.edu/~hossein/Teaching/Sp13/818/Lectures/SA-Practice/)
     
 ###    (Software Architecture in Practice Third Edition-Len Bass )
-![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/SoftwareArchitecture.png)
+
+<a href="https://www.ebooksworld.ir/post/index/419/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-software-architecture-in-practice-3rd-edition"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/SoftwareArchitecture.png"> </a>
 # Table of contents
 ## Preface xv
 ## Reader’s Guide xvii
