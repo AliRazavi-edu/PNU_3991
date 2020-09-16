@@ -47,3 +47,6 @@
 ## About the Authors
 ## Index
 
+--
+> ## دیگر منابع
+[Software Architecture: Foundations, Theory, and Practice](https://www.softwarearchitecturebook.com/)
