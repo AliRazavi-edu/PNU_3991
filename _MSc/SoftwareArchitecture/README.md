@@ -1,6 +1,6 @@
 ## Software Architecture
 
-> 1115280-01 -درس معماري نرم افزار 
+> [1115280-01 -درس معماري نرم افزار](https://people.eecs.ku.edu/~hossein/Teaching/Sp13/818/Lectures/SA-Practice/) 
 
 - [Software Architecture](#Software Architecture)
     
@@ -11,9 +11,9 @@
 ## Reader’s Guide xvii
 ## Acknowledgments xix
 ## PART ONE INTRODUCTION
-- [CHAPTER 1 What Is Software architecture? **]()
-- [CHAPTER 2 Why Is Software architecture Important? **]()
-- [CHAPTER 3 The Many contexts of Software architecture **]()
+- [CHAPTER 1 What Is Software architecture? **](https://people.eecs.ku.edu/~hossein/Teaching/Sp13/818/Lectures/SA-Practice/Chapter%2001.pptx)
+- [CHAPTER 2 Why Is Software architecture Important? **](https://people.eecs.ku.edu/~hossein/Teaching/Sp13/818/Lectures/SA-Practice/Chapter%2002.pptx)
+- [CHAPTER 3 The Many contexts of Software architecture **](https://people.eecs.ku.edu/~hossein/Teaching/Sp13/818/Lectures/SA-Practice/Chapter%2003.pptx)
 ## PART TWO QUALITY ATTRIBUTES
 - [CHAPTER 4 understanding Quality attributes **]()
 - [CHAPTER 5 Availability **]()
