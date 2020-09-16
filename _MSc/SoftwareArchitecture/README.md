@@ -1,8 +1,8 @@
 ## Software Architecture
 
-> [1115280-01 -درس معماري نرم افزار](https://people.eecs.ku.edu/~hossein/Teaching/Sp13/818/Lectures/SA-Practice/) 
+> 1115280-01 -درس معماري نرم افزار 
 
-- [Software Architecture](#Software Architecture)
+- [پاورپوینت ها](https://people.eecs.ku.edu/~hossein/Teaching/Sp13/818/Lectures/SA-Practice/)
     
 ###    (Software Architecture in Practice Third Edition-Len Bass )
 ![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/SoftwareArchitecture.png)
