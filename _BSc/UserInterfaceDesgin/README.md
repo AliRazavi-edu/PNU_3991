@@ -25,10 +25,10 @@
 ## CHAPTER 12 Human Decision Making is Rarely Rational
 ## CHAPTER 13 Our Hand–Eye Coordination Follows Laws
 ## CHAPTER 14 We Have Time Requirements
-## Epilogue
-## Appendix
-## Bibliography
-## Index
+### Epilogue
+### Appendix
+### Bibliography
+### Index
 --------------
 
 > ## دیگر منابع
