@@ -2,18 +2,11 @@
 
 <table style="width:100%">
   <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th></th>
+    
     <th>پایانترم</th>
     <th>میانترم</th>
   </tr>
    <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
     <th ></th>
     <th></th>
   </tr>
