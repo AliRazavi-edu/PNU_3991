@@ -54,6 +54,11 @@
 
 
 ---
+> دروس مشابه
+
+- [مهندسی نرم افزار 2 دانشکگاه امیرکبیر](http://ceit.aut.ac.ir/~91131079/SE2/SE2%20Website/index.html)
+
+---
 > دیگر منابع
 
 - [Sommerville Slides(9th Edition) ](http://ceit.aut.ac.ir/~91131079/SE2/SE2%20Website/Other%20Slides/Ian%20Sommerville%20-%20Software%20Engineering%20-%209th%20Edition.zip)
