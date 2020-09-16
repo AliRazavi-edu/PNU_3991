@@ -6,8 +6,8 @@
     <th ></th>
     <th ></th>
     <th></th>
-    <th></th>
-    <th></th>
+    <th>پایانترم</th>
+    <th>میانترم</th>
   </tr>
    <tr>
     <th ></th>
