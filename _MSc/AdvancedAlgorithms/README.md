@@ -62,4 +62,3 @@
 https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms
 
 > ## دیگر منابع
-[Software Architecture: Foundations, Theory, and Practice](https://www.softwarearchitecturebook.com/)
