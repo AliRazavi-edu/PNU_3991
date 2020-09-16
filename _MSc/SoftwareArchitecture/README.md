@@ -3,9 +3,8 @@
 > 1115280-01 -درس معماري نرم افزار 
 
 - [Software Architecture](#Software Architecture)
-    * [راهنمای نام گذاری پوشه ها بر اساس فصل های کتاب منبع]()
     
-###    (Software Architecture in Practice Third Edition-Len Bass )راهنمای نام گذاری پوشه ها بر اساس فصل های کتاب منبع
+###    (Software Architecture in Practice Third Edition-Len Bass )
 ![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/SoftwareArchitecture.png)
 # Table of contents
 ## Preface xv
