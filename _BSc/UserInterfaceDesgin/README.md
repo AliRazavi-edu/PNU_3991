@@ -2,7 +2,7 @@
 
 > درس طراحی واسط کاربر - 01-1322110
 
-- [پاورپوینت ها]()
+- [پاورپوینت ها](https://www.cs.sjsu.edu/~mak/archive/CS235/)
     
 ###    (Introduction to Algorithms,3th-Thomas H.Cormen)
 
