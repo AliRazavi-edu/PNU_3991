@@ -2,11 +2,10 @@
 
 >1322108-01 -درس تعامل انسان و كامپيوتر 
 
-- [Human Computer Interaction](#Human Computer Interaction)
-    * [راهنمای نام گذاری پوشه ها بر اساس فصل های کتاب منبع](#راهنمای-نام-گذاری-پوشه-ها-بر-اساس-فصل-های-کتاب-منبع)
+- [پاورپوینت ها]()
     
-###    (human-computer interaction)راهنمای نام گذاری پوشه ها بر اساس فصل های کتاب منبع
-![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/Human%20Computer%20Interaction.png)
+###    (human-computer interaction)
+<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/Human%20Computer%20Interaction.png"> </a>
 # Table of contents
 
 ## Chapter 1 Introduction
