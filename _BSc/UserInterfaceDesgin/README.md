@@ -2,7 +2,6 @@
 
 <table style="width:100%">
   <tr>
-    
     <th>پایانترم</th>
     <th>میانترم</th>
   </tr>
