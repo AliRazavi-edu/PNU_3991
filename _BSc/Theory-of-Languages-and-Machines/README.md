@@ -20,3 +20,7 @@
 > ## دیگر منابع
 
 <a href="https://www.ebooksworld.ir/post/index/547/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-an-introduction-to-formal-languages-and-automata-6th-edition"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/Theory-of-Languages-and-Machines1.png"> </a>
+
+-------------
+[آموزش نظریه زبان ها و ماشین ها-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
+[CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
