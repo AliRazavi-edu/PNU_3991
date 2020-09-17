@@ -37,8 +37,9 @@
 ### Index
 --------------
 
-> دروس مشابه
-[فرادرس-Foundationآموزش طراحی رابط کاربری وب سایت با فریم ورک](https://faradars.org/courses/fvweb9710-designing-user-interface-of-website-with-foundation-framework)
+> 
+دروس مشابه
+- [فرادرس-Foundationآموزش طراحی رابط کاربری وب سایت با فریم ورک](https://faradars.org/courses/fvweb9710-designing-user-interface-of-website-with-foundation-framework)
 -----------
 
 > ## دیگر منابع
