@@ -28,3 +28,7 @@
 
 ## INDEX
 
+-------------
+> دروس مشابه
+
+- [آموزش تعامل انسان با کامپیوتر-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
