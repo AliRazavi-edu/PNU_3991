@@ -44,6 +44,7 @@
 ### APPENDIX B: JFLAP: A USEFUL TOOL
 ### ANSWERS SOLUTIONS AND HINTS FOR SELECTED EXERCISES
 ----------------
+
 > دروس مشابه
 
 - [آموزش نظریه زبان ها و ماشین ها-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
