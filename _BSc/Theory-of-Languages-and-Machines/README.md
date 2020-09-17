@@ -16,6 +16,8 @@
 # Table of contents
 
 --------------
+>## (منبع درس نظريه زبانهاوماشين ها ( 01-1115157
+
 ## Theory-of-Languages-and-Machines
 
 - [پاورپوینت ها]()
