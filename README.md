@@ -32,7 +32,6 @@
 [1322110_01	طراحي واسط كاربر	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
 <br>
 ---
-<br>
 [1322029_02 & 1115132_02	كارآموزي	1](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship)
 <br>
 [1115098_02	پروژه	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BscFinalProject)
