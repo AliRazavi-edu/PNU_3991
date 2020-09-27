@@ -25,8 +25,6 @@
 <br>
 [1322010_01 & 02	روش پژوهش و ارائه	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 <br>
-[1322035_01	پروژه فناوري اطلاعات	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BSc-IT-Project)
-<br>
 [1322100_01	برنامه نويسي وب	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/WebProgramming)
 <br>
 [1322108_01	تعامل انسان و كامپيوتر	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
