@@ -12,7 +12,7 @@
 <br>
 [1115272_01	مديريت پروژه هاي نرم افزاري	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)
 <br>
-<br>
+---
 [1115029_02	سمينار	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)
 <br>
 [1115257_03	سمينار ( تحقيق و تتبع نظري )	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)
@@ -31,6 +31,7 @@
 <br>
 [1322110_01	طراحي واسط كاربر	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
 <br>
+---
 <br>
 [1322029_02 & 1115132_02	كارآموزي	1](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship)
 <br>
