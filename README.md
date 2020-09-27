@@ -4,22 +4,22 @@
 ## دروس ارشد
 
 ## دروس کارشناسی
-[1115025_01	الگوريتم‌های پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)\  
-[1115026_01	مهندسی نرم‌افزار پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering)\  
-[1115029_02	سمينار	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)\  
-[1115133_01	شيوهٔ ارائه مطالب علمی و فنی	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)\  
-[1115157_01	نظريهٔ زبان‌ها و ماشين‌ها	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)\  
-[1115257_03	سمينار (تحقيق و تتبع نظری)	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)\  
-[1115272_01	مديريت پروژه‌های نرم‌افزاری	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)\  
-[1115280_01	معماری نرم‌افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture)\  
-[1115282_01	متدولوژی ايجاد نرم‌افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies)\  
-[1322010_01	روش پژوهش و ارائه	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)\  
-[1322029_02	كارآموزی	1](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship)\  
-[1322035_01	پروژه فناوری اطلاعات	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BSc-IT-Project)\  
-[1322094_02	پروژهٔ پايانی	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BscFinalProject)\  
-[1322100_01	برنامه‌نويسی وب	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/WebProgramming)\  
-[1322108_01	تعامل انسان و كامپيوتر	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)\  
-[1322110_01	طراحی واسط كاربر	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)\  
+[1115025_01	الگوريتم‌های پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)  
+[1115026_01	مهندسی نرم‌افزار پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering)  
+[1115029_02	سمينار	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)  
+[1115133_01	شيوهٔ ارائه مطالب علمی و فنی	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)  
+[1115157_01	نظريهٔ زبان‌ها و ماشين‌ها	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)  
+[1115257_03	سمينار (تحقيق و تتبع نظری)	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)  
+[1115272_01	مديريت پروژه‌های نرم‌افزاری	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)  
+[1115280_01	معماری نرم‌افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture)  
+[1115282_01	متدولوژی ايجاد نرم‌افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies)  
+[1322010_01	روش پژوهش و ارائه	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)  
+[1322029_02	كارآموزی	1](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship)  
+[1322035_01	پروژه فناوری اطلاعات	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BSc-IT-Project)  
+[1322094_02	پروژهٔ پايانی	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BscFinalProject)  
+[1322100_01	برنامه‌نويسی وب	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/WebProgramming)  
+[1322108_01	تعامل انسان و كامپيوتر	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)  
+[1322110_01	طراحی واسط كاربر	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)  
 
 ## برنامه زمانی ارائه دروس
 
