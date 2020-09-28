@@ -27,3 +27,8 @@
 > دروس مشابه
 
 - [آموزش شیوه ارائه علمی -فرادرس](https://faradars.org/courses/fvacw9403-scientific-presentation)
+
+---
+
+> رزومه دانشجویان
+[ابوذر رقيب دوست](https://jabozaroid.github.io/)
