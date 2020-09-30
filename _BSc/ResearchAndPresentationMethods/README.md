@@ -27,7 +27,7 @@
 > دروس مشابه
 
 - [آموزش شیوه ارائه علمی -فرادرس](https://faradars.org/courses/fvacw9403-scientific-presentation)
-
+- [آموزش لتک (Latex)](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%84%D8%AA%DA%A9-LaTeX-mk265/)
 ---
 
 > رزومه دانشجویان
