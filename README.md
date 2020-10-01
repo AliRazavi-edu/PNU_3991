@@ -2,21 +2,16 @@
 ## Winter Semester Courses 1399/2020
 
 ## دروس ارشد
-[1115025_01	الگوريتم هاي پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
-<br>
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering)
-<br>
-[1115280_01	معماري نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture)
-<br>
-[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies)
-<br>
-[1115272_01	مديريت پروژه هاي نرم افزاري	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)
-<br>
----
-[1115029_02	سمينار	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)
-<br>
-[1115257_03	سمينار ( تحقيق و تتبع نظري )	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)
-<br>
+شناسه درس | تعداد واحد | نام درس | لینک
+--- | --- | --- | ---
+1115025_01 | 3 | الگوريتم هاي پيشرفته             | [](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
+1115026_01 | 3 | مهندسي نرم افزار پيشرفته        | [](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering)
+1115280_01 | 3 | معماري نرم افزار                | [](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture)
+1115282_01 | 3 |	متدولوژي ايجاد نرم افزار         | [](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies)
+1115272_01 | 2 | مديريت پروژه هاي نرم افزاري	   | [](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)
+1115029_02 | 2 | سمينار                          | [](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)
+1115257_03 | 2 | سمينار ( تحقيق و تتبع نظري )	   | [](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)
+
 
 ## دروس کارشناسی
 [1115133_01	شيوه ارائه مطالب علمي وفني	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
