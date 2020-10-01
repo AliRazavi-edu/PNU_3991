@@ -11,7 +11,6 @@
 - [قالب1](https://www.20script.ir/cards-html-resume-portfolio/)
 - [قالب2](https://www.20script.ir/moticv-resume-cv-html5-template/)
 - [قالب3](https://webkima.com/free-html-resume-templates/)
-- [قالب4](https://nullx.net/patrick-personal-vcard-resume-cv-template/)
-- [قالب5](https://www.goskills.com/Development/Resources/Free-html-resume-templates)
-- [قالب6](https://cssauthor.com/free-html-resume-templates/)
+- [قالب4](https://www.goskills.com/Development/Resources/Free-html-resume-templates)
+- [قالب5](https://cssauthor.com/free-html-resume-templates/)
 
