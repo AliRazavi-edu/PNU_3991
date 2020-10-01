@@ -1,0 +1,52 @@
+title: PNU_3991
+lang: en
+description: Winter Semester Courses 1399/2020.
+
+remote_theme: rundocs/jekyll-rtd-theme@v2 # rundocs/jekyll-theme-docsify
+
+debug:
+  #dist: false
+  in_develop: true
+
+rtl: true
+
+author: alirazavi
+
+addons:
+  - github
+  - i18n
+  - plugins
+  - analytics
+
+sass:
+  style: compressed
+
+copyright:
+  revision: true
+
+readme_index:
+  with_frontmatter: true
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+  - jekyll-github-metadata
+
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - requirements.txt
+  - node_modules
+  - package.json
+  - package-lock.json
+  - jekyll-rtd-theme.gemspec
