@@ -1,32 +1,34 @@
 # PNU_3991
 ## Winter Semester Courses 1399/2020
 
+[وبسایت اصلی](https://alirazavi-edu.github.io/PNU_3991)
+
 ## دروس ارشد
 شناسه درس | تعداد واحد | نام درس | لینک
 --- | --- | --- | ---
-1115025_01 | 3 | الگوريتم های پيشرفته             | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
-1115026_01 | 3 | مهندسی نرم افزار پيشرفته        | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering)
-1115280_01 | 3 | معماری نرم افزار                | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture)
-1115282_01 | 3 |	متدولوژی ايجاد نرم افزار         | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies)
-1115272_01 | 2 | مديريت پروژه های نرم افزاری	   | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)
-1115029_02 | 2 | سمينار                          | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)
-1115257_03 | 2 | سمينار ( تحقيق و تتبع نظری )	   | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)
+1115025_01 | 3 | الگوريتم های پيشرفته             | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/MSc/AdvancedAlgorithms)
+1115026_01 | 3 | مهندسی نرم افزار پيشرفته        | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/MSc/AdvancedSoftwareEngineering)
+1115280_01 | 3 | معماری نرم افزار                | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/MSc/SoftwareArchitecture)
+1115282_01 | 3 |	متدولوژی ايجاد نرم افزار         | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/MSc/SoftwareDevelopmentMethodologies)
+1115272_01 | 2 | مديريت پروژه های نرم افزاری	   | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/MSc/SoftwareProjectManagement)
+1115029_02 | 2 | سمينار                          | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/MSc/MscSeminar-1)
+1115257_03 | 2 | سمينار ( تحقيق و تتبع نظری )	   | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/MSc/MscSeminar-2)
 
 
 ## دروس کارشناسی
 شناسه درس | تعداد واحد | نام درس | لینک
 --- | --- | --- | ---
-1115133_01 | 2 | شيوه ارائه مطالب علمي و فنی | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
-1115157_01 | 3 | نظريه زبان‌ها و ماشين‌ها         | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
-1322010_01 | 2 | روش پژوهش و ارایه          | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
-1322100_01 | 3 | برنامه نويسی وب             | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/WebProgramming)
-1322108_01 | 3 | تعامل انسان و كامپيوتر        | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
-1322110_01 | 3 | طراحي واسط كاربر           | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
+1115133_01 | 2 | شيوه ارائه مطالب علمي و فنی | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/BSc/ResearchAndPresentationMethods)
+1115157_01 | 3 | نظريه زبان‌ها و ماشين‌ها         | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/BSc/Theory-of-Languages-and-Machines)
+1322010_01 | 2 | روش پژوهش و ارایه          | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/BSc/ResearchAndPresentationMethods)
+1322100_01 | 3 | برنامه نويسی وب             | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/BSc/WebProgramming)
+1322108_01 | 3 | تعامل انسان و كامپيوتر        | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/BSc/HumanComputerInteraction)
+1322110_01 | 3 | طراحي واسط كاربر           | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/BSc/UserInterfaceDesgin)
 --- | --- | --- | ---
-1115098_02 | 3 | پروژه                        | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BscFinalProject)
-1322035_01 | 3 | پروژه فناوری اطلاعات         | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BscFinalProject)
-1322094_02 | 3 | پروژه پايانی                  | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BscFinalProject)
-1322029_02 & 1115132_02 | 1 | كارآموزی       | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship)
+1115098_02 | 3 | پروژه                        | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/BSc/BscFinalProject)
+1322035_01 | 3 | پروژه فناوری اطلاعات         | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/BSc/BscFinalProject)
+1322094_02 | 3 | پروژه پايانی                  | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/BSc/BscFinalProject)
+1322029_02 & 1115132_02 | 1 | كارآموزی       | [README](https://github.com/AliRazavi-edu/PNU_3991/tree/master/docs/BSc/Internship)
 
 
 ##  GitHub راهنمای 
