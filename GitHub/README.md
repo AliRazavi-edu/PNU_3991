@@ -7,7 +7,7 @@
 
 
 -----------
-##نمونه قالب های رایگان(قابل دانلود)
+## نمونه قالب های رایگان(قابل دانلود)
 - [قالب1](https://www.20script.ir/cards-html-resume-portfolio/)
 - [قالب2](https://www.20script.ir/moticv-resume-cv-html5-template/)
 - [قالب3](https://webkima.com/free-html-resume-templates/)
