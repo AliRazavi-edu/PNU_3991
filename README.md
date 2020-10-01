@@ -41,6 +41,9 @@
 [1322094_02	پروژه پاياني	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BscFinalProject)
 <br>
 
+
+##  GitHub راهنمای 
+[GitHub](https://github.com/AliRazavi-edu/PNU_3991/tree/master/GitHub)
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
