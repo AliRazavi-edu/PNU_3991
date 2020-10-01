@@ -13,8 +13,6 @@
     
 ###    (Introduction to Algorithms,3th-Thomas H.Cormen)
 
-[dummy test]({{ 'MSc' | relative_url }})
-
 <a href="https://www.ebooksworld.ir/post/index/80/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-%D9%85%D9%82%D8%AF%D9%85%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%87%D8%A7-%D9%88%DB%8C%D8%B1%D8%A7%DB%8C%D8%B4-%D8%B3%D9%88%D9%85"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/Introduction%20to%20Algorithms.png"> </a>
 # Table of contents
 ## I Foundations
