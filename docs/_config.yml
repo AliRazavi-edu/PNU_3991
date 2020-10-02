@@ -5,10 +5,11 @@ description: Winter Semester Courses 1399/2020.
 remote_theme: rundocs/jekyll-rtd-theme@v2 # rundocs/jekyll-theme-docsify
 
 debug:
-  #dist: false
-  in_develop: true
+  compress: true
+  dist: false
+  shortcodes: true
 
-rtl: true
+direction: rtl
 
 author: alirazavi
 
