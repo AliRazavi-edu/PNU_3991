@@ -51,3 +51,24 @@ exclude:
   - package.json
   - package-lock.json
   - jekyll-rtd-theme.gemspec
+
+
+
+# also available via file: _data/translate.yml
+translate:
+  # shortcodes
+  danger: خطا
+  note: یادداشت
+  tip: نکته
+  warning: اخطار
+  # 404
+  not_found: صفحه‌ای پیدا نشد
+  # copyright
+  revision: بازبینی
+  # search
+  searching: درحال جستجو
+  search: جستجو
+  search_docs: جستجو
+  search_results: نتایج جستجو
+  search_results_found: نتایج جستجو #
+  search_results_not_found: هیچ نتیجه‌ای یافت نشد

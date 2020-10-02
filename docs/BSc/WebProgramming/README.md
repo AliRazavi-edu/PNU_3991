@@ -1,3 +1,9 @@
+---
+title: برنامه نویسی وب
+categories: [msc, "Web Programming"]
+sort: 3
+---
+
 ## نحوه ارزشیابی درس
 
 [لینک دانلود فایل]

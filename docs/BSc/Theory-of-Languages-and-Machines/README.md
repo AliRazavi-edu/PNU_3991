@@ -1,3 +1,9 @@
+---
+title: نظریه زبان‌ها و ماشین‌ها
+categories: [msc, "Theory of Languages and Machines"]
+sort: 2
+---
+
 ## نحوه ارزشیابی درس
 
 [لینک دانلود فایل]

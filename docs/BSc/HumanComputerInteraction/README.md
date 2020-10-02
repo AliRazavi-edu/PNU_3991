@@ -1,3 +1,9 @@
+---
+title: تعامل انسان و کامپیوتر
+categories: [msc, "Human Computer Interaction"]
+sort: 4
+---
+
 ## نحوه ارزشیابی درس
 
 [لینک دانلود فایل]

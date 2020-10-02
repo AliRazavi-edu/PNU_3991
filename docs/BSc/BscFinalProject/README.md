@@ -1,3 +1,9 @@
+---
+title: پروژه پایانی
+categories: [msc, "Final Project"]
+sort: 7
+---
+
 ## BscFinalProject
 
 > درس پروژه پاياني - 02-1322094

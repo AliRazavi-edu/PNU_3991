@@ -1,3 +1,9 @@
+---
+title: شیوه ارایه مطالب علمی و فنی
+categories: [msc, "Research And Presentation Methods"]
+sort: 1
+---
+
 ## نحوه ارزشیابی درس
 
 [لینک دانلود فایل]

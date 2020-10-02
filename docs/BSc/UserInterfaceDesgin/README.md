@@ -1,3 +1,9 @@
+---
+title: طراحی واسط کاربری
+categories: [msc, "User Interface Desgin"]
+sort: 5
+---
+
 ## نحوه ارزشیابی درس
 
 [لینک دانلود فایل]
