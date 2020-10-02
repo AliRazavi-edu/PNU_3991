@@ -1,3 +1,9 @@
+---
+title: متودولوژی ایجاد نرم افزار
+categories: [msc, "Software Development Methodologies"]
+sort: 4
+---
+
 ## نحوه ارزشیابی درس
 
 [لینک دانلود فایل]

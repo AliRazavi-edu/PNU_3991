@@ -1,3 +1,9 @@
+---
+title: مدیریت پروژه های نرم افزاری
+categories: [msc, "Software Project Management"]
+sort: 5
+---
+
 ## نحوه ارزشیابی درس
 
 [لینک دانلود فایل]

@@ -1,3 +1,9 @@
+---
+title: سمینار
+categories: [msc, "Seminar-1"]
+sort: 6
+---
+
 ## MscSeminar-1
 
 > درس سمینار - 02-1115029

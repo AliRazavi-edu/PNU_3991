@@ -1,3 +1,9 @@
+---
+title: مهندسی نرم افزار پیشرفته
+categories: [msc, "Advanced Software Engineering"]
+sort: 2
+---
+
 ## نحوه ارزشیابی درس
 
 [لینک دانلود فایل]

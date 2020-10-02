@@ -1,3 +1,9 @@
+---
+title: معماری نرم افزار
+categories: [msc, "Software Architecture"]
+sort: 3
+---
+
 > ## Software Architecture
 
 > 1115280-01 -درس معماري نرم افزار 
