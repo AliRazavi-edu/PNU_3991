@@ -10,13 +10,12 @@
 ## نمونه قالب های رایگان(قابل دانلود)
 - [قالب1](https://www.20script.ir/cards-html-resume-portfolio/)
 - [قالب2](https://www.20script.ir/moticv-resume-cv-html5-template/)
-- [قالب3](https://github.com/sharu725/online-cv)
+- [قالب3](https://github.com/blackode/online-resume)
 - [قالب4](https://github.com/jglovier/resume-template)
 - [قالب5](https://github.com/izzydoesizzy/resumetemplate)
 - [قالب6](https://github.com/rrdelaney/material-resume)
 - [قالب6](https://github.com/rrdelaney/material-resume)
 - [قالب7](https://superdevresources.com/html-resume-templates/)
-- [قالب8](https://github.com/blackode/online-resume)
 
 ------------
 ##نمونه رزومه دانشجویان
