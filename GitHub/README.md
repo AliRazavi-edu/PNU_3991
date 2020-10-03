@@ -18,6 +18,9 @@
 - [قالب7](https://superdevresources.com/html-resume-templates/)
 
 ------------
-##نمونه رزومه دانشجویان
-
-
+## نمونه رزومه دانشجویان  
++ [شهلا فتح الهی](https://shfathollahi.github.io)  
+  -  [@shfathollahi](https://github.com/shfathollahi)
+  
+  + [بهرام اسد پور](https://akmcho.github.io)  
+   - [@akmcho](https://github.com/akmcho)
