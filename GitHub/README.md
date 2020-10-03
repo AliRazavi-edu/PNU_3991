@@ -16,9 +16,9 @@
 - [قالب6](https://github.com/rrdelaney/material-resume)
 - [قالب6](https://github.com/rrdelaney/material-resume)
 - [قالب7](https://superdevresources.com/html-resume-templates/)
-- [قالب8]()
-- [قالب9]()
-- [قالب10]()
-- [قالب11]()
+- [قالب8](https://github.com/blackode/online-resume)
+
+------------
+##نمونه رزومه دانشجویان
 
 
