@@ -15,6 +15,7 @@
 - [قالب5](https://github.com/izzydoesizzy/resumetemplate)
 - [قالب6](https://github.com/rrdelaney/material-resume)
 - [قالب6](https://github.com/rrdelaney/material-resume)
+- [قالب7](https://superdevresources.com/html-resume-templates/)
 
 
 
