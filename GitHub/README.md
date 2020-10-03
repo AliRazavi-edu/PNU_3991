@@ -16,7 +16,7 @@
 - [قالب6](https://github.com/rrdelaney/material-resume)
 - [قالب6](https://github.com/rrdelaney/material-resume)
 - [قالب7](https://superdevresources.com/html-resume-templates/)
-
+- [قالب8](https://webkima.com/free-html-resume-templates/#13_%D9%82%D8%A7%D9%84%D8%A8_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86_Resume)
 ------------
 ## نمونه رزومه دانشجویان  
 + [شهلا فتح الهی](https://shfathollahi.github.io)  
