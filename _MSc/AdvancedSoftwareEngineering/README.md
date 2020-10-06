@@ -13,7 +13,7 @@
 - [پاورپوینت ها](http://ceit.aut.ac.ir/~91131079/SE2/SE2%20Website/Other%20Slides/Pressman7.rar)
     
 ###    (Software Engineering ٧th Edition -Roger S. Pressman)
-<a href="http://engineersrepository.blog.ir/post/15"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/software.png"> </a>
+<a href="http://engineersrepository.blog.ir/post/15"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/software.png"> </a>
 # Table of contents
 ## CHAPTER 1 SOFTWARE AND SOFTWARE ENGINEERING 
 
@@ -70,7 +70,7 @@
 - [مهندسی نرم افزار 2 دانشگاه امیرکبیر](http://ceit.aut.ac.ir/~91131079/SE2/SE2%20Website/index.html)
 
 ---
-> دیگر منابع
+>## دیگر منابع
 
 - [Sommerville Slides(9th Edition) ](http://ceit.aut.ac.ir/~91131079/SE2/SE2%20Website/Other%20Slides/Ian%20Sommerville%20-%20Software%20Engineering%20-%209th%20Edition.zip)
 - [Whitten-Bentley Slides (7th Edition)](http://ceit.aut.ac.ir/~91131079/SE2/SE2%20Website/Other%20Slides/Bentley.rar)
