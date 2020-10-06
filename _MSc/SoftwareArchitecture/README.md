@@ -48,7 +48,7 @@
 ## About the Authors
 ## Index
 ---------------------
->## سیلابس وزرات علوم برای درس معماري نرم افزار  
+>## [سیلابس وزرات علوم برای درس معماري نرم افزار](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/Educ_1140_0_SA.pdf)  
 
 ----------
 > ## دیگر منابع
