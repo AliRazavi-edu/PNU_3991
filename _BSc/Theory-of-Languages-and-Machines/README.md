@@ -12,7 +12,7 @@
     
 ###    (Theory-of-Languages-and-Machines)
 
-<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/Theory-of-Languages-and-Machines.png"> </a>
+<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Theory-of-Languages-and-Machines1.png"> </a>
 # Table of contents
 
 --------------
@@ -24,7 +24,7 @@
 
 ###    (Theory-of-Languages-and-Machines,Peter Linz)
 
-<a href="https://www.ebooksworld.ir/post/index/547/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-an-introduction-to-formal-languages-and-automata-6th-edition"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/Theory-of-Languages-and-Machines1.png"> </a>
+<a href="https://www.ebooksworld.ir/post/index/547/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-an-introduction-to-formal-languages-and-automata-6th-edition"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Theory-of-Languages-and-Machines.png"> </a>
 # Table of contents
 ## 1 INTRODUCTION TO THE THEORY OF COMPUTATION
 ## 2 FINITE AUTOMATA
@@ -45,8 +45,10 @@
 ### ANSWERS SOLUTIONS AND HINTS FOR SELECTED EXERCISES
 ----------------
 
->## [سیلابس وزرات علوم برای درس نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/_1569752509_1_LM.pdf) 
+>## [سیلابس وزرات علوم برای درس نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/_1569752509_1_LM.pdf)
+
 ---------------
+
 >## دروس مشابه
 
 - [آموزش نظریه زبان ها و ماشین ها-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
