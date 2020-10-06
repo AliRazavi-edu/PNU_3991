@@ -57,4 +57,4 @@
 
 > ## دیگر منابع
 
-### [CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
+- [CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
