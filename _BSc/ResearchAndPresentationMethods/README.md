@@ -13,7 +13,7 @@
     
 ###    (کتاب روش پژوهش و ارائه اثر علی شاعیدی - احمد فراهی - پیام نور)
 
-<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/ResearchAndPresentationMethods1.png"> </a>
+<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/ResearchAndPresentationMethods1.png"> </a>
 # Table of contents
 
 
