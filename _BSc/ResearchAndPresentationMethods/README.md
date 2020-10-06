@@ -21,10 +21,13 @@
 
 
 
+--------------
+
+>## [سیلابس وزرات علوم برای درس شيوه ارائه مطالب علمي وفني](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/_1569752509_1_RP.pdf) 
 
 ------------------
 
-> دروس مشابه
+>## دروس مشابه
 
 - [آموزش شیوه ارائه علمی -فرادرس](https://faradars.org/courses/fvacw9403-scientific-presentation)
 
