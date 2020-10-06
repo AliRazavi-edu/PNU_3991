@@ -11,7 +11,7 @@
 - [پاورپوینت ها]()
     
 ###    (human-computer interaction)
-<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/Human%20Computer%20Interaction.png"> </a>
+<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Human%20Computer%20Interaction.png"> </a>
 # Table of contents
 
 ## Chapter 1 Introduction
@@ -39,6 +39,6 @@
 
 -------------
 
-> دروس مشابه
+>## دروس مشابه
 
 - [آموزش تعامل انسان با کامپیوتر-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
