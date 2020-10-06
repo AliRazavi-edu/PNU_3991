@@ -6,7 +6,7 @@
     
 ###    (Software Architecture in Practice Third Edition-Len Bass )
 
-<a href="https://www.ebooksworld.ir/post/index/419/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-software-architecture-in-practice-3rd-edition"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/SoftwareArchitecture.png"> </a>
+<a href="https://www.ebooksworld.ir/post/index/419/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-software-architecture-in-practice-3rd-edition"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/SoftwareArchitecture.png"> </a>
 # Table of contents
 ## Preface xv
 ## Reader’s Guide xvii
@@ -48,8 +48,10 @@
 ## About the Authors
 ## Index
 ---------------------
+
 >## [سیلابس وزرات علوم برای درس معماري نرم افزار](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/Educ_1140_0_SA.pdf)  
 
 ----------
+
 > ## دیگر منابع
 [Software Architecture: Foundations, Theory, and Practice](https://www.softwarearchitecturebook.com/)
