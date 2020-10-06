@@ -45,10 +45,13 @@
 ### ANSWERS SOLUTIONS AND HINTS FOR SELECTED EXERCISES
 ----------------
 
-> دروس مشابه
+>## [سیلابس وزرات علوم برای درس نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/_1569752509_1_LM.pdf) 
+---------------
+>## دروس مشابه
 
 - [آموزش نظریه زبان ها و ماشین ها-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
 
 ------------
+
 > ## دیگر منابع
 ### [CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
