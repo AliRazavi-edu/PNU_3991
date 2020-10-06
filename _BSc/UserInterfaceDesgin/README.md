@@ -35,10 +35,14 @@
 ### Appendix
 ### Bibliography
 ### Index
+
 --------------
 
-> 
-دروس مشابه
+>## [سیلابس وزرات علوم برای درس طراحی واسط کاربر](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/_1569752509_1_UID.pdf)
+
+------------------
+
+>## دروس مشابه
 - [فرادرس-Foundationآموزش طراحی رابط کاربری وب سایت با فریم ورک](https://faradars.org/courses/fvweb9710-designing-user-interface-of-website-with-foundation-framework)
 -----------
 
