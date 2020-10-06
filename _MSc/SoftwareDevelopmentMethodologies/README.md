@@ -77,7 +77,7 @@
 # Table of contents
 --------------
 
->## سیلابس وزرات علوم برای درس  متدولوژي ايجاد نرم افزار  
+>## [سیلابس وزرات علوم برای درس  متدولوژي ايجاد نرم افزار](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/Educ_1140_0_Metheod.pdf)  
 
 --------------
 
