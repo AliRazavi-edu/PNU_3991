@@ -75,11 +75,13 @@
 
 <a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/Information%20systems%20development%20methodologies%2C%20techniques%20and%20tools1.png"> </a>
 # Table of contents
+--------------
+
+>## سیلابس وزرات علوم برای درس  متدولوژي ايجاد نرم افزار  
 
 --------------
 
-> 
-دروس مشابه
+>## دروس مشابه
 
 -----------
 
