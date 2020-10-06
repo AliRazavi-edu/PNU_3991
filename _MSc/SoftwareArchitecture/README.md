@@ -47,7 +47,9 @@
 ## References
 ## About the Authors
 ## Index
+---------------------
+>## سیلابس وزرات علوم برای درس معماري نرم افزار  
 
---
+----------
 > ## دیگر منابع
 [Software Architecture: Foundations, Theory, and Practice](https://www.softwarearchitecturebook.com/)
