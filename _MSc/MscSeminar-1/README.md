@@ -7,15 +7,15 @@
     
 ###    راهنمای سمینار
  
-![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar1.png)
+![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/seminar1.png)
 <br>
-![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar%202.png)
+![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/seminar%202.png)
 <br>
-![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar%203%20.png)
+![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/seminar%203%20.png)
 <br>
-![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/image/seminar%204.png)
-
+![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/seminar%204.png)
+------------------
 ###   (word فایل) راهنمای سمینار  
 
-[_AR_920304_Seminar_Scoring.docx](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1/assessment)
+- [_AR_920304_Seminar_Scoring.docx](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1/assessment)
 
