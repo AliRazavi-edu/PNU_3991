@@ -33,8 +33,12 @@
 ## Chapter 9 Future of HCI
 
 ## INDEX
+-----------------------
+
+>## [سیلابس وزرات علوم برای درس تعامل انسان و كامپيوتر](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/_1569752509_1_HCI.pdf) 
 
 -------------
+
 > دروس مشابه
 
 - [آموزش تعامل انسان با کامپیوتر-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
