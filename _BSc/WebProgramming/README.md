@@ -37,7 +37,11 @@
 >## [سیلابس وزرات علوم برای درس برنامه نويسي وب](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/_1569752509_1_WebPrg.pdf) 
 
 -----------------------
-
 > ## دیگر منابع
 
 - [Apress Source Code](https://github.com/Apress/practical-php7-mysql8-mariadb-website-databases)
+
+-----------
+> ## آموزش ها
+
+- [  از مقدماتیHtml,Cssآموزش](https://toplearn.com/courses/47/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-html-%D9%88-css-%D8%A7%D8%B2-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C)
