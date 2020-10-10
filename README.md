@@ -43,7 +43,13 @@
 
 -----------------------------------------
 ##  GitHub راهنمای 
-[GitHub](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_GitHub)
+- [GitHub](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_GitHub)
+
+-----------
+
+## LaTeX آموزش 
+- [(LaTeX) آموزش لتک ](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%84%D8%AA%DA%A9-LaTeX-mk265/)
+- [LaTeX آموزش  ](https://git.ir/packtpub-latex-for-everyone-and-everything/)
 
 ------------------------------------
 ## روز و ساعت ارائه دروس
