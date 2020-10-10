@@ -51,6 +51,7 @@
 - [(LaTeX) آموزش لتک ](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%84%D8%AA%DA%A9-LaTeX-mk265/)
 - [LaTeX آموزش  ](https://git.ir/packtpub-latex-for-everyone-and-everything/)
 - [overleaf سایت ](https://www.overleaf.com/)
+- [LaTeX آموزش ](http://mesforush.staff.shahroodut.ac.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-latex/)
 ------------------------------------
 ## روز و ساعت ارائه دروس
 
