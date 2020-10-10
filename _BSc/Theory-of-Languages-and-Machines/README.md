@@ -20,7 +20,7 @@
 
 ## Theory-of-Languages-and-Machines
 
-- [پاورپوینت ها]()
+- [پاورپوینت ها](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
 
 ###    (Theory-of-Languages-and-Machines,Peter Linz)
 
