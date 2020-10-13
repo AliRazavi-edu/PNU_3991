@@ -1,8 +1,70 @@
 # PNU_3991
 ## Winter Semester Courses 1399/2020
 
+## روز و ساعت ارائه دروس
+
+<table style="width:100%">
+  <tr>
+    <th >16-18</th>
+    <th >14-16</th>
+    <th >12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th ></th>
+    <th >نظريه زبانهاوماشين ها 02-1115157</th>
+    <th >نظريه زبانهاوماشين ها 
+         01-1115157
+    </th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+    <th >روش پژوهش و ارائه02-1322010 </th>
+    <th >روش پژوهش و ارائه01-1322010</th>
+    <th>طراحي واسط كاربر</th>
+    <th>تعامل انسان و كامپيوتر</th>
+    <th ></th>   
+    <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>سه شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th >[1115025_01	الگوريتم هاي پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)</th>
+    <th>چهارشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th >مديريت پروژه هاي نرم افزاري</th>
+    <th >معماری نرم افزار</th>
+    <th>متدولوژی ایجاد نرم افزار</th>
+    <th>مهندسی نرم افزار پیشرفته</th>
+    <th>پنج شنبه</th>
+  </tr>
+</table>
 ## دروس ارشد
-[1115025_01	الگوريتم هاي پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
+
 <br>
 [1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering)
 <br>
@@ -86,65 +148,3 @@
 
 ----------------------
 
-## روز و ساعت ارائه دروس
-
-<table style="width:100%">
-  <tr>
-    <th >16-18</th>
-    <th >14-16</th>
-    <th >12-14</th>
-    <th>10-12</th>
-    <th>8-10</th>
-    <th>روز</th>
-  </tr>
-  <tr>
-    <th ></th>
-    <th >نظريه زبانهاوماشين ها 02-1115157</th>
-    <th >نظريه زبانهاوماشين ها 
-         01-1115157
-    </th>
-    <th></th>
-    <th></th>
-    <th>شنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th ></th>
-    <th>یک شنبه</th>
-  </tr>
-   <tr>
-    <th >روش پژوهش و ارائه02-1322010 </th>
-    <th >روش پژوهش و ارائه01-1322010</th>
-    <th>طراحي واسط كاربر</th>
-    <th>تعامل انسان و كامپيوتر</th>
-    <th ></th>   
-    <th>دوشنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th ></th>
-    <th>سه شنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th >الگوريتم هاي پيشرفته</th>
-    <th>چهارشنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th >مديريت پروژه هاي نرم افزاري</th>
-    <th >معماری نرم افزار</th>
-    <th>متدولوژی ایجاد نرم افزار</th>
-    <th>مهندسی نرم افزار پیشرفته</th>
-    <th>پنج شنبه</th>
-  </tr>
-</table>
