@@ -56,23 +56,20 @@
   </tr>
    <tr>
     <th ></th>
-    <th >مديريت پروژه هاي نرم افزاري</th>
-    <th >معماری نرم افزار</th>
-    <th>متدولوژی ایجاد نرم افزار</th>
-    <th>مهندسی نرم افزار پیشرفته</th>
+    <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement"><p>مديريت پروژه هاي نرم افزاري</p><p>1115272_01		2</p></th>
+    <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture"><p>معماري نرم افزار</p><p>1115280_01		3</p></th>
+    <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies"><p>متدولوژي ايجاد نرم افزار</p><p>1115282_01		3</p></th>
+    <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering"><p>مهندسي نرم افزارپيشرفته</p><p>1115026_01		3</p></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
 ## دروس ارشد
 
 <br>
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering)
 <br>
-[1115280_01	معماري نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture)
 <br>
-[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies)
 <br>
-[1115272_01	مديريت پروژه هاي نرم افزاري	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)
+
 <br>
 ---
 [1115029_02	سمينار	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)
