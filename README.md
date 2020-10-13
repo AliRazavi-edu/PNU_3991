@@ -51,7 +51,7 @@
     <th ></th>
     <th></th>
     <th></th>
-    <th >[1115025_01	الگوريتم هاي پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)</th>
+    <th > [1115025_01	الگوريتم هاي پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms) </th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
