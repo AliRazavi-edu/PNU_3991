@@ -53,6 +53,9 @@
 - [overleaf سایت ](https://www.overleaf.com/)
 - [LaTeX آموزش دکتر مس فروش ](http://mesforush.staff.shahroodut.ac.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-latex/)
 ------------------------------------
+## (SOP)آموزش انگیزه نامه
+- [ چیست و چگونه نوشته می شود؟ Sop انگیزه نامه یا  ](https://www.writeme.ir/sop-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87-%D9%86%D8%A7%D9%85%D9%87/)
+----------------------
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
