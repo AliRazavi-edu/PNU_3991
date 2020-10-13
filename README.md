@@ -14,10 +14,10 @@
   </tr>
   <tr>
     <th ></th>
-    <th >نظريه زبانهاوماشين ها 02-1115157</th>
-    <th >نظريه زبانهاوماشين ها 
-         01-1115157
-    </th>
+    <th > </th>
+     <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines"><p>نظريه زبانهاوماشين ها</p><p>1115157_02		3</p></a></td>
+     <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines"><p>نظريه زبانهاوماشين ها</p><p>1115157_01		3</p></a></td>
+
     <th></th>
     <th></th>
     <th>شنبه</th>
