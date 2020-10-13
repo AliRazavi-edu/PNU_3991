@@ -15,8 +15,8 @@
   <tr>
     <th ></th>
     <th > </th>
-     <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines"><p>نظريه زبانهاوماشين ها</p><p>1115157_02		3</p></a></td>
-     <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines"><p>نظريه زبانهاوماشين ها</p><p>1115157_01		3</p></a></td>
+     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines"><p>نظريه زبانهاوماشين ها</p><p>1115157_02		3</p></a></th>
+     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines"><p>نظريه زبانهاوماشين ها</p><p>1115157_01		3</p></a></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
@@ -50,15 +50,15 @@
     <th ></th>
     <th></th>
     <th></th>
-     <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms"><p>الگوريتم هاي پيشرفته</p><p>1115025_01		3</p></a></td>
+     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms"><p>الگوريتم هاي پيشرفته</p><p>1115025_01		3</p></a></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th ></th>
-    <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement"><p>مديريت پروژه هاي نرم افزاري</p><p>1115272_01		2</p></th>
-    <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture"><p>معماري نرم افزار</p><p>1115280_01		3</p></th>
-    <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies"><p>متدولوژي ايجاد نرم افزار</p><p>1115282_01		3</p></th>
-    <td><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering"><p>مهندسي نرم افزارپيشرفته</p><p>1115026_01		3</p></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement"><p>مديريت پروژه هاي نرم افزاري</p><p>1115272_01		2</p></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture"><p>معماري نرم افزار</p><p>1115280_01		3</p></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies"><p>متدولوژي ايجاد نرم افزار</p><p>1115282_01		3</p></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering"><p>مهندسي نرم افزارپيشرفته</p><p>1115026_01		3</p></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
