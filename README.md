@@ -140,7 +140,7 @@
     <th >مديريت پروژه هاي نرم افزاري</th>
     <th >معماری نرم افزار</th>
     <th>متدولوژی ایجاد نرم افزار</th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering"></a>مهندسی نرم افزار پیشرفته</th>
+    <a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering"><th>مهندسی نرم افزار پیشرفته</th></a>
     <th>پنج شنبه</th>
   </tr>
 </table>
