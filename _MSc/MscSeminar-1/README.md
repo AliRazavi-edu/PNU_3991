@@ -15,7 +15,7 @@
 <br>
 ![Logo](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/seminar%204.png)
 ------------------
-###   (word فایل) راهنمای سمینار  
+###   (Pdf فایل) راهنمای سمینار  
 
-- [_AR_920304_Seminar_Scoring.docx](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/MscSeminar-1/assessment/_AR_920304_Seminar_Scoring.pdf)
+- [_AR_920304_Seminar_Scoring.pdf](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/MscSeminar-1/assessment/_AR_920304_Seminar_Scoring.pdf)
 
