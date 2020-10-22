@@ -3,5 +3,5 @@
 ---
 [حساب گیت هاب](https://github.com/saharzeinivand)
 <br/>
-[رزومه](https://shfathollahi.github.io/)
+[رزومه](https://courses-zeinivand.github.io/resume.githab.io/)
 
