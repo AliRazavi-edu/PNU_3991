@@ -4,7 +4,7 @@
  
 - : فعالبت اصلی دانشجویان همیاری در ترجمه کتاب
 <br/> 
-- Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+-- Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
 <br/> 
 - ارائه شفاهی فصول کتاب مرجع اصلی درس 
 
