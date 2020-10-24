@@ -1,6 +1,6 @@
 ## نحوه ارزشیابی درس
 
-روش ارزیابی بزودی اعلام خواهد شد
+چک لیست کامل ارزیابی بزودی اعلام خواهد شد
  
 - : فعالبت اصلی دانشجویان همیاری در ترجمه کتاب
 -- Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
