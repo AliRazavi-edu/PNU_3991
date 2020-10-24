@@ -5,6 +5,7 @@
 - : فعالبت اصلی دانشجویان همیاری در ترجمه کتاب
 -- Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
 -- Markus Voelter - DSL Engineering_ Designing, Implementing and Using Domain-Specific Languages-dslbook.org (2013)
+-- (Synthesis lectures on software engineering, #1) Marco Brambilla_ Jordi Cabot_ Manuel Wimmer - Model-driven software engineering in practice-Morgan & Claypool (2012)
 - ارائه شفاهی فصول کتاب مرجع اصلی درس 
 - کلیه مستندات تحویلی بایستی با استفاده از نرم افزار لاتک تهیه شوند
 
