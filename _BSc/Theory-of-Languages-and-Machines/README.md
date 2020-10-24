@@ -1,6 +1,14 @@
 ## نحوه ارزشیابی درس
 
-[لینک دانلود فایل]
+روش ارزیابی بزودی اعلام خواهد شد
+ 
+- : فعالبت اصلی دانشجویان همیاری در ترجمه کتاب
+<br/> 
+Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+
+- ارائه شفاهی فصول کتاب مرجع اصلی درس 
+
+
 
 ---------------
 >## (منبع درس نظريه زبانهاوماشين ها ( 01-1115157
