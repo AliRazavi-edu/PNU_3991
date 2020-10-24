@@ -7,6 +7,7 @@
 Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
 <br/> 
 - ارائه شفاهی فصول کتاب مرجع اصلی درس 
+
 - کلیه مستندات تحویلی بایستی با استفاده از نرم افزار لاتک تهیه شوند
 
 
