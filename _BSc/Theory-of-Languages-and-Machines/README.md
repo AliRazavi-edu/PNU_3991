@@ -8,7 +8,7 @@
 
 ## Theory-of-Languages-and-Machines
 
-- [پاورپوینت ها](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
+- [پاورپوینت ها CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
     
 ###    (Theory-of-Languages-and-Machines)
 
@@ -16,12 +16,9 @@
 # Table of contents
 
 --------------
->## (دیگه منبع درس نظريه زبانهاوماشين ها ( 01-1115157
+>## (دیگر منبع درس نظريه زبانهاوماشين ها ( 01-1115157
 
 ## Theory-of-Languages-and-Machines
-
-- [پاورپوینت ها CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
-
 
 ###    (Theory-of-Languages-and-Machines,Peter Linz)
 
