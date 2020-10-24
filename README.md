@@ -86,6 +86,9 @@
 - [LaTeX آموزش زبان اصلی  ](https://git.ir/packtpub-latex-for-everyone-and-everything/)
 - [overleaf سایت ](https://www.overleaf.com/)
 - [دانلود لایوتک با حجم 4 گیگ](http://ctan.yazd.ac.ir/systems/texlive/Images/texlive2020-20200406.iso)
+
+## آموزش مارک داون
+- [Mark Down Notation](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 ------------------------------------
 ## روز و ساعت ارائه دروس
 
