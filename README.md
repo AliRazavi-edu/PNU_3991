@@ -85,6 +85,9 @@
 - [قالب8](https://webkima.com/free-html-resume-templates/#13_%D9%82%D8%A7%D9%84%D8%A8_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86_Resume)
 
 ## نمونه رزومه دانشجویان  
++ [محمد امانعلیخانی](https://md-akhi.github.io/)  
+  -  [@md-akhi](https://github.com/md-akhi)
+  
 + [شهلا فتح الهی](https://shfathollahi.github.io)  
   -  [@shfathollahi](https://github.com/shfathollahi)
   
