@@ -1,0 +1,5 @@
+< ./mkd.txt tr -d '\r' > mkd_l.txt
+< ./tr.txt tr -d '\r' > tr_l.txt
+./mkd_l.txt
+./tr_l.txt
+
