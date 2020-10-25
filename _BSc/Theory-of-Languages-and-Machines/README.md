@@ -1,6 +1,14 @@
 ## نحوه ارزشیابی درس
 
-[لینک دانلود فایل]
+چک لیست کامل ارزیابی بزودی اعلام خواهد شد
+ 
+- : فعالبت اصلی دانشجویان همیاری در ترجمه کتاب
+    - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+    - Markus Voelter - DSL Engineering_ Designing, Implementing and Using Domain-Specific Languages-dslbook.org (2013)
+    - (Synthesis lectures on software engineering, #1) Marco Brambilla_ Jordi Cabot_ Manuel Wimmer - Model-driven software engineering in practice-Morgan & Claypool (2012)
+- ارائه شفاهی فصول کتاب مرجع اصلی درس 
+- کلیه مستندات تحویلی بایستی با استفاده از نرم افزار لاتک تهیه شوند
+
 
 ---------------
 >## (منبع درس نظريه زبانهاوماشين ها ( 01-1115157
@@ -8,7 +16,7 @@
 
 ## Theory-of-Languages-and-Machines
 
-- [پاورپوینت ها](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
+- [پاورپوینت ها CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
     
 ###    (Theory-of-Languages-and-Machines)
 
@@ -16,11 +24,9 @@
 # Table of contents
 
 --------------
->## (دیگه منبع درس نظريه زبانهاوماشين ها ( 01-1115157
+>## (دیگر منبع درس نظريه زبانهاوماشين ها ( 01-1115157
 
 ## Theory-of-Languages-and-Machines
-
-- [پاورپوینت ها](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
 
 ###    (Theory-of-Languages-and-Machines,Peter Linz)
 
