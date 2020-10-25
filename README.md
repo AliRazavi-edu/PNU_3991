@@ -148,10 +148,10 @@
 ---
 [1322029_02 & 1115132_02	كارآموزي	1](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship)
 <br>
-[1115098_02	پروژه	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BscFinalProject)
+[1115098_02	پروژه	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1115098_02)
 <br>
-[1322035_01	پروژه فناوري اطلاعات	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BscFinalProject)
+[1322035_01	پروژه فناوري اطلاعات	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322035_01)
 <br>
-[1322094_02	پروژه پاياني	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/BscFinalProject)
+[1322094_02	پروژه پاياني	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322094_02)
 <br>
 
