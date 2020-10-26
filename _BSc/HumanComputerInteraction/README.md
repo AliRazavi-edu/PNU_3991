@@ -59,12 +59,28 @@
 ## گروه ها
 - [25_ميرمحمد كمالي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/25_%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%85%D8%A7%D9%84%D9%8A)
     - [A]()
-    
+    - []()    
+  
 - [06_بهاره برادران سلماس](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/06_%D8%A8%D9%87%D8%A7%D8%B1%D9%87%20%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86%20%D8%B3%D9%84%D9%85%D8%A7%D8%B3)
     - []()
+    - []()    
  
 - [24_محمد طاها گوینده برحقی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/24_%D9%85%D8%AD%D9%85%D8%AF%20%D8%B7%D8%A7%D9%87%D8%A7%20%DA%AF%D9%88%DB%8C%D9%86%D8%AF%D9%87%20%D8%A8%D8%B1%D8%AD%D9%82%DB%8C)
-    -[]()
+    - []()
+    - []()    
     
 - [11_سيدامين حسيني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/11_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)
-    -[]()            
+    - []()    
+    - []()    
+    
+- []()
+    - []()    
+    - []()    
+
+- []()
+    - []()    
+    - []()    
+
+- []()            
+    - []()    
+    - []()    
