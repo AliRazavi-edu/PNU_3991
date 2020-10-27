@@ -66,25 +66,25 @@
     1. [_SA-27_كلثوم محمدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/27_%D9%83%D9%84%D8%AB%D9%88%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A) 
     1. [_SA-30_علي مهرايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/30_%D8%B9%D9%84%D9%8A%20%D9%85%D9%87%D8%B1%D8%A7%D9%8A%D9%8A)  
     
-2. G-A02
+2. G-S02
     1. [_]()    
     1. [_]()    
     1. [_]()    
     1. [_]()    
 
-3. G-A03
+3. G-S03
     1. [_]()    
     1. [_]()    
     1. [_]()    
     1. [_]()    
    
-4. G-A04
+4. G-S04
     1. [_]()    
     1. [_]()    
     1. [_]()    
     1. [_]()
     
-5. G-A05
+5. G-S05
     1. [_]()    
     1. [_]()    
     1. [_]()    
