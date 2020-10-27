@@ -56,6 +56,7 @@
 > ## دیگر منابع
 [Software Architecture: Foundations, Theory, and Practice](https://www.softwarearchitecturebook.com/)
 
+---------------
 ## گروه ها
 
 1. G-S01
