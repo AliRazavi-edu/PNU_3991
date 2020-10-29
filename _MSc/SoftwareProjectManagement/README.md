@@ -31,6 +31,8 @@
 
 ### [Project management of large software-intensive systems : controlling the software development process](http://31.42.184.140/main/2478000/95240d2f4cf0a87af846310e0d568ab1/Gechman%2C%20Marvin%20-%20Project%20management%20of%20large%20software-intensive%20systems%20_%20controlling%20the%20software%20development%20process-CRC%20Press%20%282019%29.pdf)
 
+- _Software Development From A to Z A Deep Dive into all the Roles Involved in the Creation of Software by Olga Filipova, Rui Vilão (z-lib.org).pdf
+
 
 ## گروه ها
 
