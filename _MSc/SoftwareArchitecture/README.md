@@ -67,28 +67,32 @@
     1. [_SA-30_علي مهرايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/30_%D8%B9%D9%84%D9%8A%20%D9%85%D9%87%D8%B1%D8%A7%D9%8A%D9%8A)  
     
 2. G-S02
-    1. [_]()    
-    1. [_]()    
-    1. [_]()    
-    1. [_]()    
-
+    1. [_SA-]()    
+    1. [_SA-]()    
+    1. [_SA-22_زهرا صالح زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/22_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B2%D8%A7%D8%AF%D9%87)    
+    1. [_SA-24_پوريا صفري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/24_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A) 
+    1. [_SA-]()
+    
 3. G-S03
-    1. [_]()    
-    1. [_]()    
-    1. [_]()    
-    1. [_]()    
+    1. [_SA-]()    
+    1. [_SA-]()    
+    1. [_SA-]()    
+    1. [_SA-]() 
+    1. [_SA-]()    
    
 4. G-S04
-    1. [_]()    
-    1. [_]()    
-    1. [_]()    
-    1. [_]()
+    1. [_SA-]()    
+    1. [_SA-]()    
+    1. [_SA-]()    
+    1. [_SA-]() 
+    1. [_SA-]()
     
 5. G-S05
-    1. [_]()    
-    1. [_]()    
-    1. [_]()    
-    1. [_]()
+     1. [_SA-]()    
+    1. [_SA-]()    
+    1. [_SA-]()    
+    1. [_SA-]() 
+    1. [_SA-]()
     
 
 
