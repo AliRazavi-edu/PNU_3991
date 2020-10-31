@@ -67,7 +67,7 @@
 
 ##  GitHub آموزش 
 - [در یوتیوب _آقای عظیمیGitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
-
+- [All the Git-it Workshop completers!](https://github.com/jlord/patchwork)
 
 ##  GitHubآموزش ساخت رزومه در
 - [آموزش ایجاد وبسایت روی گیت هاب_سایت تاب لرن_سیدمصطفی علیایی ](https://toplearn.com/courses/2203/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA-%D8%B1%D9%88%DB%8C-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8 )
@@ -85,6 +85,8 @@
 - [قالب8](https://webkima.com/free-html-resume-templates/#13_%D9%82%D8%A7%D9%84%D8%A8_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86_Resume)
 
 ## نمونه رزومه دانشجویان  
++ [مهدی یزدی راد](https://mahdiyazdirad.github.io/)
+    - [@mahdiyazdirad](https://github.com/mahdiyazdirad)
 + [محمد امانعلیخانی](https://md-akhi.github.io/)  
   -  [@md-akhi](https://github.com/md-akhi)
   
@@ -103,6 +105,11 @@
 - [ شخصی چیست و چه کاربردی دارد؟(SOP)انگیزه نامه](https://www.writeme.ir/sop-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87-%D9%86%D8%A7%D9%85%D9%87/)
 
 ----------
+## آموزش جاوا اسکریپت
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [Coding With Basir](https://codingwithbasir.com/courses/learn-html-css/)
+- [CodePen: Online Code Editor and Front End Web Developer](https://codepen.io/)
+    - [Bootstrap Pricing Table](https://codepen.io/mrsahar/pen/yOVGBQ)
 
 ## LaTeX آموزش 
 - [LaTeX آموزش دکتر مس فروش ](http://mesforush.staff.shahroodut.ac.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-latex/)
@@ -113,7 +120,12 @@
 
 ## آموزش مارک داون
 - [Mark Down Notation](https://github.com/tchapi/markdown-cheatsheet)
-------------------------------------
+-------------------------------------
+
+## همکاری دانشجویی 
+
+
+--------------------------------
 
 ## دروس ارشد
 [1115025_01	الگوريتم هاي پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
@@ -131,6 +143,7 @@
 <br>
 [1115257_03	سمينار ( تحقيق و تتبع نظري )	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)
 <br>
+
 
 ## دروس کارشناسی
 [1115133_01	شيوه ارائه مطالب علمي وفني	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
