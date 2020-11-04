@@ -73,7 +73,7 @@
 - [21. Blended**]()
 - [22. Object-oriented methodologies**]()
 - [23. Rapid development methodologies**]()
-- [24. People-oriented methodologies**]()
+- [24. People-oriented methodologies**](https://slideplayer.com/slide/12834077/)
 - [25. Organisational-oriented methodologies**]()
 - [26. Frameworks**]()
 
