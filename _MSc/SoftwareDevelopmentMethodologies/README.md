@@ -2,30 +2,24 @@
 
 چک لیست کامل ارزیابی بزودی اعلام خواهد شد
  
-- :   ها با جاوا اسکریپت paternپیاده سازی 
-    - Abstract Factory pattern
-    - Builder pattern
-    - Factory Method pattern
-    - Singleton pattern
-    - Prototype pattern
-    - Adapter pattern
-    - Bridge pattern
-    - Composite pattern
-    - Decorator pattern
-    - Façade pattern
-    - Flyweight pattern
-    - Proxy pattern
-    - Template Method
-    - Mediator
-    - Chain of Responsibility
-    - Observer
-    - Strategy
-    - Command
-    - State
-    - Visitor
-    - Interpreter
-    - Iterator
-    - Memento
+- :   تدریس فصل های کتاب از روی پاورپوینت ها 
+    - 	20. Process-oriented methodologies
+    -  21. Blended
+    - 	22. Object-oriented methodologies
+    -  23. Rapid development methodologies
+    - 	24. People-oriented methodologies
+    - 	25. Organisational-oriented methodologies
+    - 	26. Frameworks
+    -  27. Issues
+    
+-	کار روی موضوع سمینار(بررسی انواع متدولوژی ها):
+   -	Spiral Model
+   -	IE
+   -	Jackson
+   -	SSADM
+   -	RUP
+
+
 - پروژه های که تعریف شدند و دانشجوها تمایل دارندمیتوانند در این پروژه ها فعالیت کنند:
     
    -	سرگروه آقای علی مهرایی
@@ -122,18 +116,18 @@
 ## گروه ها
 
 1. G-S01
-    1. [_SDM-16_سحر زيني وندمقدم](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/16_%D8%B3%D8%AD%D8%B1%20%D8%B2%D9%8A%D9%86%D9%8A%20%D9%88%D9%86%D8%AF%D9%85%D9%82%D8%AF%D9%85)    
-    1. [_SDM-14_سامره زارع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/14_%D8%B3%D8%A7%D9%85%D8%B1%D9%87%20%D8%B2%D8%A7%D8%B1%D8%B9)    
-    1. [_SDM-17_عليرضا سعيدي پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/17_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%B3%D8%B9%D9%8A%D8%AF%D9%8A%20%D9%BE%D9%88%D8%B1)    
-    1. [_SDM-26_سيدعلي محترمي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/26_%D8%B3%D9%8A%D8%AF%D8%B9%D9%84%D9%8A%20%D9%85%D8%AD%D8%AA%D8%B1%D9%85%D9%8A) 
-    1. [_SDM-31_علي مهرايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/31_%D8%B9%D9%84%D9%8A%20%D9%85%D9%87%D8%B1%D8%A7%D9%8A%D9%8A)  
+    1. [_SDM-]()    
+    1. [_SDM-]()    
+    1. [_SDM-]()    
+    1. [_SDM-]() 
+    1. [_SDM-]()
     
 2. G-S02
-    1. [_SDM-04_بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/04_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)
-    1. [_SDM-03_مرضيه بهالوهوره](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/03_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D9%87%D8%A7%D9%84%D9%88%D9%87%D9%88%D8%B1%D9%87)
-    1. [_SDM-13_بهناز رفيعي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/13_%D8%A8%D9%87%D9%86%D8%A7%D8%B2%20%D8%B1%D9%81%D9%8A%D8%B9%D9%8A)
-    1. [_SDM-20_زهرا صالح زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/20_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B2%D8%A7%D8%AF%D9%87)
-    1. [_SDM-23_پوريا صفري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/23_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A)     
+    1. [_SDM-]()    
+    1. [_SDM-]()    
+    1. [_SDM-]()    
+    1. [_SDM-]() 
+    1. [_SDM-]()    
    
 3. G-S03
     1. [_SDM-]()    
