@@ -4,7 +4,7 @@
 ---
 - [GitHub](https://github.com/monocode-ir)
 
-- [PNU_3991](https://github.com/monocode-ir.github/PNU_3991)
+- [PNU_3991](https://github.com/monocode-ir/PNU_3991)
 
 - [Resume](https://monocode-ir.github.io) 
 
