@@ -92,7 +92,7 @@
 
 ## SoftwareDevelopmentMethodologies
 
-- [پاورپوینت ها]()
+- [پاورپوینت ها](http://web.fsktm.um.edu.my/~salimah/wmga6315.htm)
     
  
 ###    ( روش شناسی ایجاد سیستهای اطلاعاتی ،مهندس رامین مولاناپور , مهردخت پورنادر , داود وحدت  )
