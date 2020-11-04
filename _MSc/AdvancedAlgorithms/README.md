@@ -82,10 +82,10 @@
 ## گروه ها
 1. G-A01
     1. [_AdvAlg-14_مهرداد مجدي نسب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/14_%D9%85%D9%87%D8%B1%D8%AF%D8%A7%D8%AF%20%D9%85%D8%AC%D8%AF%D9%8A%20%D9%86%D8%B3%D8%A8)    
-    1. []()    
+    1. [_AdvAlg-12_مازيار كيهاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/12_%D9%85%D8%A7%D8%B2%D9%8A%D8%A7%D8%B1%20%D9%83%D9%8A%D9%87%D8%A7%D9%86%D9%8A)    
     1. []()    
 2. G-A02
-    1. []()    
+    1. [_AdvAlg-09_حميد غفاري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/09_%D8%AD%D9%85%D9%8A%D8%AF%20%D8%BA%D9%81%D8%A7%D8%B1%D9%8A)    
     1. []()    
     1. []() 
 3. G-A03
