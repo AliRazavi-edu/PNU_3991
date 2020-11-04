@@ -80,7 +80,7 @@
     1. []()
     1. []()
 1. G-L01
-    1. []()
+    1. [_LMT02-36_محسن شكيبا](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/36_%D9%85%D8%AD%D8%B3%D9%86%20%D8%B4%D9%83%D9%8A%D8%A8%D8%A7)
     1. []()
     1. []()
     1. []()
