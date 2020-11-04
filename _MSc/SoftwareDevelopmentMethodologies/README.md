@@ -13,11 +13,10 @@
     -  (27) Issues
     
 -	کار روی موضوع سمینار(مقایسه و تطبیق متدولوژی های توسعه نرم افزار متناسب فضای دانشگاه های ایران حوزه مهندسی نرم افزار):
-    -	Spiral Model
-    -	IE
-    -	Jackson
-    -	SSADM
-    -	RUP
+    -	Structured analysis, design, and implementation of IS (STRADIS)
+    -	Yourdon Systems Method (YSM)
+    -	Jackson systems development(JSD)
+    -	
 
 
 - پروژه های که تعریف شدند و دانشجوها تمایل دارندمیتوانند در این پروژه ها فعالیت کنند:
