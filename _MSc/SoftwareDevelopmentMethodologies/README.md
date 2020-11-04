@@ -2,15 +2,16 @@
 
 چک لیست کامل ارزیابی بزودی اعلام خواهد شد
  
-- :   تدریس فصل های کتاب از روی پاورپوینت ها 
-    - 	(20) Process-oriented methodologies
-    -  (21) Blended
-    - 	(22) Object-oriented methodologies
-    -  (23) Rapid development methodologies
-    - 	(24) People-oriented methodologies
-    - 	(25) Organisational-oriented methodologies
-    - 	(26) Frameworks
-    -  (27) Issues
+#### :   تدریس فصل های کتاب از روی پاورپوینت ها 
+1. (20) Process-oriented methodologies
+1. (21) Blended
+1. (22) Object-oriented methodologies
+1. (23) Rapid development methodologies
+1. (24) People-oriented methodologies
+1. (25) Organisational-oriented methodologies
+1. (26) Frameworks
+1. (27) Issues
+1. (28) Methodology comparisons
     
 -	کار روی موضوع سمینار(مقایسه و تطبیق متدولوژی های توسعه نرم افزار متناسب فضای دانشگاه های ایران حوزه مهندسی نرم افزار):
     -	Structured analysis, design, and implementation of IS (STRADIS)
