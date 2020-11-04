@@ -1,4 +1,40 @@
-> ## Software Architecture
+## نحوه ارزشیابی درس
+
+چک لیست کامل ارزیابی بزودی اعلام خواهد شد
+ 
+- :   ها با جاوا اسکریپت paternپیاده سازی 
+    - Abstract Factory pattern
+    - Builder pattern
+    - Factory Method pattern
+    - Singleton pattern
+    - Prototype pattern
+    - Adapter pattern
+    - Bridge pattern
+    - Composite pattern
+    - Decorator pattern
+    - Façade pattern
+    - Flyweight pattern
+    - Proxy pattern
+    - Template Method
+    - Mediator
+    - Chain of Responsibility
+    - Observer
+    - Strategy
+    - Command
+    - State
+    - Visitor
+    - Interpreter
+    - Iterator
+    - Memento
+- پروژه های که تعریف شدند و دانشجوها تمایل دارندمیتوانند در این پروژه ها فعالیت کنند:
+    
+   -	سرگروه آقای علی مهرایی
+   -	سرگروه آقای علیرضا سعیدی پور
+   -	سرگروه آقای دباغ مقتدر
+-----------------------------
+>## (منبع درس معماری نرم افزار ( 01-1115280
+
+## Software Architecture
 
 > 1115280-01 -درس معماري نرم افزار 
 
