@@ -3,14 +3,14 @@
 چک لیست کامل ارزیابی بزودی اعلام خواهد شد
  
 - :   تدریس فصل های کتاب از روی پاورپوینت ها 
-    - 	20. Process-oriented methodologies
-    -  21. Blended
-    - 	22. Object-oriented methodologies
-    -  23. Rapid development methodologies
-    - 	24. People-oriented methodologies
-    - 	25. Organisational-oriented methodologies
-    - 	26. Frameworks
-    -  27. Issues
+    - 	(20) Process-oriented methodologies
+    -  (21) Blended
+    - 	(22) Object-oriented methodologies
+    -  (23) Rapid development methodologies
+    - 	(24) People-oriented methodologies
+    - 	(25) Organisational-oriented methodologies
+    - 	(26) Frameworks
+    -  (27) Issues
     
 -	کار روی موضوع سمینار(بررسی انواع متدولوژی ها):
     -	Spiral Model
