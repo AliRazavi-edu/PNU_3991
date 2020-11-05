@@ -18,15 +18,8 @@
     - **G-SDM-08** : CHAPTER 27 + CHAPTER 21 + CHAPTER 20
     - **G-SDM-09** : CHAPTER 28 + CHAPTER 20 + CHAPTER 24
 
-    
--	کار روی موضوع سمینار(مقایسه و تطبیق متدولوژی های توسعه نرم افزار متناسب فضای دانشگاه های ایران حوزه مهندسی نرم افزار):
-    -	Structured analysis, design, and implementation of IS (STRADIS)
-    -	Yourdon Systems Method (YSM)
-    -	Jackson systems development(JSD)
-    -	
 
-
-- پروژه های که تعریف شدند و دانشجوها تمایل دارندمیتوانند در این پروژه ها فعالیت کنند:
+3. **پروژه های کاربردی**:
     
     -	سرگروه آقای علی مهرایی
     -	سرگروه آقای علیرضا سعیدی پور
