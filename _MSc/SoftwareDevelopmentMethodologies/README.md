@@ -120,37 +120,33 @@
     1. [_SDM-14_سامره زارع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/14_%D8%B3%D8%A7%D9%85%D8%B1%D9%87%20%D8%B2%D8%A7%D8%B1%D8%B9)    
     1. [_SDM-17_عليرضا سعيدي پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/17_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%B3%D8%B9%D9%8A%D8%AF%D9%8A%20%D9%BE%D9%88%D8%B1)
     1. [_SDM-26_سيدعلي محترمي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/26_%D8%B3%D9%8A%D8%AF%D8%B9%D9%84%D9%8A%20%D9%85%D8%AD%D8%AA%D8%B1%D9%85%D9%8A)
-   - (20) Process-oriented methodologies
-   - (21) Blended
-   - (27) Issues
-   - (28) Methodology comparisons
+      - (20) Process-oriented methodologies
+      - (21) Blended
+      - (27) Issues
+      - (28) Methodology comparisons
 2. G-S02
     1. [_SDM-]()    
     1. [_SDM-]()    
     1. [_SDM-]()    
-    1. [_SDM-]() 
-    1. [_SDM-]()    
+      
    
 3. G-S03
     1. [_SDM-]()    
     1. [_SDM-]()    
     1. [_SDM-]()    
-    1. [_SDM-]() 
-    1. [_SDM-]()    
+       
    
 4. G-S04
     1. [_SDM-]()    
     1. [_SDM-]()    
     1. [_SDM-]()    
-    1. [_SDM-]() 
-    1. [_SDM-]()
+    
     
 5. G-S05
     1. [_SDM-]()    
     1. [_SDM-]()    
     1. [_SDM-]()    
-    1. [_SDM-]() 
-    1. [_SDM-]()
+   
 5. G-S05
     1. []()    
     1. []()    
