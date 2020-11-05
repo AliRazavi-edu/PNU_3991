@@ -1,25 +1,24 @@
-## نحوه ارزشیابی درس
-
-چک لیست کامل ارزیابی بزودی اعلام خواهد شد
- 
-- :   ارائه فصل های کتاب از روی پاورپوینت ها 
-    - 	
-    -  
-    - 	
-    -  
-    - 	
-    - 	
-    - 	
-    -  
-- ارائه پژوهش از منابع دیگر    
+## سیاهه ارزشیابی درس
+1. **ارائه فصل های کتاب**  
+    - **G-SPM-01** : CHAPTER 24 + CHAPTER 28 + CHAPTER 32
+    - **G-SPM-02** : CHAPTER 25 + CHAPTER 29 + CHAPTER 24	
+    - **G-SPM-03** : CHAPTER 26 + CHAPTER 30 + CHAPTER 25
+    - **G-SPM-04** : CHAPTER 27 + CHAPTER 31 + CHAPTER 26	
+    - **G-SPM-05** : CHAPTER 28 + CHAPTER 32 + CHAPTER 27	
+    - **G-SPM-06** : CHAPTER 29 + CHAPTER 24 + CHAPTER 28	
+    - **G-SPM-07** : CHAPTER 30 + CHAPTER 25 + CHAPTER 29
+    - **G-SPM-08** : CHAPTER 31 + CHAPTER 26 + CHAPTER 30
+    - **G-SPM-09** : CHAPTER 32 + CHAPTER 27 + CHAPTER 31
+2. **ارائه پژوهش از منابع دیگر**  
     - Project management of large software-intensive systems : controlling the software development process
-        - از صفحه : [(شماره ردیف دانشجو - 1) * 5] + 3 
-        - تا صفحه :  [(شماره ردیف دانشجو) * 5] + 2 
-- پروژه های که تعریف شدند و دانشجوها تمایل دارندمیتوانند در این پروژه ها فعالیت کنند:
-    
-   -	سرگروه آقای علی مهرایی
-   -	سرگروه آقای علیرضا سعیدی پور
-   -	سرگروه آقای دباغ مقتدر
+        - **از صفحه :** [(شماره ردیف دانشجو - 1) * 5] + 3
+        - **تا صفحه :**  ((شماره ردیف دانشجو) * 5) + 2
+         
+- **پروژه های کاربردی**  
+   - زیرسیستم عضویت
+   - زیرسیستم پرداخت حمایت مالی با شبکه شتاب
+   - زیرسیستم پرداخت حمایت مالی با شبکه فین تک
+   - زیرسیستم پرداخت حمایت مالی با ارزهای دیجیتال	
 
 ---------------
 >## (منبع درس  مديريت پروژه هاي نرم افزاري (   01-1115272
@@ -94,32 +93,40 @@
 
 ## گروه ها
 
-1. G-SPM01
+1. G-SPM-01
     1. [_SPM-02_فهيمه ابوحمزه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/02_%D9%81%D9%87%D9%8A%D9%85%D9%87%20%D8%A7%D8%A8%D9%88%D8%AD%D9%85%D8%B2%D9%87)    
     1. [_SPM-15_فاطمه شكاري بادي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/15_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B4%D9%83%D8%A7%D8%B1%D9%8A%20%D8%A8%D8%A7%D8%AF%D9%8A)    
     1. [_SPM-20_مهرداد مجدي نسب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/20_%D9%85%D9%87%D8%B1%D8%AF%D8%A7%D8%AF%20%D9%85%D8%AC%D8%AF%D9%8A%20%D9%86%D8%B3%D8%A8)    
     1. [_SPM-21_سيما محسني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/21_%D8%B3%D9%8A%D9%85%D8%A7%20%D9%85%D8%AD%D8%B3%D9%86%D9%8A)    
-1. G-SPM01
+1. G-SPM-02
     1. [_SPM-24_كاوه نوذراصل](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/24_%D9%83%D8%A7%D9%88%D9%87%20%D9%86%D9%88%D8%B0%D8%B1%D8%A7%D8%B5%D9%84)    
     1. [_SPM-17_حميدرضا غياث ابادي فراهاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/17_%D8%AD%D9%85%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%BA%D9%8A%D8%A7%D8%AB%20%D8%A7%D8%A8%D8%A7%D8%AF%D9%8A%20%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%D9%8A)    
     1. []()
-1. G-SPM01
+1. G-SPM-03
     1. [_SPM-10_سيدصادق رضوي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/10_%D8%B3%D9%8A%D8%AF%D8%B5%D8%A7%D8%AF%D9%82%20%D8%B1%D8%B6%D9%88%D9%8A)    
     1. []()    
     1. []()    
-1. G-SPM01
+1. G-SPM-04
     1. [_SPM-01_هانيه ابراهيمي ميمند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/01_%D9%87%D8%A7%D9%86%D9%8A%D9%87%20%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%D9%8A%20%D9%85%D9%8A%D9%85%D9%86%D8%AF)    
     1. []()    
     1. []()    
-1. G-SPM01
+1. G-SPM-05
     1. []()    
     1. []()    
     1. []()    
-1. G-SPM01
+1. G-SPM-06
     1. []()    
     1. []()    
     1. []()    
-1. G-SPM01
+1. G-SPM-07
+    1. []()    
+    1. []()    
+    1. []()    
+1. G-SPM-08
+    1. []()    
+    1. []()    
+    1. []()    
+1. G-SPM-09
     1. []()    
     1. []()    
     1. []()    
