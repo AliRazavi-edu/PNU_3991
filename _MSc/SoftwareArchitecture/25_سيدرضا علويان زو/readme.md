@@ -7,7 +7,5 @@
 - [GitHub](https://github.com/rezaalaviyan)
 - [JavaScript Certificates ](https://github.com/rezaalaviyan/PNU_3991_AR/blob/main/JavaScript/Certificates.pdf)
 
-------------------
-## گروه ها
 
   
