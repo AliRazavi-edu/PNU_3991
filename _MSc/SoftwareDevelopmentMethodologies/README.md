@@ -154,27 +154,27 @@
        - (25) Organisational-oriented methodologies
 
 5. G-S05
-    1. [_SDM-]()    
-    1. [_SDM-]()    
-    1. [_SDM-]() 
+    1. [_SDM-28_فريبا محمدي پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/28_%D9%81%D8%B1%D9%8A%D8%A8%D8%A7%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A%20%D9%BE%D9%88%D8%B1)    
+    1. [_SDM-27_مهتاب محمد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/27_%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF)    
+    1. [_SDM-24_معصومه طاهري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/24_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87%20%D8%B7%D8%A7%D9%87%D8%B1%D9%8A) 
     
        - (23) Rapid development methodologies
        - (24) People-oriented methodologies
        - (25) Organisational-oriented methodologies
 
 5. G-S05
-    1. [_SDM-]()    
-    1. [_SDM-]()    
-    1. [_SDM-]()
+    1. [_SDM-13_بهناز رفيعي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/13_%D8%A8%D9%87%D9%86%D8%A7%D8%B2%20%D8%B1%D9%81%D9%8A%D8%B9%D9%8A)    
+    1. [_SDM-10_سحر رجبي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/10_%D8%B3%D8%AD%D8%B1%20%D8%B1%D8%AC%D8%A8%D9%8A)    
+    1. [_SDM-20_زهرا صالح زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/20_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B2%D8%A7%D8%AF%D9%87)
     
        - (20) Process-oriented methodologies
        - (24) People-oriented methodologies
        - (25) Organisational-oriented methodologies
 
 5. G-S05
-    1. [_SDM-]()    
-    1. [_SDM-]()    
-    1. [_SDM-]() 
+    1. [_SDM-31_علي مهرايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/31_%D8%B9%D9%84%D9%8A%20%D9%85%D9%87%D8%B1%D8%A7%D9%8A%D9%8A)    
+    1. [_SDM-25_سيدرضا علويان زو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/25_%D8%B3%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%B9%D9%84%D9%88%D9%8A%D8%A7%D9%86%20%D8%B2%D9%88)    
+    1. [_SDM-30_علي موسوي خرد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/30_%D8%B9%D9%84%D9%8A%20%D9%85%D9%88%D8%B3%D9%88%D9%8A%20%D8%AE%D8%B1%D8%AF) 
     
        - (22) Object-oriented methodologies
        - (24) People-oriented methodologies
