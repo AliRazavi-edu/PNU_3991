@@ -147,9 +147,9 @@
 4. G-S04
     1. [_SDM-04_بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/04_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)    
     1. [_SDM-03_مرضيه بهالوهوره](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/03_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D9%87%D8%A7%D9%84%D9%88%D9%87%D9%88%D8%B1%D9%87)    
-    1. [_SDM-06_زهرا جمشيدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/06_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AC%D9%85%D8%B4%D9%8A%D8%AF%D9%8A) 
-           - (20) Process-oriented methodologies
-
+    1. [_SDM-06_زهرا جمشيدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/06_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AC%D9%85%D8%B4%D9%8A%D8%AF%D9%8A)
+    
+       - (20) Process-oriented methodologies
        - (23) Rapid development methodologies
        - (25) Organisational-oriented methodologies
 
@@ -193,7 +193,6 @@
     1. [_SDM-]()    
     1. [_SDM-]()    
      
-    
        - (26) Frameworks
        - (28) Methodology comparisons 
 
