@@ -107,6 +107,7 @@
 
 ----------
 ## آموزش جاوا اسکریپت
+- . [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
 - [toplearn.com](https://toplearn.com/courses/74/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-%D8%AA%D8%A7-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA)
 - [w3schools](https://www.w3schools.com/js/default.asp)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
