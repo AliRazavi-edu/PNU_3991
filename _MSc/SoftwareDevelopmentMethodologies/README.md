@@ -128,70 +128,70 @@
 
 2. G-S02
      
-    1. [_SDM-02_سالار بهادر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/02_%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%20%D8%A8%D9%87%D8%A7%D8%AF%D8%B1)    
-    1. [_SDM-09_پولاد دباغ مقتدر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/09_%D9%BE%D9%88%D9%84%D8%A7%D8%AF%20%D8%AF%D8%A8%D8%A7%D8%BA%20%D9%85%D9%82%D8%AA%D8%AF%D8%B1)
-    1. [_SDM-23_پوريا صفري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/23_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A)
+    1. [_SDM-05_شاهين جلالي قره موسي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/05_%D8%B4%D8%A7%D9%87%D9%8A%D9%86%20%D8%AC%D9%84%D8%A7%D9%84%D9%8A%20%D9%82%D8%B1%D9%87%20%D9%85%D9%88%D8%B3%D9%8A)    
+    1. [_SDM-]()
+    1. [_SDM-]()
        - (21) Blended 
        - (27) Issues
        - (28) Methodology comparisons
    
 3. G-S03
-    1. [_SDM-01_اميد اكبرزاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/01_%D8%A7%D9%85%D9%8A%D8%AF%20%D8%A7%D9%83%D8%A8%D8%B1%D8%B2%D8%A7%D8%AF%D9%87)    
-    1. [_SDM-05_شاهين جلالي قره موسي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/05_%D8%B4%D8%A7%D9%87%D9%8A%D9%86%20%D8%AC%D9%84%D8%A7%D9%84%D9%8A%20%D9%82%D8%B1%D9%87%20%D9%85%D9%88%D8%B3%D9%8A)    
-    1. [_SDM-29_صلاح مفاخري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/29_%D8%B5%D9%84%D8%A7%D8%AD%20%D9%85%D9%81%D8%A7%D8%AE%D8%B1%D9%8A) 
+    1. [_SDM-]()    
+    1. [_SDM-]()    
+    1. [_SDM-]() 
     
        - (22) Object-oriented methodologies
        - (23) Rapid development methodologies
        - (26) Frameworks
        
 4. G-S04
-    1. [_SDM-04_بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/04_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)    
-    1. [_SDM-03_مرضيه بهالوهوره](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/03_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D9%87%D8%A7%D9%84%D9%88%D9%87%D9%88%D8%B1%D9%87)    
-    1. [_SDM-06_زهرا جمشيدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/06_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AC%D9%85%D8%B4%D9%8A%D8%AF%D9%8A)
+    1. [_SDM-]()    
+    1. [_SDM-]()    
+    1. [_SDM-]()
     
        - (20) Process-oriented methodologies
        - (23) Rapid development methodologies
        - (25) Organisational-oriented methodologies
 
 5. G-S05
-    1. [_SDM-28_فريبا محمدي پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/28_%D9%81%D8%B1%D9%8A%D8%A8%D8%A7%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A%20%D9%BE%D9%88%D8%B1)    
-    1. [_SDM-27_مهتاب محمد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/27_%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF)    
-    1. [_SDM-24_معصومه طاهري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/24_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87%20%D8%B7%D8%A7%D9%87%D8%B1%D9%8A) 
+    1. [_SDM-]()    
+    1. [_SDM-]()    
+    1. [_SDM-]() 
     
        - (23) Rapid development methodologies
        - (24) People-oriented methodologies
        - (25) Organisational-oriented methodologies
 
 6. G-S05
-    1. [_SDM-13_بهناز رفيعي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/13_%D8%A8%D9%87%D9%86%D8%A7%D8%B2%20%D8%B1%D9%81%D9%8A%D8%B9%D9%8A)    
-    1. [_SDM-10_سحر رجبي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/10_%D8%B3%D8%AD%D8%B1%20%D8%B1%D8%AC%D8%A8%D9%8A)    
-    1. [_SDM-20_زهرا صالح زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/20_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B2%D8%A7%D8%AF%D9%87)
+    1. [_SDM-]()    
+    1. [_SDM-]()    
+    1. [_SDM-]()
     
        - (20) Process-oriented methodologies
        - (24) People-oriented methodologies
        - (25) Organisational-oriented methodologies
 
 7. G-S05
-    1. [_SDM-31_علي مهرايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/31_%D8%B9%D9%84%D9%8A%20%D9%85%D9%87%D8%B1%D8%A7%D9%8A%D9%8A)    
-    1. [_SDM-25_سيدرضا علويان زو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/25_%D8%B3%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%B9%D9%84%D9%88%D9%8A%D8%A7%D9%86%20%D8%B2%D9%88)    
-    1. [_SDM-30_علي موسوي خرد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/30_%D8%B9%D9%84%D9%8A%20%D9%85%D9%88%D8%B3%D9%88%D9%8A%20%D8%AE%D8%B1%D8%AF) 
+    1. [_SDM-]()    
+    1. [_SDM-]()    
+    1. [_SDM-]() 
     
        - (22) Object-oriented methodologies
        - (24) People-oriented methodologies
        - (26) Frameworks
         
 8. G-S05
-    1. [_SDM-32_داود نصري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/32_%D8%AF%D8%A7%D9%88%D8%AF%20%D9%86%D8%B5%D8%B1%D9%8A)    
-    1. [_SDM-22_مهدي صدري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/22_%D9%85%D9%87%D8%AF%D9%8A%20%D8%B5%D8%AF%D8%B1%D9%8A)    
-    1. [_SDM-21_عباس صالحي مرزيجراني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/21_%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%B5%D8%A7%D9%84%D8%AD%D9%8A%20%D9%85%D8%B1%D8%B2%D9%8A%D8%AC%D8%B1%D8%A7%D9%86%D9%8A) 
+    1. [_SDM-]()    
+    1. [_SDM-]()    
+    1. [_SDM-]() 
     
        - (21) Blended
        - (22) Object-oriented methodologies
        - (27) Issues
 
 9. G-S05
-    1. [_SDM-19_ميرابوذر سيدحسيني پيله رود](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/19_%D9%85%D9%8A%D8%B1%D8%A7%D8%A8%D9%88%D8%B0%D8%B1%20%D8%B3%D9%8A%D8%AF%D8%AD%D8%B3%D9%8A%D9%86%D9%8A%20%D9%BE%D9%8A%D9%84%D9%87%20%D8%B1%D9%88%D8%AF)    
-    1. [_SDM-18_اميررضا سوري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/18_%D8%A7%D9%85%D9%8A%D8%B1%D8%B1%D8%B6%D8%A7%20%D8%B3%D9%88%D8%B1%D9%8A)    
+    1. [_SDM-]()    
+    1. [_SDM-]()    
      
        - (26) Frameworks
        - (28) Methodology comparisons 
