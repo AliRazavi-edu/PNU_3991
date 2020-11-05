@@ -8,32 +8,15 @@
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
 
-2. **ها با جاوا اسکریپت paternپیاده سازی**  
+2. **ها با جاوا اسکریپت paternپیاده سازی** 
 
-    - Abstract Factory pattern
-    - Builder pattern
-    - Factory Method pattern
-    - Singleton pattern
-    - Prototype pattern
-    - Adapter pattern
-    - Bridge pattern
-    - Composite pattern
-    - Decorator pattern
-    - Façade pattern
-    - Flyweight pattern
-    - Proxy pattern
-    - Template Method
-    - Mediator
-    - Chain of Responsibility
-    - Observer
-    - Strategy
-    - Command
-    - State
-    - Visitor
-    - Interpreter
-    - Iterator
-    - Memento
-- پروژه های که تعریف شدند و دانشجوها تمایل دارندمیتوانند در این پروژه ها فعالیت کنند:
+    - **G-SA-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Singleton pattern + Prototype pattern + Adapter pattern + Bridge pattern
+    - **G-SA-02** : Composite pattern + Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern + Template Method + Mediator	
+    - **G-SA-03** : Chain of Responsibility + Observer + Strategy + Command + State + Visitor + Interpreter
+    - **G-SA-04** : Iterator + Memento 
+   
+   
+3. **پروژه های کاربردی**:
     
    -	سرگروه آقای علی مهرایی
    -	سرگروه آقای علیرضا سعیدی پور
