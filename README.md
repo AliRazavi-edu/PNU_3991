@@ -106,6 +106,8 @@
 
 ----------
 ## آموزش جاوا اسکریپت
+- [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
+- [w3schools](https://www.w3schools.com/js/default.asp)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [Coding With Basir](https://codingwithbasir.com/courses/learn-html-css/)
 - [CodePen: Online Code Editor and Front End Web Developer](https://codepen.io/)
