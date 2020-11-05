@@ -1,8 +1,15 @@
-## نحوه ارزشیابی درس
+## سیاهه ارزشیابی درس
+1. **فعالیت های مشترک همه دانشجویان**
+    1. ساخت اکانت گیت هاب
+    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
+    3. ارائه رزومه
+    4. ارائه انگیزه نامه
+    5. ایجاد ریپازیتوری PNU_3991_AR
+    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
+    7. مشارکت در گروهای درسی
 
-چک لیست کامل ارزیابی بزودی اعلام خواهد شد
- 
-- :   ها با جاوا اسکریپت paternپیاده سازی 
+2. **ها با جاوا اسکریپت paternپیاده سازی**  
+
     - Abstract Factory pattern
     - Builder pattern
     - Factory Method pattern
@@ -100,13 +107,17 @@
     1. [_SA-18_سامره زارع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/18_%D8%B3%D8%A7%D9%85%D8%B1%D9%87%20%D8%B2%D8%A7%D8%B1%D8%B9)    
     1. [_SA-20_عليرضا سعيدي پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/20_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%B3%D8%B9%D9%8A%D8%AF%D9%8A%20%D9%BE%D9%88%D8%B1)    
     1. [_SA-27_كلثوم محمدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/27_%D9%83%D9%84%D8%AB%D9%88%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A) 
-    1. [_SA-30_علي مهرايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/30_%D8%B9%D9%84%D9%8A%20%D9%85%D9%87%D8%B1%D8%A7%D9%8A%D9%8A)  
+    1. [_SA-30_علي مهرايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/30_%D8%B9%D9%84%D9%8A%20%D9%85%D9%87%D8%B1%D8%A7%D9%8A%D9%8A) 
+    1. [_SA-]()    
+    1. [_SA-]()
     
 2. G-S02
     1. [_SA-]()    
     1. [_SA-]()    
-    1. [_SA-22_زهرا صالح زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/22_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B2%D8%A7%D8%AF%D9%87)    
-    1. [_SA-24_پوريا صفري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/24_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A) 
+    1. [_SA-]()    
+    1. [_SA-]() 
+    1. [_SA-]()
+    1. [_SA-]() 
     1. [_SA-]()
     
 3. G-S03
@@ -114,7 +125,9 @@
     1. [_SA-]()    
     1. [_SA-]()    
     1. [_SA-]() 
-    1. [_SA-]()    
+    1. [_SA-]()
+    1. [_SA-]() 
+    1. [_SA-]()
    
 4. G-S04
     1. [_SA-]()    
@@ -122,11 +135,15 @@
     1. [_SA-]()    
     1. [_SA-]() 
     1. [_SA-]()
+    1. [_SA-]() 
+    1. [_SA-]()
     
 5. G-S05
-     1. [_SA-]()    
     1. [_SA-]()    
     1. [_SA-]()    
+    1. [_SA-]()    
+    1. [_SA-]() 
+    1. [_SA-]()
     1. [_SA-]() 
     1. [_SA-]()
     
