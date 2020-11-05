@@ -6,9 +6,8 @@
     4. ارائه انگیزه نامه
     5. ایجاد ریپازیتوری PNU_3991_AR
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
-
-7-عضویت در یک گروه و انجام پروژه درسی به صورت گروهی
-1. **ارائه فصل های کتاب**  
+    7. مشارکت در گروهای درسی
+2. **ارائه فصل های کتاب**  
     - **G-SPM-01** : CHAPTER 24 + CHAPTER 28 + CHAPTER 32
     - **G-SPM-02** : CHAPTER 25 + CHAPTER 29 + CHAPTER 24	
     - **G-SPM-03** : CHAPTER 26 + CHAPTER 30 + CHAPTER 25
@@ -18,12 +17,11 @@
     - **G-SPM-07** : CHAPTER 30 + CHAPTER 25 + CHAPTER 29
     - **G-SPM-08** : CHAPTER 31 + CHAPTER 26 + CHAPTER 30
     - **G-SPM-09** : CHAPTER 32 + CHAPTER 27 + CHAPTER 31
-2. **ارائه پژوهش از منابع دیگر**  
+3. **ارائه پژوهش از منابع دیگر**  
     - Project management of large software-intensive systems : controlling the software development process
         - **از صفحه :** [(شماره ردیف دانشجو - 1) * 5] + 3
         - **تا صفحه :**  [(شماره ردیف دانشجو) * 5] + 2
-         
-- **پروژه های کاربردی**  
+4. **پروژه های کاربردی**  
    - زیرسیستم عضویت
    - زیرسیستم پرداخت حمایت مالی با شبکه شتاب
    - زیرسیستم پرداخت حمایت مالی با شبکه فین تک
