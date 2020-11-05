@@ -17,15 +17,7 @@
     - **G-SDM-07** : CHAPTER 26 + CHAPTER 22 + CHAPTER 21
     - **G-SDM-08** : CHAPTER 27 + CHAPTER 21 + CHAPTER 20
     - **G-SDM-09** : CHAPTER 28 + CHAPTER 20 + CHAPTER 24
-1. (20) Process-oriented methodologies
-1. (21) Blended
-1. (22) Object-oriented methodologies
-1. (23) Rapid development methodologies
-1. (24) People-oriented methodologies
-1. (25) Organisational-oriented methodologies
-1. (26) Frameworks
-1. (27) Issues
-1. (28) Methodology comparisons
+
     
 -	کار روی موضوع سمینار(مقایسه و تطبیق متدولوژی های توسعه نرم افزار متناسب فضای دانشگاه های ایران حوزه مهندسی نرم افزار):
     -	Structured analysis, design, and implementation of IS (STRADIS)
