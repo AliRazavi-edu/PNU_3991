@@ -12,7 +12,7 @@
 2. **ارائه پژوهش از منابع دیگر**  
     - Project management of large software-intensive systems : controlling the software development process
         - **از صفحه :** [(شماره ردیف دانشجو - 1) * 5] + 3
-        - **تا صفحه :**  ((شماره ردیف دانشجو) * 5) + 2
+        - **تا صفحه :**  [(شماره ردیف دانشجو) * 5] + 2
          
 - **پروژه های کاربردی**  
    - زیرسیستم عضویت
