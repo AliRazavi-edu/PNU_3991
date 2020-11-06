@@ -5,7 +5,7 @@
 - [SOP](https://mir-mohammad.github.io/SOP/)
 - [JavaScript Certificate](https://github.com/mir-mohammad/PNU_3991_AR/blob/main/js.pdf)
 
-# گروه های میرمحمد کمالی
+# گروه ها
 
 1. [G-U03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
     1. [_UID-30_ميرمحمد كمالي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/30_%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%85%D8%A7%D9%84%D9%8A)    
