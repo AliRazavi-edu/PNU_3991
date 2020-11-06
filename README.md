@@ -63,6 +63,13 @@
 </table>
 
 -----------------------------------------
+> ## کار دانشجویی 
+- طراحی رزومه
+
+- تایپ با لاتک
+
+- ترجمه
+
 > ##  GitHub آموزش 
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
 - [در یوتیوب _آقای عظیمیGitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
@@ -120,16 +127,6 @@
 > ## آموزش مارک داون
 - [Mark Down Notation](https://github.com/tchapi/markdown-cheatsheet)
 -------------------------------------
-
-> ## کار دانشجویی 
-- طراحی رزومه
-
-- تایپ با لاتک
-
-- ترجمه
-
-
---------------------------------
 
 > ## دروس ارشد
 [1115025_01	الگوريتم هاي پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
