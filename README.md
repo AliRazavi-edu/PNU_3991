@@ -96,7 +96,7 @@
   
 + [علی موسوی خرد](http://amkherad.ir/tabs/about/)  
   - [@amkherad](http://github.com/amkherad)
-  + [معصومه طاهری](https://taherimasoomeh475.github.io/)  
++ [معصومه طاهری](https://taherimasoomeh475.github.io/)  
   - [@taherimasoomeh475](https://taherimasoomeh475.github.io/)
 
 > ## نمونه قالب های رایگان(قابل دانلود)
