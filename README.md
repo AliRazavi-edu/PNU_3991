@@ -63,7 +63,7 @@
 </table>
 
 -----------------------------------------
-##  GitHub  
+> ##  GitHub  
 
 ##  GitHub آموزش 
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
@@ -104,7 +104,7 @@
   - [@amkherad](http://github.com/amkherad)
 
 -----------
-## آموزش جاوا اسکریپت
+> ## آموزش جاوا اسکریپت
 - . [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
 - [toplearn.com](https://toplearn.com/courses/74/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-%D8%AA%D8%A7-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA)
 - [w3schools](https://www.w3schools.com/js/default.asp)
@@ -113,23 +113,28 @@
 - [CodePen: Online Code Editor and Front End Web Developer](https://codepen.io/)
     - [Bootstrap Pricing Table](https://codepen.io/mrsahar/pen/yOVGBQ)
 
-## LaTeX آموزش 
+> ## LaTeX آموزش 
 - [LaTeX آموزش دکتر مس فروش ](http://mesforush.staff.shahroodut.ac.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-latex/)
 - [(LaTeX) آموزش لاتک - مکتب خانه ](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%84%D8%AA%DA%A9-LaTeX-mk265/)
 - [LaTeX آموزش زبان اصلی  ](https://git.ir/packtpub-latex-for-everyone-and-everything/)
 - [overleaf سایت ](https://www.overleaf.com/)
 - [دانلود لایوتک با حجم 4 گیگ](http://ctan.yazd.ac.ir/systems/texlive/Images/texlive2020-20200406.iso)
 
-## آموزش مارک داون
+> ## آموزش مارک داون
 - [Mark Down Notation](https://github.com/tchapi/markdown-cheatsheet)
 -------------------------------------
 
-## همکاری دانشجویی 
+> ## کار دانشجویی 
+- طراحی رزومه
+
+- تایپ با لاتک
+
+- ترجمه
 
 
 --------------------------------
 
-## دروس ارشد
+> ## دروس ارشد
 [1115025_01	الگوريتم هاي پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
 <br>
 [1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering)
@@ -147,7 +152,7 @@
 <br>
 
 
-## دروس کارشناسی
+> ## دروس کارشناسی
 [1115133_01	شيوه ارائه مطالب علمي وفني	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 <br>
 [1115157_01 & 02	نظريه زبانهاوماشين ها	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
