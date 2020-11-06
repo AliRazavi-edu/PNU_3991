@@ -96,6 +96,8 @@
   
 + [علی موسوی خرد](http://amkherad.ir/tabs/about/)  
   - [@amkherad](http://github.com/amkherad)
+  + [معصومه طاهری](https://taherimasoomeh475.github.io/)  
+  - [@taherimasoomeh475](https://taherimasoomeh475.github.io/)
 
 > ## نمونه قالب های رایگان(قابل دانلود)
 - [قالب1](https://www.20script.ir/cards-html-resume-portfolio/)
