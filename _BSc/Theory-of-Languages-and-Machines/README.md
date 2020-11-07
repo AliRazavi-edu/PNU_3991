@@ -15,6 +15,8 @@
     - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
         - **از صفحه :** [(شماره ردیف کل دانشجو - 1) * 4] + 1
         - **تا صفحه :**  [(شماره ردیف کل دانشجو) * 4]
+4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک**  
+    - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
 
 ---------------
 > ## فهرست دانشجویان
