@@ -81,10 +81,11 @@
 
 - [آموزش نظریه زبان ها و ماشین ها-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
 - [Theory of Languages and Automata - Sharif University of Technology](http://ce.sharif.edu/courses/94-95/1/ce415-1/)
+- [CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
+
 ------------
 
 > ## دیگر منابع
-- [CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
 
 ## گروه ها
 
