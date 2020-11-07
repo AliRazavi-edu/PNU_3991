@@ -23,9 +23,12 @@
 
 ---------------
 > ## فهرست دانشجویان
-   - [1115157-01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01) : 69 Students :   1 - 69
-   - [1115157_02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02) : 69 Students :  70 - 138
-   - [1115157_03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03) : 16 Students : 139 - 154
+   1. [1115157_01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01) : 69 Students :   1 - 69
+   2. [1115157_02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02) : 69 Students :  70 - 138
+   3. [1115157_03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03) : 16 Students : 139 - 154
+   
+   شماره ردیف کل دانشجو = (شماره ردیف درس - 1) * 69 + شماره ردیف دانشجو
+   
 > ## ارائه 
 - [ CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
 
