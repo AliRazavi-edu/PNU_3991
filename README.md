@@ -87,6 +87,8 @@
     - [@mahdiyazdirad](https://github.com/mahdiyazdirad)
 + [محمد امانعلیخانی](https://md-akhi.github.io/)  
   -  [@md-akhi](https://github.com/md-akhi)
++ [مهدی سلطانمرادی](https://sultanmoradimehdi.github.io/resume/)
+    - [@sultanmoradimehdi](https://github.com/sultanmoradimehdi/)  
   
 + [شهلا فتح الهی](https://shfathollahi.github.io)  
   -  [@shfathollahi](https://github.com/shfathollahi)
