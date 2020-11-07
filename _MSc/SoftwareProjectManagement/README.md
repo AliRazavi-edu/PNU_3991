@@ -134,6 +134,6 @@
     1. []()    
     1. []()    
 1. G-SPM-09
-    1. []()    
-    1. []()    
     1. [_SPM-10_سيدصادق رضوي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/10_%D8%B3%D9%8A%D8%AF%D8%B5%D8%A7%D8%AF%D9%82%20%D8%B1%D8%B6%D9%88%D9%8A)    
+    1. []()    
+    1. []()    
