@@ -44,9 +44,6 @@
 
 > ## منبع درس 
 
-    
-
-<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Theory-of-Languages-and-Machines1.png"> </a>
 # Table of contents
 
 --------------
@@ -87,6 +84,7 @@
 ------------
 
 > ## دیگر منابع
+<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Theory-of-Languages-and-Machines1.png"> </a>
 
 ## گروه ها
 
