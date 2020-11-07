@@ -21,24 +21,16 @@
     - **G-SPM-09** : CHAPTER 32 + CHAPTER 27 + CHAPTER 31
 3. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
     - شماره ردیف دانشجو به پیمانه 11 
-4. **ارائه پژوهش از منابع دیگر**  
-    - Project management of large software-intensive systems : controlling the software development process
-        - **از صفحه :** [(شماره ردیف دانشجو - 1) * 5] + 3
-        - **تا صفحه :**  [(شماره ردیف دانشجو) * 5] + 2
- 
-- : فعالبت اصلی دانشجویان همیاری در ترجمه کتاب
+4. **ارائه نوشتاری درس از منابع دیگر با لاتک**  
     - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
-    - Markus Voelter - DSL Engineering_ Designing, Implementing and Using Domain-Specific Languages-dslbook.org (2013)
-    - (Synthesis lectures on software engineering, #1) Marco Brambilla_ Jordi Cabot_ Manuel Wimmer - Model-driven software engineering in practice-Morgan & Claypool (2012)
-- ارائه شفاهی فصول کتاب مرجع اصلی درس 
-- کلیه مستندات تحویلی بایستی با استفاده از نرم افزار لاتک تهیه شوند
-
+        - **از صفحه :** [(شماره ردیف کل دانشجو - 1) * 4] + 1
+        - **تا صفحه :**  [(شماره ردیف کل دانشجو) * 4]
 
 ---------------
 > ## فهرست دانشجویان
-   - [1115157-01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01) : 69 Students
-   - [1115157_02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02) : 69 Students
-   - [1115157_03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03) : 16 Students
+   - [1115157-01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01) : 69 Students :   1 - 69
+   - [1115157_02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02) : 69 Students :  70 - 138
+   - [1115157_03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03) : 16 Students : 139 - 154
 > ## ارائه 
 - [ CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
 
