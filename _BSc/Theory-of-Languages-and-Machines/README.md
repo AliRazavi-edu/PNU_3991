@@ -1,3 +1,5 @@
+## Theory-of-Languages-and-Machines
+
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
@@ -37,21 +39,17 @@
    - [1115157-01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01) : 69 Students
    - [1115157_02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02) : 69 Students
    - [1115157_03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03) : 16 Students
-> ## منبع درس نظريه زبانهاوماشين ها
+> ## ارائه 
+- [ CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
 
-## Theory-of-Languages-and-Machines
+> ## منبع درس 
 
-- [پاورپوینت ها CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
     
-###    (Theory-of-Languages-and-Machines)
 
 <a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Theory-of-Languages-and-Machines1.png"> </a>
 # Table of contents
 
 --------------
->## (دیگر منبع درس نظريه زبانهاوماشين ها ( 01-1115157
-
-## Theory-of-Languages-and-Machines
 
 ###    (Theory-of-Languages-and-Machines,Peter Linz)
 
