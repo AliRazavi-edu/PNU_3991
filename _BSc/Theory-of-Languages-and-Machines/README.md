@@ -1,6 +1,28 @@
-## نحوه ارزشیابی درس
-
-چک لیست کامل ارزیابی بزودی اعلام خواهد شد
+## سیاهه ارزشیابی درس
+1. **فعالیت های مشترک همه دانشجویان**
+    1. ساخت اکانت گیت هاب
+    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
+    3. ارائه رزومه
+    4. ارائه انگیزه نامه
+    5. ایجاد ریپازیتوری PNU_3991_AR
+    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
+    7. مشارکت در گروهای درسی
+2. **ارائه فصل های کتاب**  
+    - **G-SPM-01** : CHAPTER 24 + CHAPTER 28 + CHAPTER 32
+    - **G-SPM-02** : CHAPTER 25 + CHAPTER 29 + CHAPTER 24	
+    - **G-SPM-03** : CHAPTER 26 + CHAPTER 30 + CHAPTER 25
+    - **G-SPM-04** : CHAPTER 27 + CHAPTER 31 + CHAPTER 26	
+    - **G-SPM-05** : CHAPTER 28 + CHAPTER 32 + CHAPTER 27	
+    - **G-SPM-06** : CHAPTER 29 + CHAPTER 24 + CHAPTER 28	
+    - **G-SPM-07** : CHAPTER 30 + CHAPTER 25 + CHAPTER 29
+    - **G-SPM-08** : CHAPTER 31 + CHAPTER 26 + CHAPTER 30
+    - **G-SPM-09** : CHAPTER 32 + CHAPTER 27 + CHAPTER 31
+3. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
+    - شماره ردیف دانشجو به پیمانه 11 
+4. **ارائه پژوهش از منابع دیگر**  
+    - Project management of large software-intensive systems : controlling the software development process
+        - **از صفحه :** [(شماره ردیف دانشجو - 1) * 5] + 3
+        - **تا صفحه :**  [(شماره ردیف دانشجو) * 5] + 2
  
 - : فعالبت اصلی دانشجویان همیاری در ترجمه کتاب
     - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
@@ -11,8 +33,8 @@
 
 
 ---------------
->## (منبع درس نظريه زبانهاوماشين ها ( 01-1115157
-
+>## ( ( 01-1115157
+> ## منبع درس نظريه زبانهاوماشين ها
 
 ## Theory-of-Languages-and-Machines
 
@@ -58,11 +80,10 @@
 >## دروس مشابه
 
 - [آموزش نظریه زبان ها و ماشین ها-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
-
+- [Theory of Languages and Automata - Sharif University of Technology](http://ce.sharif.edu/courses/94-95/1/ce415-1/)
 ------------
 
 > ## دیگر منابع
-
 - [CSCI 2400  Models of Computation Spring 2004](http://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/)
 
 ## گروه ها
