@@ -9,19 +9,9 @@
     5. ایجاد ریپازیتوری PNU_3991_AR
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
-2. **ارائه فصل های کتاب**  
-    - **G-SPM-01** : CHAPTER 24 + CHAPTER 28 + CHAPTER 32
-    - **G-SPM-02** : CHAPTER 25 + CHAPTER 29 + CHAPTER 24	
-    - **G-SPM-03** : CHAPTER 26 + CHAPTER 30 + CHAPTER 25
-    - **G-SPM-04** : CHAPTER 27 + CHAPTER 31 + CHAPTER 26	
-    - **G-SPM-05** : CHAPTER 28 + CHAPTER 32 + CHAPTER 27	
-    - **G-SPM-06** : CHAPTER 29 + CHAPTER 24 + CHAPTER 28	
-    - **G-SPM-07** : CHAPTER 30 + CHAPTER 25 + CHAPTER 29
-    - **G-SPM-08** : CHAPTER 31 + CHAPTER 26 + CHAPTER 30
-    - **G-SPM-09** : CHAPTER 32 + CHAPTER 27 + CHAPTER 31
-3. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
+2. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
     - شماره ردیف دانشجو به پیمانه 11 
-4. **ارائه نوشتاری درس از منابع دیگر با لاتک**  
+3. **ارائه نوشتاری درس از منابع دیگر با لاتک**  
     - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
         - **از صفحه :** [(شماره ردیف کل دانشجو - 1) * 4] + 1
         - **تا صفحه :**  [(شماره ردیف کل دانشجو) * 4]
