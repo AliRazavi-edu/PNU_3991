@@ -75,6 +75,7 @@
 - تایپ با لاتک
 
 - ترجمه
+
 [میر محمد کمالی](https://mir-mohammad.github.io/) 
 [فاطمه وکیلی](https://fatemehvakili.github.io/)   
 
