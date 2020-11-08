@@ -66,9 +66,23 @@
 > ## کار دانشجویی 
 - طراحی رزومه
 
+[محمد رضا بصیری](https://mrezabasiri.github.io/barayeman/)	 
+
+[میر محمد کمالی](https://mir-mohammad.github.io/)   
+
+[فاطمه وکیلی](https://fatemehvakili.github.io/)   
+
+[فاطمه مرادی](https://ftemeh021.github.io/ftemeh-resume/)     
+
+[سحر رجبی](https://saharrajabi.github.io/)   
+
 - تایپ با لاتک
 
 - ترجمه
+
+[میر محمد کمالی](https://mir-mohammad.github.io/) 
+
+[فاطمه وکیلی](https://fatemehvakili.github.io/)   
 
 > ##  GitHub آموزش 
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
@@ -87,6 +101,8 @@
     - [@mahdiyazdirad](https://github.com/mahdiyazdirad)
 + [محمد امانعلیخانی](https://md-akhi.github.io/)  
   -  [@md-akhi](https://github.com/md-akhi)
++ [مهدی سلطانمرادی](https://sultanmoradimehdi.github.io/resume/)
+    - [@sultanmoradimehdi](https://github.com/sultanmoradimehdi/)  
   
 + [شهلا فتح الهی](https://shfathollahi.github.io)  
   -  [@shfathollahi](https://github.com/shfathollahi)

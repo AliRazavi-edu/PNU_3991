@@ -27,9 +27,11 @@
 
 ------------------
 
->## دروس مشابه
-
+> ## دروس مشابه
 - [آموزش شیوه ارائه علمی -فرادرس](https://faradars.org/courses/fvacw9403-scientific-presentation)
+
+> ## دیگر منابع
+- [E-research : methods, strategies, and issues](https://archive.org/details/eresearchmethods0000ande/page/n9/mode/1up)
 
 ---
 
