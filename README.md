@@ -67,9 +67,13 @@
 - طراحی رزومه
 
 [محمد رضا بصیری](https://mrezabasiri.github.io/barayeman/)	 
+
 [میر محمد کمالی](https://mir-mohammad.github.io/)   
+
 [فاطمه وکیلی](https://fatemehvakili.github.io/)   
+
 [فاطمه مرادی](https://ftemeh021.github.io/ftemeh-resume/)     
+
 [سحر رجبی](https://saharrajabi.github.io/)   
 
 - تایپ با لاتک
@@ -77,6 +81,7 @@
 - ترجمه
 
 [میر محمد کمالی](https://mir-mohammad.github.io/) 
+
 [فاطمه وکیلی](https://fatemehvakili.github.io/)   
 
 > ##  GitHub آموزش 
