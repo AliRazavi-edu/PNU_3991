@@ -88,6 +88,7 @@
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
 - [در یوتیوب _آقای عظیمیGitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
 - [All the Git-it Workshop completers!](https://github.com/jlord/patchwork)
+- [آموزش میزبانی وب سایت با صفحات در گیت هاب](https://git.ir/teamtreehouse-hosting-a-website-with-github-pages/)
 - [**An interactive git visualization to challenge and educate!**](https://learngitbranching.js.org/?demo)
 
 > ##  GitHubآموزش ساخت رزومه در
