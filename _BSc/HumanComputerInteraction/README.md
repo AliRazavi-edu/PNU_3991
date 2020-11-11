@@ -9,13 +9,8 @@
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
 ---------------
->## (منبع درس تعامل انسان و كامپيوتر ( 01-1322108
+> ## منبع درس 
 
-
-## Human Computer Interaction
-
-- [پاورپوینت ها]()
-    
 ###    (human-computer interaction)
 <a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Human%20Computer%20Interaction.png"> </a>
 # Table of contents
