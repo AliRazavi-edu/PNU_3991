@@ -19,6 +19,9 @@
 
 - [_AR_920304_Seminar_Scoring.pdf](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/MscSeminar-1/assessment/_AR_920304_Seminar_Scoring.pdf)
 
+### راهنمای نگارش 
+- [_رساله دکتری و پایان نامه ارشد و سمینار](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1/assessment)
+
 ---------------
 ## گروه ها
 
