@@ -88,6 +88,7 @@
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
 - [در یوتیوب _آقای عظیمیGitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
 - [All the Git-it Workshop completers!](https://github.com/jlord/patchwork)
+- [آموزش میزبانی وب سایت با صفحات در گیت هاب](https://git.ir/teamtreehouse-hosting-a-website-with-github-pages/)
 - [**An interactive git visualization to challenge and educate!**](https://learngitbranching.js.org/?demo)
 
 > ##  GitHubآموزش ساخت رزومه در
@@ -140,11 +141,21 @@
 - [LaTeX آموزش دکتر مس فروش ](http://mesforush.staff.shahroodut.ac.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-latex/)
 - [(LaTeX) آموزش لاتک - مکتب خانه ](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%84%D8%AA%DA%A9-LaTeX-mk265/)
 - [LaTeX آموزش زبان اصلی  ](https://git.ir/packtpub-latex-for-everyone-and-everything/)
+> ## صفحه آرایی برخط بدون نصب لاتک
 - [overleaf سایت ](https://www.overleaf.com/)
-- [دانلود لایوتک با حجم 4 گیگ](http://ctan.yazd.ac.ir/systems/texlive/Images/texlive2020-20200406.iso)
+> ## Texlive
+- [دانلود تک لایو با حجم 4 گیگ](http://ctan.yazd.ac.ir/systems/texlive/Images/texlive2020-20200406.iso)
 
 > ## آموزش مارک داون
 - [Mark Down Notation](https://github.com/tchapi/markdown-cheatsheet)
+
+> ## Html,Css آموزش  
+- [  از مقدماتیHtml,Cssآموزش](https://toplearn.com/courses/47/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-html-%D9%88-css-%D8%A7%D8%B2-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C)
+- [  Html و Cssآموزش رایگان ](https://toplearn.com/courses/2165/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-html-%D9%88-css)
+- [   PSD به HTML و CSSآموزش تبدیل قالب ](https://toplearn.com/courses/4364/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%82%D8%A7%D9%84%D8%A8-psd-%D8%A8%D9%87-html-%D9%88-css)
+- [  آموزش طراحی سایت (رایگان) ](https://toplearn.com/courses/4287/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA-(%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86))
+- [  ( UI ) دوره طراحی رابط کاربری ](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
+
 -------------------------------------
 
 > ## دروس ارشد
