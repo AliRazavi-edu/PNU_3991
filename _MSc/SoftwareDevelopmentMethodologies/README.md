@@ -9,6 +9,8 @@
     7. مشارکت در گروهای درسی
     8. فرصت بارگذاری فایل ضبط شده ارائه فصول، حداکثر تا 15 آذر 99 می باشد
 2. **ارائه فصل های کتاب**
+     
+     ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
     - **G-SDM-01** : CHAPTER 20 + CHAPTER 24 + CHAPTER 28
     - **G-SDM-02** : CHAPTER 21 + CHAPTER 25 + CHAPTER 27	
     - **G-SDM-03** : CHAPTER 22 + CHAPTER 26 + CHAPTER 25
@@ -19,9 +21,19 @@
     - **G-SDM-08** : CHAPTER 27 + CHAPTER 21 + CHAPTER 20
     - **G-SDM-09** : CHAPTER 28 + CHAPTER 20 + CHAPTER 24
 
-
-3. **پروژه های کاربردی**:
-    
+3. :**مطالعه کتاب های علمی**
+    ##### [**Design and Development of Web Information Systems** - Klaus-Dieter Schewe, Bernhard Thalheim](https://www.springer.com/gp/book/9783662588222)
+    ##### **هر تیم یک فصل را بزبان اصلی روخوانی نموده و برای هر بخش و زیر بخش در چند جمله خلاصه برداشت از مطالعه را به فارسی توضیح میدهد**
+    - **G-SDM-01** : CHAPTER 01 
+    - **G-SDM-02** : CHAPTER 02 
+    - **G-SDM-03** : CHAPTER 03 
+    - **G-SDM-04** : CHAPTER 04	
+    - **G-SDM-05** : CHAPTER 05 
+    - **G-SDM-06** : CHAPTER 06 	
+    - **G-SDM-07** : CHAPTER 07 
+    - **G-SDM-08** : CHAPTER 08 
+    - **G-SDM-09** : CHAPTER 09 
+4. **پروژه های کوچک کاربردی**:
     -	سرگروه آقای علی مهرایی
     -	سرگروه آقای علیرضا سعیدی پور
     -	سرگروه آقای دباغ مقتدر
