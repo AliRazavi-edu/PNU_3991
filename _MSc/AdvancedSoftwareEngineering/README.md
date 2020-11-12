@@ -9,14 +9,24 @@
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
 
-2. **ارائه فصل های کتاب**
+2. **ها با جاوا اسکریپت paternپیاده سازی** 
+
+    - **G-SAE-01** : Factory Method pattern + Builder pattern + Abstract Factory pattern + Prototype pattern 
+    - **G-SAE-02** : Singleton pattern + Adapter pattern + Bridge pattern +Composite pattern
+    - **G-SAE-03** : Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern 
+    - **G-SAE-04** : Template Method + Mediator + Chain of Responsibility + Observer 
+    - **G-ASE-05** : Strategy + Command + State + Visitor 
+    - **G-ASE-06** : Interpreter + Iterator + Memento
+    
+3. **ارائه فصل های کتاب**
     - **G-ASE-01** : 
     - **G-ASE-02** : 
     - **G-ASE-03** : 
     - **G-ASE-04** : 	
     - **G-ASE-05** : 
-
-3. **پروژه های کاربردی**:
+    - **G-ASE-06** :
+    
+4. **پروژه های کاربردی**:
     
     -	سرگروه آقای علی مهرایی
     -	سرگروه آقای علیرضا سعیدی پور
