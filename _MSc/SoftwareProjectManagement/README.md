@@ -7,7 +7,7 @@
     5. ایجاد ریپازیتوری PNU_3991_AR
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
-2. **ارائه فصل های کتاب**  
+2. **ارائه فصل های کتاب پرسمن**  
     - **G-SPM-01** : CHAPTER 24 + CHAPTER 28 + CHAPTER 32
     - **G-SPM-02** : CHAPTER 25 + CHAPTER 29 + CHAPTER 24	
     - **G-SPM-03** : CHAPTER 26 + CHAPTER 30 + CHAPTER 25
