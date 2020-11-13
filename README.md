@@ -196,6 +196,8 @@
 [<kbd>↩</kbd>](#TOC)
 
 -------------------------------------
+<details>
+    <summary>دروس ارشد</summary>
 
 > ## دروس ارشد
 [1115025_01	الگوريتم هاي پيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
@@ -216,8 +218,10 @@
 
 [<kbd>↩</kbd>](#TOC)
 
+</details>
+
 <details>
-    <summary>Title 1</summary>
+    <summary>دروس کارشناسی</summary>
     
 > ## دروس کارشناسی
 [1115133_01	شيوه ارائه مطالب علمي وفني	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
