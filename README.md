@@ -85,6 +85,9 @@
  [<kbd>↩</kbd>](#TOC)
 -----------------------------------------
 <a name="Student-Work"></a>
+<details>
+    <summary>Student-Work</summary>
+
 > ## کار دانشجویی 
 - طراحی رزومه
     - [محمد رضا بصیری](https://mrezabasiri.github.io/barayeman/)	 
@@ -100,7 +103,12 @@
 
 [<kbd>↩</kbd>](#TOC)
 
+</details>
+
 <a name="Github"></a>
+<details>
+    <summary>Github</summary>
+
 > ##  GitHub آموزش 
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
 - [در یوتیوب _آقای عظیمیGitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
@@ -116,7 +124,12 @@
 
 [<kbd>↩</kbd>](#TOC)
 
+</details>
+
 <a name="CV_SOP"></a>
+<details>
+    <summary>CV & SOP</summary>
+
 > ## (SOP)انگیزه نامه
 - [ شخصی چیست و چه کاربردی دارد؟(SOP)انگیزه نامه](https://www.writeme.ir/sop-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87-%D9%86%D8%A7%D9%85%D9%87/)
 ----------
@@ -149,8 +162,14 @@
 - [قالب8](https://webkima.com/free-html-resume-templates/#13_%D9%82%D8%A7%D9%84%D8%A8_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86_Resume)
 
 [<kbd>↩</kbd>](#TOC)
+
+</details>
+
 -----------
 <a name="JS"></a>
+<details>
+    <summary>JS</summary>
+
 > ## آموزش جاوا اسکریپت
 - . [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
 - [Learn to code at home.](https://www.freecodecamp.org/)
@@ -163,8 +182,12 @@
 - [NODESCHOOL](https://nodeschool.io/)    
 
 [<kbd>↩</kbd>](#TOC)
+</details>
 
 <a name="Latex"></a>
+<details>
+    <summary>Latex</summary>
+
 > ## LaTeX آموزش 
 - [LaTeX آموزش دکتر مس فروش ](http://mesforush.staff.shahroodut.ac.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-latex/)
 - [(LaTeX) آموزش لاتک - مکتب خانه ](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%84%D8%AA%DA%A9-LaTeX-mk265/)
@@ -177,6 +200,8 @@
 
 [<kbd>↩</kbd>](#TOC)
 
+</details>
+
 <a name="MD"></a>
 <details>
     <summary>مارک داون</summary>
@@ -188,7 +213,12 @@
 
 [<kbd>↩</kbd>](#TOC)
 
+</details>
+
 <a name="HTML"></a>
+<details>
+    <summary>Html,Css</summary>
+
 > ## Html,Css آموزش  
 - [  از مقدماتیHtml,Cssآموزش](https://toplearn.com/courses/47/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-html-%D9%88-css-%D8%A7%D8%B2-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C)
 - [  Html و Cssآموزش رایگان ](https://toplearn.com/courses/2165/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-html-%D9%88-css)
