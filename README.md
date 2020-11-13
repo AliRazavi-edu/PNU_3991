@@ -10,7 +10,7 @@
 - [گیت هاب](#Github)
 - [اچ تی ام ال - سی اس اس](#HTML)
 
-<a name="Course Table"></a>
+<a name="Course-Table"></a>
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
@@ -81,7 +81,7 @@
     - [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project)
  
 -----------------------------------------
-<a name="Student Work"></a>
+<a name="Student-Work"></a>
 > ## کار دانشجویی 
 - طراحی رزومه
     - [محمد رضا بصیری](https://mrezabasiri.github.io/barayeman/)	 
