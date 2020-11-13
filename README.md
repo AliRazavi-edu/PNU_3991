@@ -72,6 +72,8 @@
   </tr>
 </table>
 
+[<kbd>↩</kbd>](#TOC)
+
 ## دیگر دروس
 - **ارشد**
     - [سمینار و سمینار تتبع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar)
@@ -96,6 +98,8 @@
     - [میر محمد کمالی](https://mir-mohammad.github.io/) 
     - [فاطمه وکیلی](https://fatemehvakili.github.io/)   
 
+[<kbd>↩</kbd>](#TOC)
+
 <a name="Github"></a>
 > ##  GitHub آموزش 
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
@@ -109,6 +113,8 @@
 
 > ##  GitHubآموزش ساخت رزومه در
 - [آموزش ایجاد وبسایت روی گیت هاب_سایت تاب لرن_سیدمصطفی علیایی ](https://toplearn.com/courses/2203/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA-%D8%B1%D9%88%DB%8C-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8 )
+
+[<kbd>↩</kbd>](#TOC)
 
 <a name="CV_SOP"></a>
 > ## (SOP)انگیزه نامه
@@ -142,6 +148,7 @@
 - [قالب7](https://superdevresources.com/html-resume-templates/)
 - [قالب8](https://webkima.com/free-html-resume-templates/#13_%D9%82%D8%A7%D9%84%D8%A8_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86_Resume)
 
+[<kbd>↩</kbd>](#TOC)
 -----------
 <a name="JS"></a>
 > ## آموزش جاوا اسکریپت
@@ -155,6 +162,8 @@
     - [Bootstrap Pricing Table](https://codepen.io/mrsahar/pen/yOVGBQ)
 - [NODESCHOOL](https://nodeschool.io/)    
 
+[<kbd>↩</kbd>](#TOC)
+
 <a name="Latex"></a>
 > ## LaTeX آموزش 
 - [LaTeX آموزش دکتر مس فروش ](http://mesforush.staff.shahroodut.ac.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-latex/)
@@ -166,10 +175,14 @@
 > ## Texlive
 - [دانلود تک لایو با حجم 4 گیگ](http://ctan.yazd.ac.ir/systems/texlive/Images/texlive2020-20200406.iso)
 
+[<kbd>↩</kbd>](#TOC)
+
 <a name="MD"></a>
 > ## آموزش مارک داون
 - [Mark Down Notation](https://github.com/tchapi/markdown-cheatsheet)
 - [Open source online Markdown editor](https://pandao.github.io/editor.md/en.html)
+
+[<kbd>↩</kbd>](#TOC)
 
 <a name="HTML"></a>
 > ## Html,Css آموزش  
@@ -178,6 +191,8 @@
 - [   PSD به HTML و CSSآموزش تبدیل قالب ](https://toplearn.com/courses/4364/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%82%D8%A7%D9%84%D8%A8-psd-%D8%A8%D9%87-html-%D9%88-css)
 - [  آموزش طراحی سایت (رایگان) ](https://toplearn.com/courses/4287/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA-(%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86))
 - [  ( UI ) دوره طراحی رابط کاربری ](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
+
+[<kbd>↩</kbd>](#TOC)
 
 -------------------------------------
 
@@ -198,6 +213,7 @@
 [1115257_03	سمينار ( تحقيق و تتبع نظري )	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)
 <br>
 
+[<kbd>↩</kbd>](#TOC)
 
 > ## دروس کارشناسی
 [1115133_01	شيوه ارائه مطالب علمي وفني	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
@@ -222,3 +238,4 @@
 [1322094_02	پروژه پاياني	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322094_02)
 <br>
 
+[<kbd>↩</kbd>](#TOC)
