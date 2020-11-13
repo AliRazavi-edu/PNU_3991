@@ -1,8 +1,13 @@
 # Winter Semester Courses 1399/2020 (PNU_3991)
 ## فهرست
 - [روز و ساعت ارائه دروس](#Course Table)
-- []()
-- []()
+- [کار دانشجویی](#Student Work)
+- [رزومه - انگیزه نامه](#CV_SOP)
+- [لاتک](#Latex)
+- [جاوا اسکریپت](#JS)
+- [مارک داون](#MD)
+- [گیت هاب](#Github)
+- [اچ تی ام ال - سی اس اس](#HTML)
 
 <a name="Course Table"></a>
 ## روز و ساعت ارائه دروس
@@ -75,6 +80,7 @@
     - [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project)
  
 -----------------------------------------
+<a name="Student Work"></a>
 > ## کار دانشجویی 
 - طراحی رزومه
     - [محمد رضا بصیری](https://mrezabasiri.github.io/barayeman/)	 
@@ -88,6 +94,7 @@
     - [میر محمد کمالی](https://mir-mohammad.github.io/) 
     - [فاطمه وکیلی](https://fatemehvakili.github.io/)   
 
+<a name="Github"></a>
 > ##  GitHub آموزش 
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
 - [در یوتیوب _آقای عظیمیGitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
@@ -101,6 +108,7 @@
 > ##  GitHubآموزش ساخت رزومه در
 - [آموزش ایجاد وبسایت روی گیت هاب_سایت تاب لرن_سیدمصطفی علیایی ](https://toplearn.com/courses/2203/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA-%D8%B1%D9%88%DB%8C-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8 )
 
+<a name="CV_SOP"></a>
 > ## (SOP)انگیزه نامه
 - [ شخصی چیست و چه کاربردی دارد؟(SOP)انگیزه نامه](https://www.writeme.ir/sop-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87-%D9%86%D8%A7%D9%85%D9%87/)
 ----------
@@ -133,6 +141,7 @@
 - [قالب8](https://webkima.com/free-html-resume-templates/#13_%D9%82%D8%A7%D9%84%D8%A8_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86_Resume)
 
 -----------
+<a name="JS"></a>
 > ## آموزش جاوا اسکریپت
 - . [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
 - [Learn to code at home.](https://www.freecodecamp.org/)
@@ -144,7 +153,7 @@
     - [Bootstrap Pricing Table](https://codepen.io/mrsahar/pen/yOVGBQ)
 - [NODESCHOOL](https://nodeschool.io/)    
 
-<
+<a name="Latex"></a>
 > ## LaTeX آموزش 
 - [LaTeX آموزش دکتر مس فروش ](http://mesforush.staff.shahroodut.ac.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-latex/)
 - [(LaTeX) آموزش لاتک - مکتب خانه ](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%84%D8%AA%DA%A9-LaTeX-mk265/)
@@ -155,10 +164,12 @@
 > ## Texlive
 - [دانلود تک لایو با حجم 4 گیگ](http://ctan.yazd.ac.ir/systems/texlive/Images/texlive2020-20200406.iso)
 
+<a name="MD"></a>
 > ## آموزش مارک داون
 - [Mark Down Notation](https://github.com/tchapi/markdown-cheatsheet)
 - [Open source online Markdown editor](https://pandao.github.io/editor.md/en.html)
 
+<a name="HTML"></a>
 > ## Html,Css آموزش  
 - [  از مقدماتیHtml,Cssآموزش](https://toplearn.com/courses/47/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-html-%D9%88-css-%D8%A7%D8%B2-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C)
 - [  Html و Cssآموزش رایگان ](https://toplearn.com/courses/2165/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-html-%D9%88-css)
