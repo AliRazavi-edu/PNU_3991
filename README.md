@@ -107,7 +107,7 @@
 
 <a name="Github"></a>
 <details>
-    <summary>Github</summary>
+    <summary>گیت هاب</summary>
 
 > ##  GitHub آموزش 
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
