@@ -86,7 +86,7 @@
 -----------------------------------------
 <a name="Student-Work"></a>
 <details>
-    <summary>Student-Work</summary>
+    <summary>کار دانشجویی</summary>
 
 > ## کار دانشجویی 
 - طراحی رزومه
@@ -128,7 +128,7 @@
 
 <a name="CV_SOP"></a>
 <details>
-    <summary>CV & SOP</summary>
+    <summary>رزومه - انگیزه نامه</summary>
 
 > ## (SOP)انگیزه نامه
 - [ شخصی چیست و چه کاربردی دارد؟(SOP)انگیزه نامه](https://www.writeme.ir/sop-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87-%D9%86%D8%A7%D9%85%D9%87/)
@@ -168,7 +168,7 @@
 -----------
 <a name="JS"></a>
 <details>
-    <summary>JS</summary>
+    <summary>جاوا اسکریپت</summary>
 
 > ## آموزش جاوا اسکریپت
 - . [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
@@ -186,7 +186,7 @@
 
 <a name="Latex"></a>
 <details>
-    <summary>Latex</summary>
+    <summary>لاتک</summary>
 
 > ## LaTeX آموزش 
 - [LaTeX آموزش دکتر مس فروش ](http://mesforush.staff.shahroodut.ac.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-latex/)
