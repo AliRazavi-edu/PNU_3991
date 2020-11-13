@@ -1,10 +1,10 @@
 # Winter Semester Courses 1399/2020 (PNU_3991)
 ## فهرست
-- [روز و ساعت ارائه دروس](#paragraph1)
+- [روز و ساعت ارائه دروس](#Course Table)
 - []()
 - []()
 
-<a name="paragraph1"></a>
+<a name="Course Table"></a>
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
