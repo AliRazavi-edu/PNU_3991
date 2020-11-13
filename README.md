@@ -107,7 +107,7 @@
 
 <a name="Github"></a>
 <details>
-    <summary>گیت هاب</summary>
+    <summary>گیت</summary>
 
 > ##  GitHub آموزش 
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
@@ -121,6 +121,9 @@
 
 > ##  GitHubآموزش ساخت رزومه در
 - [آموزش ایجاد وبسایت روی گیت هاب_سایت تاب لرن_سیدمصطفی علیایی ](https://toplearn.com/courses/2203/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA-%D8%B1%D9%88%DB%8C-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8 )
+
+> ## 
+- [Bitbucket ](https://bitbucket.org/)
 
 [<kbd>↩</kbd>](#TOC)
 
