@@ -63,10 +63,10 @@
 </table>
 
 ## دیگر دروس
-- ارشد
+- **ارشد**
     - [سمینار و سمینار تتبع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar)
     - [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Theses)
-- کارشناسی
+- **کارشناسی**
     - [کارآموزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship)
     - [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project)
  
