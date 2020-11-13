@@ -178,6 +178,9 @@
 [<kbd>↩</kbd>](#TOC)
 
 <a name="MD"></a>
+<details>
+    <summary>مارک داون</summary>
+
 > ## آموزش مارک داون
 - [Mark Down Notation](https://github.com/tchapi/markdown-cheatsheet)
 - [Open source online Markdown editor](https://pandao.github.io/editor.md/en.html)
@@ -194,6 +197,7 @@
 - [  ( UI ) دوره طراحی رابط کاربری ](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
 
 [<kbd>↩</kbd>](#TOC)
+</details>
 
 -------------------------------------
 <details>
