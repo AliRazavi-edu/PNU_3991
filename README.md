@@ -215,6 +215,8 @@
 
 [<kbd>↩</kbd>](#TOC)
 
+<details>
+
 > ## دروس کارشناسی
 [1115133_01	شيوه ارائه مطالب علمي وفني	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 <br>
@@ -239,3 +241,5 @@
 <br>
 
 [<kbd>↩</kbd>](#TOC)
+
+</details>
