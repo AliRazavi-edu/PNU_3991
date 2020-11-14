@@ -180,7 +180,7 @@
 9. G-S05
     1. [_SDM-31_علي مهرايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/31_%D8%B9%D9%84%D9%8A%20%D9%85%D9%87%D8%B1%D8%A7%D9%8A%D9%8A)    
     1. [_SDM-10_سحر رجبي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/10_%D8%B3%D8%AD%D8%B1%20%D8%B1%D8%AC%D8%A8%D9%8A)  
-    1. [_SDM-]()    
+    1. [_SDM-02_سالار بهادر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/02_%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%20%D8%A8%D9%87%D8%A7%D8%AF%D8%B1)    
 
 
 
