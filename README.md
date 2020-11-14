@@ -217,7 +217,10 @@
 - [Mark Down Notation](https://github.com/tchapi/markdown-cheatsheet)
 - [Open source online Markdown editor](https://pandao.github.io/editor.md/en.html)
 - [Markdown to create pages and table of contents](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
-
+- [Markdown](https://daringfireball.net/projects/markdown/)
+<!---
+- [markdownlivepreview](https://markdownlivepreview.com/)
+-->
 [<kbd>↩</kbd>](#TOC)
 
 </details>
