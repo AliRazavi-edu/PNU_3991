@@ -72,7 +72,7 @@
 ### Bibliography
 ### Index
 
- [<kbd>↩</kbd>](#TOC)
+[<kbd>↩</kbd>](#TOC)
 
 </details>
 
@@ -99,6 +99,8 @@
     - [2015 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
         - [math_outside_the_box](https://hci.stanford.edu/courses/cs194h/2015/wi/projects/math_outside_the_box/)
         
+[<kbd>↩</kbd>](#TOC)
+       
 </details>
     
 -----------
@@ -114,6 +116,8 @@
 - [CS 235 User Interface Design - San Jose State University](https://www.cs.sjsu.edu/~mak/archive/CS235/)
 
 - [Universal Principles of Design](http://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=ntt_at_ep_dpt_1)
+
+[<kbd>↩</kbd>](#TOC)
 
 </details>
 
