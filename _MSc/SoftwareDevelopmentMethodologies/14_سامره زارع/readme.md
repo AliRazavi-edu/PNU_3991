@@ -1,9 +1,9 @@
 #  سامره زارع
-- [PNU_3991_AR](https://github.com/samerezare/PNU_3991_AR)
-- [Resume](https://samerezare.github.io/Resume/) 
+- [PNU_3991_AR](https://github.com/samere-zare/PNU_3991_AR)
+- [Resume](https://samere-zare.github.io/Resume/)
 - [SOP](https://samerezare.github.io/SOP/)
 - [Certificates](https://samerezare.github.io/Certificates/)
-- [GitHub](https://github.com/samerezare)
+- [GitHub](https://github.com/samere-zare)
 -----------------
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
