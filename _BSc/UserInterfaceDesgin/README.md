@@ -3,6 +3,8 @@
 - [سیاهه ارزشیابی درس](#Evaluation)
 - [روز و ساعت ارائه دروس](#CourseRef)
 - [منبع درس طراحی واسط کاربر](#CourseRef)
+- [دروس مشابه دیگر دانشگاهها](#RelatedCourses)
+- [دیگر منابع](#RelatedRef)
 - [آموزش های کاربردی](#eLearning)
 
 <a name="Evaluation"></a>
@@ -79,6 +81,7 @@
 >## [سیلابس وزرات علوم برای درس طراحی واسط کاربر](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/_1569752509_1_UID.pdf)
 
 ------------------
+<a name="RelatedCourses"></a>
 
 >## دروس مشابه
 - [فرادرس-Foundationآموزش طراحی رابط کاربری وب سایت با فریم ورک](https://faradars.org/courses/fvweb9710-designing-user-interface-of-website-with-foundation-framework)
@@ -94,6 +97,7 @@
     - [2015 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
         - [math_outside_the_box](https://hci.stanford.edu/courses/cs194h/2015/wi/projects/math_outside_the_box/)
 -----------
+<a name="RelatedRef"></a>
 
 > ## دیگر منابع
 
