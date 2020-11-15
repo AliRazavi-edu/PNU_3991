@@ -82,8 +82,10 @@
 
 ------------------
 <a name="RelatedCourses"></a>
+<details>
+    <summary>دروس مشابه دیگر دانشگاهها</summary>
 
->## دروس مشابه
+>## دروس مشابه دیگر دانشگاهها
 - [فرادرس-Foundationآموزش طراحی رابط کاربری وب سایت با فریم ورک](https://faradars.org/courses/fvweb9710-designing-user-interface-of-website-with-foundation-framework)
 - [CS194H- User Experience Design Project - Winter 2020](https://hci.stanford.edu/courses/cs194h/2020/wi/)
     - [2020 - projects](https://hci.stanford.edu/courses/cs194h/2020/wi/projects.html)
@@ -96,8 +98,13 @@
         - [spark](https://hci.stanford.edu/courses/cs194h/2016/wi/projects/spark/)
     - [2015 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
         - [math_outside_the_box](https://hci.stanford.edu/courses/cs194h/2015/wi/projects/math_outside_the_box/)
+        
+</details>
+    
 -----------
 <a name="RelatedRef"></a>
+<details>
+    <summary>آموزش ها کاربردی</summary>
 
 > ## دیگر منابع
 
@@ -107,12 +114,15 @@
 - [CS 235 User Interface Design - San Jose State University](https://www.cs.sjsu.edu/~mak/archive/CS235/)
 
 - [Universal Principles of Design](http://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=ntt_at_ep_dpt_1)
+
+</details>
+
 --------
 <a name="eLearning"></a>
 <details>
-    <summary>آموزش ها</summary>
+    <summary>آموزش ها کاربردی</summary>
 
-> ## آموزش ها
+> ## آموزش ها کاربردی
 
 - [  از مقدماتیHtml,Cssآموزش](https://toplearn.com/courses/47/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-html-%D9%88-css-%D8%A7%D8%B2-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C)
 - [  Html و Cssآموزش رایگان ](https://toplearn.com/courses/2165/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-html-%D9%88-css)
