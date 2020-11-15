@@ -33,7 +33,10 @@
     6. وایرفریم
     7. نمونه سازی
     8. پیاده سازی
-    9. ارائه
+    9. ارزیابی
+        - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
+            - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
+    10. ارائه
 
 [**نمونه تحویل فعالیت های انجام شده**](https://github.com/mir-mohammad/PNU_3991_AR/)
        
@@ -117,12 +120,10 @@
 > ## دیگر منابع
 
 - [Designing with the Mind in Mind](http://index-of.co.uk/Programming-Library/Designing%20with%20the%20Mind%20in%20Mind%20Simple%20-%20Johnson%20-%20Kaufmann%20(2010).pdf)
-
-
+- [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://library.lol/main/107D23516EC9C1957EFD5A14FD62192B)
 - [CS 235 User Interface Design - San Jose State University](https://www.cs.sjsu.edu/~mak/archive/CS235/)
-
 - [Universal Principles of Design](http://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=ntt_at_ep_dpt_1)
-
+- [Don't make me think, revisited](http://library.lol/main/1C471FA8040F0EF79CFA0DE49A0FE0F6)
 [<kbd>↩</kbd>](#TOC)
 
 </details>
