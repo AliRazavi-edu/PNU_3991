@@ -112,7 +112,8 @@
 > ## ترمینال گیت 
 - [Cmder](https://cmder.net/)
     
-> ##  GitHub آموزش 
+> ##  GitHub آموزش
+- [TryGit - Learn Git in 15 Minutes](https://try.github.io/)
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
 - [در یوتیوب _آقای عظیمیGitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
 - [All the Git-it Workshop completers!](https://github.com/jlord/patchwork)
