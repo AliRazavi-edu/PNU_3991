@@ -57,6 +57,7 @@
     - [2018 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
     - [2017 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
     - [2016 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+        - [nightOwl](https://hci.stanford.edu/courses/cs194h/2016/wi/projects/nightOwl/#Process)
         - [spark](https://hci.stanford.edu/courses/cs194h/2016/wi/projects/spark/)
     - [2015 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
         - [math_outside_the_box](https://hci.stanford.edu/courses/cs194h/2015/wi/projects/math_outside_the_box/)
