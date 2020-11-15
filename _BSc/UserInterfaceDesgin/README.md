@@ -52,11 +52,14 @@
 - [فرادرس-Foundationآموزش طراحی رابط کاربری وب سایت با فریم ورک](https://faradars.org/courses/fvweb9710-designing-user-interface-of-website-with-foundation-framework)
 - [CS194H- User Experience Design Project - Winter 2020](https://hci.stanford.edu/courses/cs194h/2020/wi/)
     - [2020 - projects](https://hci.stanford.edu/courses/cs194h/2020/wi/projects.html)
+        - [pathseeker](https://hci.stanford.edu/courses/cs194h/2020/wi/projects/pathseeker/)
     - [2019 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
     - [2018 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
     - [2017 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
     - [2016 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+        - [spark](https://hci.stanford.edu/courses/cs194h/2016/wi/projects/spark/)
     - [2015 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+        - [math_outside_the_box](https://hci.stanford.edu/courses/cs194h/2015/wi/projects/math_outside_the_box/)
 -----------
 
 > ## دیگر منابع
