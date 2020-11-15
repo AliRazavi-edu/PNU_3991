@@ -1,4 +1,14 @@
 ## Human Computer Interaction
+<a name="TOC"></a>
+## فهرست
+- [سیاهه ارزشیابی درس](#Evaluation)
+- [روز و ساعت ارائه دروس](#CourseRef)
+- [منبع درس طراحی واسط کاربر](#CourseRef)
+- [دروس مشابه دیگر دانشگاهها](#RelatedCourses)
+- [دیگر منابع](#RelatedRef)
+- [آموزش های کاربردی](#eLearning)
+
+<a name="Evaluation"></a>
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
@@ -8,7 +18,23 @@
     5. ایجاد ریپازیتوری PNU_3991_AR
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
+2. **فعالیت های گروهی**
+    1. معرفی یک درس مشابه در دانشگاههای دیگر
+        - هر 10 نفر یک درس
+    2. انتخاب موضوع کار گروهی
+    3. تحلیل نیازها
+        - هر دو عضو گروه یک نمونه مشابه
+        - ارائه نیازها همه گروه با هم
+    4. تجربه کاربری
+    5. طرح دستی
+    6. وایرفریم
+    7. ارائه
+       
 ---------------
+<a name="CourseRef"></a>
+<details>
+    <summary>منبع درس تعامل انسان و کامپیوتر</summary>
+
 > ## منبع درس 
 <a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Human%20Computer%20Interaction.png"> </a>
 # Table of contents
@@ -32,7 +58,60 @@
 ## Chapter 9 Future of HCI
 
 ## INDEX
+
+[<kbd>↩</kbd>](#TOC)
+
+</details>
+
+-------------------------------------------
+>## [سیلابس وزرات علوم برای درس تعامل انسان و كامپيوتر](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/_1569752509_1_HCI.pdf) 
+
+-------------
+
+<a name="RelatedCourses"></a>
+<details>
+    <summary>دروس مشابه دیگر دانشگاهها</summary>
+
+>## دروس مشابه دیگر دانشگاهها
+
+
+[<kbd>↩</kbd>](#TOC)
+       
+</details>
+
+<a name="RelatedRef"></a>
+<details>
+    <summary>دیگر منابع</summary>
+
+> ## دیگر منابع
+
+[<kbd>↩</kbd>](#TOC)
+
+</details>
+
+<a name="eLearning"></a>
+<details>
+    <summary>آموزش ها کاربردی</summary>
+
+> ## آموزش ها کاربردی
+
+- [آموزش تعامل انسان با کامپیوتر-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
+
+[<kbd>↩</kbd>](#TOC)
+
+</details>
+
 -----------------------
+
+
+
+
+
+
+<details>
+    <summary>گروه ها</summary>
+
+
 ## گروه ها
 
 1. G-H01
@@ -72,16 +151,11 @@
 
 - []()            
     - []()    
-    - []()    
--------------------------------------------
->## [سیلابس وزرات علوم برای درس تعامل انسان و كامپيوتر](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/_1569752509_1_HCI.pdf) 
+    - []()
+    
+</details>
 
--------------
-
->## دروس مشابه
-
-- [آموزش تعامل انسان با کامپیوتر-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
-
-
+[<kbd>↩</kbd>](#TOC)
+        
 
 
