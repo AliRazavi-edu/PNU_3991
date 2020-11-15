@@ -1,6 +1,12 @@
-## نحوه ارزشیابی درس
-
-[لینک دانلود فایل]
+## سیاهه ارزشیابی درس
+1. **فعالیت های مشترک همه دانشجویان**
+    1. ساخت اکانت گیت هاب
+    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
+    3. ارائه رزومه
+    4. ارائه انگیزه نامه
+    5. ایجاد ریپازیتوری PNU_3991_AR
+    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
+    7. مشارکت در گروهای درسی
 
 ---------------
 >## (منبع درس طراحی واسط کاربر ( 01-1322110
@@ -44,6 +50,9 @@
 
 >## دروس مشابه
 - [فرادرس-Foundationآموزش طراحی رابط کاربری وب سایت با فریم ورک](https://faradars.org/courses/fvweb9710-designing-user-interface-of-website-with-foundation-framework)
+- [CS194H- User Experience Design Project - Winter 2020](https://hci.stanford.edu/courses/cs194h/2020/wi/)
+    - [2020 - projects](https://hci.stanford.edu/courses/cs194h/2020/wi/projects.html)
+    - [2016 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
 -----------
 
 > ## دیگر منابع
@@ -53,6 +62,7 @@
 
 - [CS 235 User Interface Design - San Jose State University](https://www.cs.sjsu.edu/~mak/archive/CS235/)
 
+- [Universal Principles of Design](http://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=ntt_at_ep_dpt_1)
 --------
 > ## آموزش ها
 
