@@ -106,7 +106,7 @@
 -----------
 <a name="RelatedRef"></a>
 <details>
-    <summary>آموزش ها کاربردی</summary>
+    <summary>دیگر منابع</summary>
 
 > ## دیگر منابع
 
