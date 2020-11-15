@@ -104,6 +104,9 @@
 
 - [Universal Principles of Design](http://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=ntt_at_ep_dpt_1)
 --------
+<details>
+    <summary>آموزش ها</summary>
+
 > ## آموزش ها
 
 - [  از مقدماتیHtml,Cssآموزش](https://toplearn.com/courses/47/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-html-%D9%88-css-%D8%A7%D8%B2-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C)
@@ -113,6 +116,11 @@
 - [  ( UI ) دوره طراحی رابط کاربری ](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
 - [Udemy Adobe XD: UI & UX Design with 14 real world project 2020](https://p30download.ir/fa/entry/92843/)
 - [TopLearn Adobe XD](https://toplearn.com/courses/2152/%D8%AF%D9%88%D8%B1%D9%87-%D8%AC%D8%A7%D9%85%D8%B9-adobexd)
+
+[<kbd>↩</kbd>](#TOC)
+
+</details>
+
 
 <details>
     <summary>گروه ها</summary>
