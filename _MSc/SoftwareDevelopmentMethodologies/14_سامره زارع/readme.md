@@ -1,7 +1,7 @@
 #  سامره زارع
 - [PNU_3991_AR](https://github.com/samere-zare/PNU_3991_AR)
 - [Resume](https://samere-zare.github.io/Resume/)
-- [SOP](https://samerezare.github.io/SOP/)
+- [SOP](https://samere-zare.github.io/SOP/)
 - [Certificates](https://samerezare.github.io/Certificates/)
 - [GitHub](https://github.com/samere-zare)
 -----------------
