@@ -142,7 +142,7 @@
 
 2. G-S02
     1. [_SDM-]()    
-    1. [_SDM-]()
+    1. [_SDM-33_علی ارجمند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/33_%D8%B9%D9%84%DB%8C%20%D8%A7%D8%B1%D8%AC%D9%85%D9%86%D8%AF)
     1. [_SDM-26_سيدعلي محترمي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/26_%D8%B3%D9%8A%D8%AF%D8%B9%D9%84%D9%8A%20%D9%85%D8%AD%D8%AA%D8%B1%D9%85%D9%8A)
        
    
