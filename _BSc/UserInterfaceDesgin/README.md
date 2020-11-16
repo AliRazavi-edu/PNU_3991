@@ -29,6 +29,8 @@
         - هر دو عضو گروه یک نمونه مشابه
         - ارائه نیازها همه گروه با هم
     4. تجربه کاربری
+        - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
+            - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
     5. طرح دستی
     6. وایرفریم
     7. نمونه سازی
