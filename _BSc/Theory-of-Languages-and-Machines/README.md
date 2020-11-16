@@ -49,19 +49,19 @@
     1. [_TLM01-27_معصومه رضايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/27_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87%20%D8%B1%D8%B6%D8%A7%D9%8A%D9%8A)    
     1. [_TLM02-46_زهرا قائدرحمت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/46_%D8%B2%D9%87%D8%B1%D8%A7%20%D9%82%D8%A7%D8%A6%D8%AF%D8%B1%D8%AD%D9%85%D8%AA)    
     1. [_TLM02-60_فاطمه مظفري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/60_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D8%B8%D9%81%D8%B1%D9%8A)    
-1. G-L02
+2. G-L02
     1. [_TLM02-65_فاطمه موسائي اغجه كهل](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/65_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D9%88%D8%B3%D8%A7%D8%A6%D9%8A%20%D8%A7%D8%BA%D8%AC%D9%87%20%D9%83%D9%87%D9%84)
     1. [_TLM01-61_فاطمه مرادي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/61_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D8%B1%D8%A7%D8%AF%D9%8A)
     1. []()
     1. []()
     1. []()
-1. G-L03
+3. G-L03
     1. [_TLM02-36_محسن شكيبا](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/36_%D9%85%D8%AD%D8%B3%D9%86%20%D8%B4%D9%83%D9%8A%D8%A8%D8%A7)
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L04
+4. G-L04
     1. [_TLM01-56 میرمحمد کمالی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/56_%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%85%D8%A7%D9%84%D9%8A)    
     1. [_TLM01-37 آناهیتا طاهری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/37_%D8%A7%D9%86%D8%A7%D9%87%D9%8A%D8%AA%D8%A7%20%D8%B7%D8%A7%D9%87%D8%B1%D9%8A)    
     1. [_TLM01-48 عطیه فرخی حاجی آبادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/48_%D8%B9%D8%B7%D9%8A%D9%87%20%D9%81%D8%B1%D8%AE%D9%8A%20%D8%AD%D8%A7%D8%AC%D9%8A%20%D8%A7%D8%A8%D8%A7%D8%AF)      
@@ -69,7 +69,7 @@
     1. [_TLM01-02 زهرا احمدی پردستی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/02_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%A7%D8%AD%D9%85%D8%AF%D9%8A%20%D9%BE%D8%B1%D8%AF%D8%B3%D8%AA%D9%8A)   
     1. [_TLM01-44 امین عباس علی پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/44_%D8%A7%D9%85%D9%8A%D9%86%20%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%B9%D9%84%D9%8A%20%D9%BE%D9%88%D8%B1)
     
-1. G-L05
+5. G-L05
     1. [_TLM01-30 علی سلامتی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/30_%D8%B9%D9%84%D9%8A%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%D9%8A%20%D8%AE%D9%8A%D8%A7%D9%88%D9%8A)
     1. [_TLM01-16 مریم حاجی عزیزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/16_%D9%85%D8%B1%D9%8A%D9%85%20%D8%AD%D8%A7%D8%AC%D9%8A%20%D8%B9%D8%B2%D9%8A%D8%B2%D9%8A) 
     1. [TLM01-33 حانیه شعبان بلوکات](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/33_%D8%AD%D8%A7%D9%86%D9%8A%D9%87%20%D8%B4%D8%B9%D8%A8%D8%A7%D9%86%20%D8%A8%D9%84%D9%88%D9%83%D8%A7%D8%AA)  
@@ -79,7 +79,7 @@
     1. [TLM02-46 زهرا قائد رحمت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/46_%D8%B2%D9%87%D8%B1%D8%A7%20%D9%82%D8%A7%D8%A6%D8%AF%D8%B1%D8%AD%D9%85%D8%AA)
     1. [TLM02-48رضا کاظمی زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/48_%D8%B1%D8%B6%D8%A7%20%D9%83%D8%A7%D8%B8%D9%85%D9%8A%20%D8%B2%D8%A7%D8%AF%D9%87)
     
-1. G-L06
+6. G-L06
    1. [_LMT01-40_صغری عزیزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/40_%D8%B5%D8%BA%D8%B1%D9%8A%20%D8%B9%D8%B2%D9%8A%D8%B2%D9%8A)
    2. [_LMT01-59_مژگان متقی ثابت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/59_%D9%85%DA%98%DA%AF%D8%A7%D9%86%20%D9%85%D8%AA%D9%82%D9%8A%20%D8%AB%D8%A7%D8%A8%D8%AA)
    3. [_LMT01-54_حمید کشاورز خورشیدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/54_%D8%AD%D9%85%D9%8A%D8%AF%20%D9%83%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%20%D8%AE%D9%88%D8%B1%D8%B4%D9%8A%D8%AF%D9%8A)
@@ -90,145 +90,145 @@
    8. [_LMT02-13_عباس بهروز وزیری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/13_%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%A8%D9%87%D8%B1%D9%88%D8%B2%D9%88%D8%B2%D9%8A%D8%B1%D9%8A)
    9. [_LMT02-10_مرضیه بختیاری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/10_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1%D9%8A)
    
-1. G-L07
+17. G-L07
     1. [_LMT01-12_محمدرضا بصيري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/12_%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%A8%D8%B5%D9%8A%D8%B1%D9%8A)
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L08
+8. G-L08
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L09
+9. G-L09
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L10
+10. G-L10
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L11
+11. G-L11
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L12
+12. G-L12
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L13
+13. G-L13
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L14
+14. G-L14
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L15
+15. G-L15
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L16
+16. G-L16
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L17
+17. G-L17
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L18
+18. G-L18
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L19
+19. G-L19
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L20
+20. G-L20
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L21
+21. G-L21
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L22
+22. G-L22
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L23
+23. G-L23
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L24
+24. G-L24
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L25
+25. G-L25
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L26
+26. G-L26
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L27
+27. G-L27
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L28
+28. G-L28
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L29
+29. G-L29
     1. []()
     1. []()
     1. []()
     1. []()
     1. []()
-1. G-L30
+30. G-L30
     1. []()
     1. []()
     1. []()
