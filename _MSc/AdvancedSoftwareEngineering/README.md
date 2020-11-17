@@ -20,16 +20,9 @@
     - **G-SAE-04** : Template Method + Mediator + Chain of Responsibility + Observer 
     - **G-ASE-05** : Strategy + Command + State + Visitor 
     - **G-ASE-06** : Interpreter + Iterator + Memento
+
     
-3. **ارائه فصل های کتاب**
-    - **G-ASE-01** : 
-    - **G-ASE-02** : 
-    - **G-ASE-03** : 
-    - **G-ASE-04** : 	
-    - **G-ASE-05** : 
-    - **G-ASE-06** :
-    
-4. **پروژه های کاربردی**:
+3. **پروژه های کاربردی**:
     
     -	سرگروه آقای علی مهرایی
     -	سرگروه آقای علیرضا سعیدی پور
