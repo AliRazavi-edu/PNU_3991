@@ -33,7 +33,8 @@
     - **G-ASE-06** : Interpreter + Iterator + Memento
 
 3. **ارائه فصل های کتاب**
-    [An Executive’s Guide to Software Quality in an Agile Organization: A Continuous Improvement Journey](http://library.lol/main/01157942A7F8B2FAAA9F6DB6F7F5C2A7) 
+
+  ####  [An Executive’s Guide to Software Quality in an Agile Organization: A Continuous Improvement Journey](http://library.lol/main/01157942A7F8B2FAAA9F6DB6F7F5C2A7) 
      ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
     - **G-SDM-01** : 
     - **G-SDM-02** : 	
