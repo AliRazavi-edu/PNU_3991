@@ -275,9 +275,9 @@
 [1115272_01	مديريت پروژه هاي نرم افزاري	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)
 <br>
 ---
-[1115029_02	سمينار	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)
+[1115029_02	سمينار	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar)
 <br>
-[1115257_03	سمينار ( تحقيق و تتبع نظري )	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)
+[1115257_03	سمينار ( تحقيق و تتبع نظري )	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar)
 <br>
 
 [<kbd>↩</kbd>](#TOC)
