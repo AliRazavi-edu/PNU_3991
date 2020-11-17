@@ -1,6 +1,7 @@
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
+## Software Architecture 
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
@@ -12,18 +13,16 @@
     7. مشارکت در گروهای درسی
 
 2. **ها با جاوا اسکریپت paternپیاده سازی** 
-
     - **G-SA-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Singleton pattern + Prototype pattern + Adapter pattern + Bridge pattern
     - **G-SA-02** : Composite pattern + Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern + Template Method + Mediator	
     - **G-SA-03** : Chain of Responsibility + Observer + Strategy + Command + State + Visitor + Interpreter
     - **G-SA-04** : Iterator + Memento 
-   
-   
-3. **پروژه های کاربردی**:
     
-   -	سرگروه آقای علی مهرایی
-   -	سرگروه آقای علیرضا سعیدی پور
-   -	سرگروه آقای دباغ مقتدر
+3.    
+   
+4. **پروژه های کوچک کاربردی**:
+    - مشارکت در پروژه های درسی کوچک و مستقل
+    
 -----------------------------
 >## (منبع درس معماری نرم افزار ( 01-1115280
 
