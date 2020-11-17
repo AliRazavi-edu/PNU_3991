@@ -122,8 +122,9 @@
 
 > ## دیگر منابع
 - [Software Architecture: Foundations, Theory, and Practice](https://www.softwarearchitecturebook.com/)
+- [12 Essential Skills for Software Architects](http://library.lol/main/DB615AB05F2B82935AED093A0A849EB6)
+- [12 more essential skills for software architects](http://library.lol/main/B8B0ACD4D2C44649F7A0FD1CB829CA59)
 - [97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](http://library.lol/main/DEE4425F76636E78E04EBE7E9B88E40A)
-- []()
 
 [<kbd>↩</kbd>](#TOC)
 
