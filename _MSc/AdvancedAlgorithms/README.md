@@ -4,7 +4,7 @@
 ## Advanced Algorithms
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
-- [منبع درس  مهندسي نرم افزار پيشرفته](#CourseRef)
+- [منبع درس  الگوریتم پیشرفته](#CourseRef)
 - [سیلابس درس](#Curriculum)
 - [دروس مشابه](#RelatedCourses)
 - [دیگر منابع](#RelatedRef)
