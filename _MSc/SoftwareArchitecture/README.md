@@ -2,7 +2,18 @@
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
 ## Software Architecture 
+## فهرست
+- [سیاهه ارزشیابی درس](#Evaluation)
+- [منبع درس](#CourseRef)
+- [سیلابس درس](#Curriculum)
+- [دروس مشابه](#RelatedCourses)
+- [دیگر منابع](#RelatedRef)
+- [آموزش های کاربردی](#eLearning)
+- [گروه ها](#Groups)
+
+<a name="Evaluation"></a>
 ## سیاهه ارزشیابی درس
+
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
     2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
@@ -24,6 +35,10 @@
     - مشارکت در پروژه های درسی کوچک و مستقل
     
 -----------------------------
+<a name="CourseRef"></a>
+<details>
+    <summary>منبع درس  مهندسي نرم افزار پيشرفته</summary>
+
 >## (منبع درس معماری نرم افزار ( 01-1115280
 
 ## Software Architecture
@@ -75,18 +90,49 @@
 ## References
 ## About the Authors
 ## Index
+
+[<kbd>↩</kbd>](#TOC)
+
+</details>
+
 ---------------------
+<a name="Curriculum"></a>
+<details>
+    <summary>سیلابس</summary>
+
 
 >## [سیلابس وزرات علوم برای درس معماري نرم افزار](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/Educ_1140_0_SA.pdf)  
 
+[<kbd>↩</kbd>](#TOC)
+</details>
+
 ----------
+<a name="RelatedCourses"></a>
+<details>
+    <summary>دروس مشابه دیگر دانشگاهها</summary>
+
+[<kbd>↩</kbd>](#TOC)
+</details>
+
+<a name="RelatedRef"></a>
+<details>
+    <summary>دیگر منابع</summary>
 
 > ## دیگر منابع
 [Software Architecture: Foundations, Theory, and Practice](https://www.softwarearchitecturebook.com/)
 
+[<kbd>↩</kbd>](#TOC)
+
+</details>
+
 ---------------
+<a name="Groups"></a>
+<details>
+    <summary>گروه ها</summary>
+
 ## گروه ها
 
+<a name="G-S01"></a>
 1. G-S01
     1. [_SA-19_سحر زيني وندمقدم](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/19_%D8%B3%D8%AD%D8%B1%20%D8%B2%D9%8A%D9%86%D9%8A%20%D9%88%D9%86%D8%AF%D9%85%D9%82%D8%AF%D9%85)    
     1. [_SA-18_سامره زارع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/18_%D8%B3%D8%A7%D9%85%D8%B1%D9%87%20%D8%B2%D8%A7%D8%B1%D8%B9)    
@@ -96,6 +142,8 @@
     1. [_SA-10_پروانه خاني همت اباد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/10_%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87%20%D8%AE%D8%A7%D9%86%D9%8A%20%D9%87%D9%85%D8%AA%20%D8%A7%D8%A8%D8%A7%D8%AF)    
     1. [_SA-13_سحر رجبي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/13_%D8%B3%D8%AD%D8%B1%20%D8%B1%D8%AC%D8%A8%D9%8A)
     
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 2. G-S02
     1. [_SA-05_مرضيه بهالوهوره](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/05_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D9%87%D8%A7%D9%84%D9%88%D9%87%D9%88%D8%B1%D9%87)    
     1. [_SA-06_بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/06_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)    
@@ -105,6 +153,8 @@
     1. [_SA-24_پوريا صفري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/24_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A)
     1. [_SA-26_مهتاب محمد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/26_%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF)
     
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 3. G-S03
     1. [_SA-04_سالار بهادر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/04_%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%20%D8%A8%D9%87%D8%A7%D8%AF%D8%B1)    
     1. [_SA-03_جمال بختياري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/03_%D8%AC%D9%85%D8%A7%D9%84%20%D8%A8%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1%D9%8A)    
@@ -114,6 +164,8 @@
     1. [_SA-]() 
     1. [_SA-]()
    
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 4. G-S04
     1. [_SA-]()    
     1. [_SA-]()    
@@ -123,6 +175,8 @@
     1. [_SA-]() 
     1. [_SA-]()
     
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 5. G-S05
     1. [_SA-]()    
     1. [_SA-]()    
@@ -132,5 +186,9 @@
     1. [_SA-]() 
     1. [_SA-]()
     
+</details>
+
+
+[<kbd>↩</kbd>](#TOC)
 
 
