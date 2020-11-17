@@ -23,6 +23,13 @@
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
 
+4. **پروژه های کاربردی**:
+    
+    -	سرگروه آقای علی مهرایی
+    -	سرگروه آقای علیرضا سعیدی پور
+    -	سرگروه آقای دباغ مقتدر
+
+<!--
 2. **ها با جاوا اسکریپت paternپیاده سازی** 
 
     - [**G-ASE-01**](#G-A01) : Abstract Factory pattern + Builder pattern + Factory Method pattern + Prototype pattern 
@@ -46,12 +53,8 @@
    - **G-ASE-08** : Quality Excellence Journey
    - **G-ASE-09** : Quality at Scale
    - **G-ASE-10** : Conclusion and Summary
+ -->
     
-4. **پروژه های کاربردی**:
-    
-    -	سرگروه آقای علی مهرایی
-    -	سرگروه آقای علیرضا سعیدی پور
-    -	سرگروه آقای دباغ مقتدر
 
 
 -----------------
