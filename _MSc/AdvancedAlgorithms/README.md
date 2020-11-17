@@ -6,9 +6,8 @@
 - [سیاهه ارزشیابی درس](#Evaluation)
 - [منبع درس  مهندسي نرم افزار پيشرفته](#CourseRef)
 - [سیلابس درس](#Curriculum)
-- [دروس مشابه دیگر دانشگاهها](#RelatedCourses)
+- [دروس مشابه](#RelatedCourses)
 - [دیگر منابع](#RelatedRef)
-- [آموزش های کاربردی](#eLearning)
 - [گروه ها](#Groups)
 
 <a name="Evaluation"></a>
