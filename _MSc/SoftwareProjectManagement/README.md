@@ -22,12 +22,12 @@
     - **G-SPM-08** : CHAPTER 31 + CHAPTER 26 + CHAPTER 30
     - **G-SPM-09** : CHAPTER 32 + CHAPTER 27 + CHAPTER 31
 
-3. **ارائه پژوهش از منابع دیگر**  
+3. **ارائه پژوهش از منابع دیگر** 
     - Project management of large software-intensive systems : controlling the software development process
         - **از صفحه :** [(شماره ردیف دانشجو - 1) * 5] + 3
         - **تا صفحه :**  [(شماره ردیف دانشجو) * 5] + 2
 
-4. **پروژه های کوچک کاربردی**:
+4. **پروژه های کوچک کاربردی**
     - مشارکت در پروژه های درسی کوچک و مستقل
 
 ---------------
