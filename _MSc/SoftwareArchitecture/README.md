@@ -37,7 +37,7 @@
 -----------------------------
 <a name="CourseRef"></a>
 <details>
-    <summary>منبع درس  مهندسي نرم افزار پيشرفته</summary>
+    <summary>منبع درس  معماري نرم افزار</summary>
 
 >## (منبع درس معماری نرم افزار ( 01-1115280
 
@@ -121,7 +121,9 @@
     <summary>دیگر منابع</summary>
 
 > ## دیگر منابع
-[Software Architecture: Foundations, Theory, and Practice](https://www.softwarearchitecturebook.com/)
+- [Software Architecture: Foundations, Theory, and Practice](https://www.softwarearchitecturebook.com/)
+- [97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](http://library.lol/main/DEE4425F76636E78E04EBE7E9B88E40A)
+- []()
 
 [<kbd>↩</kbd>](#TOC)
 
