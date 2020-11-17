@@ -134,6 +134,13 @@
 >## دیگر منابع
 
  - [**visualising data structures and algorithms through animation**](https://visualgo.net/en)
+ - [Vizualizes Maximum flow](https://github.com/gbarnev/MaxFlow-algorithm-visualization)
+    - [gbarnev.github.io](https://gbarnev.github.io/MaxFlow-algorithm-visualization/)
+ - [MinCut-Maxflow-Simulation](https://github.com/thakurso/MinCut-Maxflow-Simulation)
+ - [Visual step by step example of the Ford Fulkerson algorithm](https://github.com/olastor/react-network-graphs)
+    - [olastor.github.io](https://olastor.github.io/react-network-graphs/)
+ - [Interactive Online Platform that Visualizes Algorithms from Code](https://github.com/algorithm-visualizer/)
+    - [algorithm-visualizer.org](https://algorithm-visualizer.org/)
 
 [<kbd>↩</kbd>](#TOC)
 </details>
