@@ -1,6 +1,8 @@
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
+## Software Project Management
+
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
@@ -31,10 +33,11 @@
     - مشارکت در پروژه های درسی کوچک و مستقل
 
 ---------------
+<a name="CourseRef"></a>
+<details>
+    <summary>منبع درس  مديريت پروژه هاي نرم افزاري</summary>
+
 >## (منبع درس  مديريت پروژه هاي نرم افزاري (   01-1115272
-
-
-## SoftwareProjectManagement
 
 - [پاورپوینت ها](http://ceit.aut.ac.ir/~91131079/SE2/SE2%20Website/Other%20Slides/Pressman7.rar)
 
@@ -86,64 +89,120 @@
 ## REFERENCES
 ## INDEX
    
+[<kbd>↩</kbd>](#TOC)
+
+</details>
+
+   
 ----------------------
+<a name="Curriculum"></a>
+<details>
+    <summary>سیلابس</summary>
+
 >## [سیلابس وزرات علوم برای درس مهندسي نرم افزار پيشرفته](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/Educ_1140_0_SPM.pdf)  
+
+[<kbd>↩</kbd>](#TOC)
+</details>
 
 --------------------
 
+
+<a name="RelatedCourses"></a>
+<details>
+    <summary>دروس مشابه</summary>
+    
 > ## PNU_3983
 [SoftwareProjectManagement](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement)
 
+[<kbd>↩</kbd>](#TOC)
+</details>
+
 ---------------------------
+<a name="RelatedRef"></a>
+<details>
+    <summary>دیگر منابع</summary>
 
 > ## دیگر منابع
 
 - [Project management of large software-intensive systems : controlling the software development process](http://31.42.184.140/main/2478000/95240d2f4cf0a87af846310e0d568ab1/Gechman%2C%20Marvin%20-%20Project%20management%20of%20large%20software-intensive%20systems%20_%20controlling%20the%20software%20development%20process-CRC%20Press%20%282019%29.pdf)
 - Software Development From A to Z A Deep Dive into all the Roles Involved in the Creation of Software by Olga Filipova, Rui Vilão
 
+[<kbd>↩</kbd>](#TOC)
+
+</details>
+
+---------------------------
+
+<a name="Groups"></a>
+<details>
+    <summary>گروه ها</summary>
+
 > ## گروه ها
 
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 1. G-SPM-01    
     1. [_SPM-15_فاطمه شكاري بادي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/15_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B4%D9%83%D8%A7%D8%B1%D9%8A%20%D8%A8%D8%A7%D8%AF%D9%8A)       
     1. [_SPM-21_سيما محسني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/21_%D8%B3%D9%8A%D9%85%D8%A7%20%D9%85%D8%AD%D8%B3%D9%86%D9%8A)
     1. [_SPM-04_محمد امانعليخاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/04_%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%85%D8%A7%D9%86%D8%B9%D9%84%D9%8A%D8%AE%D8%A7%D9%86%D9%8A)
     
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 2. G-SPM-02
     1. [_SPM-24_كاوه نوذراصل](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/24_%D9%83%D8%A7%D9%88%D9%87%20%D9%86%D9%88%D8%B0%D8%B1%D8%A7%D8%B5%D9%84)    
     1. [_SPM-17_حميدرضا غياث ابادي فراهاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/17_%D8%AD%D9%85%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%BA%D9%8A%D8%A7%D8%AB%20%D8%A7%D8%A8%D8%A7%D8%AF%D9%8A%20%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%D9%8A)    
     1. [_SPM-09_حانيه رضائي بقا](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/09_%D8%AD%D8%A7%D9%86%D9%8A%D9%87%20%D8%B1%D8%B6%D8%A7%D8%A6%D9%8A%20%D8%A8%D9%82%D8%A7)
     
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 3. G-SPM-03
     1. [_SPM-10_سيدصادق رضوي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/10_%D8%B3%D9%8A%D8%AF%D8%B5%D8%A7%D8%AF%D9%82%20%D8%B1%D8%B6%D9%88%D9%8A)    
     1. [_SPM-14_نادر سيفي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/14_%D9%86%D8%A7%D8%AF%D8%B1%20%D8%B3%D9%8A%D9%81%D9%8A)    
     1. [_SPM-]()  
     
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 4. G-SPM-04
     1. [_SPM-01_هانيه ابراهيمي ميمند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/01_%D9%87%D8%A7%D9%86%D9%8A%D9%87%20%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%D9%8A%20%D9%85%D9%8A%D9%85%D9%86%D8%AF)    
     1. [_SPM-05_روناك باستاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/05_%D8%B1%D9%88%D9%86%D8%A7%D9%83%20%D8%A8%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D9%8A)    
     1. [_SPM-]() 
     
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 5. G-SPM-05
     1. [_SPM-20_مهرداد مجدي نسب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/20_%D9%85%D9%87%D8%B1%D8%AF%D8%A7%D8%AF%20%D9%85%D8%AC%D8%AF%D9%8A%20%D9%86%D8%B3%D8%A8)   
     1. [_SPM-02_فهيمه ابوحمزه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/02_%D9%81%D9%87%D9%8A%D9%85%D9%87%20%D8%A7%D8%A8%D9%88%D8%AD%D9%85%D8%B2%D9%87)    
     1. [_SPM-13_سيدمهدي سيادتيان حقيقي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/13_%D8%B3%D9%8A%D8%AF%D9%85%D9%87%D8%AF%D9%8A%20%D8%B3%D9%8A%D8%A7%D8%AF%D8%AA%D9%8A%D8%A7%D9%86%20%D8%AD%D9%82%D9%8A%D9%82%D9%8A)
     
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 6. G-SPM-06
     1. [_SPM-08_فرزانه خاشعي ورنامخواستي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/08_%D9%81%D8%B1%D8%B2%D8%A7%D9%86%D9%87%20%D8%AE%D8%A7%D8%B4%D8%B9%D9%8A%20%D9%88%D8%B1%D9%86%D8%A7%D9%85%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D9%8A)    
     1. [_SPM-18_مرتضي قرباني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/18_%D9%85%D8%B1%D8%AA%D8%B6%D9%8A%20%D9%82%D8%B1%D8%A8%D8%A7%D9%86%D9%8A)    
     1. [_SPM-26_محمدحسين نوراذران](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/26_%D9%85%D8%AD%D9%85%D8%AF%D8%AD%D8%B3%D9%8A%D9%86%20%D9%86%D9%88%D8%B1%D8%A7%D8%B0%D8%B1%D8%A7%D9%86) 
     
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 7. G-SPM-07
      1. [_SPM-]()  
     1. [_SPM-]() 
     1. [_SPM-]()  
     
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 8. G-SPM-08
     1. [_SPM-]()    
     1. [_SPM-]()    
     1. [_SPM-]() 
     
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 9. G-SPM-09
     1. [_SPM-10_سيدصادق رضوي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/10_%D8%B3%D9%8A%D8%AF%D8%B5%D8%A7%D8%AF%D9%82%20%D8%B1%D8%B6%D9%88%D9%8A)    
     1. [_SPM-]()    
     1. [_SPM-]()    
+
+</details>
+
+
+[<kbd>↩</kbd>](#TOC)

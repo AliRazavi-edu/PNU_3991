@@ -12,7 +12,6 @@
     7. مشارکت در گروهای درسی
     8. فرصت بارگذاری فایل ضبط شده ارائه فصول، حداکثر تا 15 آذر 99 می باشد
 2. **ارائه فصل های کتاب**
-     
      ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
     - **G-SDM-01** : CHAPTER 20 + CHAPTER 24 + CHAPTER 28
     - **G-SDM-02** : CHAPTER 21 + CHAPTER 25 + CHAPTER 27	
@@ -43,6 +42,10 @@
 [**نمونه تحویل فعالیت های انجام شده**](https://github.com/saharzeinivand/PNU_3991_AR/)
 
 ---------------
+<a name="CourseRef"></a>
+<details>
+    <summary>منبع درس متدولوژي ايجاد نرم افزار</summary>
+
 >## (منبع درس متدولوژي ايجاد نرم افزار ( 01-1115282
 
 
@@ -101,6 +104,7 @@
 
 ## Index 
 
+
 --------------
 
 >## (منبع درس متدولوژي ايجاد نرم افزار ( 01-1115282
@@ -115,22 +119,56 @@
 
 <a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Information%20systems%20development%20methodologies%2C%20techniques%20and%20tools1.png"> </a>
 # Table of contents
+
+[<kbd>↩</kbd>](#TOC)
+
+</details>
+
+
 --------------
+
+<a name="Curriculum"></a>
+<details>
+    <summary>سیلابس</summary>
 
 >## [سیلابس وزرات علوم برای درس  متدولوژي ايجاد نرم افزار](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/Educ_1140_0_Metheod.pdf)  
 
+[<kbd>↩</kbd>](#TOC)
+</details>
+
 --------------
 
+<a name="RelatedCourses"></a>
+<details>
+    <summary>دروس مشابه</summary>
+    
 >## دروس مشابه
 
+[<kbd>↩</kbd>](#TOC)
+</details>
+
 -----------
+<a name="RelatedRef"></a>
+<details>
+    <summary>دیگر منابع</summary>
 
 > ## دیگر منابع
 - [http://sharif.edu/~ramsin/index_files/gradcourse_SDM.htm]
 
----------------
+[<kbd>↩</kbd>](#TOC)
+
+</details>
+
+---------------------------
+
+<a name="Groups"></a>
+<details>
+    <summary>گروه ها</summary>
+
 ## گروه ها
 
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 1. G-S01
     1. [_SDM-14_سامره زارع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/14_%D8%B3%D8%A7%D9%85%D8%B1%D9%87%20%D8%B2%D8%A7%D8%B1%D8%B9)
     1. [_SDM-16_سحر زيني وندمقدم](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/16_%D8%B3%D8%AD%D8%B1%20%D8%B2%D9%8A%D9%86%D9%8A%20%D9%88%D9%86%D8%AF%D9%85%D9%82%D8%AF%D9%85)         
@@ -138,35 +176,47 @@
      
      
 
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 2. G-S02
     1. [_SDM-]()    
     1. [_SDM-33_علی ارجمند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/33_%D8%B9%D9%84%DB%8C%20%D8%A7%D8%B1%D8%AC%D9%85%D9%86%D8%AF)
     1. [_SDM-26_سيدعلي محترمي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/26_%D8%B3%D9%8A%D8%AF%D8%B9%D9%84%D9%8A%20%D9%85%D8%AD%D8%AA%D8%B1%D9%85%D9%8A)
        
    
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 3. G-S03
     1. [_SDM-03_مرضيه بهالوهوره](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/03_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D9%87%D8%A7%D9%84%D9%88%D9%87%D9%88%D8%B1%D9%87)    
     1. [_SDM-04_بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/04_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)    
     1. [_SDM-13_بهناز رفيعي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/13_%D8%A8%D9%87%D9%86%D8%A7%D8%B2%20%D8%B1%D9%81%D9%8A%D8%B9%D9%8A) 
     
        
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 4. G-S04
    1. [_SDM-20_زهرا صالح زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/20_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B2%D8%A7%D8%AF%D9%87)    
    1. [_SDM-23_پوريا صفري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/23_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A)    
     1. [_SDM-27_مهتاب محمد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/27_%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF)
   
 
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 5. G-S05
     1. [_SDM-12_سيدمهدي رفعت جاه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/12_%D8%B3%D9%8A%D8%AF%D9%85%D9%87%D8%AF%D9%8A%20%D8%B1%D9%81%D8%B9%D8%AA%20%D8%AC%D8%A7%D9%87)    
     1. [_SDM-15_مرتضي زند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/15_%D9%85%D8%B1%D8%AA%D8%B6%D9%8A%20%D8%B2%D9%86%D8%AF)    
     1. [_SDM-24_معصومه طاهري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/24_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87%20%D8%B7%D8%A7%D9%87%D8%B1%D9%8A) 
     
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 6. G-S06
     1. [_SDM-]()    
     1. [_SDM-]()    
     1. [_SDM-]()
     
 
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 7. G-S07
     1. [_SDM-05_شاهين جلالي قره موسي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/05_%D8%B4%D8%A7%D9%87%D9%8A%D9%86%20%D8%AC%D9%84%D8%A7%D9%84%D9%8A%20%D9%82%D8%B1%D9%87%20%D9%85%D9%88%D8%B3%D9%8A)    
     1. [_SDM-28_فريبا محمدي پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/28_%D9%81%D8%B1%D9%8A%D8%A8%D8%A7%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A%20%D9%BE%D9%88%D8%B1)    
@@ -174,18 +224,26 @@
     
     
         
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 8. G-S08
     1. [_SDM-25_سيدرضا علويان زو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/25_%D8%B3%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%B9%D9%84%D9%88%D9%8A%D8%A7%D9%86%20%D8%B2%D9%88)    
     1. [_SDM-]()    
     1. [_SDM-]() 
     
 
+[<kbd>↩</kbd>](#TOC)
+<a name="G-S01"></a>
 9. G-S09
     1. [_SDM-31_علي مهرايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/31_%D8%B9%D9%84%D9%8A%20%D9%85%D9%87%D8%B1%D8%A7%D9%8A%D9%8A)    
     1. [_SDM-10_سحر رجبي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/10_%D8%B3%D8%AD%D8%B1%20%D8%B1%D8%AC%D8%A8%D9%8A)  
     1. [_SDM-02_سالار بهادر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/02_%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%20%D8%A8%D9%87%D8%A7%D8%AF%D8%B1)    
 
 
+</details>
+
+
+[<kbd>↩</kbd>](#TOC)
 
 
 
