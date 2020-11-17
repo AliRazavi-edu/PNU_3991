@@ -23,7 +23,7 @@
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
 
-2. **ها با جاوا اسکریپت paternپیاده سازی** 
+2. **ارائه الگوهای پیاده سازی شده با جاوا اسکریپت** 
     - **G-SA-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Singleton pattern + Prototype pattern + Adapter pattern + Bridge pattern
     - **G-SA-02** : Composite pattern + Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern + Template Method + Mediator	
     - **G-SA-03** : Chain of Responsibility + Observer + Strategy + Command + State + Visitor + Interpreter
