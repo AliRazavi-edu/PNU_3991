@@ -99,7 +99,7 @@
 <details>
     <summary>سیلابس</summary>
 
->## [سیلابس وزرات علوم برای درس مهندسي نرم افزار پيشرفته](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/Educ_1140_0_SPM.pdf)  
+>## [سیلابس وزرات علوم برای درس مديريت پروژه هاي نرم افزاري](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/Educ_1140_0_SPM.pdf)  
 
 [<kbd>↩</kbd>](#TOC)
 </details>
