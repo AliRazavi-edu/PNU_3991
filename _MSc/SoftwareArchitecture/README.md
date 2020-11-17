@@ -122,9 +122,18 @@
 
 > ## دیگر منابع
 - [Software Architecture: Foundations, Theory, and Practice](https://www.softwarearchitecturebook.com/)
+    - Author(s): Richard N. Taylor; Nenad Medvidovic; Eric Dashofy
+    - Publisher: Wiley, Year: 2008
+        - [Revision 8: /slides/ppt](https://www.softwarearchitecturebook.com/svn/main/slides/ppt/)
 - [12 Essential Skills for Software Architects](http://library.lol/main/DB615AB05F2B82935AED093A0A849EB6)
+    - Author(s): Dave Hendricksen
+    - Publisher: Addison-Wesley Professional, Year: 2011
 - [12 more essential skills for software architects](http://library.lol/main/B8B0ACD4D2C44649F7A0FD1CB829CA59)
+    - Author(s): Hendricksen, Dave
+    - Publisher: Addison-Wesley, Year: 2015
 - [97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](http://library.lol/main/DEE4425F76636E78E04EBE7E9B88E40A)
+    - Author(s): Barbee Davis, Harry Tucker
+    - Publisher: O'Reilly Media, Year: 2009
 
 [<kbd>↩</kbd>](#TOC)
 
