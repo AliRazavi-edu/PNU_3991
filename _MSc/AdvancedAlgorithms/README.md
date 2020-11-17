@@ -142,10 +142,8 @@
  - [Interactive Online Platform that Visualizes Algorithms from Code](https://github.com/algorithm-visualizer/)
     - [algorithm-visualizer.org](https://algorithm-visualizer.org/)
 ----
+
 - [**Github Search**](https://github.com/search?q=algorithm-visualization&type=Repositories)
-
-
-- <a href="https://github.com/search?q=algorithm-visualization&type=Repositories" target="_blank">Github Search</a>
     
 [<kbd>↩</kbd>](#TOC)
 </details>
