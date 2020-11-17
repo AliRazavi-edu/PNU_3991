@@ -2,6 +2,7 @@
 <a name="TOC"></a>
 ## فهرست
 - [روز و ساعت ارائه دروس](#Course-Table)
+- [پروژه های کاربردی](#Student-Prjs)
 - [کار دانشجویی](#Student-Work)
 - [گیت هاب](#Github)
 - [رزومه - انگیزه نامه](#CV_SOP)
@@ -84,7 +85,7 @@
  
  [<kbd>↩</kbd>](#TOC)
 -----------------------------------------
-<a name="Student-Work"></a>
+<a name="Student-Prjs"></a>
 <details>
     <summary>پروژه های کاربردی</summary>
 
