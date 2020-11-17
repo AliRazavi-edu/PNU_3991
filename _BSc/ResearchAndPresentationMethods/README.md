@@ -83,7 +83,7 @@
       
 5. G-R05
    1. [_RPM02-15_عذرا حسینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/15_%D8%B9%D8%B0%D8%B1%D8%A7%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)
-   1. [_RPM02-23_فاطمه رشیدی اصل](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/23_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B1%D8%B4%D9%8A%D8%AF%D9%8A%20%D8%A7%D8%B5%D9%8A)
+   1. [_RPM02-23_فاطمه رشیدی اصل](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/23_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B1%D8%B4%D9%8A%D8%AF%D9%8A%20%D8%A7%D8%B5%D9%84)
    1. [_PRM02-46_سکینه قاسمیان رستاقی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/46_%D8%B3%D9%83%D9%8A%D9%86%D9%87%20%D9%82%D8%A7%D8%B3%D9%85%D9%8A%D8%A7%D9%86%20%D8%B1%D8%B3%D8%AA%D8%A7%D9%82%D9%8A)
    1. [_PRM02-04_هانیه اعرابی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/04_%D9%87%D8%A7%D9%86%D9%8A%D9%87%20%D8%A7%D8%B9%D8%B1%D8%A7%D8%A8%D9%8A) 
 
