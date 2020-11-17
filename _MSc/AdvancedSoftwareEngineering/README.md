@@ -25,10 +25,10 @@
 
 2. **ها با جاوا اسکریپت paternپیاده سازی** 
 
-    - **G-SAE-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Prototype pattern 
-    - **G-SAE-02** : Singleton pattern + Adapter pattern + Bridge pattern +Composite pattern
-    - **G-SAE-03** : Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern 
-    - **G-SAE-04** : Template Method + Mediator + Chain of Responsibility + Observer 
+    - **G-ASE-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Prototype pattern 
+    - **G-ASE-02** : Singleton pattern + Adapter pattern + Bridge pattern +Composite pattern
+    - **G-ASE-03** : Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern 
+    - **G-ASE-04** : Template Method + Mediator + Chain of Responsibility + Observer 
     - **G-ASE-05** : Strategy + Command + State + Visitor 
     - **G-ASE-06** : Interpreter + Iterator + Memento
 
@@ -36,13 +36,16 @@
 
   ####  [An Executive’s Guide to Software Quality in an Agile Organization: A Continuous Improvement Journey](http://library.lol/main/01157942A7F8B2FAAA9F6DB6F7F5C2A7) 
   ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
-   - **G-SDM-01** : 
-   - **G-SDM-02** : 	
-   - **G-SDM-03** : 
-   - **G-SDM-04** : 	
-   - **G-SDM-05** : 	
-   - **G-SDM-06** : 	
-   
+   - **G-ASE-01** : Quality in Agile
+   - **G-ASE-02** : Worldview and Integral Map	
+   - **G-ASE-03** : Perception of Quality
+   - **G-ASE-04** : Quality Challenges in an Agile Team	
+   - **G-ASE-05** : Quality Framework	
+   - **G-ASE-06** : Assessment Against NQPs (Navid’s Quality Pillars)	
+   - **G-ASE-07** : Agile Quality Test Strategy
+   - **G-ASE-08** : Quality Excellence Journey
+   - **G-ASE-09** : Quality at Scale
+   - **G-ASE-10** : Conclusion and Summary
     
 4. **پروژه های کاربردی**:
     
