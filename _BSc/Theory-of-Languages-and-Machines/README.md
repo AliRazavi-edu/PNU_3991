@@ -24,6 +24,8 @@
 4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک**  
     - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
 
+[**نمونه تحویل فعالیت های انجام شده**](https://github.com/mir-mohammad/PNU_3991_AR/)
+
 ---------------
 > ## فهرست دانشجویان
    1. [1115157_01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01) : 69 Students :   1 - 69
