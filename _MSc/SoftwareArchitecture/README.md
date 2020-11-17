@@ -22,6 +22,7 @@
     5. ایجاد ریپازیتوری PNU_3991_AR
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
+        - هر گروه حداکثر 6 نفر
 
 2. **ارائه الگوهای پیاده سازی شده با جاوا اسکریپت** 
     - **G-SA-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Singleton pattern + Prototype pattern + Adapter pattern + Bridge pattern
@@ -29,7 +30,8 @@
     - **G-SA-03** : Chain of Responsibility + Observer + Strategy + Command + State + Visitor + Interpreter
     - **G-SA-04** : Iterator + Memento 
     
-3.    
+3.  **ارائه کتاب**
+    - هر گروه 2 فصل از کتاب ریچارد
    
 4. **پروژه های کوچک کاربردی**:
     - مشارکت در پروژه های درسی کوچک و مستقل
@@ -125,6 +127,8 @@
     - Author(s): Richard N. Taylor; Nenad Medvidovic; Eric Dashofy
     - Publisher: Wiley, Year: 2008
         - [Revision 8: /slides/ppt](https://www.softwarearchitecturebook.com/svn/main/slides/ppt/)
+        - [Lunar Lander in Pipe-and-Filter (.zip format)](Lunar Lander in Pipe-and-Filter (.zip format))
+        - [Lunar Lander in C2 (.zip format)](Lunar Lander in C2 (.zip format))
 - [12 Essential Skills for Software Architects](http://library.lol/main/DB615AB05F2B82935AED093A0A849EB6)
     - Author(s): Dave Hendricksen
     - Publisher: Addison-Wesley Professional, Year: 2011
