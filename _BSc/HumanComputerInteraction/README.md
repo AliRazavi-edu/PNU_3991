@@ -4,8 +4,8 @@
 ## Human Computer Interaction
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
-- [سیلابس درس](#Curriculum)
 - [منبع درس طراحی واسط کاربر](#CourseRef)
+- [سیلابس درس](#Curriculum)
 - [دروس مشابه دیگر دانشگاهها](#RelatedCourses)
 - [دیگر منابع](#RelatedRef)
 - [آموزش های کاربردی](#eLearning)
