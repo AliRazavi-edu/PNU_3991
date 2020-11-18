@@ -165,6 +165,7 @@
     
 [<kbd>↩</kbd>](#TOC)
 <a name="G-S01"></a>
+
 2. G-S02
     1. [_SA-05_مرضيه بهالوهوره](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/05_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D9%87%D8%A7%D9%84%D9%88%D9%87%D9%88%D8%B1%D9%87)    
     1. [_SA-06_بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/06_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)    
@@ -176,6 +177,7 @@
     
 [<kbd>↩</kbd>](#TOC)
 <a name="G-S01"></a>
+
 3. G-S03
     1. [_SA-04_سالار بهادر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/04_%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%20%D8%A8%D9%87%D8%A7%D8%AF%D8%B1)    
     1. [_SA-03_جمال بختياري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/03_%D8%AC%D9%85%D8%A7%D9%84%20%D8%A8%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1%D9%8A)    
@@ -187,6 +189,7 @@
    
 [<kbd>↩</kbd>](#TOC)
 <a name="G-S01"></a>
+
 4. G-S04
     1. [_SA-]()    
     1. [_SA-]()    
@@ -198,6 +201,7 @@
     
 [<kbd>↩</kbd>](#TOC)
 <a name="G-S01"></a>
+
 5. G-S05
     1. [_SA-]()    
     1. [_SA-]()    
