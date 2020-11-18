@@ -28,7 +28,8 @@
     - **G-SA-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Singleton pattern + Prototype pattern + Adapter pattern + Bridge pattern
     - **G-SA-02** : Composite pattern + Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern + Template Method + Mediator	
     - **G-SA-03** : Chain of Responsibility + Observer + Strategy + Command + State + Visitor + Interpreter
-    - **G-SA-04** : Iterator + Memento 
+    - **G-SA-04** : Iterator + Memento + Bridge pattern + Proxy pattern + State + Builder pattern + Singleton pattern
+    - **G-SA-05** : Command + Singleton pattern + Prototype pattern + Decorator pattern + Façade pattern 
     
 3.  **ارائه کتاب**
     - هر گروه 2 فصل از کتاب ریچارد
@@ -36,6 +37,7 @@
     - **G-SA-02** : 
     - **G-SA-03** : 
     - **G-SA-04** : 
+    - **G-SA-05** :  
 4. **پروژه های کوچک کاربردی**
     - مشارکت در پروژه های درسی کوچک و مستقل
     
