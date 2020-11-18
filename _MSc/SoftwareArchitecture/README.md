@@ -25,15 +25,18 @@
         - هر گروه حداکثر 6 نفر
 
 2. **ارائه الگوهای پیاده سازی شده با جاوا اسکریپت** 
-    - **G-SA-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Singleton pattern + Prototype pattern + Adapter pattern + Bridge pattern
-    - **G-SA-02** : Composite pattern + Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern + Template Method + Mediator	
-    - **G-SA-03** : Chain of Responsibility + Observer + Strategy + Command + State + Visitor + Interpreter
-    - **G-SA-04** : Iterator + Memento + Bridge pattern + Proxy pattern + State + Builder pattern + Singleton pattern
-    - **G-SA-05** : Command + Singleton pattern + Prototype pattern + Decorator pattern + Façade pattern 
-    
+    - **G-SA-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Singleton pattern + Prototype pattern + Adapter pattern  
+    - **G-SA-02** : Bridge pattern + Composite pattern + Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern 	
+    - **G-SA-03** : Template Method + Mediator + Chain of Responsibility + Observer + Strategy + Command 
+    - **G-SA-04** : State + Visitor + Interpreter + Iterator + Memento 
+    - **G-SA-05** : 
+    - **G-SA-06** :
 3.  **ارائه کتاب**
-    - هر گروه 2 فصل از کتاب ریچارد
-    - **G-SA-01** : Chapter 1: The Big Idea + Chapter 2: Architectures in Context: The Reorientation of Software Engineering
+   - هر گروه 2 فصل از کتاب ریچارد
+     
+  ##### **هر تیم یک فصل را به زبان اصلی روخوانی نموده و برای هر بخش و زیر بخش در چند جمله خلاصه برداشت از مطالعه را به فارسی توضیح میدهد**
+
+   - **G-SA-01** : Chapter 1: The Big Idea + Chapter 2: Architectures in Context: The Reorientation of Software Engineering
     - **G-SA-02** : 
     - **G-SA-03** : 
     - **G-SA-04** : 
@@ -163,7 +166,7 @@
     1. [_SA-27_كلثوم محمدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/27_%D9%83%D9%84%D8%AB%D9%88%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A) 
     1. [_SA-30_علي مهرايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/30_%D8%B9%D9%84%D9%8A%20%D9%85%D9%87%D8%B1%D8%A7%D9%8A%D9%8A) 
     1. [_SA-10_پروانه خاني همت اباد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/10_%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87%20%D8%AE%D8%A7%D9%86%D9%8A%20%D9%87%D9%85%D8%AA%20%D8%A7%D8%A8%D8%A7%D8%AF)    
-    1. [_SA-13_سحر رجبي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/13_%D8%B3%D8%AD%D8%B1%20%D8%B1%D8%AC%D8%A8%D9%8A)
+   
     
 [<kbd>↩</kbd>](#TOC)
 <a name="G-S01"></a>
@@ -184,7 +187,7 @@
     1. [_SA-04_سالار بهادر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/04_%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%20%D8%A8%D9%87%D8%A7%D8%AF%D8%B1)    
     1. [_SA-03_جمال بختياري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/03_%D8%AC%D9%85%D8%A7%D9%84%20%D8%A8%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1%D9%8A)    
     1. [_SA-31_علی ارجمند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/31_%D8%B9%D9%84%DB%8C%20%D8%A7%D8%B1%D8%AC%D9%85%D9%86%D8%AF)    
-    1. [_SA-]() 
+    1. [_SA-13_سحر رجبي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/13_%D8%B3%D8%AD%D8%B1%20%D8%B1%D8%AC%D8%A8%D9%8A) 
     1. [_SA-]()
     1. [_SA-]() 
     1. [_SA-]()
