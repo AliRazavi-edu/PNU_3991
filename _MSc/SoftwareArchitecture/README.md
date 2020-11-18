@@ -36,7 +36,7 @@
      
         ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
 
-   - **G-SA-01** : Chapter 1: The Big Idea + Chapter 2: Architectures in Context: The Reorientation of Software Engineering
+   - **G-SA-01** : 
    - **G-SA-02** : 
    - **G-SA-03** : 
    - **G-SA-04** : 
