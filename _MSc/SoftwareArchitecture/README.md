@@ -32,7 +32,10 @@
     
 3.  **ارائه کتاب**
     - هر گروه 2 فصل از کتاب ریچارد
-   
+    - **G-SA-01** : Chapter 1: The Big Idea + Chapter 2: Architectures in Context: The Reorientation of Software Engineering
+    - **G-SA-02** : 
+    - **G-SA-03** : 
+    - **G-SA-04** : 
 4. **پروژه های کوچک کاربردی**
     - مشارکت در پروژه های درسی کوچک و مستقل
     
