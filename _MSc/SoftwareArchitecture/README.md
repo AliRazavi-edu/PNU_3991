@@ -26,9 +26,9 @@
 
 2. **ارائه الگوهای پیاده سازی شده با جاوا اسکریپت** 
     - **G-SA-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Singleton pattern + Prototype pattern + Adapter pattern  
-    - **G-SA-02** : Bridge pattern + Composite pattern + Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern 	
-    - **G-SA-03** : Template Method + Mediator + Chain of Responsibility + Observer + Strategy + Command 
-    - **G-SA-04** : State + Visitor + Interpreter + Iterator + Memento 
+    - **G-SA-02** : Composite pattern + Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern + Template Method + Mediator
+    - **G-SA-03** : Chain of Responsibility + Observer + Strategy + Command State + Visitor
+    - **G-SA-04** : Interpreter + Iterator + Memento + Bridge pattern
     - **G-SA-05** : 
     - **G-SA-06** :
 3.  **ارائه کتاب**
