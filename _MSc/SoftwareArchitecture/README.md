@@ -36,12 +36,12 @@
      
         ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
 
-   - **G-SA-01** : 
-   - **G-SA-02** : 
-   - **G-SA-03** : 
-   - **G-SA-04** : 
-   - **G-SA-05** : 
-   - **G-SA-06** :
+   - **G-SA-01** : Chapter 1 + Chapter 7
+   - **G-SA-02** : Chapter 2 + Chapter 8
+   - **G-SA-03** : Chapter 3 + Chapter 9
+   - **G-SA-04** : Chapter 4 + Chapter 10
+   - **G-SA-05** : Chapter 5 + Chapter 11
+   - **G-SA-06** : Chapter 6 + Chapter 12
 4. **پروژه های کوچک کاربردی**
     - مشارکت در پروژه های درسی کوچک و مستقل
     
