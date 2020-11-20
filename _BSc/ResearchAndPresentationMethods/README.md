@@ -55,18 +55,32 @@
 </details>
 
 ------------------
+<a name="RelatedCourses"></a>
+<details>
+    <summary>دروس مشابه</summary>
 
 > ## دروس مشابه
 - [آموزش شیوه ارائه علمی -فرادرس](https://faradars.org/courses/fvacw9403-scientific-presentation)
 
+[<kbd>↩</kbd>](#TOC)
+</details>
+
+<a name="RelatedRef"></a>
+<details>
+    <summary>دیگر منابع</summary>
+
 > ## دیگر منابع
 - [E-research : methods, strategies, and issues](https://archive.org/details/eresearchmethods0000ande/page/n9/mode/1up)
 
+[<kbd>↩</kbd>](#TOC)
+</details>
+
 ---
 
->## رزومه دانشجویان
+<a name="Groups"></a>
+<details>
+    <summary>گروه ها</summary>
 
-[ابوذر رقيب دوست](https://jabozaroid.github.io/)
 
 ## گروه ها
 
@@ -145,3 +159,7 @@
     1. []()    
     1. []()    
     1. []()    
+
+</details>
+
+[<kbd>↩</kbd>](#TOC)
