@@ -147,7 +147,31 @@
 - [97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](http://library.lol/main/DEE4425F76636E78E04EBE7E9B88E40A)
     - Author(s): Barbee Davis, Harry Tucker
     - Publisher: O'Reilly Media, Year: 2009
+- [Mastering JavaScript Design Patterns](http://library.lol/main/FC5C70B2F74F10DADE675A6831FE7C56)
+    - Author(s): Simon Timms
+    - Publisher: Packt Publishing, Year: 2016
 
+- [Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition. Code](http://library.lol/main/24578591239D51A2748D8FF4677E4146)
+    - Author(s): Mario Casciaro, Luciano Mammino
+    - Publisher: Packt Publishing, Year: 2020
+    
+- [Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition](http://library.lol/main/851808BE329DEC76FA8E008EE9549FF9)
+    - Author(s): Mario Casciaro, Luciano Mammino
+    - Publisher: Packt Publishing, Year: 2020
+    - [ PacktPublishing /Node.js-Design-Patterns-Third-Edition ](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
+   
+- [All the 23 (GoF) design patterns implemented in Javascript ](https://github.com/fbeline/design-patterns-JS)  
+
+- [Learning JavaScript Design Patterns](http://library.lol/main/08F6168945C836449F3E40E6C170AD67)
+    - Author(s): Addy Osmani
+    - Publisher: O'Reilly Media, Year: 2012
+    
+- [Repo for my 'Learning JavaScript Design Patterns' book](https://github.com/addyosmani/essential-js-design-patterns)
+    
+    
+- []()
+    -     
+    
 [<kbd>↩</kbd>](#TOC)
 
 </details>
