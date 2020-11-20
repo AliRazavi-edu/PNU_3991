@@ -21,7 +21,17 @@
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
 2. **فعالیت گروهی**
-    
+    - صفحه 1 تا 215
+    3. **چستجوی منابع دیگر** 
+        - Project management of large software-intensive systems : controlling the software development process
+            - **از صفحه :** [(شماره ردیف دانشجو - 1) * 5] + 3
+            - **تا صفحه :**  [(شماره ردیف دانشجو) * 5] + 2
+    3. **ارائه کتبی از منابع دیگر** 
+        - Project management of large software-intensive systems : controlling the software development process
+            - **از صفحه :** [(شماره ردیف دانشجو - 1) * 5] + 3
+            - **تا صفحه :**  [(شماره ردیف دانشجو) * 5] + 2
+
+
 [**نمونه تحویل فعالیت های انجام شده**](https://github.com/mir-mohammad/PNU_3991_AR/)
 ---------------
 <a name="CourseRef"></a>
@@ -73,7 +83,15 @@
 
 > ## دیگر منابع
 - [E-research : methods, strategies, and issues](https://archive.org/details/eresearchmethods0000ande/page/n9/mode/1up)
-
+    - [by Terry Anderson  (Author), Heather Kanuka (Author)](https://www.amazon.com/Research-Methods-Strategies-Issues/dp/0205343821)
+- [John W. Creswell - Research Design_ Qualitative, Quantitative, and Mixed Method Approaches-SAGE Publications](http://library.lol/main/A000CDF97760A63A36F28A042A568EE5)
+    - Author(s): John W. Creswell
+    - Publisher: SAGE Publications, Year: 2013
+- [Methodologies of legal research : which kind of method for what kind of discipline?](http://library.lol/main/39845B46C0E91623C854045208055440)
+    - Author(s): Mark van Hoecke
+    - Series: European Academy of Legal Theory series
+    - Publisher: Hart Pub, Year: 2011
+    
 [<kbd>↩</kbd>](#TOC)
 </details>
 
