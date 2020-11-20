@@ -1,6 +1,16 @@
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
+## Research and Presentation Methods
+## فهرست
+- [سیاهه ارزشیابی درس](#Evaluation)
+- [منبع درس  الگوریتم پیشرفته](#CourseRef)
+- [سیلابس درس](#Curriculum)
+- [دروس مشابه](#RelatedCourses)
+- [دیگر منابع](#RelatedRef)
+- [گروه ها](#Groups)
+
+<a name="Evaluation"></a>
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
@@ -10,6 +20,7 @@
     5. ایجاد ریپازیتوری PNU_3991_AR
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
+2. **فعالیت گروهی**
     
 [**نمونه تحویل فعالیت های انجام شده**](https://github.com/mir-mohammad/PNU_3991_AR/)
 ---------------
