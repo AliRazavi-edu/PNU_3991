@@ -24,6 +24,9 @@
     
 [**نمونه تحویل فعالیت های انجام شده**](https://github.com/mir-mohammad/PNU_3991_AR/)
 ---------------
+<a name="CourseRef"></a>
+<details>
+    <summary>منبع درس  الگوریتم پیشرفته</summary>
 
 >## (منبع درس شيوه ارائه مطالب علمي وفني ( 01-1115133
 
@@ -36,15 +39,20 @@
 
 <a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/ResearchAndPresentationMethods1.png"> </a>
 # Table of contents
+[<kbd>↩</kbd>](#TOC)
 
-
-
-
+</details>
 
 
 --------------
+<a name="Curriculum"></a>
+<details>
+    <summary>سیلابس</summary>
 
 >## [سیلابس وزرات علوم برای درس شيوه ارائه مطالب علمي وفني](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/_1569752509_1_RP.pdf) 
+
+[<kbd>↩</kbd>](#TOC)
+</details>
 
 ------------------
 
