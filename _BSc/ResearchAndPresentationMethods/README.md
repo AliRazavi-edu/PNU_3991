@@ -65,6 +65,8 @@
 [<kbd>↩</kbd>](#TOC)
 </details>
 
+------------------
+
 <a name="RelatedRef"></a>
 <details>
     <summary>دیگر منابع</summary>
