@@ -24,6 +24,9 @@
 <a name="Evaluation"></a>
 ## سیاهه ارزشیابی درس
 
+<details>
+    <summary>فعالیت های مشترک همه دانشجویان</summary>
+
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
     2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
@@ -33,6 +36,11 @@
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
         - هر گروه حداکثر 6 نفر
+        
+</details>
+
+<details>
+    <summary>ارائه الگوهای پیاده سازی شده با جاوا اسکریپت</summary>
 
 2. **ارائه الگوهای پیاده سازی شده با جاوا اسکریپت** 
     - **G-SA-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Singleton pattern + Prototype pattern + Adapter pattern  
@@ -41,6 +49,13 @@
     - **G-SA-04** : Interpreter + Iterator + Memento + Bridge pattern
     - **G-SA-05** : 
     - **G-SA-06** :
+
+</details>
+
+<details>
+    <summary>ارائه کتاب</summary>
+
+   
 3.  **ارائه کتاب**
    - هر گروه 2 فصل از کتاب ریچارد
      
@@ -52,6 +67,9 @@
    - **G-SA-04** : Chapter 4 + Chapter 10
    - **G-SA-05** : Chapter 5 + Chapter 11
    - **G-SA-06** : Chapter 6 + Chapter 12
+
+</details>
+
 4. **پروژه های کوچک کاربردی**
     - مشارکت در پروژه های درسی کوچک و مستقل
     

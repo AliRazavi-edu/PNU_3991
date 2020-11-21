@@ -13,6 +13,10 @@
 
 ## Software Development Methodologies
 ## سیاهه ارزشیابی درس
+
+<details>
+    <summary>فعالیت های مشترک همه دانشجویان</summary>
+
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
     2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
@@ -22,6 +26,12 @@
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
     8. فرصت بارگذاری فایل ضبط شده ارائه فصول، حداکثر تا 15 آذر 99 می باشد
+
+</details>
+
+<details>
+    <summary>ارائه فصل های کتاب</summary>
+
 2. **ارائه فصل های کتاب**
      ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
     - **G-SDM-01** : CHAPTER 20 + CHAPTER 24 + CHAPTER 28
@@ -33,6 +43,11 @@
     - **G-SDM-07** : CHAPTER 26 + CHAPTER 22 + CHAPTER 21
     - **G-SDM-08** : CHAPTER 27 + CHAPTER 21 + CHAPTER 20
     - **G-SDM-09** : CHAPTER 28 + CHAPTER 20 + CHAPTER 24
+
+</details>
+
+<details>
+    <summary>مطالعه کتاب های علمی</summary>
 
 3. :**مطالعه کتاب های علمی**
     ##### [**Design and Development of Web Information Systems** - Klaus-Dieter Schewe, Bernhard Thalheim](https://www.springer.com/gp/book/9783662588222)
@@ -46,6 +61,8 @@
     - **G-SDM-07** : CHAPTER 07 
     - **G-SDM-08** : CHAPTER 08 
     - **G-SDM-09** : CHAPTER 09 
+
+</details>
     
 4. **پروژه های کوچک کاربردی**
     - مشارکت در پروژه های درسی کوچک و مستقل
