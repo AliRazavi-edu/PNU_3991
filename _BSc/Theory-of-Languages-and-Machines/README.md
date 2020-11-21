@@ -4,7 +4,7 @@
 ## Theory-of-Languages-and-Machines
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
-- [منبع درس  الگوریتم پیشرفته](#CourseRef)
+- [منبع درس  نظریه زبانها و ماشین ها](#CourseRef)
 - [سیلابس درس](#Curriculum)
 - [دروس مشابه](#RelatedCourses)
 - [دیگر منابع](#RelatedRef)
