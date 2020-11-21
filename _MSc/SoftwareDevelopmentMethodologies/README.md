@@ -1,5 +1,7 @@
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+[Advanced Algorithms]() | [Software Development Methodologies]() | [Advanced Software Engineering]() | [Software Architecture]() | 
+[MSc Theses]() | [Msc Seminar]() | 
 
 ## Software Development Methodologies
 ## سیاهه ارزشیابی درس
