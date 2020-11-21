@@ -2,7 +2,15 @@
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
 ## Theory-of-Languages-and-Machines
+## فهرست
+- [سیاهه ارزشیابی درس](#Evaluation)
+- [منبع درس  الگوریتم پیشرفته](#CourseRef)
+- [سیلابس درس](#Curriculum)
+- [دروس مشابه](#RelatedCourses)
+- [دیگر منابع](#RelatedRef)
+- [گروه ها](#Groups)
 
+<a name="Evaluation"></a>
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
