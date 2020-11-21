@@ -90,8 +90,15 @@
 </details>
 
 --------------
+<a name="Curriculum"></a>
+<details>
+    <summary>سیلابس</summary>
 
 >## [سیلابس وزرات علوم برای درس طراحی واسط کاربر](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Syllabus/_1569752509_1_UID.pdf)
+
+[<kbd>↩</kbd>](#TOC)
+</details>
+
 
 ------------------
 <a name="RelatedCourses"></a>
