@@ -29,6 +29,9 @@
     
 </details>
 
+<details>
+    <summary>ارائه فصل های کتاب پرسمن</summary>
+
 2. **ارائه فصل های کتاب پرسمن**  
     - **G-SPM-01** : CHAPTER 24 + CHAPTER 28 + CHAPTER 32
     - **G-SPM-02** : CHAPTER 25 + CHAPTER 29 + CHAPTER 24	
@@ -39,6 +42,8 @@
     - **G-SPM-07** : CHAPTER 30 + CHAPTER 25 + CHAPTER 29
     - **G-SPM-08** : CHAPTER 31 + CHAPTER 26 + CHAPTER 30
     - **G-SPM-09** : CHAPTER 32 + CHAPTER 27 + CHAPTER 31
+    
+</details>
 
 3. **ارائه پژوهش از منابع دیگر** 
     - Project management of large software-intensive systems : controlling the software development process
@@ -47,6 +52,10 @@
 
 4. **پروژه های کوچک کاربردی**
     - مشارکت در پروژه های درسی کوچک و مستقل
+
+[**نمونه تحویل فعالیت های انجام شده**](https://github.com/saharzeinivand/PNU_3991_AR/)
+
+[<kbd>↩</kbd>](#TOC)
 
 ---------------
 <a name="CourseRef"></a>
