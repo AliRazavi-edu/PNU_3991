@@ -43,12 +43,20 @@
 [<kbd>↩</kbd>](#TOC)
 
 ---------------
+<details>
+    <summary>فهرست دانشجویان</summary>
+    
+
 > ## فهرست دانشجویان
    1. [1115157_01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01) : 69 Students :   1 - 69
    2. [1115157_02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02) : 69 Students :  70 - 138
    3. [1115157_03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03) : 16 Students : 139 - 154
    
    **شماره ردیف کل دانشجو** = (شماره ردیف درس - 1) * 69 + شماره ردیف دانشجو
+
+[<kbd>↩</kbd>](#TOC)
+
+<details>
    
 ---------------
 
