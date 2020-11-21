@@ -2,7 +2,7 @@
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 | [MSc Theses](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/Theses/readme.md#TOC) | 
 | [Msc Seminar](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/Seminar/README.md#TOC) |
-</d> 
+ 
 | [Advanced Algorithms](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/AdvancedAlgorithms/README.md#TOC) |
  
 | [Advanced Software Engineering](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/AdvancedSoftwareEngineering/README.md#TOC) | 
