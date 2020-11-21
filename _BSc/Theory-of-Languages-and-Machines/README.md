@@ -12,6 +12,10 @@
 
 <a name="Evaluation"></a>
 ## سیاهه ارزشیابی درس
+
+<details>
+    <summary>فعالیت های مشترک همه دانشجویان</summary>
+    
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
     2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
@@ -20,6 +24,8 @@
     5. ایجاد ریپازیتوری PNU_3991_AR
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
+
+</details>
     
 2. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
     - شماره ردیف دانشجو به پیمانه 11 
@@ -33,6 +39,8 @@
     - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
 
 [**نمونه تحویل فعالیت های انجام شده**](https://github.com/saharzeinivand/PNU_3991_AR/)
+
+[<kbd>↩</kbd>](#TOC)
 
 ---------------
 > ## فهرست دانشجویان
