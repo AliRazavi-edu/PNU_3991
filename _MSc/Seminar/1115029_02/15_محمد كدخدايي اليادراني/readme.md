@@ -18,5 +18,5 @@
 
 ## گروه 
 
-1. G-MS01
+1. G-MS02
     1. [_MS-1_15_محمد كدخدايي اليادراني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar/1115029_02/15_%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D8%AF%D8%AE%D8%AF%D8%A7%D9%8A%D9%8A%20%D8%A7%D9%84%D9%8A%D8%A7%D8%AF%D8%B1%D8%A7%D9%86%D9%8A)      
