@@ -12,6 +12,14 @@
 | [**Software Project Management**](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/SoftwareProjectManagement/README.md#TOC) |
 
 ## Software Project Management
+## فهرست
+- [سیاهه ارزشیابی درس](#Evaluation)
+- [منبع درس](#CourseRef)
+- [سیلابس درس](#Curriculum)
+- [دروس مشابه](#RelatedCourses)
+- [دیگر منابع](#RelatedRef)
+- [آموزش های کاربردی](#eLearning)
+- [گروه ها](#Groups)
 
 ## سیاهه ارزشیابی درس
     
