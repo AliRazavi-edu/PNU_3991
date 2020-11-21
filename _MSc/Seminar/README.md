@@ -1,4 +1,18 @@
-## MscSeminar-1
+<a name="TOC"></a>
+# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+| [MSc Theses](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/Theses/readme.md#TOC) | 
+| [**Msc Seminar**](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/Seminar/README.md#TOC) |
+ 
+| [Advanced Algorithms](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/AdvancedAlgorithms/README.md#TOC) |
+ 
+| [Advanced Software Engineering](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/AdvancedSoftwareEngineering/README.md#TOC) | 
+[Software Architecture](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/SoftwareArchitecture/README.md#TOC) | 
+[Software Development Methodologies](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/SoftwareDevelopmentMethodologies/README.md#TOC) |
+ 
+| [Software Project Management](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/SoftwareProjectManagement/README.md#TOC) |
+
+
+## Msc Seminar-1
 
 > درس سمینار - 02-1115029
     
@@ -14,10 +28,10 @@
 ------------------
 ###   (Pdf فایل) راهنمای سمینار  
 
-- [_AR_920304_Seminar_Scoring.pdf](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/MscSeminar-1/assessment/_AR_920304_Seminar_Scoring.pdf)
+- [_AR_920304_Seminar_Scoring.pdf](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/Seminar/assessment/_AR_920304_Seminar_Scoring.pdf)
 
 ### راهنمای نگارش 
-- [_رساله دکتری و پایان نامه ارشد و سمینار](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1/assessment)
+- [_رساله دکتری و پایان نامه ارشد و سمینار](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar/assessment)
 
 ---------------
 ## گروه ها
@@ -28,10 +42,7 @@
     
     
 2. G-S02
-    1. [_]()    
-    1. [_]()    
-    1. [_]()    
-    1. [_]()    
+    1. [_MS-1_15_محمد كدخدايي اليادراني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar/1115029_02/15_%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D8%AF%D8%AE%D8%AF%D8%A7%D9%8A%D9%8A%20%D8%A7%D9%84%D9%8A%D8%A7%D8%AF%D8%B1%D8%A7%D9%86%D9%8A)     
 
 3. G-S03
     1. [_]()    
