@@ -56,7 +56,7 @@
 
 [<kbd>↩</kbd>](#TOC)
 
-<details>
+</details>
    
 ---------------
 
