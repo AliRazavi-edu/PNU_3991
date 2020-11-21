@@ -29,6 +29,7 @@
     
 2. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
     - شماره ردیف دانشجو به پیمانه 11 
+     ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
     
 3. **ارائه نوشتاری درس از منابع دیگر با لاتک**  
     - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
