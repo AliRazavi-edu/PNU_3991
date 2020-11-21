@@ -90,9 +90,9 @@
 
 
 > ## دیگر منابع
+##    (Theory-of-Languages-and-Machines,Peter Linz)
 <a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Theory-of-Languages-and-Machines1.png"> </a>
 
-##    (Theory-of-Languages-and-Machines,Peter Linz)
 ## Table of contents
 ### 1 INTRODUCTION TO THE THEORY OF COMPUTATION
 ### 2 FINITE AUTOMATA
