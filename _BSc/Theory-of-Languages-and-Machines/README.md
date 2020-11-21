@@ -214,11 +214,32 @@
 <a name="G-L08"></a>
 
 8. G-L08
-    1. []()
-    1. []()
-    1. []()
-    1. []()
-    1. []()
+    1. [TLM02-45 قاسم فقری میاب](https://github.com/qasem5252/PNU_3991_AR)#سرگروه
+ 
+    1. [TLM03-06 رضا رضایی](https://github.com/rezarzai/PNU_3991_AR)
+
+    1. [TLM02-53 سید علیرضا کیانژاد](https://github.com/kianejad/PNU_3991_AR)
+
+    1. [TLM02-16 فرهاد تاجیک](https://github.com/farhad199/PNU_3991_AR)
+
+    1. [TLM01-مهدی هاشمی69](https://github.com/Mahdi-hashemi/PNU_3991AR)
+
+    1. [TLM02-40 فاطمه علومی فلاح](https://github.com/fatemeoloumi/PNU_3991_AR)
+
+    1. [TLM02-39 نفیسه عطایی](https://github.com/Nafiseh041/PNU_3991_AR)
+
+    1. [TLM02-49 هانیه کشور](https://github.com/haniehkeshvar/PNU_3991_AR)
+
+    1. [TLM02-مبینا ابولحسن خانی01](https://github.com/MobinaAbolhasankhani/PNU_3991_AR)
+
+    1. [TLM02-28 پریساخاوری](https://github.com/parisakhavari93/PNU_3991_AR)
+
+    1. [TLM01-22 محمد حیدری](https://github.com/MohammadHeydari22/PNU_3991_AR)
+
+    1. [TLM03-07 مجتبی سیره وند](https://github.com/mojtabaservand2/PNU_3991_AR)
+
+    1. [RPM02-53 محسن گودرزی](https://github.com/mohsengodarzi/PNU_3991_AR)
+
     
 <a name="G-L09"></a>
 
