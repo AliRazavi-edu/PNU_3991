@@ -136,6 +136,7 @@
 - [CS 235 User Interface Design - San Jose State University](https://www.cs.sjsu.edu/~mak/archive/CS235/)
 - [Universal Principles of Design](http://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=ntt_at_ep_dpt_1)
 - [Don't make me think, revisited](http://library.lol/main/1C471FA8040F0EF79CFA0DE49A0FE0F6)
+
 [<kbd>↩</kbd>](#TOC)
 
 </details>
