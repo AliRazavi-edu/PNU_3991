@@ -43,7 +43,7 @@
             - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
     10. ارائه
 
-[**نمونه تحویل فعالیت های انجام شده**](https://github.com/mir-mohammad/PNU_3991_AR/)
+[**نمونه تحویل فعالیت های انجام شده**](https://github.com/saharzeinivand/PNU_3991_AR/)
        
 ---------------
  [<kbd>↩</kbd>](#TOC)
