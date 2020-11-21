@@ -214,7 +214,7 @@
 <a name="G-L08"></a>
 
 8. G-L08
-    1. [TLM02-45 قاسم فقری میاب](https://github.com/qasem5252/PNU_3991_AR)#سرگروه
+    1. [TLM02-45 قاسم فقری میاب](https://github.com/qasem5252/PNU_3991_AR)
  
     1. [TLM03-06 رضا رضایی](https://github.com/rezarzai/PNU_3991_AR)
 
