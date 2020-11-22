@@ -50,6 +50,7 @@
      - مشارکت در پروژه های درسی کوچک و مستقل
    
 [**نمونه تحویل فعالیت های انجام شده**](https://github.com/saharzeinivand/PNU_3991_AR/)
+[**بهناز حسن بیگی_visualgo فیلم آموزش امکانات وب سایت**](https://www.aparat.com/v/mE1XP)
     
 ---------------
 <a name="CourseRef"></a>
