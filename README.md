@@ -278,12 +278,9 @@
 <br>
 [1115272_01	مديريت پروژه هاي نرم افزاري	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)
 <br>
----
- [سمینار و سمینار تتبع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar#TOC)
- 
- <br>
- 
- [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Theses#TOC)
+[سمینار و سمینار تتبع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar#TOC)
+<br>
+[پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Theses#TOC)
 
 
 [<kbd>↩</kbd>](#TOC)
@@ -315,9 +312,6 @@
 <br>
 [1322094_02	پروژه پاياني	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322094_02)
 <br>
-[کارآموزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship#TOC)
-<br>
-[پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project#TOC)
 
 </details>
 
