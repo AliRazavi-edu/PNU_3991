@@ -122,7 +122,9 @@
 - [   ]()
 - [   ]()
 -----------------------
-
+<details>
+    <summary>گروه ها</summary>
+    
 ## گروه ها
 1. G-w01
 1. [_HCI-33_حميدرضا ميرزايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/33_%D8%AD%D9%85%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D9%85%D9%8A%D8%B1%D8%B2%D8%A7%D9%8A%D9%8A)
