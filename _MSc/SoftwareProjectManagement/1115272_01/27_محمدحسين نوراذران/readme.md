@@ -4,4 +4,4 @@
 - [Resume](https://norazaran.github.io/) 
 - [SOP](https://norazaran.github.io/SOP/)
 - [Certificates]()
-- [GitHub]()
+- [GitHub](https://github.com/norazaran)
