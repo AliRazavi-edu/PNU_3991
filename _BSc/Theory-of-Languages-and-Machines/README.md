@@ -207,7 +207,7 @@
 7. G-L07
     1. [_LMT01-12_محمدرضا بصیری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/12_%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%A8%D8%B5%D9%8A%D8%B1%D9%8A )
 	1. [_LMT01-03_احمد  ارمغان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/03_%D8%A7%D8%AD%D9%85%D8%AF%20%D8%A7%D8%B1%D9%85%D8%BA%D8%A7%D9%86)
-	1. [_LMT02-51_امیر محمد کوسه لر] https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/51_%D8%A7%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%88%D8%B3%D9%87%20%D9%84%D8%B1/readme.md)
+	1. [_LMT02-51_امیر محمد کوسه لر](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/51_%D8%A7%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%88%D8%B3%D9%87%20%D9%84%D8%B1/readme.md)
 	1. [_LMT01-35_سید مسعود صالحی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/35_%D8%B3%D9%8A%D8%AF%D9%85%D8%B3%D8%B9%D9%88%D8%AF%20%D8%B5%D8%A7%D9%84%D8%AD%D9%8A)  
 	1. [_LMT02-20_حسین جوهری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/20_%D8%AD%D8%B3%D9%8A%D9%86%20%D8%AC%D9%88%D9%87%D8%B1%D9%8A)   
 	1. [_LMT02-26_سید جلال حسینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/26_%D8%B3%D9%8A%D8%AF%D8%AC%D9%84%D8%A7%D9%84%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)
