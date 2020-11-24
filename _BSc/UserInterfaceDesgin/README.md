@@ -6,12 +6,12 @@
 
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
-- [روز و ساعت ارائه دروس](#CourseRef)
 - [منبع درس طراحی واسط کاربر](#CourseRef)
 - [سیلابس درس](#Curriculum)
 - [دروس مشابه دیگر دانشگاهها](#RelatedCourses)
 - [دیگر منابع](#RelatedRef)
 - [آموزش های کاربردی](#eLearning)
+- [گروه ها](#Groups)
 
 <a name="Evaluation"></a>
 ## سیاهه ارزشیابی درس
