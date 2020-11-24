@@ -94,7 +94,6 @@
     - Series: European Academy of Legal Theory series
     - Publisher: Hart Pub, Year: 2011
 - [SAGE Research Methods](https://methods.sagepub.com/Search/Results)
-    - [The SAGE Encyclopedia of Communication Research Methods](http://library.lol/main/86304DA540AFEF87DF5936CA3CFBBD6F)
         
     
 [<kbd>↩</kbd>](#TOC)
