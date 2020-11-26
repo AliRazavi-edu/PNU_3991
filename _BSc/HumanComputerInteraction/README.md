@@ -49,18 +49,34 @@
     <summary>منبع درس تعامل انسان و کامپیوتر</summary>
 
 > ## منبع درس 
-<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Human%20Computer%20Interaction.png"> </a>
+
+###    (Designing with the Mind in Mind)
+
+<a href="http://library.lol/main/8318B641B422C5E6B2D3EB7941D3630B"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/UserInterfaceDesgin.png"> </a>
 ## Table of contents
-### Chapter 1 Introduction
-### Chapter 2 Specific HCI Guidelines
-### Chapter 3 Human Factors as HCI Theories
-### Chapter 4 HCI Design
-### Chapter 5 User Interface Layer
-### Chapter 6 UI Development Toolkit
-### Chapter 7 Interactive System Development 
-### Chapter 8 User Interface Evaluation 
-### Chapter 9 Future of HCI
-### INDEX
+#### Acknowledgments
+#### Foreword
+#### Introduction
+### CHAPTER 1 Our Perception is Biased
+### CHAPTER 2 Our Vision is Optimized to See Structure
+### CHAPTER 3 We Seek and Use Visual Structure
+### CHAPTER 4 Our Color Vision is Limited
+### CHAPTER 5 Our Peripheral Vision is Poor
+### CHAPTER 6 Reading is Unnatural
+### CHAPTER 7 Our Attention is Limited; Our Memory is Imperfect
+### CHAPTER 8 Limits on Attention Shape Our Thought and Action
+### CHAPTER 9 Recognition is Easy; Recall is Hard
+### CHAPTER 10 Learning from Experience and Performing Learned Actions are Easy; Novel Actions, Problem Solving,and Calculation are Hard
+### CHAPTER 11 Many Factors Affect Learning
+### CHAPTER 12 Human Decision Making is Rarely Rational
+### CHAPTER 13 Our Hand–Eye Coordination Follows Laws
+### CHAPTER 14 We Have Time Requirements
+#### Epilogue
+#### Appendix
+#### Bibliography
+#### Index
+
+
 
 [<kbd>↩</kbd>](#TOC)
 
@@ -117,6 +133,19 @@
 - [CS 235 User Interface Design - San Jose State University](https://www.cs.sjsu.edu/~mak/archive/CS235/)
 - [Universal Principles of Design](http://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=ntt_at_ep_dpt_1)
 - [Don't make me think, revisited](http://library.lol/main/1C471FA8040F0EF79CFA0DE49A0FE0F6)
+
+<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Human%20Computer%20Interaction.png"> </a>
+## Table of contents
+### Chapter 1 Introduction
+### Chapter 2 Specific HCI Guidelines
+### Chapter 3 Human Factors as HCI Theories
+### Chapter 4 HCI Design
+### Chapter 5 User Interface Layer
+### Chapter 6 UI Development Toolkit
+### Chapter 7 Interactive System Development 
+### Chapter 8 User Interface Evaluation 
+### Chapter 9 Future of HCI
+### INDEX
 
 [<kbd>↩</kbd>](#TOC)
 

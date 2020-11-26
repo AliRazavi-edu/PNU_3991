@@ -58,7 +58,7 @@
 
 - [پاورپوینت ها](https://www.cs.sjsu.edu/~mak/archive/CS235/)
     
-###    (Introduction to Algorithms,3th-Thomas H.Cormen)
+###    (Designing with the Mind in Mind)
 
 <a href="http://library.lol/main/8318B641B422C5E6B2D3EB7941D3630B"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/UserInterfaceDesgin.png"> </a>
 ## Table of contents
