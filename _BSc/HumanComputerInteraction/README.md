@@ -85,6 +85,18 @@
     <summary>دروس مشابه دیگر دانشگاهها</summary>
 
 >## دروس مشابه دیگر دانشگاهها
+- [فرادرس-Foundationآموزش طراحی رابط کاربری وب سایت با فریم ورک](https://faradars.org/courses/fvweb9710-designing-user-interface-of-website-with-foundation-framework)
+- [CS194H- User Experience Design Project - Winter 2020](https://hci.stanford.edu/courses/cs194h/2020/wi/)
+    - [2020 - projects](https://hci.stanford.edu/courses/cs194h/2020/wi/projects.html)
+        - [pathseeker](https://hci.stanford.edu/courses/cs194h/2020/wi/projects/pathseeker/)
+    - [2019 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+    - [2018 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+    - [2017 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+    - [2016 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+        - [nightOwl](https://hci.stanford.edu/courses/cs194h/2016/wi/projects/nightOwl/#Process)
+        - [spark](https://hci.stanford.edu/courses/cs194h/2016/wi/projects/spark/)
+    - [2015 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+        - [math_outside_the_box](https://hci.stanford.edu/courses/cs194h/2015/wi/projects/math_outside_the_box/)
 
 
 [<kbd>↩</kbd>](#TOC)
@@ -99,6 +111,12 @@
     <summary>دیگر منابع</summary>
 
 > ## دیگر منابع
+
+- [Designing with the Mind in Mind](http://index-of.co.uk/Programming-Library/Designing%20with%20the%20Mind%20in%20Mind%20Simple%20-%20Johnson%20-%20Kaufmann%20(2010).pdf)
+- [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://library.lol/main/107D23516EC9C1957EFD5A14FD62192B)
+- [CS 235 User Interface Design - San Jose State University](https://www.cs.sjsu.edu/~mak/archive/CS235/)
+- [Universal Principles of Design](http://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=ntt_at_ep_dpt_1)
+- [Don't make me think, revisited](http://library.lol/main/1C471FA8040F0EF79CFA0DE49A0FE0F6)
 
 [<kbd>↩</kbd>](#TOC)
 
