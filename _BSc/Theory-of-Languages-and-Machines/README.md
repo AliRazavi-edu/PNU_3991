@@ -41,6 +41,8 @@
 4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک**  
     - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
         - [**A collection of custom Beamer themes**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list)
+        - [**A clean, simple and extensible template for presentations. Supports XeTeX and Beamer**](https://github.com/RatulSaha/presento)
+        - [**A simple, minimalistic Beamer theme to keep eyes on the content**](https://github.com/martinbjeldbak/beamertheme-bjeldbak)
 
 [**نمونه تحویل فعالیت های انجام شده**](https://github.com/saharzeinivand/PNU_3991_AR/)
 
