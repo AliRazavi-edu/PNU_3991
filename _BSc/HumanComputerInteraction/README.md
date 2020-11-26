@@ -161,6 +161,15 @@
 
 - [آموزش تعامل انسان با کامپیوتر-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
 
+- [  از مقدماتیHtml,Cssآموزش](https://toplearn.com/courses/47/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-html-%D9%88-css-%D8%A7%D8%B2-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C)
+- [  Html و Cssآموزش رایگان ](https://toplearn.com/courses/2165/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-html-%D9%88-css)
+- [   PSD به HTML و CSSآموزش تبدیل قالب ](https://toplearn.com/courses/4364/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%82%D8%A7%D9%84%D8%A8-psd-%D8%A8%D9%87-html-%D9%88-css)
+- [  آموزش طراحی سایت (رایگان) ](https://toplearn.com/courses/4287/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA-(%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86))
+- [  ( UI ) دوره طراحی رابط کاربری ](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
+- [Udemy Adobe XD: UI & UX Design with 14 real world project 2020](https://p30download.ir/fa/entry/92843/)
+- [TopLearn Adobe XD](https://toplearn.com/courses/2152/%D8%AF%D9%88%D8%B1%D9%87-%D8%AC%D8%A7%D9%85%D8%B9-adobexd)
+
+
 [<kbd>↩</kbd>](#TOC)
 
 </details>
