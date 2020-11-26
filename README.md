@@ -181,6 +181,7 @@
 
 > ## طراحی رزومه با لاتک
 -  [limecv](https://olivierpieters.be/tags/limecv)
+- [CV/resume. Typesetted using XeTeX](https://github.com/martinbjeldbak/cv)
 
 
 > ## نمونه قالب های رایگان(قابل دانلود)
