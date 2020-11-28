@@ -4,7 +4,7 @@
 ## Research and Presentation Methods
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
-- [منبع درس  الگوریتم پیشرفته](#CourseRef)
+- [منبع درس  روش پژوهش و ارائه](#CourseRef)
 - [سیلابس درس](#Curriculum)
 - [دروس مشابه](#RelatedCourses)
 - [دیگر منابع](#RelatedRef)
@@ -38,7 +38,7 @@
 ---------------
 <a name="CourseRef"></a>
 <details>
-    <summary>منبع درس  الگوریتم پیشرفته</summary>
+    <summary>منبع درس  روش پژوهش و ارائه</summary>
 
 >## (منبع درس شيوه ارائه مطالب علمي وفني ( 01-1115133
 
