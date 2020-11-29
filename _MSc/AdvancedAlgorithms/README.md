@@ -55,7 +55,7 @@
      1. الگوریتم
      1. الگوریتم
  - **G-A-03** : 
-     1. maximum flow + van Emde Boas + fibonacci heep + Data structures for disjoint sets + 
+     1. maximum flow + van Emde Boas + fibonacci heep + Data structures for disjoint sets + convex hull
      1. الگوریتم
      1. الگوریتم
  - **G-A-04** : 
