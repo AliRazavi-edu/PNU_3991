@@ -55,7 +55,7 @@
      1. الگوریتم
      1. الگوریتم
  - **G-A-03** : 
-     1. maximum flow + van Emde Boas + 
+     1. maximum flow + van Emde Boas + fibonacci heep
      1. الگوریتم
      1. الگوریتم
  - **G-A-04** : 
