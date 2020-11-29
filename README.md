@@ -179,6 +179,11 @@
 + [علی موسوی خرد](http://amkherad.ir/tabs/about/)  
   - [@amkherad](http://github.com/amkherad)
 
+> ## طراحی رزومه با لاتک
+-  [limecv](https://olivierpieters.be/tags/limecv)
+- [CV/resume. Typesetted using XeTeX](https://github.com/martinbjeldbak/cv)
+
+
 > ## نمونه قالب های رایگان(قابل دانلود)
 - [قالب1](https://www.20script.ir/cards-html-resume-portfolio/)
 - [قالب2](https://www.20script.ir/moticv-resume-cv-html5-template/)
@@ -226,8 +231,10 @@
 > ## صفحه آرایی برخط بدون نصب لاتک
 - [overleaf سایت ](https://www.overleaf.com/)
 - [Fast math typesetting for the web](https://katex.org/)
+
 > ## Texlive
 - [دانلود تک لایو با حجم 4 گیگ](http://ctan.yazd.ac.ir/systems/texlive/Images/texlive2020-20200406.iso)
+    - [سایت دانشگاه یزد برای دانلود آخرین نسخه](http://ctan.yazd.ac.ir/systems/texlive/Images/)
 
 [<kbd>↩</kbd>](#TOC)
 
@@ -278,11 +285,10 @@
 <br>
 [1115272_01	مديريت پروژه هاي نرم افزاري	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)
 <br>
----
-[1115029_02	سمينار	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar)
+[سمینار و سمینار تتبع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar#TOC)
 <br>
-[1115257_03	سمينار ( تحقيق و تتبع نظري )	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar)
-<br>
+[پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Theses#TOC)
+
 
 [<kbd>↩</kbd>](#TOC)
 
@@ -313,7 +319,6 @@
 <br>
 [1322094_02	پروژه پاياني	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322094_02)
 <br>
-
 
 </details>
 

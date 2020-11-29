@@ -42,6 +42,7 @@
     <summary>ارائه فصل های کتاب پرسمن</summary>
 
 2. **ارائه فصل های کتاب پرسمن**  
+     ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
     - **G-SPM-01** : CHAPTER 24 + CHAPTER 28 + CHAPTER 32
     - **G-SPM-02** : CHAPTER 25 + CHAPTER 29 + CHAPTER 24	
     - **G-SPM-03** : CHAPTER 26 + CHAPTER 30 + CHAPTER 25

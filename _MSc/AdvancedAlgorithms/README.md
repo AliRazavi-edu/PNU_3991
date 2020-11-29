@@ -39,13 +39,45 @@
 </details>
 
 2. **فعالیت گروهی**
-    - ارائه یک الگوریتم انتخابی **غیرتکراری** از فصول درس توسط **هر عضو** تیم
-    - ارائه **حداقل دو** الگوریتم تصویرسازی شده **غیرتکراری** از دیگر دانشگاهها
-    - شبیه سازی تصویری **یکی** از الگوریتم های انتخابی **غیرتکراری** توسط هر تیم
+    1. ارائه یک الگوریتم انتخابی **غیرتکراری** از فصول درس توسط **هر عضو** تیم
+    1. ارائه **حداقل دو** الگوریتم تصویرسازی شده **غیرتکراری** از دیگر دانشگاهها
+    1. شبیه سازی تصویری **یکی** از الگوریتم های انتخابی **غیرتکراری** توسط هر تیم
         - کدهای جاوااسکریپت الگوریتم های ترم گذشته قابل استفاده میباشند
             - [3983](#RelatedCourses)
         - [نمونه قابل قبول](#RelatedRef)
-
+        
+ - **G-A-01** : 
+     1. الگوریتم
+     1. الگوریتم
+     1. الگوریتم
+ - **G-A-02** : 
+     1. الگوریتم
+     1. الگوریتم
+     1. الگوریتم
+ - **G-A-03** : 
+     1. maximum flow + van Emde Boas + fibonacci heep + Data structures for disjoint sets + 
+     1. الگوریتم
+     1. الگوریتم
+ - **G-A-04** : 
+     1. الگوریتم
+     1. الگوریتم
+     1. Binary Search Trees
+ - **G-A-05** : 
+     1. الگوریتم
+     1. الگوریتم
+     1. الگوریتم
+ - **G-A-06** : 
+     1. الگوریتم
+     1. الگوریتم
+     1. الگوریتم
+ - **G-A-07** :
+     1. الگوریتم
+     1. الگوریتم
+     1. الگوریتم
+ - **G-A-08** :
+     1. الگوریتم
+     1. الگوریتم
+     1. الگوریتم
 4. **پروژه های کوچک کاربردی**
      - مشارکت در پروژه های درسی کوچک و مستقل
    
@@ -184,7 +216,7 @@
 
 2. G-A02
     1. [_AdvAlg-09_حميد غفاري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/09_%D8%AD%D9%85%D9%8A%D8%AF%20%D8%BA%D9%81%D8%A7%D8%B1%D9%8A)    
-    1. []()    
+    1. [_AdvAlg-09_مصطفي زارع دستنائي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/09_%D9%85%D8%B5%D8%B7%D9%81%D9%8A%20%D8%B2%D8%A7%D8%B1%D8%B9%20%D8%AF%D8%B3%D8%AA%D9%86%D8%A7%D8%A6%D9%8A)    
     1. []() 
     
 <a name="G-A03"></a>
@@ -193,13 +225,14 @@
     1. [_AdvAlg_05_بهناز حسن بيگي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/05_%D8%A8%D9%87%D9%86%D8%A7%D8%B2%20%D8%AD%D8%B3%D9%86%20%D8%A8%D9%8A%DA%AF%D9%8A)    
     1. [_AdvAlg_28_نرجس ميرسالاري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/28_%D9%86%D8%B1%D8%AC%D8%B3%20%D9%85%D9%8A%D8%B1%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%D9%8A)    
     1. [_AdvAlg_06_آرزو درويشي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/06_%D8%A7%D8%B1%D8%B2%D9%88%20%D8%AF%D8%B1%D9%88%D9%8A%D8%B4%D9%8A)    
-    1. [_AdvAlg_03_محيا بهمني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/03_%D9%85%D8%AD%D9%8A%D8%A7%20%D8%A8%D9%87%D9%85%D9%86%D9%8A) 
+    1. [_AdvAlg_03_محيا بهمني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/03_%D9%85%D8%AD%D9%8A%D8%A7%20%D8%A8%D9%87%D9%85%D9%86%D9%8A)
+    1. [_AdvAlg_04_پروين حاجت پوربيرگاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/04_%D9%BE%D8%B1%D9%88%D9%8A%D9%86%20%D8%AD%D8%A7%D8%AC%D8%AA%20%D9%BE%D9%88%D8%B1%D8%A8%D9%8A%D8%B1%DA%AF%D8%A7%D9%86%D9%8A)
     
 <a name="G-A04"></a>
 
 4. G-A04
-    1. []()    
-    1. []()    
+    1. [_AdvAlg- 05 محمد جواد خوش رفتار](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_80/05_%D9%85%D8%AD%D9%85%D8%AF%D8%AC%D9%88%D8%A7%D8%AF%20%D8%AE%D9%88%D8%B4%20%D8%B1%D9%81%D8%AA%D8%A7%D8%B1)    
+    1. [_AdvAlg- 04 فرهاد خواجوي برنا](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_80/04_%D9%81%D8%B1%D9%87%D8%A7%D8%AF%20%D8%AE%D9%88%D8%A7%D8%AC%D9%88%D9%8A%20%D8%A8%D8%B1%D9%86%D8%A7)    
     1. []()
      
 <a name="G-A05"></a>

@@ -1,7 +1,10 @@
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
-[**HumanComputerInteraction**](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/HumanComputerInteraction/README.md#TOC) | [WebProgramming](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/WebProgramming/README.md#TOC) | [UserInterfaceDesgin](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/UserInterfaceDesgin/README.md#TOC) 
+| [**HumanComputerInteraction**](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/HumanComputerInteraction/README.md#TOC) 
+| [UserInterfaceDesgin](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/UserInterfaceDesgin/README.md#TOC)
+| [WebProgramming](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/WebProgramming/README.md#TOC) 
+| 
 
 ## Human Computer Interaction
 ## فهرست
@@ -49,28 +52,34 @@
     <summary>منبع درس تعامل انسان و کامپیوتر</summary>
 
 > ## منبع درس 
-<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Human%20Computer%20Interaction.png"> </a>
-# Table of contents
 
-## Chapter 1 Introduction
+###    (Designing with the Mind in Mind)
 
-## Chapter 2 Specific HCI Guidelines
- 
-## Chapter 3 Human Factors as HCI Theories
+<a href="http://library.lol/main/8318B641B422C5E6B2D3EB7941D3630B"><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/UserInterfaceDesgin.png"> </a>
+## Table of contents
+#### Acknowledgments
+#### Foreword
+#### Introduction
+### CHAPTER 1 Our Perception is Biased
+### CHAPTER 2 Our Vision is Optimized to See Structure
+### CHAPTER 3 We Seek and Use Visual Structure
+### CHAPTER 4 Our Color Vision is Limited
+### CHAPTER 5 Our Peripheral Vision is Poor
+### CHAPTER 6 Reading is Unnatural
+### CHAPTER 7 Our Attention is Limited; Our Memory is Imperfect
+### CHAPTER 8 Limits on Attention Shape Our Thought and Action
+### CHAPTER 9 Recognition is Easy; Recall is Hard
+### CHAPTER 10 Learning from Experience and Performing Learned Actions are Easy; Novel Actions, Problem Solving,and Calculation are Hard
+### CHAPTER 11 Many Factors Affect Learning
+### CHAPTER 12 Human Decision Making is Rarely Rational
+### CHAPTER 13 Our Hand–Eye Coordination Follows Laws
+### CHAPTER 14 We Have Time Requirements
+#### Epilogue
+#### Appendix
+#### Bibliography
+#### Index
 
-## Chapter 4 HCI Design
 
-## Chapter 5 User Interface Layer
-
-## Chapter 6 UI Development Toolkit
-
-## Chapter 7 Interactive System Development 
-
-## Chapter 8 User Interface Evaluation 
-
-## Chapter 9 Future of HCI
-
-## INDEX
 
 [<kbd>↩</kbd>](#TOC)
 
@@ -95,6 +104,18 @@
     <summary>دروس مشابه دیگر دانشگاهها</summary>
 
 >## دروس مشابه دیگر دانشگاهها
+- [فرادرس-Foundationآموزش طراحی رابط کاربری وب سایت با فریم ورک](https://faradars.org/courses/fvweb9710-designing-user-interface-of-website-with-foundation-framework)
+- [CS194H- User Experience Design Project - Winter 2020](https://hci.stanford.edu/courses/cs194h/2020/wi/)
+    - [2020 - projects](https://hci.stanford.edu/courses/cs194h/2020/wi/projects.html)
+        - [pathseeker](https://hci.stanford.edu/courses/cs194h/2020/wi/projects/pathseeker/)
+    - [2019 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+    - [2018 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+    - [2017 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+    - [2016 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+        - [nightOwl](https://hci.stanford.edu/courses/cs194h/2016/wi/projects/nightOwl/#Process)
+        - [spark](https://hci.stanford.edu/courses/cs194h/2016/wi/projects/spark/)
+    - [2015 - projects](https://hci.stanford.edu/courses/cs194h/2016/wi/projects.html)
+        - [math_outside_the_box](https://hci.stanford.edu/courses/cs194h/2015/wi/projects/math_outside_the_box/)
 
 
 [<kbd>↩</kbd>](#TOC)
@@ -110,6 +131,25 @@
 
 > ## دیگر منابع
 
+- [Designing with the Mind in Mind](http://index-of.co.uk/Programming-Library/Designing%20with%20the%20Mind%20in%20Mind%20Simple%20-%20Johnson%20-%20Kaufmann%20(2010).pdf)
+- [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://library.lol/main/107D23516EC9C1957EFD5A14FD62192B)
+- [CS 235 User Interface Design - San Jose State University](https://www.cs.sjsu.edu/~mak/archive/CS235/)
+- [Universal Principles of Design](http://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=ntt_at_ep_dpt_1)
+- [Don't make me think, revisited](http://library.lol/main/1C471FA8040F0EF79CFA0DE49A0FE0F6)
+
+<a href=""><img src="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Image/Human%20Computer%20Interaction.png"> </a>
+## Table of contents
+### Chapter 1 Introduction
+### Chapter 2 Specific HCI Guidelines
+### Chapter 3 Human Factors as HCI Theories
+### Chapter 4 HCI Design
+### Chapter 5 User Interface Layer
+### Chapter 6 UI Development Toolkit
+### Chapter 7 Interactive System Development 
+### Chapter 8 User Interface Evaluation 
+### Chapter 9 Future of HCI
+### INDEX
+
 [<kbd>↩</kbd>](#TOC)
 
 </details>
@@ -123,6 +163,15 @@
 > ## آموزش ها کاربردی
 
 - [آموزش تعامل انسان با کامپیوتر-فرادرس](https://faradars.org/courses/fvsft110-theory-of-languages-and-machines)
+
+- [  از مقدماتیHtml,Cssآموزش](https://toplearn.com/courses/47/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-html-%D9%88-css-%D8%A7%D8%B2-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C)
+- [  Html و Cssآموزش رایگان ](https://toplearn.com/courses/2165/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-html-%D9%88-css)
+- [   PSD به HTML و CSSآموزش تبدیل قالب ](https://toplearn.com/courses/4364/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%82%D8%A7%D9%84%D8%A8-psd-%D8%A8%D9%87-html-%D9%88-css)
+- [  آموزش طراحی سایت (رایگان) ](https://toplearn.com/courses/4287/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA-(%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86))
+- [  ( UI ) دوره طراحی رابط کاربری ](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
+- [Udemy Adobe XD: UI & UX Design with 14 real world project 2020](https://p30download.ir/fa/entry/92843/)
+- [TopLearn Adobe XD](https://toplearn.com/courses/2152/%D8%AF%D9%88%D8%B1%D9%87-%D8%AC%D8%A7%D9%85%D8%B9-adobexd)
+
 
 [<kbd>↩</kbd>](#TOC)
 
@@ -141,7 +190,7 @@
 <a name="G-H01"></a>
 
 1. G-H01
-    1. [_HCI-04_مهديه اسدپور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/04_%D9%85%D9%87%D8%AF%D9%8A%D9%87%20%D8%A7%D8%B3%D8%AF%D9%BE%D9%88%D8%B1)
+    1. [_HCI-04_مهديه اسدپور**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/04_%D9%85%D9%87%D8%AF%D9%8A%D9%87%20%D8%A7%D8%B3%D8%AF%D9%BE%D9%88%D8%B1)
     1. [_HCI-17_محمدجلال صفائيان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/17_%D9%85%D8%AD%D9%85%D8%AF%D8%AC%D9%84%D8%A7%D9%84%20%D8%B5%D9%81%D8%A7%D8%A6%D9%8A%D8%A7%D9%86)
     1. [_HCI-28_صبا مصفا](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/28_%D8%B5%D8%A8%D8%A7%20%D9%85%D8%B5%D9%81%D8%A7)    
     1. [_HCI-29_فاطمه مظفري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/29_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D8%B8%D9%81%D8%B1%D9%8A)
@@ -150,7 +199,7 @@
 <a name="G-H02"></a>
 
 2. G-H02
-    1. [_HCI-25 میرمحمد کمالی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/25_%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%85%D8%A7%D9%84%D9%8A)
+    1. [_HCI-25 میرمحمد کمالی**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/25_%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%85%D8%A7%D9%84%D9%8A)
     1. [_HCI-36 مهدی یزدی راد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/36_%D9%85%D9%87%D8%AF%D9%8A%20%D9%8A%D8%B2%D8%AF%D9%8A%20%D8%B1%D8%A7%D8%AF)
     1. [_HCI-20 شقایق عابدینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/20_%D8%B4%D9%82%D8%A7%D9%8A%D9%82%20%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86%D9%8A)    
     1. [_HCI-35 مرضیه هوشمندپور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/35_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF%D9%BE%D9%88%D8%B1)
@@ -160,7 +209,7 @@
 <a name="G-H03"></a>
 
 3. G-H03 
-    1. [_HCI-06_بهاره برادران سلماس](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/06_%D8%A8%D9%87%D8%A7%D8%B1%D9%87%20%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86%20%D8%B3%D9%84%D9%85%D8%A7%D8%B3)    
+    1. [_HCI-06_بهاره برادران سلماس**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/06_%D8%A8%D9%87%D8%A7%D8%B1%D9%87%20%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86%20%D8%B3%D9%84%D9%85%D8%A7%D8%B3)    
     1. [_TOLAM-51_مهسا کرمی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/51_%D9%85%D9%87%D8%B3%D8%A7%20%D9%83%D8%B1%D9%85%D9%8A)    
     1. [_TOLAM-65_محمدعلي نجارزاده باروق](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/65_%D9%85%D8%AD%D9%85%D8%AF%D8%B9%D9%84%D9%8A%20%D9%86%D8%AC%D8%A7%D8%B1%D8%B2%D8%A7%D8%AF%D9%87%20%D8%A8%D8%A7%D8%B1%D9%88%D9%82)    
     1. [_TOLAM-38_فاطمه طيبي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/38_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B7%D9%8A%D8%A8%D9%8A)
@@ -169,9 +218,12 @@
 <a name="G-H04"></a>
 
 4. G-H04  
-    1. [24_محمد طاها گوینده برحقی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/24_%D9%85%D8%AD%D9%85%D8%AF%20%D8%B7%D8%A7%D9%87%D8%A7%20%DA%AF%D9%88%DB%8C%D9%86%D8%AF%D9%87%20%D8%A8%D8%B1%D8%AD%D9%82%DB%8C)
-    1. []()
-    1. []()  
+    1. [_HCI-26_محمدطاها گوينده برحقي**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/26_%D9%85%D8%AD%D9%85%D8%AF%D8%B7%D8%A7%D9%87%D8%A7%20%DA%AF%D9%88%D9%8A%D9%86%D8%AF%D9%87%20%D8%A8%D8%B1%D8%AD%D9%82%D9%8A)
+     1. [ HCI-23_عسل كريم خراساني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/23_%D8%B9%D8%B3%D9%84%20%D9%83%D8%B1%D9%8A%D9%85%20%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%D9%8A)
+     1. [ HCI-15_مريم شعباني لالاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/15_%D9%85%D8%B1%D9%8A%D9%85%20%D8%B4%D8%B9%D8%A8%D8%A7%D9%86%D9%8A%20%D9%84%D8%A7%D9%84%D8%A7%D9%86%D9%8A)
+     1. [ HCI-13_مونا دلير](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/13_%D9%85%D9%88%D9%86%D8%A7%20%D8%AF%D9%84%D9%8A%D8%B1)
+     1. [ HCI-05_منا اندوري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/05_%D9%85%D9%86%D8%A7%20%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D9%8A)
+
     
 <a name="G-H05"></a>
 
@@ -183,9 +235,18 @@
 <a name="G-H06"></a>
 
 6. G-H06    
-    1. []()
-    1. []()
-    1. []()
+    1. [_UID-41_فاطمه وكيلي**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/41_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%88%D9%83%D9%8A%D9%84%D9%8A)
+   1. [_HCI-33_حميدرضا ميرزايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/33_%D8%AD%D9%85%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D9%85%D9%8A%D8%B1%D8%B2%D8%A7%D9%8A%D9%8A)
+    1. [_RPM01-23_ابوذر رقيب دوست](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/23_%D8%A7%D8%A8%D9%88%D8%B0%D8%B1%20%D8%B1%D9%82%D9%8A%D8%A8%20%D8%AF%D9%88%D8%B3%D8%AA)   
+    1. [_UID-16_ابوذر رقيب دوست](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/16_%D8%A7%D8%A8%D9%88%D8%B0%D8%B1%20%D8%B1%D9%82%D9%8A%D8%A8%20%D8%AF%D9%88%D8%B3%D8%AA)
+    1. [_UID-36_زينب ملكي راد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/36_%D8%B2%D9%8A%D9%86%D8%A8%20%D9%85%D9%84%D9%83%D9%8A%20%D8%B1%D8%A7%D8%AF)
+    1. [_UID-38_حميدرضا ميرزايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/38_%D8%AD%D9%85%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D9%85%D9%8A%D8%B1%D8%B2%D8%A7%D9%8A%D9%8A)
+    1. [_Web-02_ابوذر رقيب دوست](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/WebProgramming/02_%D8%A7%D8%A8%D9%88%D8%B0%D8%B1%20%D8%B1%D9%82%D9%8A%D8%A8%20%D8%AF%D9%88%D8%B3%D8%AA)
+    1. [_RPM-55الهام کرمیان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/55_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)
+    1. [_RPM-08پوریا بداغی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/08_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%A8%D8%AF%D8%A7%D8%BA%D9%8A)
+    1. [_LMT-52الهام کرمیان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/52_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)
+    1. [_LMT-پوریا بداغی03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/03_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%A8%D8%AF%D8%A7%D8%BA%D9%8A) 
+    1. [_UID-الهام کرمیان29](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/29_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)
     
 <a name="G-H07"></a>
 
