@@ -1,5 +1,5 @@
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
-# سحر زینی وند
+# علی مهرائی
 - [PNU_3991_AR](https://github.com/AliMehraei/PNU_3991_AR)
 - [Resume](https://alimehraei.github.io/) 
 - [SOP](https://alimehraei.github.io/SOP/)
