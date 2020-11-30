@@ -21,7 +21,7 @@
 2. **ارائه فصل های کتاب**
      
      ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
-    - **G-SDM-01** : CHAPTER 20 + CHAPTER 24 + CHAPTER 28
+    - **G-SDM-09** : CHAPTER 28 + CHAPTER 20 + CHAPTER 24
     
 3. :**مطالعه کتاب های علمی**
     ##### [**Design and Development of Web Information Systems** - Klaus-Dieter Schewe, Bernhard Thalheim](https://www.springer.com/gp/book/9783662588222)
