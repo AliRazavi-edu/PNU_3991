@@ -1,6 +1,8 @@
 # Winter Semester Courses 1399/2020 (PNU_3991)
 <div dir="rtl">
+  
 <a name="TOC"></a>
+
 ## فهرست
 - [روز و ساعت ارائه دروس](#Course-Table)
 - [پروژه های کاربردی](#Student-Prjs)
@@ -15,7 +17,7 @@
 <a name="Course-Table"></a>
 ## روز و ساعت ارائه دروس
 
-<table style="width:100%" dir="ltr>
+<table style="width:100%">
   <tr>
     <th >16-18</th>
     <th >14-16</th>
