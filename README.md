@@ -113,7 +113,6 @@
     - [فاطمه وکیلی](https://fatemehvakili.github.io/)   
     - [فاطمه مرادی](https://ftemeh021.github.io/ftemeh-resume/)     
     - [سحر رجبی](https://saharrajabi.github.io/) 
-	- [حسین فیروزی](https://hosseinfiroozi.github.io/PNU_3991_AR/)
 - تایپ با لاتک
     - 
 - ترجمه
