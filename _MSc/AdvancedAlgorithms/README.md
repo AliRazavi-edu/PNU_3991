@@ -91,7 +91,7 @@
 
 >## (منبع درس  الگوریتم پیشرفته (   01-1115025
 
-- [پاورپوینت ها](http://www.cs.virginia.edu/~robins/cs6161/slides/Cormen_Algorithms_Slides.pdf)
+- [پاورپوینت ها]()
 
 ## Introduction to Algorithms, 3th-Thomas H.Cormen
 
