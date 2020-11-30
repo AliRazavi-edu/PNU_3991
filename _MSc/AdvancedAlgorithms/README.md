@@ -59,9 +59,9 @@
      1. الگوریتم
      1. الگوریتم
  - **G-A-04** : 
-     1. الگوریتم
-     1. الگوریتم
-     1. Binary Search Trees
+     1. The naive string-matching algorithm + Fibonacci Heaps
+     1. 
+     1. Fibonacci Heaps
  - **G-A-05** : 
      1. الگوریتم
      1. الگوریتم
