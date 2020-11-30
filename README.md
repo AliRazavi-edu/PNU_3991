@@ -16,7 +16,7 @@
 
 <a name="Course-Table"></a>
 ## روز و ساعت ارائه دروس
-
+<div dir="ltr">
 <table style="width:100%">
   <tr>
     <th >16-18</th>
@@ -75,7 +75,7 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
-
+</div>
 [<kbd>↩</kbd>](#TOC)
 
 ## دیگر دروس
