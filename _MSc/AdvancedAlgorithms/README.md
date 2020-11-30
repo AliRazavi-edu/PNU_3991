@@ -55,7 +55,7 @@
      1. الگوریتم
      1. الگوریتم
  - **G-A-03** : 
-     1. flow networks +
+     1. flow networks + convex hull + 
      1. الگوریتم
      1. الگوریتم
  - **G-A-04** : 
