@@ -55,7 +55,7 @@
      1. الگوریتم
      1. الگوریتم
  - **G-A-03** : 
-     1. flow networks + convex hull + Robin_karp + kmp
+     1. flow networks + convex hull + Robin_karp + kmp + Ford - Fulkerson
      1. الگوریتم
      1. الگوریتم
  - **G-A-04** : 
