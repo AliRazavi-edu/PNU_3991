@@ -2,6 +2,7 @@
 <a name="TOC"></a>
 ## فهرست
 - [روز و ساعت ارائه دروس](#Course-Table)
+- [پروژه های کاربردی](#Student-Prjs)
 - [کار دانشجویی](#Student-Work)
 - [گیت هاب](#Github)
 - [رزومه - انگیزه نامه](#CV_SOP)
@@ -23,9 +24,9 @@
     <th>روز</th>
   </tr>
   <tr>
-    <th ></th>
-    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظريه زبانهاوماشين ها 02-1115157</a></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
+    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms#TOC">1115025_80 الگوريتم هاي پيشرفته(20-22)</a></th>
+    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC">نظريه زبانهاوماشين ها 02-1115157</a></th>
+    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC" >نظريه زبانهاوماشين ها 01-1115157</a></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
@@ -39,10 +40,10 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods" >روش پژوهش و ارائه02-1322010</a> </th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">روش پژوهش و ارائه01-1322010</a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحي واسط كاربر</a></th>
-     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و كامپيوتر</a></th>
+     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC" >روش پژوهش و ارائه02-1322010</a> </th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC">روش پژوهش و ارائه01-1322010</a></th>
+     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC">طراحي واسط كاربر</a></th>
+     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction#TOC">تعامل انسان و كامپيوتر</a></th>
     <th ></th>   
     <th>دوشنبه</th>
   </tr>
@@ -59,15 +60,15 @@
     <th ></th>
     <th></th>
     <th></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms">الگوريتم هاي پيشرفته</a></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms#TOC">الگوريتم هاي پيشرفته</a></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مديريت پروژه هاي نرم افزاري</a></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement#TOC">مديريت پروژه هاي نرم افزاري</a></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture#TOC">معماری نرم افزار</a></th>
+     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies#TOC">متدولوژی ایجاد نرم افزار</a></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC">مهندسی نرم افزار پیشرفته</a></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
@@ -76,14 +77,31 @@
 
 ## دیگر دروس
 - **ارشد**
-    - [سمینار و سمینار تتبع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar)
-    - [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Theses)
+    - [سمینار و سمینار تتبع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar#TOC)
+    - [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Theses#TOC)
 - **کارشناسی**
-    - [کارآموزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship)
-    - [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project)
+    - [کارآموزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship#TOC)
+    - [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project#TOC)
  
  [<kbd>↩</kbd>](#TOC)
 -----------------------------------------
+<a name="Student-Prjs"></a>
+<details>
+    <summary>پروژه های کاربردی</summary>
+
+## **پروژه های کاربردی**:
+   -	سرگروه آقای علی مهرایی
+   -	سرگروه آقای علیرضا سعیدی پور
+   -	سرگروه آقای دباغ مقتدر
+   - زیرسیستم عضویت
+   - زیرسیستم پرداخت حمایت مالی با شبکه شتاب
+   - زیرسیستم پرداخت حمایت مالی با شبکه فین تک
+   - زیرسیستم پرداخت حمایت مالی با ارزهای دیجیتال	
+
+[<kbd>↩</kbd>](#TOC)
+
+</details>
+
 <a name="Student-Work"></a>
 <details>
     <summary>کار دانشجویی</summary>
@@ -112,7 +130,8 @@
 > ## ترمینال گیت 
 - [Cmder](https://cmder.net/)
     
-> ##  GitHub آموزش 
+> ##  GitHub آموزش
+- [TryGit - Learn Git in 15 Minutes](https://try.github.io/)
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
 - [در یوتیوب _آقای عظیمیGitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
 - [All the Git-it Workshop completers!](https://github.com/jlord/patchwork)
@@ -121,7 +140,7 @@
 
 >## آموزش گیت در سایت پچ ورک
 - [میر محمد کمالی_jlordآموزش اضافه کردن نام کاربری به صفحه ی](https://aparat.com/v/fvq5a)
-
+- [ jlord/patchwork لینک سایت ](https://github.com/jlord/patchwork)
 > ##  GitHubآموزش ساخت رزومه در
 - [آموزش ایجاد وبسایت روی گیت هاب_سایت تاب لرن_سیدمصطفی علیایی ](https://toplearn.com/courses/2203/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA-%D8%B1%D9%88%DB%8C-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8 )
 
@@ -159,6 +178,11 @@
   
 + [علی موسوی خرد](http://amkherad.ir/tabs/about/)  
   - [@amkherad](http://github.com/amkherad)
+
+> ## طراحی رزومه با لاتک
+-  [limecv](https://olivierpieters.be/tags/limecv)
+- [CV/resume. Typesetted using XeTeX](https://github.com/martinbjeldbak/cv)
+
 
 > ## نمونه قالب های رایگان(قابل دانلود)
 - [قالب1](https://www.20script.ir/cards-html-resume-portfolio/)
@@ -207,8 +231,10 @@
 > ## صفحه آرایی برخط بدون نصب لاتک
 - [overleaf سایت ](https://www.overleaf.com/)
 - [Fast math typesetting for the web](https://katex.org/)
+
 > ## Texlive
 - [دانلود تک لایو با حجم 4 گیگ](http://ctan.yazd.ac.ir/systems/texlive/Images/texlive2020-20200406.iso)
+    - [سایت دانشگاه یزد برای دانلود آخرین نسخه](http://ctan.yazd.ac.ir/systems/texlive/Images/)
 
 [<kbd>↩</kbd>](#TOC)
 
@@ -259,11 +285,10 @@
 <br>
 [1115272_01	مديريت پروژه هاي نرم افزاري	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)
 <br>
----
-[1115029_02	سمينار	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-1)
+[سمینار و سمینار تتبع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar#TOC)
 <br>
-[1115257_03	سمينار ( تحقيق و تتبع نظري )	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)
-<br>
+[پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Theses#TOC)
+
 
 [<kbd>↩</kbd>](#TOC)
 
@@ -294,7 +319,6 @@
 <br>
 [1322094_02	پروژه پاياني	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322094_02)
 <br>
-
 
 </details>
 
