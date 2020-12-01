@@ -51,17 +51,17 @@
      1. الگوریتم
      1. الگوریتم
  - **G-A-02** : 
-     1. الگوریتم
+     1. rabin-carp + 
      1. الگوریتم
      1. الگوریتم
  - **G-A-03** : 
-     1. maximum flow + van Emde Boas + fibonacci heep + Data structures for disjoint sets + 
+     1. flow networks + convex hull + Robin_karp + kmp + Ford - Fulkerson
      1. الگوریتم
      1. الگوریتم
  - **G-A-04** : 
-     1. الگوریتم
-     1. الگوریتم
-     1. Binary Search Trees
+     1. The naive string-matching algorithm + Fibonacci Heaps
+     1. 
+     1. Fibonacci Heaps
  - **G-A-05** : 
      1. الگوریتم
      1. الگوریتم
@@ -90,6 +90,8 @@
     <summary>منبع درس  الگوریتم پیشرفته</summary>
 
 >## (منبع درس  الگوریتم پیشرفته (   01-1115025
+
+- [پاورپوینت ها]()
 
 ## Introduction to Algorithms, 3th-Thomas H.Cormen
 
