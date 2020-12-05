@@ -4,6 +4,7 @@
 ## Theory-of-Languages-and-Machines
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
+- [فهرست دانشجویان - ردیف کل](#StudentsList)
 - [منبع درس  نظریه زبانها و ماشین ها](#CourseRef)
 - [سیلابس درس](#Curriculum)
 - [دروس مشابه](#RelatedCourses)
@@ -50,6 +51,8 @@
 [<kbd>↩</kbd>](#TOC)
 
 ---------------
+<a name="StudentsList"></a>
+
 <details>
     <summary>فهرست دانشجویان</summary>
     
