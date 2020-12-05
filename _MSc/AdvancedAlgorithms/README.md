@@ -185,6 +185,7 @@
 >## دیگر منابع
 
  - [**visualising data structures and algorithms through animation**](https://visualgo.net/en)
+ - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
  - [Vizualizes Maximum flow](https://github.com/gbarnev/MaxFlow-algorithm-visualization)
     - [gbarnev.github.io](https://gbarnev.github.io/MaxFlow-algorithm-visualization/)
  - [MinCut-Maxflow-Simulation](https://github.com/thakurso/MinCut-Maxflow-Simulation)
