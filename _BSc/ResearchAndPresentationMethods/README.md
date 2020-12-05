@@ -1,5 +1,8 @@
 <div dir="rtl">
     
+<button name="button" onclick="http://www.google.com">Click me</button>
+
+    
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
@@ -35,7 +38,6 @@
         - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 1 تا 215
             - **از صفحه :** [(شماره ردیف دانشجو - 1) * 3] + 1
             - **تا صفحه :**  [(شماره ردیف دانشجو) * 3]
-            - <button name="button" onclick="http://www.google.com">Click me</button>
     4. **ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر**
         - بمدت حداکثر 5 دقیقه خلاصه برداشت از ارائه کتبی بند 3 و یا روش پژوهش بند 2 را توضیح دهید
 
