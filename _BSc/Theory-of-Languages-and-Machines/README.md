@@ -37,22 +37,7 @@
         - **تا صفحه :**  [(شماره ردیف کل دانشجو) * 4]
      - **راهنمایی** : نمونه کتاب دارای گراف و فرمول 
           - [**Book of Algorithmic Graph Theory**](https://github.com/jonasagx/graphbook)
-<div id="box-asl">
-        <p>شماره ردیف کل خودتو وارد کن</p>
-        <input type="text" id="inp">
-        <button id="clk">کلیک کن</button>
-        <p id="pp1"></p>
-        <p id="pp2"></p>
-    </div>
-    <script>
-        document.querySelector("#clk").addEventListener("click", () => {
-            let sora = document.querySelector("#inp").value;
-            let sta = (sora - 1) * 4 + 1;
-            let aka = sora * 4;
-            document.querySelector('#pp1').innerHTML = `از صفحه: ${sta}`;
-            document.querySelector('#pp2').innerHTML = `تا صفحه: ${aka}`;
-        })
-    </script>
+
 4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک**  
     - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
         - [**A collection of custom Beamer themes**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list)
