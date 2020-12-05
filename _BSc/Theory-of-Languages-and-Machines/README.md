@@ -35,15 +35,15 @@
      ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
     
 3. **ارائه نوشتاری درس از منابع دیگر با لاتک**  
-    - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+    - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
         - **از صفحه :** [([شماره ردیف کل دانشجو](#StudentsList) - 1) * 4] + 1
         - **تا صفحه :**  [(شماره ردیف کل دانشجو) * 4]
             - [منو ببین!](https://mahdi-hashemi.github.io/Calculate_pages/index.html)
      - **راهنمایی** : نمونه کتاب دارای گراف و فرمول 
           - [**Book of Algorithmic Graph Theory**](https://github.com/jonasagx/graphbook)
 
-4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک**  
-    - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک** 
+    - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
         - [**A collection of custom Beamer themes**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list)
         - [**A clean, simple and extensible template for presentations. Supports XeTeX and Beamer**](https://github.com/RatulSaha/presento)
         - [**A simple, minimalistic Beamer theme to keep eyes on the content**](https://github.com/martinbjeldbak/beamertheme-bjeldbak)
