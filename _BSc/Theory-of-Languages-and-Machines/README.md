@@ -34,7 +34,7 @@
     
 3. **ارائه نوشتاری درس از منابع دیگر با لاتک**  
     - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
-        - **از صفحه :** [(شماره ردیف کل دانشجو - 1) * 4] + 1
+        - **از صفحه :** [([شماره ردیف کل دانشجو](#StudentsList) - 1) * 4] + 1
         - **تا صفحه :**  [(شماره ردیف کل دانشجو) * 4]
             - [منو ببین!](https://mahdi-hashemi.github.io/Calculate_pages/index.html)
      - **راهنمایی** : نمونه کتاب دارای گراف و فرمول 
