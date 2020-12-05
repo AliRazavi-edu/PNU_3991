@@ -1,22 +1,5 @@
 <div dir="rtl">
-    
-<button name="button" onclick="http://www.google.com">Click me</button>
-
-[Click me](http://www.google.com){: .btn}
-
-<button name="button">Click me</button>
-
-<button type="button" class="btn btn-{{include.button_class}} active">{{include.button_name}}</button>
-
-{% include button.html button_name="My1 Button" button_class="outline-primary" url="google.com" %}
-
-{% include button.html url="http://www.google.com" %}
-
-Lorem ipsum dolor sit amet.
-
-[button url="http://www.google.com"]
-
-    
+       
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
