@@ -1,19 +1,6 @@
 # Winter Semester Courses 1399/2020 (PNU_3991)
 <div dir="rtl">
-  
-  <style>
-  
-  button {
-    border-radius: 5px;
-    color: white;
-    background-color: #0F5897;
-    padding: 5px 10px 8px 10px;
-  }
-  
-  </style>
-  
-  <button>Register</button>
-  
+   
 <a name="TOC"></a>
 
 ## فهرست
