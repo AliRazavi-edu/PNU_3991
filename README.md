@@ -1,6 +1,8 @@
 # Winter Semester Courses 1399/2020 (PNU_3991)
 <div dir="rtl">
   
+  <button>Register</button>
+  
 <a name="TOC"></a>
 
 ## فهرست
