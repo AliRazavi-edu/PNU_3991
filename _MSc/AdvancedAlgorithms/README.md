@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
@@ -12,6 +11,8 @@
 [Software Development Methodologies](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/SoftwareDevelopmentMethodologies/README.md#TOC) |
  
 | [Software Project Management](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/SoftwareProjectManagement/README.md#TOC) |
+
+<div dir="rtl">
 
 ## Advanced Algorithms
 ## فهرست
