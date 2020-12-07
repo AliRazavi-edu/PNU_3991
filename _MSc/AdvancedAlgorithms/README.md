@@ -12,9 +12,11 @@
  
 | [Software Project Management](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/SoftwareProjectManagement/README.md#TOC) |
 
-<div dir="rtl">
 
 ## Advanced Algorithms
+
+<div dir="rtl">
+
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
 - [منبع درس  الگوریتم پیشرفته](#CourseRef)
