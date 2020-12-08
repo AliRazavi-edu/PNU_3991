@@ -1,9 +1,12 @@
+<div dir="rtl">
+
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
 ## Theory-of-Languages-and-Machines
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
+- [فهرست دانشجویان - ردیف کل](#StudentsList)
 - [منبع درس  نظریه زبانها و ماشین ها](#CourseRef)
 - [سیلابس درس](#Curriculum)
 - [دروس مشابه](#RelatedCourses)
@@ -32,14 +35,16 @@
      ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
     
 3. **ارائه نوشتاری درس از منابع دیگر با لاتک**  
-    - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
-        - **از صفحه :** [(شماره ردیف کل دانشجو - 1) * 4] + 1
+    - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+        - **از صفحه :** [([شماره ردیف کل دانشجو](#StudentsList) - 1) * 4] + 1
         - **تا صفحه :**  [(شماره ردیف کل دانشجو) * 4]
+            - [منو ببین!](https://mahdi-hashemi.github.io/Calculate_pages/index.html)
      - **راهنمایی** : نمونه کتاب دارای گراف و فرمول 
           - [**Book of Algorithmic Graph Theory**](https://github.com/jonasagx/graphbook)
 
-4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک**  
-    - Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک** 
+    - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+    	- [beamer-tutorial](http://web.mit.edu/rsi/www/pdfs/beamer-tutorial.pdf)
         - [**A collection of custom Beamer themes**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list)
         - [**A clean, simple and extensible template for presentations. Supports XeTeX and Beamer**](https://github.com/RatulSaha/presento)
         - [**A simple, minimalistic Beamer theme to keep eyes on the content**](https://github.com/martinbjeldbak/beamertheme-bjeldbak)
@@ -49,6 +54,8 @@
 [<kbd>↩</kbd>](#TOC)
 
 ---------------
+<a name="StudentsList"></a>
+
 <details>
     <summary>فهرست دانشجویان</summary>
     
@@ -56,7 +63,7 @@
 > ## فهرست دانشجویان
    1. [1115157_01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01) : 69 Students :   1 - 69
    2. [1115157_02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02) : 69 Students :  70 - 138
-   3. [1115157_03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03) : 16 Students : 139 - 154
+   3. [1115157_03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03) : 18 Students : 139 - 156
    
    **شماره ردیف کل دانشجو** = (شماره ردیف درس - 1) * 69 + شماره ردیف دانشجو
 
@@ -253,6 +260,8 @@
     1. [TLM01-22 محمد حیدری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/22_%D9%85%D8%AD%D9%85%D8%AF%20%D8%AD%D9%8A%D8%AF%D8%B1%D9%8A)
     1. [TLM03-07 مجتبی سیره وند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/07_%D9%85%D8%AC%D8%AA%D8%A8%D9%8A%20%D8%B3%D9%8A%D8%B1%D9%87%20%D9%88%D9%86%D8%AF)
     1. [RPM02-53 محسن گودرزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/53_%D9%85%D8%AD%D8%B3%D9%86%20%DA%AF%D9%88%D8%AF%D8%B1%D8%B2%D9%8A)
+    1. [TLM02-52 سعید کولیوند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/52_%D8%B3%D8%B9%D9%8A%D8%AF%20%D9%83%D9%88%D9%84%D9%8A%20%D9%88%D9%86%D8%AF)
+
     
 <a name="G-L09"></a>
 
@@ -471,3 +480,5 @@
 
 
 [<kbd>↩</kbd>](#TOC)
+
+</div>

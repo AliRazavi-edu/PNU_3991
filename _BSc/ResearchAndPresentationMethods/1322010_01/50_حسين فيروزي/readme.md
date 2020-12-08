@@ -8,6 +8,7 @@
 + [حساب گیت هاب](https://github.com/hosseinfiroozi)
 + [ رزومه](https://hosseinfiroozi.github.io/PNU_3991_AR)
 + [انگیزنامه](https://hosseinfiroozi.github.io/SOP)
++ [مدرک جاوا اسکیریپت](https://www.sololearn.com/Certificate/1024-14432515/jpg)
 
 
 -------------------

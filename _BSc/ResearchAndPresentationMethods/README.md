@@ -1,3 +1,5 @@
+<div dir="rtl">
+       
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
@@ -32,7 +34,7 @@
     3. **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی** 
         - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 1 تا 215
             - **از صفحه :** [(شماره ردیف دانشجو - 1) * 3] + 1
-            - **تا صفحه :**  [(شماره ردیف دانشجو) * 3] 
+            - **تا صفحه :**  [(شماره ردیف دانشجو) * 3]
     4. **ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر**
         - بمدت حداکثر 5 دقیقه خلاصه برداشت از ارائه کتبی بند 3 و یا روش پژوهش بند 2 را توضیح دهید
 
@@ -187,15 +189,23 @@
     1. [_UID-الهام کرمیان29](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/29_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)
     
 <a name="G-R08"></a>
+
 8. G-R08
-    1. []()    
-    1. []()    
-    1. []()    
-    1. []()    
-    1. []()    
-    1. []() 
+    1. [_RPM02-20_فاطمه دوستاني**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/20_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86%D9%8A)    
+    1. [_RPM02-26_مليكا زمان زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/26_%D9%85%D9%84%D9%8A%D9%83%D8%A7%20%D8%B2%D9%85%D8%A7%D9%86%20%D8%B2%D8%A7%D8%AF%D9%87)   
+    1. [_RPM02-59_زهره مشمول](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/59_%D8%B2%D9%87%D8%B1%D9%87%20%D9%85%D8%B4%D9%85%D9%88%D9%84)       
+    1. [_RPM02-56_بهناز محمدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/56_%D8%A8%D9%87%D9%86%D8%A7%D8%B2%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A)   
+    1. [_RPM02-47_معصومه قشقائي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/47_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87%20%D9%82%D8%B4%D9%82%D8%A7%D8%A6%D9%8A)
+    1. [_RPM02-25_سكينه رهبري جرتوده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/25_%D8%B3%D9%83%D9%8A%D9%86%D9%87%20%D8%B1%D9%87%D8%A8%D8%B1%D9%8A%20%D8%AC%D8%B1%D8%AA%D9%88%D8%AF%D9%87)
+    1. [_RPM01-30_زينب سياحي بخشايش](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/30_%D8%B2%D9%8A%D9%86%D8%A8%20%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%20%D8%A8%D8%AE%D8%B4%D8%A7%D9%8A%D8%B4)
+    1. [_RPM01-53_زهرا كبيري سرشت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/53_%D8%B2%D9%87%D8%B1%D8%A7%20%D9%83%D8%A8%D9%8A%D8%B1%D9%8A%20%D8%B3%D8%B1%D8%B4%D8%AA)
+    1. [_RPM01-20_مبينا رائيجي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/20_%D9%85%D8%A8%D9%8A%D9%86%D8%A7%20%D8%B1%D8%A7%D8%A6%D9%8A%D8%AC%D9%8A)
+    1. [_RPM02-48_سميه قلي پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/48_%D8%B3%D9%85%D9%8A%D9%87%20%D9%82%D9%84%D9%8A%20%D9%BE%D9%88%D8%B1)
+
+
     
 <a name="G-R09"></a>
+
 9. G-R09
     1. []()    
     1. []()    
@@ -216,3 +226,5 @@
 </details>
 
 [<kbd>↩</kbd>](#TOC)
+
+</div>

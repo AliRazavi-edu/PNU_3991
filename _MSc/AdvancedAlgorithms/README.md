@@ -1,3 +1,6 @@
+
+<div dir="rtl">
+
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 | [MSc Theses](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/Theses/readme.md#TOC) | 
@@ -11,7 +14,9 @@
  
 | [Software Project Management](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/SoftwareProjectManagement/README.md#TOC) |
 
+
 ## Advanced Algorithms
+
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
 - [منبع درس  الگوریتم پیشرفته](#CourseRef)
@@ -40,7 +45,7 @@
 
 2. **فعالیت گروهی**
     1. ارائه یک الگوریتم انتخابی **غیرتکراری** از فصول درس توسط **هر عضو** تیم
-    1. ارائه **حداقل دو** الگوریتم تصویرسازی شده **غیرتکراری** از دیگر دانشگاهها
+    1. ارائه **حداقل دو** الگوریتم تصویرسازی شده **غیرتکراری** از دیگر دانشگاهها - هر سه نفر یک الگوریتم
     1. شبیه سازی تصویری **یکی** از الگوریتم های انتخابی **غیرتکراری** توسط هر تیم
         - کدهای جاوااسکریپت الگوریتم های ترم گذشته قابل استفاده میباشند
             - [3983](#RelatedCourses)
@@ -55,7 +60,7 @@
      1. الگوریتم
      1. الگوریتم
  - **G-A-03** : 
-     1. flow networks + convex hull + Robin_karp + kmp + Ford - Fulkerson
+     1. edmonds-karp + convex hull + Robin_karp + kmp + Ford - Fulkerson
      1. الگوریتم
      1. الگوریتم
  - **G-A-04** : 
@@ -185,6 +190,7 @@
 >## دیگر منابع
 
  - [**visualising data structures and algorithms through animation**](https://visualgo.net/en)
+ - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
  - [Vizualizes Maximum flow](https://github.com/gbarnev/MaxFlow-algorithm-visualization)
     - [gbarnev.github.io](https://gbarnev.github.io/MaxFlow-algorithm-visualization/)
  - [MinCut-Maxflow-Simulation](https://github.com/thakurso/MinCut-Maxflow-Simulation)
@@ -262,3 +268,6 @@
 
 
 [<kbd>↩</kbd>](#TOC)
+
+
+</div>
