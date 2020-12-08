@@ -6,7 +6,7 @@
 ## فهرست
 - [روز و ساعت ارائه دروس](#Course-Table)
 - [پروژه های کاربردی](#Student-Prjs)
-ّ- [دورکاری](#ّFreelancers)
+- [دورکاری](#ّFreelancers)
 - [کار دانشجویی](#Student-Work)
 - [گیت هاب](#Github)
 - [رزومه - انگیزه نامه](#CV_SOP)
