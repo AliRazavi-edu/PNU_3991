@@ -260,6 +260,8 @@
     1. [TLM01-22 محمد حیدری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/22_%D9%85%D8%AD%D9%85%D8%AF%20%D8%AD%D9%8A%D8%AF%D8%B1%D9%8A)
     1. [TLM03-07 مجتبی سیره وند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/07_%D9%85%D8%AC%D8%AA%D8%A8%D9%8A%20%D8%B3%D9%8A%D8%B1%D9%87%20%D9%88%D9%86%D8%AF)
     1. [RPM02-53 محسن گودرزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/53_%D9%85%D8%AD%D8%B3%D9%86%20%DA%AF%D9%88%D8%AF%D8%B1%D8%B2%D9%8A)
+    1. [TLM02-52 سعید کولیوند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/52_%D8%B3%D8%B9%D9%8A%D8%AF%20%D9%83%D9%88%D9%84%D9%8A%20%D9%88%D9%86%D8%AF)
+
     
 <a name="G-L09"></a>
 
