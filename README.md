@@ -177,6 +177,9 @@
 <a name="CV_SOP"></a>
 <details>
     <summary>رزومه - انگیزه نامه</summary>
+   
+> ## رزومه چیست و چگونه آنرا آماده نمائیم   
+- [رزومه چیست؟](https://karboom.io/mag/articles/%D8%B1%D8%B2%D9%88%D9%85%D9%87-%DA%86%DB%8C%D8%B3%D8%AA)
 
 > ## (SOP)انگیزه نامه
 - [ شخصی چیست و چه کاربردی دارد؟(SOP)انگیزه نامه](https://www.writeme.ir/sop-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87-%D9%86%D8%A7%D9%85%D9%87/)
