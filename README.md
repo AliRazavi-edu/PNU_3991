@@ -115,6 +115,8 @@
 - [پونیشا](https://ponisha.ir/)
 - [پارس کدرز](https://parscoders.com/)
 - [جاب اینجا](https://jobinja.ir/)
+- [جاب ویژن](https://jobvision.ir/)
+- [کاربوم](https://karboom.io/)
 
 </details>
 
