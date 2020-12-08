@@ -6,6 +6,7 @@
 ## فهرست
 - [روز و ساعت ارائه دروس](#Course-Table)
 - [پروژه های کاربردی](#Student-Prjs)
+ّ- [دورکاری](#ّFreelancers)
 - [کار دانشجویی](#Student-Work)
 - [گیت هاب](#Github)
 - [رزومه - انگیزه نامه](#CV_SOP)
@@ -106,6 +107,17 @@
 [<kbd>↩</kbd>](#TOC)
 
 </details>
+
+<a name="ّFreelancers"></a>
+<details>
+    <summary>دور کاری</summary>
+
+- [پونیشا](https://ponisha.ir/)
+- [پارس کدرز](https://parscoders.com/)
+- [جاب اینجا](https://jobinja.ir/)
+
+</details>
+
 
 <a name="Student-Work"></a>
 <details>
