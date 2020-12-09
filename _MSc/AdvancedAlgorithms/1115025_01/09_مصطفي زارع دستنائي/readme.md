@@ -5,10 +5,10 @@
 ---
 - [github](https://github.com/mostafazare2008)
 - [PNU_3991_AR](https://github.com/mostafazare2008/PNU_3991_AR)
-- [resume](https://mostafazare2008.github.io/mostafazare2008.github.io/)
-- [SOP](https://github.com/mostafazare2008/SOP) 
+- [resume](https://mostafazare2008.github.io/)
+- [SOP](https://mostafazare2008.github.io/SOP/) 
 - [javascript Certificate](https://github.com/mostafazare2008/PNU_3991_AR/blob/main/cert-1024-20425881.jpg)
-- [jlord patchwork](patchwork.jpg)
+- [jlord patchwork](https://github.com/mostafazare2008/PNU_3991_AR/blob/main/patchwork.jpg)
   
 ------------------
 # گروه ها
