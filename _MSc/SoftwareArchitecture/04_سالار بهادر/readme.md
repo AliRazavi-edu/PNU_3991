@@ -25,7 +25,7 @@
 ## My Tasks
 
  - **Design patten** : Strategy
- - **Conference** : Chapter 3 (10 page)
+ - **Conference** : Chapter 3 - (first 10 page)
 
 ----------------
 ## گروه ها
