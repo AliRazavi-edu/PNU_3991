@@ -1,5 +1,5 @@
 # PNU_3991_AR
-# قاسم فقری
+# قاسم فقری**
 - [PNU_3991_AR](https://github.com/qasem5252/PNU_3991_AR)
 - [Resume](https://qasem5252.github.io/CVE2/) 
 - [SOP](https://qasem5252.github.io/SOP/)
@@ -8,7 +8,7 @@
 -----------------
 1. G-L08 
 
-   1. [TLM02-45 قاسم فقری میاب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/45_%D9%82%D8%A7%D8%B3%D9%85%20%D9%81%D9%82%D8%B1%D9%8A%20%D9%85%D9%8A%D8%A7%D8%A8)
+   1. [TLM02-45 قاسم فقری میاب**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/45_%D9%82%D8%A7%D8%B3%D9%85%20%D9%81%D9%82%D8%B1%D9%8A%20%D9%85%D9%8A%D8%A7%D8%A8)
  
     1. [TLM03-06 رضا رضایی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/06_%D8%B1%D8%B6%D8%A7%20%D8%B1%D8%B6%D8%A7%D8%A6%D9%8A)
 
