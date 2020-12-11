@@ -31,7 +31,8 @@
             - [دسترسی به متن بیش از 2 میلیون پایان نامه از 80 دانشگاه جهان](http://oatd.org/)
             - [Research Methods](https://methods.sagepub.com/methods-map) 
         
-    3. **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی** 
+    3. **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی**
+        - [**مخزن کتاب**](https://github.com/AliRazavi-edu/Book_eResearch/)
         - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 1 تا 215
             - **از صفحه :** [(شماره ردیف دانشجو - 1) * 3] + 1
             - **تا صفحه :**  [(شماره ردیف دانشجو) * 3]
