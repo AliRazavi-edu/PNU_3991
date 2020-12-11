@@ -34,7 +34,8 @@
     - شماره ردیف دانشجو به پیمانه 11 
      ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
     
-3. **ارائه نوشتاری درس از منابع دیگر با لاتک**  
+3. **ارائه نوشتاری درس از منابع دیگر با لاتک** 
+    - [**مخزن کتاب**](https://github.com/AliRazavi-edu/Book_IntroductionToAutomataTheory_Kandar)
     - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
         - **از صفحه :** [([شماره ردیف کل دانشجو](#StudentsList) - 1) * 4] + 1
         - **تا صفحه :**  [(شماره ردیف کل دانشجو) * 4]
