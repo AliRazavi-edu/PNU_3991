@@ -309,7 +309,7 @@
 <a name="G-L12"></a>
 
 12. G-L12
-    1. []()
+    1. [TLM-01/57_محسن گلی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/57_%D9%85%D8%AD%D8%B3%D9%86%20%DA%AF%D9%84%D9%8A)
     1. []()
     1. []()
     1. []()
