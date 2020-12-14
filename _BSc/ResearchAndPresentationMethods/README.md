@@ -37,7 +37,13 @@
             - **از صفحه :** [(شماره ردیف دانشجو - 1) * 3] + 1
             - **تا صفحه :**  [(شماره ردیف دانشجو) * 3]
     4. **ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر**
+        - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 1 تا 215
         - بمدت حداکثر 5 دقیقه خلاصه برداشت از ارائه کتبی بند 3 و یا روش پژوهش بند 2 را توضیح دهید
+           	- [beamer-tutorial](http://web.mit.edu/rsi/www/pdfs/beamer-tutorial.pdf)
+                - [**A collection of custom Beamer themes**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list)
+                - [**A clean, simple and extensible template for presentations. Supports XeTeX and Beamer**](https://github.com/RatulSaha/presento)
+                - [**A simple, minimalistic Beamer theme to keep eyes on the content**](https://github.com/martinbjeldbak/beamertheme-bjeldbak)
+
 
 
 [**نمونه تحویل فعالیت های انجام شده**](https://github.com/mir-mohammad/PNU_3991_AR/)
