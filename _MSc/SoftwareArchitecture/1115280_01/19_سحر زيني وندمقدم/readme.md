@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 # سحر زینی وند
 - [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
@@ -38,3 +40,4 @@
     1. [_SA-30_علي مهرايي_Prototype pattern](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/30_%D8%B9%D9%84%D9%8A%20%D9%85%D9%87%D8%B1%D8%A7%D9%8A%D9%8A) 
      1. [_SA-10_پروانه خاني همت اباد_Adapter pattern](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/10_%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87%20%D8%AE%D8%A7%D9%86%D9%8A%20%D9%87%D9%85%D8%AA%20%D8%A7%D8%A8%D8%A7%D8%AF)      
     
+</div>
