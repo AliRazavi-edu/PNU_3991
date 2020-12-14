@@ -244,6 +244,9 @@
 <a name="Latex"></a>
 <details>
     <summary>لاتک</summary>
+    
+> ##  تلفظ لاتک
+ - [Pronouncing and writing LaTeX](https://en.wikipedia.org/wiki/LaTeX#Pronouncing_and_writing_%22LaTeX%22)
 
 > ## LaTeX آموزش 
 - [LaTeX آموزش دکتر مس فروش ](http://mesforush.staff.shahroodut.ac.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-latex/)
