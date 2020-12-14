@@ -79,7 +79,7 @@
 
 > ## دروس مشابه
 - [آموزش شیوه ارائه علمی -فرادرس](https://faradars.org/courses/fvacw9403-scientific-presentation)
-- [ce.sharif.edu - ce415-1](http://ce.sharif.edu/courses/94-95/1/ce415-1/index.php)
+- [ce.sharif.edu - ce221-1](http://ce.sharif.edu/courses/94-95/1/ce221-1/index.php/)
 
 [<kbd>↩</kbd>](#TOC)
 </details>
