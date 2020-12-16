@@ -178,7 +178,8 @@
 <details>
     <summary>رزومه - انگیزه نامه</summary>
    
-> ## رزومه چیست و چگونه آنرا آماده نمائیم   
+> ## رزومه چیست و چگونه آنرا آماده نمائیم
+- [Effective Resume Writing](https://www.tutorialspoint.com/effective_resume_writing.htm)   
 - [رزومه چیست؟](https://karboom.io/mag/articles/%D8%B1%D8%B2%D9%88%D9%85%D9%87-%DA%86%DB%8C%D8%B3%D8%AA)
 
 > ## (SOP)انگیزه نامه
