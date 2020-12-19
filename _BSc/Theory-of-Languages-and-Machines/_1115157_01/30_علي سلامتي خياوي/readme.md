@@ -7,6 +7,10 @@
 - [Java Script License](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/java%20script%20license.jpeg)
 - [GitHub](https://github.com/alisalamati)
 - [jlord patchwork](patchwork.jpg)
+- [latex power (pdf)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-pdf/%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C_Power(117-120).pdf)
+- [latex source (pdf)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-pdf/%D9%84%D8%A7%D8%AA%DA%A9%20%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C%20(117-120).pdf)
+- [latex power (tex)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-(.tex)/%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C_Power(117-120).tex)
+- [latex source (tex)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-(.tex)/%D9%84%D8%A7%D8%AA%DA%A9%20%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C%20(117-120).tex)
 ------------------
 ## گروه ها
 
@@ -21,3 +25,70 @@
     1. [TLM02-48رضا کاظمی زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/48_%D8%B1%D8%B6%D8%A7%20%D9%83%D8%A7%D8%B8%D9%85%D9%8A%20%D8%B2%D8%A7%D8%AF%D9%87)
 
 -------------
+## روز و ساعت ارائه دروس
+
+<table style="width:150%">
+  <tr>
+    <th>18-20</th>
+    <th >16-18</th>
+    <th >14-16</th>
+    <th >12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th>latex</th>
+    <th ></th>
+    <th >git hub</th>
+    <th >مطالعه درس</th>
+    <th><a href="https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machinesv">نظریه زبان ها و ماشین ها</a></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+     <th ></th>
+     <th ></th>
+     <th ></th>
+     <th></th>
+     <th></th>
+    <th ></th>   
+    <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>سه شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+     <th ></th>
+    <th>چهارشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+     <th ></th>
+     <th ></th>
+     <th></th>
+    <th></th>
+    <th>پنج شنبه</th>
+  </tr>
+</table>
