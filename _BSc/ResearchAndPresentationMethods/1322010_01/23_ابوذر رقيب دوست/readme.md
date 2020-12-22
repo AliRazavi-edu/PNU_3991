@@ -39,6 +39,12 @@
             - **تا صفحه :**  [(شماره ردیف دانشجو) * 3]
               ```diff
               + تا صفحه 69
+        - [فایل پی دی اف]
+            - [فایل پی دی اف - ازصفحه 67 تا 69](https://jabozaroid.github.io/researchandpresentation/67-69.pdf)
+        - [فایل ورد]   
+            - [فایل ورد - ازصفحه 67 تا 69](https://jabozaroid.github.io/researchandpresentation/67-69.docx)
+        - [فایل لاتکس]  
+            - [فایل لاتکس - ازصفحه 67 تا 69](https://jabozaroid.github.io/researchandpresentation/67-69.tex)
     4. **ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر**
         - بمدت حداکثر 5 دقیقه خلاصه برداشت از ارائه کتبی بند 3 و یا روش پژوهش بند 2 را توضیح دهید    
 
@@ -53,4 +59,3 @@
     1. [_UID-37_زينب ملكي راد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/37_%D8%B2%D9%8A%D9%86%D8%A8%20%D9%85%D9%84%D9%83%D9%8A%20%D8%B1%D8%A7%D8%AF)
     1. [_UID-39_حميدرضا ميرزايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/39_%D8%AD%D9%85%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D9%85%D9%8A%D8%B1%D8%B2%D8%A7%D9%8A%D9%8A)
     1. [_RPM02-08_پوریا بداغی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/08_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%A8%D8%AF%D8%A7%D8%BA%D9%8A)
-
