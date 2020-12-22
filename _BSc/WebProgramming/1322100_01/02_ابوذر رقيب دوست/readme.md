@@ -23,11 +23,31 @@
 2. **فعالیت های گروهی**
     **توجه : این درس بصورت پروژه محور گروهی ارائه میشود**
     1. انتخاب موضوع
+        ```diff
+        + پیاده سازی وب سایت خرید آنلاین کالا - فروشگاه لباس
     2. ارائه نمونه آموزش پروژه محور از منابع مرتبط
+        - [University of Upssala](https://www.uu.se/en/admissions/master/selma/kursplan/?kpid=32303&type=1)
     3. طراحی رابط کاربر و تجربه کاربری به زبان فارسی
-    8. پیاده سازی
+      - طرح دستی
+        - [صفحه اصلی]
+            - [طرح دستی صفحه اصلی وب سایت](https://jabozaroid.github.io/manualdesign/home.pdf)
+        - [صفحه جزییات محصول]   
+            - [طرح دستی صفحه جزییات هر محصول](https://jabozaroid.github.io/manualdesign/details.pdf)
+        - [صفحه ورود و عضویت وبسایت]   
+            - [طرح دستی صفحه عضویت در وبسایت](https://jabozaroid.github.io/manualdesign/signin.pdf)
+      - طراحی رابط و تجربه کاربری
+        - [صفحه اصلی]
+            - [دیزاین صفحه اصلی وب سایت](https://jabozaroid.github.io/graphicdesign/home.pdf)
+        - [صفحه جزییات محصول]   
+            - [دیزاین صفحه جزییات هر محصول](https://jabozaroid.github.io/graphicdesign/details.pdf)
+        - [صفحه ورود و عضویت وبسایت]   
+            - [دیزاین صفحه ورود وبسایت](https://jabozaroid.github.io/graphicdesign/signin.pdf)
+            - [دیزاین صفحه عضویت وبسایت](https://jabozaroid.github.io/graphicdesign/register.pdf) 
+    4. پیاده سازی
         - **پیاده سازی با فناوری جاوا اسکریپت فول استک ارزیابی مازاد خواهد داشت**
-    9. ارائه    
+        - [فروشگاه آنلاین فروش لباس با جاوااسکریپت و نود جی اس]
+            - [لینک پروژه](https://github.com/JAbozarOid/jsamazona_full_ecommerce)
+    5. ارائه    
 
 -------------------------
 
@@ -40,4 +60,3 @@
     1. [_UID-37_زينب ملكي راد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/37_%D8%B2%D9%8A%D9%86%D8%A8%20%D9%85%D9%84%D9%83%D9%8A%20%D8%B1%D8%A7%D8%AF)
     1. [_UID-39_حميدرضا ميرزايي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/39_%D8%AD%D9%85%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D9%85%D9%8A%D8%B1%D8%B2%D8%A7%D9%8A%D9%8A)
     1. [_RPM02-08_پوریا بداغی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/08_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%A8%D8%AF%D8%A7%D8%BA%D9%8A)
-
