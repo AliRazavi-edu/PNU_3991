@@ -24,6 +24,7 @@
 2. **فعالیت های گروهی**
     1. معرفی یک درس مشابه در دانشگاههای دیگر
         - هر 10 نفر یک درس
+        - [Upssala University - Sweden - User Interface Design Course](https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=2IV063)
     2. انتخاب موضوع کار گروهی
         ```diff
         + پیاده سازی سایت خرید آنلاین کالا - فروشگاه لباس
