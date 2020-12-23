@@ -23,14 +23,13 @@
 2. **فعالیت گروهی**
     1. معرفی یک درس مشابه در دانشگاههای دیگر
         - هر 10 نفر یک درس
-        ```diff
-        + [University of London - Understanding Research Methods](https://www.coursera.org/learn/research-methods)
+        - [University of London - Understanding Research Methods](https://www.coursera.org/learn/research-methods)
     2. **جستجوی منابع دیگر** 
         - هر گروه، روش پژوهش یک پایان نامه ارشد یا دکترا در رشته مهندسی نرم افزار از دانشگاههای معتبر را عیناً(بدون ترجمه یا تحلیل) معرفی نماید
             - [دسترسی به متن بیش از 2 میلیون پایان نامه از 80 دانشگاه جهان](http://oatd.org/)
             - [Research Methods](https://methods.sagepub.com/methods-map) 
-        ```diff
-        + https://courses.helsinki.fi/en/csm14102
+        - [University Of Helsinki - Methods for Software Engineering Research](https://courses.helsinki.fi/en/csm14102)
+        - [Stockholm University - Introduction to Educational Research Methods, 15 ECTS](https://www.edu.su.se/english/education/master-s-programme/introduction-to-educational-research-methods-15-ects-1.404781) 
     3. **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی** 
         - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 1 تا 215
             - **از صفحه :** [(شماره ردیف دانشجو - 1) * 3] + 1
