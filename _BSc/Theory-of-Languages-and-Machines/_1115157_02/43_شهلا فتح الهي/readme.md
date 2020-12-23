@@ -1,21 +1,39 @@
 
 
 ### شهلا فتح الهی
+# PNU_3991
 
+---
+
+
+-  [PNU_3991_AR](https://github.com/shfathollahi/PNU_3991_AR)
+- [Resume](https://shfathollahi.github.io) 
+- [SOP](https://shfathollahi.github.io/sop/)
+- [GitHub](https://github.com/shfathollahi)
+- [JavaScript Certificates ](https://github.com/shfathollahi/PNU_3991_AR/blob/main/JavaScript/Certificates.pdf)
+- [patchwork](https://github.com/shfathollahi/PNU_3991_AR/blob/main/jlord.png)
 ------------------
 ## سیاهه ارزشیابی درس
 
 1. **فعالیت های مشترک همه دانشجویان**
-    1. [ساخت اکانت گیت هاب](https://github.com/shfathollahi) 
-    2. [آموزش گیت در سایت پچ ورک](https://github.com/shfathollahi/PNU_3991_AR/blob/main/jlord.png)
-    3. [ارائه رزومه](https://shfathollahi.github.io)
-    4. [ارائه انگیزه نامه](https://shfathollahi.github.io/sop/)
-    5. [ایجاد ریپازیتوری PNU_3991_AR](https://github.com/shfathollahi/PNU_3991_AR)
-    6. [گذراندن دوره js از سایت سولولرن](https://github.com/shfathollahi/PNU_3991_AR/blob/main/CertJS.png)
-    7. [مشارکت در گروهای درسی(گروه 7)](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#Groups)
-1. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**
-1. [ **ارائه نوشتاری درس از منابع دیگر با لاتک**](https://github.com/shfathollahi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/ارائه%20نوشتاری%20درس%20از%20منابع%20دیگر%20با%20لاتک)
-1. [ **ارائه شفاهی دو مساله از منابع دیگر با لاتک**](https://github.com/shfathollahi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/ارائه%20شفاهی%20دو%20مساله%20از%20منابع%20دیگر%20با%20لاتک)
+    1. ساخت اکانت گیت هاب
+    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
+    3. ارائه رزومه
+    4. ارائه انگیزه نامه
+    5. ایجاد ریپازیتوری PNU_3991_AR
+    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
+    7. مشارکت در گروهای درسی
+2. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**
+     
+     ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
+   
+    
+3. :**ارائه نوشتاری درس از منابع دیگر با لاتک**
+    ##### [**Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)](http://library.lol/main/BA5FF8420F90F861837783127F524EC8)
+    
+4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک**
+    ##### [**Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)](http://library.lol/main/BA5FF8420F90F861837783127F524EC8)
+
 
 ------------------
 
