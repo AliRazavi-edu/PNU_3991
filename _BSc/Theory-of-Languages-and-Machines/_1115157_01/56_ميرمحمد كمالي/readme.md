@@ -4,6 +4,7 @@
 - [Resume](https://mir-mohammad.github.io/)
 - [SOP](https://mir-mohammad.github.io/SOP/)
 - [JavaScript Certificate](https://github.com/mir-mohammad/PNU_3991_AR/blob/main/js.pdf)
+- [jlord patchwork](jlord.png)
 
 # گروه ها
 
