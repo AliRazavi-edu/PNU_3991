@@ -1,15 +1,16 @@
+# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+
 <div dir="rtl">
 
-# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 # مهدی سلطانمرادی
 - [PNU_3991_AR](https://github.com/sultanmoradimehdi/PNU_3991_AR)
-- [Resume](https://sultanmoradimehdi.github.io/resume/) 
-- [SOP](https://sultanmoradimehdi.github.io/SOP/)
-- [JavaScript.Certificates](https://sultanmoradimehdi.github.io/JavaScript-Certificate/)
-- [HTML.Certificates](https://sultanmoradimehdi.github.io/HTML-Certificates/)
 - [GitHub](https://github.com/sultanmoradimehdi)
-- [git-patchwork](https://sultanmoradimehdi.github.io/git-patchwork/)
------------------
+- [Resume]( https://sultanmoradimehdi.github.io/resume/)
+- [SOP](https://sultanmoradimehdi.github.io/SOP/)
+- [JavaScript.Certificates](java.png)
+- [HTML.Certificates](HTML.png)
+- [git-patchwork](patchwork.png)
+---
 ### فعالیت گروهی
 
 - [ معرفی درس مشابه در دانشگاه خلیج فارس ](http://smbidoki.ir/crsdetail.php?crsid=41)
@@ -28,4 +29,4 @@
     1. [_BSc-52_متين كاظمي صابر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/52_%D9%85%D8%AA%D9%8A%D9%86%20%D9%83%D8%A7%D8%B8%D9%85%D9%8A%20%D8%B5%D8%A7%D8%A8%D8%B1)
     1. [_BSc-27_حسین زندیه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/27_%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B2%D9%86%D8%AF%D9%8A%D9%87)
     
-    </div>
+</div>
