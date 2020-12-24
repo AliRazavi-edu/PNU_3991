@@ -1,9 +1,10 @@
-<div dir="rtl">
- # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
+<div dir="rtl">
+ 
 # سحر زینی وند
 - [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
-- [Resume](https://saharzeinivand.github.io/Resume/) 
+- [Resume](https://saharzeinivand.github.io) 
 - [SOP](https://saharzeinivand.github.io/SOP/)
 - [Certificates](https://saharzeinivand.github.io/Certificates/)
 - [GitHub](https://github.com/saharzeinivand)
