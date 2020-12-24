@@ -1,4 +1,5 @@
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+<div dir="rtl">
 # بهرام بهنژاد
 - [PNU_3991_AR](https://github.com/bahram200/PNU_3991_AR)
 - [Resume](https://bahram200.github.io/Behnejad/) 
@@ -26,7 +27,7 @@
         ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
   
 
-   - **G-SA-02** : Chapter 9: Implementation + Chapter 10: Deployment And Mobility
+   - **G-SA-02** : Chapter 2:Architecture in context:The reorientation of software Engineering + Chapter 8: Analaysis
 ----------------
 ## گروه ها
 
