@@ -11,14 +11,6 @@
 - [HTML.Certificates](HTML.png)
 - [git-patchwork](patchwork.png)
 ---
-### فعالیت گروهی
-
-- [ معرفی درس مشابه در دانشگاه خلیج فارس ](http://smbidoki.ir/crsdetail.php?crsid=41)
-- [pepperdine معرفی درس مشابه در دانشگاه](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
-- [روش پژوهش پایان نامه یک](https://sultanmoradimehdi.github.io/Group-project/ThesisForMethodology.pdf)
-- [روش پژوهش پایان نامه دو](https://sultanmoradimehdi.github.io/Group-project/Dependabilityanalysisandrecoverysupportforsmartgrids.pdf)
-- [ ارایه کتبی صفحه ۷ تا ۹ LaTex ](https://sultanmoradimehdi.github.io/Group-project/Sultan.7-9.pdf)
-------------------
 ## گروه ها
     
 1. RPM 
