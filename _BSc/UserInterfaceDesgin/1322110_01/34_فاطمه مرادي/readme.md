@@ -1,10 +1,6 @@
 # PNU_3991_AR
 ---------
 
-![Project ](https://github.com/abouhamze-fahime/PNU_3991_AR/blob/gh-pages/SoftwareManagement/jsw-header-illustrations---v3.png)
-
-
-
 
 
 
