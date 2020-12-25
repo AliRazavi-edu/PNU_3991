@@ -1,8 +1,8 @@
-# PNU_3991_AR
-# AtefehRastgoo.github.io
-
 ###  عاطفه راستگو
- 
+---
+[Github](https://github.com/AtefehRastgoo) 
+---
+[PNU_3991_AR](https://github.com/AtefehRastgoo/PNU_3991_AR)
 ---
 - [resume](https://atefehrastgoo.github.io/)
 ---
@@ -10,7 +10,7 @@
 ---
 - [Certificate](https://atefehrastgoo.github.io/Certificate.jpg)
 ---
-- [Git-account](https://atefehrastgoo.github.io/patchwork.jpg)
+- [Patchwork](https://atefehrastgoo.github.io/patchwork.jpg)
 ---
 [ معرفی یک درس مشابه در دانشگاههای دیگر نمونه اول](http://smbidoki.ir/crsdetail.php?crsid=41)
 ---
@@ -18,7 +18,7 @@
 ---
 [روش پژوهش یک پایان نامه](https://atefehrastgoo.github.io/ThesisForMethodology.pdf)
 ---
-[ارائه کتبی با لاتک] (Uploaded to AtefehRastgoo/PNU_3991_AR/Research-And-Presentation-Methods)
+[ارائه کتبی با لاتک](https://github.com/AtefehRastgoo/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/Latex.rar)
 ---
 [ارائه شفاهی] (Uploaded to AtefehRastgoo/PNU_3991_AR/Research-And-Presentation-Methods)
 ------------------
