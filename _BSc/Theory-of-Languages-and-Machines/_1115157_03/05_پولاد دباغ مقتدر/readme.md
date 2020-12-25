@@ -39,7 +39,7 @@
     1. [منتظر عضو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/05_%D9%BE%D9%88%D9%84%D8%A7%D8%AF%20%D8%AF%D8%A8%D8%A7%D8%BA%20%D9%85%D9%82%D8%AA%D8%AF%D8%B1)    
     1. [منتظر عضو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/05_%D9%BE%D9%88%D9%84%D8%A7%D8%AF%20%D8%AF%D8%A8%D8%A7%D8%BA%20%D9%85%D9%82%D8%AA%D8%AF%D8%B1)
 ------------------
-## Winter Semester Courses 1399/2020
+## لطفا برای نمایش کارت عکس گروه روی لینک دروس ضربه بزنید
 
 ## دروس ارشد
 
@@ -53,63 +53,4 @@
 [1115157_03نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
 
 --------------
-## روز و ساعت ارائه دروس
 
-<table style="width:100%">
-  <tr>
-    <th >16-18</th>
-    <th >14-16</th>
-    <th >12-14</th>
-    <th>10-12</th>
-    <th>8-10</th>
-    <th>روز</th>
-  </tr>
-  <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th>شنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th ></th>
-    <th>یک شنبه</th>
-  </tr>
-   <tr>
-     <th ></th>
-     <th ></th>
-     <th></th>
-     <th></th>
-    <th ></th>   
-    <th>دوشنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th ></th>
-    <th>سه شنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-     <th ></th>
-    <th>چهارشنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-     <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
-    <th>پنج شنبه</th>
-  </tr>
-</table>
