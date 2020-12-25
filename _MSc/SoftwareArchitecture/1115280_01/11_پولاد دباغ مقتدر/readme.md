@@ -39,7 +39,7 @@
     1. [منتظر عضو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/05_%D9%BE%D9%88%D9%84%D8%A7%D8%AF%20%D8%AF%D8%A8%D8%A7%D8%BA%20%D9%85%D9%82%D8%AA%D8%AF%D8%B1)    
     1. [منتظر عضو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/05_%D9%BE%D9%88%D9%84%D8%A7%D8%AF%20%D8%AF%D8%A8%D8%A7%D8%BA%20%D9%85%D9%82%D8%AA%D8%AF%D8%B1)
 ------------------
-## Winter Semester Courses 1399/2020
+## لطفا برای نمایش کارت عکس گروه روی لینک دروس ضربه بزنید
 
 ## دروس ارشد
 
