@@ -10,6 +10,12 @@
 + [انگیزنامه](https://hosseinfiroozi.github.io/SOP)
 + [مدرک جاوا اسکیریپت](https://www.sololearn.com/Certificate/1024-14432515/jpg)
 
+-------------------
+
+### فعالیت گروهی
++ [روش پژوهش پایان نامه مهندسی نرم افزار از دانشگاه صنعتی اصفهان](https://upinja.com/do.php?filename=پایان-نامه_b7b33.pdf)
++ [ارائه کتبی با لاتک از منابع دیگر(از صفحه 148 تا صفحه 150)](https://upinja.com/do.php?filename=148-150.pdf)
+
 -----------------
 
 ## گروه کلاسی
