@@ -71,7 +71,7 @@
     - **G-SDM-05** : CHAPTER 05 
     - **G-SDM-06** : CHAPTER 06 	
     - **G-SDM-07** : CHAPTER 07 
-    - **G-SDM-08** : CHAPTER 08 
+    - **G-SDM-08** : CHAPTER 10 
     - **G-SDM-09** : CHAPTER 09 
 
 </details>
