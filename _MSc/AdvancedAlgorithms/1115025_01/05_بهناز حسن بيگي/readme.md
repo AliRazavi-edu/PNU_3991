@@ -11,7 +11,11 @@
 - [jlord patchwork](https://github.com/bahssanbeygi/PNU_3991_AR/blob/main/patchwork.jpg)
   
 ------------------
-
+# تمرین ها
+1. [G-A03]
+    1. [Edmonds-karp]
+    1. [------------]
+    1. [Ford-fulkerson](https://github.com/bahssanbeygi/ford-fulkerson)
 
 # گروه ها
 1. [G-A03]
