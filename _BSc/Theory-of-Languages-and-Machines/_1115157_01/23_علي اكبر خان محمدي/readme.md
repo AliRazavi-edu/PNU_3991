@@ -17,7 +17,7 @@
 
 - [PNU_3991_AR](https://github.com/aliakbarkhanmohammadi/PNU_3991_AR)
 
-- [Latex PDF](https://github.com/aliakbarkhanmohammadi/PNU_3991_AR/blob/master/LaTex%20Pages%2089-92/LaTex%20-%20Ali%20Akbar%20Khan%20Mohammadi%20-%20Pages%2089-92.pdf)
+- [LaTex PDF File](https://github.com/aliakbarkhanmohammadi/PNU_3991_AR/blob/master/LaTex%20Pages%2089-92/LaTex%20-%20Ali%20Akbar%20Khan%20Mohammadi%20-%20Pages%2089-92.pdf)
 
 - [LaTex TEX File & Directory](https://github.com/aliakbarkhanmohammadi/PNU_3991_AR/tree/master/LaTex%20Pages%2089-92/)
 
