@@ -31,12 +31,19 @@
             - [دسترسی به متن بیش از 2 میلیون پایان نامه از 80 دانشگاه جهان](http://oatd.org/)
             - [Research Methods](https://methods.sagepub.com/methods-map) 
         
-    3. **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی** 
+    3. **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی**
+        - [**مخزن کتاب**](https://github.com/AliRazavi-edu/Book_eResearch/)
         - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 1 تا 215
             - **از صفحه :** [(شماره ردیف دانشجو - 1) * 3] + 1
             - **تا صفحه :**  [(شماره ردیف دانشجو) * 3]
     4. **ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر**
+        - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 1 تا 215
         - بمدت حداکثر 5 دقیقه خلاصه برداشت از ارائه کتبی بند 3 و یا روش پژوهش بند 2 را توضیح دهید
+           	- [beamer-tutorial](http://web.mit.edu/rsi/www/pdfs/beamer-tutorial.pdf)
+                - [**A collection of custom Beamer themes**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list)
+                - [**A clean, simple and extensible template for presentations. Supports XeTeX and Beamer**](https://github.com/RatulSaha/presento)
+                - [**A simple, minimalistic Beamer theme to keep eyes on the content**](https://github.com/martinbjeldbak/beamertheme-bjeldbak)
+
 
 
 [**نمونه تحویل فعالیت های انجام شده**](https://github.com/mir-mohammad/PNU_3991_AR/)
@@ -78,6 +85,7 @@
 
 > ## دروس مشابه
 - [آموزش شیوه ارائه علمی -فرادرس](https://faradars.org/courses/fvacw9403-scientific-presentation)
+- [ce.sharif.edu - ce221-1](http://ce.sharif.edu/courses/94-95/1/ce221-1/index.php/)
 
 [<kbd>↩</kbd>](#TOC)
 </details>
@@ -124,6 +132,7 @@
     1. [_RPM01-42_سميرا عباسي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/42_%D8%B3%D9%85%D9%8A%D8%B1%D8%A7%20%D8%B9%D8%A8%D8%A7%D8%B3%D9%8A)
     1. [_RPM01-47_زهرا عنايتي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/47_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B9%D9%86%D8%A7%D9%8A%D8%AA%D9%8A) 
     1. [_RPM02-32_فائزه صيدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/32_%D9%81%D8%A7%D8%A6%D8%B2%D9%87%20%D8%B5%D9%8A%D8%AF%D9%8A)
+    1. [_RPM02-64_رضوانه نورزائي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
     
 <a name="G-R02"></a>
 
@@ -207,7 +216,7 @@
 <a name="G-R09"></a>
 
 9. G-R09
-    1. []()    
+    1. [_RPM01-60_محسن گلي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/60_%D9%85%D8%AD%D8%B3%D9%86%20%DA%AF%D9%84%D9%8A)    
     1. []()    
     1. []()    
     1. []()    

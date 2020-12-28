@@ -1,13 +1,56 @@
-# PNU_3991AR
+# [PNU_3991_AR](https://github.com/alisalamati/PNU_3991_AR)
 ---------
-# علی سلامتی
-- [PNU_3991](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines)
+<div dir="rtl">
+ 
+## علی سلامتی
+- [PNU_3991_AR](https://github.com/alisalamati/PNU_3991_AR)
 - [Resume]( https://alisalamati.github.io/resume/) 
 - [SOP](https://alisalamati.github.io/SOP/)
-- [Java Script License](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/java%20script%20license.jpeg)
+- [Certificates](https://alisalamati.github.io/Certificate/)
 - [GitHub](https://github.com/alisalamati)
-- [jlord patchwork](patchwork.jpg)
+- [latex power (pdf)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-pdf/%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C_Power(117-120).pdf)
+- [latex source (pdf)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-pdf/%D9%84%D8%A7%D8%AA%DA%A9%20%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C%20(117-120).pdf)
+- [latex power (tex)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-(.tex)/%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C_Power(117-120).tex)
+- [latex source (tex)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-(.tex)/%D9%84%D8%A7%D8%AA%DA%A9%20%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C%20(117-120).tex)
+ 
 ------------------
+ ## سیاهه ارزشیابی درس
+
+<details>
+    <summary>فعالیت های مشترک همه دانشجویان</summary>
+    
+1. **فعالیت های مشترک همه دانشجویان**
+    1. ساخت اکانت گیت هاب
+    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
+    3. ارائه رزومه
+    4. ارائه انگیزه نامه
+    5. ایجاد ریپازیتوری PNU_3991_AR
+    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
+    7. مشارکت در گروهای درسی
+
+</details>
+    
+2. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
+    - شماره ردیف دانشجو به پیمانه 11 
+     ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
+    
+3. **ارائه نوشتاری درس از منابع دیگر با لاتک** 
+    - [**مخزن کتاب**](https://github.com/AliRazavi-edu/Book_IntroductionToAutomataTheory_Kandar)
+    - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+        - **از صفحه :** [([شماره ردیف کل دانشجو](#StudentsList) - 1) * 4] + 1
+        - **تا صفحه :**  [(شماره ردیف کل دانشجو) * 4]
+            - [منو ببین!](https://mahdi-hashemi.github.io/Calculate_pages/index.html)
+     - **راهنمایی** : نمونه کتاب دارای گراف و فرمول 
+          - [**Book of Algorithmic Graph Theory**](https://github.com/jonasagx/graphbook)
+
+4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک** 
+    - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
+    	- [beamer-tutorial](http://web.mit.edu/rsi/www/pdfs/beamer-tutorial.pdf)
+        - [**A collection of custom Beamer themes**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list)
+        - [**A clean, simple and extensible template for presentations. Supports XeTeX and Beamer**](https://github.com/RatulSaha/presento)
+        - [**A simple, minimalistic Beamer theme to keep eyes on the content**](https://github.com/martinbjeldbak/beamertheme-bjeldbak)
+        
+        ---------------
 ## گروه ها
 
 1. G-TOLAM 01
@@ -21,3 +64,4 @@
     1. [TLM02-48رضا کاظمی زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/48_%D8%B1%D8%B6%D8%A7%20%D9%83%D8%A7%D8%B8%D9%85%D9%8A%20%D8%B2%D8%A7%D8%AF%D9%87)
 
 -------------
+</div>

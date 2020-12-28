@@ -6,6 +6,7 @@
 ## فهرست
 - [روز و ساعت ارائه دروس](#Course-Table)
 - [پروژه های کاربردی](#Student-Prjs)
+- [دورکاری](#ّFreelancers)
 - [کار دانشجویی](#Student-Work)
 - [گیت هاب](#Github)
 - [رزومه - انگیزه نامه](#CV_SOP)
@@ -107,6 +108,19 @@
 
 </details>
 
+<a name="ّFreelancers"></a>
+<details>
+    <summary>دور کاری</summary>
+
+- [پونیشا](https://ponisha.ir/)
+- [پارس کدرز](https://parscoders.com/)
+- [جاب اینجا](https://jobinja.ir/)
+- [جاب ویژن](https://jobvision.ir/)
+- [کاربوم](https://karboom.io/)
+
+</details>
+
+
 <a name="Student-Work"></a>
 <details>
     <summary>کار دانشجویی</summary>
@@ -136,6 +150,7 @@
 - [Cmder](https://cmder.net/)
     
 > ##  GitHub آموزش
+- [GitHub Student Developer Pack](https://education.github.com/pack)
 - [TryGit - Learn Git in 15 Minutes](https://try.github.io/)
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
 - [در یوتیوب _آقای عظیمیGitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
@@ -162,6 +177,10 @@
 <a name="CV_SOP"></a>
 <details>
     <summary>رزومه - انگیزه نامه</summary>
+   
+> ## رزومه چیست و چگونه آنرا آماده نمائیم
+- [Effective Resume Writing](https://www.tutorialspoint.com/effective_resume_writing.htm)   
+- [رزومه چیست؟](https://karboom.io/mag/articles/%D8%B1%D8%B2%D9%88%D9%85%D9%87-%DA%86%DB%8C%D8%B3%D8%AA)
 
 > ## (SOP)انگیزه نامه
 - [ شخصی چیست و چه کاربردی دارد؟(SOP)انگیزه نامه](https://www.writeme.ir/sop-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87-%D9%86%D8%A7%D9%85%D9%87/)
@@ -226,6 +245,9 @@
 <a name="Latex"></a>
 <details>
     <summary>لاتک</summary>
+    
+> ##  تلفظ لاتک
+ - [Pronouncing and writing LaTeX](https://en.wikipedia.org/wiki/LaTeX#Pronouncing_and_writing_%22LaTeX%22)
 
 > ## LaTeX آموزش 
 - [LaTeX آموزش دکتر مس فروش ](http://mesforush.staff.shahroodut.ac.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-latex/)
