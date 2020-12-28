@@ -14,7 +14,7 @@
 # تمرین ها
 1. [G-A03]
     1. [Edmonds-karp]
-    1. [------------]
+    1. [Binary_Search_Tree](https://www.aparat.com/v/mE1XP)
     1. [Ford-fulkerson](https://github.com/bahssanbeygi/ford-fulkerson)
 
 # گروه ها
