@@ -1,7 +1,9 @@
 <h1 dir=rtl>
 بهاره برادران سلماس
  </h1>
-- [PNU_3991_AR_Repository](https://github.com/BaharbSalmas/PNU_3991_AR/)
+
+- [Github](https://github.com/BaharbSalmas/)
+
 - [Github](https://github.com/BaharbSalmas/)
 
 - [Resume](https://baharbsalmas.github.io/)
