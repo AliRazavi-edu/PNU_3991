@@ -21,6 +21,9 @@
 
 [Type LaTeX from pages 49 to 51](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/m.heydari.pdf)
 
+
+[Slide presentation by LaTeX](https://github.com/Mahsa-Heydari/PNU_3991_AR/blob/main/M.heydarisliade.pdf)
+
 -------------------
 # گروه های مهسا حیدری
 
