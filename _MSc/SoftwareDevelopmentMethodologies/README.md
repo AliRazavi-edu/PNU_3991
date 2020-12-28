@@ -254,7 +254,7 @@
 
 6. G-S06
     1. [_SDM-23_مهدي صدري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/23_%D9%85%D9%87%D8%AF%D9%8A%20%D8%B5%D8%AF%D8%B1%D9%8A)    
-    1. [_SDM-]()    
+    1. [_SDM-22_عباس صالحي مرزيجراني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/22_عباس صالحي مرزيجراني)    
     1. [_SDM-]()
 
 [<kbd>↩</kbd>](#TOC)
