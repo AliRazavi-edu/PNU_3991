@@ -2,12 +2,14 @@
 
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 # سامره زارع
-- [PNU_3991_AR](https://github.com/samere-zare/PNU_3991_AR)
-- [حساب گیت هاب](https://github.com/samere-zare)
-- [Resume](https://samere-zare.github.io/) 
-- [SOP](https://samere-zare.github.io/Sop/)
-- [Certificate](https://samere-zare.github.io/Certificate/)
 
+- [PNU_3991-AR](https://github.com/samere-zare/PNU_3991_AR)
+- [حساب گیت هاب](https://github.com/samere-zare)
+- [Certificate](https://github.com/samere-zare/certificate/blob/main/JavaScript_certificate.jpg)
+
+- [Resume](https://samere-zare.github.io/Resume/)
+
+- [SOP](https://samere-zare.github.io/SOP/)
 --------------
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
