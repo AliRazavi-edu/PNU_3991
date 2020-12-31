@@ -14,9 +14,9 @@
 
 - [SOP](https://fariborz-afkari.github.io/SOP/)
 
-- [JavaScript](https://github.com/fariborz-afkari/PNU_3991_AR/blob/main/cert-1024-20609324.pdf)
+- [JavaScript](https://github.com/Fariborz-Afkari/Degrees/blob/main/certificate.pdf)
 
-- [Patchwork](https://github.com/AliNorouzpoor/PNU_3991_AR/blob/main/2020-12-25%2003_07_04-Patchwork_%20Git%2C%20GitHub%20and%20the%20Pursuit%20of%20Open%20Source.png) 
+- [Chapter 6](https://github.com/Fariborz-Afkari/PNU_3991_AR/blob/main/all2.mp3) 
 
 -------------------
 
