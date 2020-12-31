@@ -62,6 +62,9 @@
             - [طرح دستی صفحه عضویت در وبسایت](https://jabozaroid.github.io/manualdesign/signin.pdf)
     6. وایرفریم
          - [وایرفریم چیست؟ — به زبان ساده](https://blog.faradars.org/%D9%88%D8%A7%DB%8C%D8%B1%D9%81%D8%B1%DB%8C%D9%85-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-      %D8%B3%D8%A7%D8%AF%D9%87/)
+         - [وایرفریم صفحه اصلی]
+            - [HomeScreen Wireframe-link](https://docs.google.com/presentation/d/1GG3GNLeVq6BlbzQ_L1s5QKyXsvgFoEo-59zauqTFPSg/edit?usp=sharing)
+            - [HomeScreen Wireframe-pdf](https://jabozaroid.github.io/wireframe/HomeScreen_wireframe.pdf)
     7. نمونه سازی
         - [صفحه اصلی]
             - [دیزاین صفحه اصلی وب سایت](https://jabozaroid.github.io/graphicdesign/home.pdf)

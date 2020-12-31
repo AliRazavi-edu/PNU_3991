@@ -58,7 +58,7 @@
  - **G-A-02** : 
      1. rabin-carp + Structure of fibonacci heap
      1. الگوریتم
-     1. الگوریتم
+     1. convex-hull
  - **G-A-03** : 
      1. edmonds-karp + convex hull + Robin_karp + kmp + Ford - Fulkerson
      1. الگوریتم

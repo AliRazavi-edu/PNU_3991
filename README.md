@@ -152,20 +152,21 @@
 > ##  GitHub آموزش
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - [TryGit - Learn Git in 15 Minutes](https://try.github.io/)
-- [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
-- [در یوتیوب _آقای عظیمیGitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
-- [All the Git-it Workshop completers!](https://github.com/jlord/patchwork)
+- [در یوتیوب _آقای عظیمی GitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
 - [آموزش میزبانی وب سایت با صفحات در گیت هاب](https://git.ir/teamtreehouse-hosting-a-website-with-github-pages/)
 - [**An interactive git visualization to challenge and educate!**](https://learngitbranching.js.org/?demo)
 
 >## آموزش گیت در سایت پچ ورک
+- [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
+- [All the Git-it Workshop completers!](https://github.com/jlord/patchwork)
 - [میر محمد کمالی_jlordآموزش اضافه کردن نام کاربری به صفحه ی](https://aparat.com/v/fvq5a)
-- [ jlord/patchwork لینک سایت ](https://github.com/jlord/patchwork)
+
 > ##  GitHubآموزش ساخت رزومه در
 - [آموزش ایجاد وبسایت روی گیت هاب_سایت تاب لرن_سیدمصطفی علیایی ](https://toplearn.com/courses/2203/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA-%D8%B1%D9%88%DB%8C-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8 )
 
 > ## دیگر خدمات دهندگان گیت
 - [Bitbucket ](https://bitbucket.org/)
+- [مقایسه خدمات دهندگان مختلف از سایت gitea](https://docs.gitea.io/en-us/comparison/)
 
 > ## انواع مجوزهای کد باز
 - [opensource.org](https://opensource.org/licenses/)
