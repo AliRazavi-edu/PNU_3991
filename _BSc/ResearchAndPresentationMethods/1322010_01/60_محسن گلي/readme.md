@@ -43,12 +43,12 @@
         - [E-Research: Methods, Strategies, and Issues 1st Edition](https://archive.org/details/eresearchmethods0000ande/page/n9/mode/1up) 
         
     3. **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی**
-        - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 178 تا 180
+        - [E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 178 تا 180](https://github.com/MohsenGol/PNU_3991_AR/tree/main/ResearchAndPresentationMethods/Pages%20of%20Book%20by%20Latex%20178-180)
             - **از صفحه :** 178
             - **تا صفحه :** 180
             
     4. **ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر**
-        - E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 178 تا 180
+        - [E-Research: Methods, Strategies, and Issues 1st Edition - صفحه 178 تا 180](https://github.com/MohsenGol/PNU_3991_AR/tree/main/ResearchAndPresentationMethods/Beamer)
         - بمدت حداکثر 5 دقیقه خلاصه برداشت از ارائه کتبی بند 3 و یا روش پژوهش بند 2 را توضیح دهید
 
 ---------------
