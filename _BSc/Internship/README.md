@@ -63,6 +63,23 @@
 [<kbd>↩</kbd>](#TOC)
 
 ---------------
+<a name="Groups"></a>
 
+<details>
+    <summary>گروه ها</summary>
+
+
+## گروه ها
+
+<a name="G-I01"></a>
+1. G-I01
+    1. [Int-02-05 سید امین حسینی** ](https://github.com/AliRazavi-edu/PNU_3991/blob/d6b34c536b42e6d0c49a16f7fb225cf70906201b/_BSc/Internship/1322029_02/05_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A/readme.md) 
+     1. [Int-02-03 زینب جلیلوند ](https://github.com/AliRazavi-edu/PNU_3991/blob/d6b34c536b42e6d0c49a16f7fb225cf70906201b/_BSc/Internship/1322029_02/03_%D8%B2%D9%8A%D9%86%D8%A8%20%D8%AC%D9%84%D9%8A%D9%84%D9%88%D9%86%D8%AF/readme.md)
+     1. [Int-02-12 زینب کرمی ](https://github.com/AliRazavi-edu/PNU_3991/blob/d6b34c536b42e6d0c49a16f7fb225cf70906201b/_BSc/Internship/1322029_02/12_%D8%B2%D9%8A%D9%86%D8%A8%20%D9%83%D8%B1%D9%85%D9%8A/readme.md) 
+     1. [Int-02-04 زهرا جناب زاده ](https://github.com/AliRazavi-edu/PNU_3991/blob/d6b34c536b42e6d0c49a16f7fb225cf70906201b/_BSc/Internship/1322029_02/04_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AC%D9%86%D8%A7%D8%A8%20%D8%B2%D8%A7%D8%AF%D9%87/readme.md)
+    
+</details>
+
+[<kbd>↩</kbd>](#TOC)
 
 </div>
