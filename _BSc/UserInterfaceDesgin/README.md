@@ -158,6 +158,7 @@
 - [  ( UI ) دوره طراحی رابط کاربری ](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
 - [Udemy Adobe XD: UI & UX Design with 14 real world project 2020](https://p30download.ir/fa/entry/92843/)
 - [TopLearn Adobe XD](https://toplearn.com/courses/2152/%D8%AF%D9%88%D8%B1%D9%87-%D8%AC%D8%A7%D9%85%D8%B9-adobexd)
+- [www.figma.com](https://www.figma.com/)
 
 [<kbd>↩</kbd>](#TOC)
 
