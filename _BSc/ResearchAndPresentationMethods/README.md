@@ -235,17 +235,15 @@
     1. [ RPM02-52_متين كاظمي صابر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/52_%D9%85%D8%AA%D9%8A%D9%86%20%D9%83%D8%A7%D8%B8%D9%85%D9%8A%20%D8%B5%D8%A7%D8%A8%D8%B1)
     1. [ RPM01-27_حسین زندیه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/27_%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B2%D9%86%D8%AF%D9%8A%D9%87)      
 
-</details>
-
 <a name="G-R11"></a>
 
-10. G-R10
+11. G-R11
     1. [_RPM-14_سید امین حسینی**](https://github.com/AliRazavi-edu/PNU_3991/blob/cdb617382a96e82452223befc050d5b7f8a6daca/_BSc/ResearchAndPresentationMethods/1322010_02/14_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A/readme.md)   
     1. [_RPM-39 طاهره صفری](https://github.com/AliRazavi-edu/PNU_3991/blob/cdb617382a96e82452223befc050d5b7f8a6daca/_BSc/ResearchAndPresentationMethods/1322010_01/39_%D8%B7%D8%A7%D9%87%D8%B1%D9%87%20%D8%B5%D9%81%D8%B1%D9%8A/readme.md)
      
        
-
 </details>
+
 [<kbd>↩</kbd>](#TOC)
 
 </div>
