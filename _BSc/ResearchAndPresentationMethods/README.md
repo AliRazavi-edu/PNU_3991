@@ -237,6 +237,15 @@
 
 </details>
 
+<a name="G-R11"></a>
+
+10. G-R10
+    1. [_RPM-14_سید امین حسینی**](https://github.com/AliRazavi-edu/PNU_3991/blob/cdb617382a96e82452223befc050d5b7f8a6daca/_BSc/ResearchAndPresentationMethods/1322010_02/14_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A/readme.md)   
+    1. [_RPM-39 طاهره صفری](https://github.com/AliRazavi-edu/PNU_3991/blob/cdb617382a96e82452223befc050d5b7f8a6daca/_BSc/ResearchAndPresentationMethods/1322010_01/39_%D8%B7%D8%A7%D9%87%D8%B1%D9%87%20%D8%B5%D9%81%D8%B1%D9%8A/readme.md)
+     
+       
+
+</details>
 [<kbd>↩</kbd>](#TOC)
 
 </div>
