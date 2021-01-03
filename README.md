@@ -4,11 +4,7 @@
 <a name="TOC"></a>
 
 ## =zahra tamand
-گیت هاب
-رزمه
-انگیزه نامه
-مدرک جاوا اسکریپ
-<a name="Course-Table"></a>
+a name="Course-Table"></a>
 ## روز و ساعت ارائه دروس
 <div dir="ltr">
 <table style="width:100%">
