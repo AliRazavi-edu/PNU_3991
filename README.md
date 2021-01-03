@@ -4,7 +4,7 @@
 <a name="TOC"></a>
 
 ## فهرست
-- [ارزیابی](#Assessment)
+- [**ارزیابی**](#Assessment)
 - [روز و ساعت ارائه دروس](#Course-Table)
 - [پروژه های کاربردی](#Student-Prjs)
 - [دورکاری](#ّFreelancers)
