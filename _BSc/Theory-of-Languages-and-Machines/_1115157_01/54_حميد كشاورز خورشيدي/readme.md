@@ -10,8 +10,4 @@
 -[sop](https://github.com/hamidkeshavarzkh/SOP)
 <br>
 -[Certificate](https://github.com/hamidkeshavarzkh/SOP)
-<br>
--[Type latex page 213-216 pdf]
-<br>
--[Type latex page 213-216 tex]
-<br>
+C
