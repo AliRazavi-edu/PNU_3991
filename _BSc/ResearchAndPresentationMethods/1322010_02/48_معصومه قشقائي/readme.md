@@ -14,11 +14,18 @@
 
 [Java Script](https://github.com/masoume-ghashghayi/PNU_3991_AR/blob/main/downloadfile(1).pdf)
 
-[تایپ لاتک روش پژوهش و ارائه 142 تا 144](https://github.com/masoume-ghashghayi/PNU_3991_AR/blob/main/142-144.tex)
+[tex تایپ لاتک روش پژوهش و ارائه صفحه 142 تا 144](https://github.com/masoume-ghashghayi/PNU_3991_AR/blob/main/142-144.tex)
 
-[تایپ لاتک روش پژوهش و ارائه 142 تا 144](https://github.com/masoume-ghashghayi/PNU_3991_AR/blob/main/142-144.pdf)
+[pdf تایپ لاتک روش پژوهش و ارائه صفحه 142 تا 144](https://github.com/masoume-ghashghayi/PNU_3991_AR/blob/main/142-144.pdf)
 
 -------------------
+
+### فعالیت های گروهی
+
+[معرفی یک درس مشابه در دانشگاههای دیگر](https://shahreketabonline.com/Products/Details/243874/%D8%A7%D8%B5%D9%88%D9%84_%D9%88_%D8%B1%D9%88%D8%B4%D9%87%D8%A7%DB%8C_%D9%BE%DA%98%D9%88%D9%87%D8%B4_%DA%A9%DB%8C%D9%81%DB%8C_%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%A2%D8%B2%D8%A7%D8%AF_%D8%B9%D9%84%D9%88%D9%85_%D8%AA%D8%AD%D9%82%DB%8C%D9%82%D8%A7%D8%AA)
+
+------------------
+
 # گروه های معصومه قشقایی
 
 1. G-R01
@@ -32,3 +39,6 @@
    1. [_RPM01-53_زهرا كبيري سرشت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/53_%D8%B2%D9%87%D8%B1%D8%A7%20%D9%83%D8%A8%D9%8A%D8%B1%D9%8A%20%D8%B3%D8%B1%D8%B4%D8%AA)
    1. [_RPM01-20_مبينا رائيجي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/20_%D9%85%D8%A8%D9%8A%D9%86%D8%A7%20%D8%B1%D8%A7%D8%A6%D9%8A%D8%AC%D9%8A)
    1. [_RPM02-48_سميه قلي پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/48_%D8%B3%D9%85%D9%8A%D9%87%20%D9%82%D9%84%D9%8A%20%D9%BE%D9%88%D8%B1)
+
+
+------------------
