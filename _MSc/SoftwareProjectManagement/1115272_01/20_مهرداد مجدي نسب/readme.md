@@ -13,7 +13,7 @@
 - [SOP](https://mehrdadmajdinasab.github.io/SOP)
 - [PatchWork](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareManagement/PatchWork)
 - [JavaScriptCertificate](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareManagement/JS%20Certificate)
-- [Latex Typing](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareManagement/Latex)
+- [Latex](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareManagement/Latex)
 - [Pressman Presentation](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareManagement/PressMan%20Presentation)
 
 
