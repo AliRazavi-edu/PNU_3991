@@ -11,8 +11,9 @@
 - [Resume](https://mehrdadmajdinasab.github.io)
 
 - [SOP](https://mehrdadmajdinasab.github.io/SOP)
-- [PatchWork](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareManagement/PatchWork)
-- [JavaScriptCertificate](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareManagement/JS%20Certificate)
-- [Pressman Presentation](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareManagement/PressMan%20Presentation)
+- [PatchWork](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareProjectManagement/PatchWork)
+- [JavaScriptCertificate](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareProjectManagement/JS%20Certificate)
+- [LaTex](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareProjectManagement/LaTeX)
+- [Pressman Presentation](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareProjectManagement/PressMan%20Presentation)
 
 
