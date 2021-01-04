@@ -8,7 +8,14 @@
 - [SOP](https://github.com/hamidghaffarii/SOP)
 - [Certificates](https://github.com/hamidghaffarii/Certificates)
 - [GitHub](https://github.com/hamidghaffarii)
+- [jlord patchwork](https://github.com/hamidghaffarii/Certificates/blob/main/ersal4.jpg)
 --------------
+# تمرین ها
+1. [G-A03]
+    1. [Fibonacci](https://aparat.com/v/ruUwZ)
+    1. [Binary search tree](https://www.aparat.com/v/lyB7k)
+    1. [Ford-fulkerson]
+    
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
