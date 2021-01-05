@@ -12,7 +12,7 @@
 
 > ##  فرم های ارزیابی
 
-###  [**فعالیت های مشترک**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_Assessment/_General)
+>  [**فعالیت های مشترک**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_Assessment/_General)
    #### ارزیابی رزومه و انگیزه نامه
    - [فایل پی دی اف](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_CV_CheckList_AR_3991.pdf)
    - [فایل ورد](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_CV_CheckList_AR_3991.docx)
@@ -23,7 +23,7 @@
     
 --------
     
-###  [**دروس کارشناسی**]()
+>  [**دروس کارشناسی**]()
    ### تعامل انسان و کامپیوتر 
    - [فایل پی دی اف](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
    - [فایل ورد](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.docx)
@@ -33,7 +33,7 @@
     
 ---------
     
-###  [**دروس کارشناسی ارشد**]()
+>   [**دروس کارشناسی ارشد**]()
    #### فایل های پی دی اف
    - []()
     
