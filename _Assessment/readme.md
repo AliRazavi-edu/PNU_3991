@@ -52,8 +52,8 @@
    - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.docx)
     
    #### [طراحي واسط كاربر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC)
-   - [PDF]()
-   - [Word]()
+   - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_UserInterfaceDesgin_CheckList_AR_3991.pdf)
+   - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_UserInterfaceDesgin_CheckList_AR_3991.docx)
    #### [تعامل انسان و كامپيوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction#TOC)
    - [PDF]()
    - [Word]()
