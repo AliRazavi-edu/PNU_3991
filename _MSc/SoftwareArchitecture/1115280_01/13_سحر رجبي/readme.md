@@ -3,7 +3,7 @@
 
  
 ---
--  [PNU_3991_AR](https://github.com/saharrajabi/PNU_3991_AR/blob/gh-pages/README.md)
+-  [PNU_3991_AR](https://github.com/Saharrajabi/PNU_3991_AR.git)
 - [حساب گیت هاب](https://github.com/saharrajabi)
 
 - [رزومه](https://saharrajabi.github.io/)
