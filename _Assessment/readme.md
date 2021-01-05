@@ -95,8 +95,8 @@
     
 >   [**دروس کارشناسی ارشد**]()
    #### [الگوريتم هاي پيشرفته](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms#TOC)
-   - [PDF]()
-   - [Word]()
+   - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_MSc/XX_AdvancedAlgorithms_CheckList_AR_3991.pdf)
+   - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_MSc/XX_AdvancedAlgorithms_CheckList_AR_3991.docx)
    #### [مهندسي نرم افزارپيشرفته](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC)
    - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_MSc/XX_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
    - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_MSc/XX_AdvancedSoftwareEngineering_CheckList_AR_3991.docx)
