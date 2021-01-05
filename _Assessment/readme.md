@@ -98,8 +98,8 @@
    - [PDF]()
    - [Word]()
    #### مهندسي نرم افزارپيشرفته
-   - [PDF]()
-   - [Word]()
+   - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_MSc/XX_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+   - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_MSc/XX_AdvancedSoftwareEngineering_CheckList_AR_3991.docx)
    #### معماري نرم افزار
    - [PDF]()
    - [Word]()
