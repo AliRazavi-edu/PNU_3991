@@ -1,12 +1,25 @@
+# PNU_3991_AR
+---------
 # مهتاب محمد
+#درس متدولوژی
 - [PNU_3991_AR](https://github.com/mohammady74/PNU_1399_AR)
 - [Resume](https://mohammady74.github.io/resume.github.io) 
-- [SOP](https://mohammady74.github.io/sop/ )
+- [SOP](https://mohammady74.github.io/sop/)
 - [GitHub](https://github.com/mohammady74)
-- [مدرک js](https://www.sololearn.com/Certificate/1024-20328645/pdf/)
-- [ارایه درس متدولوژی ایجاد نرم افزار-کتاب توسعه سیستم های اطلاعاتی](https://drive.google.com/file/d/1ESfgSce8D6ou6jOqIt__wtNx85AnTSzp/view?usp=sharing)
-- [روخوانی کتاب  Richard N.- Software Architecture_-درس معماری نرم افزار ](https://drive.google.com/drive/folders/1prctXuhPRD6HwVGoS2L8afmx9oFcpPsY?usp=sharing)
-- [ Mediator method-1](https://github.com/mohammady74/Mediator-method-1)
+- [madrake-sololearn-js](https://www.sololearn.com/Certificate/1024-20328645/pdf/)
+- [ارایه درس متدولوژی ایجاد نرم افزار-کتاب توسعه سیستم های اطلاعاتی Methodology-Presentation-Chapter-26](https://drive.google.com/file/d/1ESfgSce8D6ou6jOqIt__wtNx85AnTSzp/view?usp=sharing)
+- [Design and Development of Web Information Systems - Klaus-Dieter Schewe, Bernhard Thalheim  روخوانی کتاب ](https://drive.google.com/file/d/1PI6MTUqzd6oFV3OCNJdIrhcZjSfP2TWf/view?usp=sharing)<br/>
+
+#درس معماری نرم افزار
+ - [PNU_3991_AR](https://github.com/mohammady74/PNU_1399_AR)
+ - [Resume](https://mohammady74.github.io/resume.github.io) 
+ - [SOP](https://mohammady74.github.io/sop/)
+ - [GitHub](https://github.com/mohammady74)
+ - [madrake-sololearn-js](https://www.sololearn.com/Certificate/1024-20328645/pdf/)
+ - [روخوانی کتاب  Richard N.- Software Architecture_-درس معماری نرم افزار ](https://drive.google.com/drive/folders/1prctXuhPRD6HwVGoS2L8afmx9oFcpPsY?usp=sharing)
+ - [ Mediator method-1](https://github.com/mohammady74/Mediator-method-1)
+ - [ Mediator method-2](https://drive.google.com/file/d/1iqwVSnb_598hG3WXnqe43IcmIFDvAF5z/view?usp=sharing)
+ - [ارائه الگوی mediator](https://drive.google.com/file/d/1iqwVSnb_598hG3WXnqe43IcmIFDvAF5z/view?usp=sharing)
 ------------------
 ## گروه ها
 1. نرم افزار معماری
