@@ -47,38 +47,38 @@
 
     
 >  [**دروس کارشناسی**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_Assessment/_BSc)
-   ### تعامل انسان و کامپیوتر 
+   ### [تعامل انسان و کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction#TOC) 
    - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
    - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.docx)
     
-   #### طراحي واسط كاربر
+   #### [طراحي واسط كاربر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC)
    - [PDF]()
    - [Word]()
-   #### تعامل انسان و كامپيوتر
+   #### [تعامل انسان و كامپيوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction#TOC)
    - [PDF]()
    - [Word]()
-   #### برنامه نويسي وب
+   #### [برنامه نويسي وب](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/WebProgramming/README.md#TOC)
    - [PDF]()
    - [Word]()
-   #### نظريه زبانهاوماشين ها
+   #### [نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC)
    - [PDF]()
    - [Word]()
-   #### روش پژوهش و ارائه
+   #### [روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC)
    - [PDF]()
    - [Word]()
-   #### شيوه ارائه مطالب علمي وفني
+   #### [شيوه ارائه مطالب علمي وفني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC)
    - [PDF]()
    - [Word]()
-   #### پروژه فناوري اطلاعات
+   #### [پروژه فناوري اطلاعات](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project#TOC)
    - [PDF]()
    - [Word]()
-   #### پروژه
+   #### [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project#TOC)
    - [PDF]()
    - [Word]()
-   #### پروژه پاياني
+   #### [پروژه پاياني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project#TOC)
    - [PDF]()
    - [Word]()
-   #### كارآموزي
+   #### [كارآموزي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship#TOC)
    - [PDF]()
    - [Word]()
 
