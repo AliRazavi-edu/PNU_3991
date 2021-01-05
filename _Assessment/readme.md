@@ -21,6 +21,8 @@
    - [فایل پی دی اف](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_GeneralSection_CheckList_AR_3991.pdf)
    - [فایل ورد](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_GeneralSection_CheckList_AR_3991.docx)
     
+--------
+    
 ###  [**دروس کارشناسی**]()
    ### تعامل انسان و کامپیوتر 
    - [فایل پی دی اف](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
@@ -29,6 +31,7 @@
    #### 
    - []()
     
+---------
     
 ###  [**دروس کارشناسی ارشد**]()
    #### فایل های پی دی اف
