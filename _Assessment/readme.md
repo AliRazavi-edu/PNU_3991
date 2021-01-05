@@ -14,33 +14,80 @@
 
 >  [**فعالیت های مشترک**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_Assessment/_General)
    #### ارزیابی رزومه و انگیزه نامه
-   - [فایل پی دی اف](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_CV_CheckList_AR_3991.pdf)
-   - [فایل ورد](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_CV_CheckList_AR_3991.docx)
+   - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_CV_CheckList_AR_3991.pdf)
+   - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_CV_CheckList_AR_3991.docx)
     
    #### خلاصه ارزیابی بخش عمومی
-   - [فایل پی دی اف](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_GeneralSection_CheckList_AR_3991.pdf)
-   - [فایل ورد](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_GeneralSection_CheckList_AR_3991.docx)
+   - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_GeneralSection_CheckList_AR_3991.pdf)
+   - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_GeneralSection_CheckList_AR_3991.docx)
     
 --------
     
 >  [**دروس کارشناسی**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_Assessment/_BSc)
    ### تعامل انسان و کامپیوتر 
-   - [فایل پی دی اف](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
-   - [فایل ورد](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.docx)
+   - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
+   - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.docx)
     
-   #### 
-   - []()
-    
+   #### طراحي واسط كاربر
+   - [PDF]()
+   - [Word]()
+   #### تعامل انسان و كامپيوتر
+   - [PDF]()
+   - [Word]()
+   #### برنامه نويسي وب
+   - [PDF]()
+   - [Word]()
+   #### نظريه زبانهاوماشين ها
+   - [PDF]()
+   - [Word]()
+   #### روش پژوهش و ارائه
+   - [PDF]()
+   - [Word]()
+   #### شيوه ارائه مطالب علمي وفني
+   - [PDF]()
+   - [Word]()
+   #### پروژه فناوري اطلاعات
+   - [PDF]()
+   - [Word]()
+   #### پروژه
+   - [PDF]()
+   - [Word]()
+   #### پروژه پاياني
+   - [PDF]()
+   - [Word]()
+   #### كارآموزي
+   - [PDF]()
+   - [Word]()
+
+
 ---------
     
 >   [**دروس کارشناسی ارشد**]()
-   #### فایل های پی دی اف
-   - []()
-    
-   #### فایل های ورد
-   - []()
-    
-    
+   #### الگوريتم هاي پيشرفته
+   - [PDF]()
+   - [Word]()
+   #### مهندسي نرم افزارپيشرفته
+   - [PDF]()
+   - [Word]()
+   #### معماري نرم افزار
+   - [PDF]()
+   - [Word]()
+   #### متدولوژي ايجاد نرم افزار
+   - [PDF]()
+   - [Word]()
+   #### 
+   - [PDF]()
+   - [Word]()
+   #### مديريت پروژه هاي نرم افزاري
+   - [PDF]()
+   - [Word]()
+   #### سمينار
+   - [PDF]()
+   - [Word]()
+   #### سمينار ( تحقيق و تتبع نظري )
+   - [PDF]()
+   - [Word]()
+
     
 # این فرم ها هنوز نهایی نشده اند و آزمایشی می باشند
 #  لذا صرفا جهت آشنایی از آنها استفاده نمائید و نه بصورت فرم ارزیابی نهایی
