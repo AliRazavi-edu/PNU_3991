@@ -23,8 +23,8 @@
     
 ###  [**دروس کارشناسی**]()
    ### تعامل انسان و کامپیوتر 
-   - [فایل های پی دی اف](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
-   - [فایل های ورد](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.docx)
+   - [فایل پی دی اف](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
+   - [فایل ورد](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_HumanComputerInteraction_CheckList_AR_3991.docx)
     
    #### 
    - []()
