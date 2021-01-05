@@ -12,9 +12,9 @@
 
 - [انگیزه نامه](https://FatemehVakili.github.io/SOP/)
 
-- [JavaScript_Certificate](JavaScript_certificate.pdf)
+- [JavaScript_Certificate](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/JavaScript_certificate.pdf)
 
-- [jlord patchwork](patchwork.png)
+- [jlord patchwork](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/patchwork.png)
 
 ## دروس کارشناسی
 [1322110_01	طراحي واسط كاربر	](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
