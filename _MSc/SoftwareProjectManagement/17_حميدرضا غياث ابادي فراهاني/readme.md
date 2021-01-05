@@ -11,9 +11,9 @@
 
 - [SOP](https://monocode-ir.github.io/SOP/) 
 
-- [JavaScript Certificate](https://github.com/monocode-ir/PNU_3991_AR/tree/main/cert/certificate.pdf)
+- [JavaScript Certificate](https://github.com/monocode-ir/PNU_3991_AR/tree/main/SoftwareProjectManagement/cert/certificate.pdf)
 
-- [LaTex](https://github.com/monocode-ir/PNU_3991_AR/tree/main/LaTeX)
+- [LaTex](https://github.com/monocode-ir/PNU_3991_AR/tree/main/SoftwareProjectManagement/LaTeX)
 
 </div>
 
