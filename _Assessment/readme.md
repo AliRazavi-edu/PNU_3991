@@ -13,7 +13,7 @@
 
 <a name="Assessment-Notes"></a>
 
-## فعایت دانشجویان در گیت هاب درس
+## آمار فعالیت دانشجویان در گیت هاب ترم
 
 - [فهرست دوستاران سایت دروس 3991](https://github.com/AliRazavi-edu/PNU_3991/stargazers)  **(stargazers)**
 - [منحنی مشارکت هر دانشجو](https://github.com/AliRazavi-edu/PNU_3991/graphs/contributors)
