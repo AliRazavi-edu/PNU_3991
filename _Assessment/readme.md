@@ -2,10 +2,10 @@
 
 <a name="TOC"></a>
 ## فهرست
-- [**ارزیابی**](#Assessment-Notes)
-- [**ارزیابی**](#Assessment-General)
-- [**ارزیابی**](#Assessment-BSc)
-- [**ارزیابی**](#Assessment-MSc)
+- [**آمار میزان مشارکت ها در کیت هاب ترم**](#Assessment-Notes)
+- [**فعالیت های مشترک**](#Assessment-General)
+- [**دروس کارشناسی**](#Assessment-BSc)
+- [**دروس کارشناسی ارشد**](#Assessment-MSc)
 
 # ارزیابی ترم 3991
 
