@@ -24,7 +24,7 @@
         - [**ارزیابی رزومه و انگیزه نامه**](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_CV_CheckList_AR_3991.pdf)
         - [**خلاصه ارزیابی بخش عمومی**](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_GeneralSection_CheckList_AR_3991.pdf)
         - [**نمونه درس کارشناسی**]()
-        - [**نمونه درس ارشد**]()
+        - [**نمونه درس ارشد**](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 
 [<kbd>↩</kbd>](#TOC)
 
