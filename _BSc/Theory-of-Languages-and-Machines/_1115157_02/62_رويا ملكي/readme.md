@@ -3,7 +3,7 @@
 - [Resume](https://cvbuilder.me/Resume/fa/079414e7-2328-435e-a9f0-158ed720d9bf?template=Template6)
 - [SOP-2](https://github.com/Roya-maleki2002/SOP-2)
 - [Certificates](https://github.com/Roya-maleki2002/certificates)
-- [PNU_3991_AR](https://github.com/Roya-maleki2002/PNU_3991_AR)
+- [PNU_3991_AR](https://github.com/Roya-maleki2002/PNU-3991-AR)
 
 ------------------
 ## گروه های درسی
