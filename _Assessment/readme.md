@@ -57,9 +57,10 @@
    #### [برنامه نويسي وب](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/WebProgramming/README.md#TOC)
    - [PDF]()
    - [Word]()
+   
    #### [نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC)
-   - [PDF]()
-   - [Word]()
+   - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+   - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.docxhttps://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.docx)
    #### [روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC)
    - [PDF]()
    - [Word]()
