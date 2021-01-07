@@ -143,12 +143,12 @@
 - سوال : نحوه پر کردن جداول دروس   
 <figure>
   <img src="./assets/Courses_Table_BSc.jpeg" alt="Courses_Table_BSc" style="width:60%" />  
-  <figcaption>Fig.1 - BSc Courses.</figcaption>
+  <figcaption>شکل 1 - دروس کارشناسی</figcaption>
 </figure>
 
 <figure>
   <img src="./assets/Courses_Table_MSc.jpeg" alt="Courses_Table_BSc" style="width:60%" />
-  <figcaption>Fig.2 - MSc Courses.</figcaption>
+  <figcaption>شکل 2 - دروس کارشناسی ارشد</figcaption>
 </figure>
 
    - پاسخ : این جداول باید در تمامی فرم ها بطور کامل برای همه درس های دانشجو در ترم شماره ردیف داشته باشند. یعبارتی اگر دانشجویی بیش از یک درس دارد، شماره ردیف همه دروس خود را در همه فرمها باید وارد نماید  
