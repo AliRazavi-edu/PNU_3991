@@ -24,7 +24,7 @@
 
 ## آمار فعالیت دانشجویان در گیت هاب ترم
 
-- [فهرست دوستاران سایت دروس 3991](https://github.com/AliRazavi-edu/PNU_3991/stargazers)  **(stargazers)**
+- [فهرست **دوستاران** سایت دروس 3991](https://github.com/AliRazavi-edu/PNU_3991/stargazers)  **(stargazers)**
 - [منحنی مشارکت هر دانشجو](https://github.com/AliRazavi-edu/PNU_3991/graphs/contributors)
 - [نمودار فعالیت ها](https://github.com/AliRazavi-edu/PNU_3991/pulse/monthly)
 
