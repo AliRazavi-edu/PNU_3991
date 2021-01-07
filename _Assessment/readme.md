@@ -133,7 +133,8 @@
 <details>
     <summary>سوالات متداول</summary>
 
--     
+-   <img src="./assets/Courses_Table_BSc.jpeg" alt="Courses_Table_BSc" />  
+-   <img src="./assets/Courses_Table_MSc.jpeg" alt="Courses_Table_BSc" />  
   
 [<kbd>↩</kbd>](#TOC)
  
