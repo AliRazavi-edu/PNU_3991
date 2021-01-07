@@ -1,4 +1,4 @@
-# Winter Semester Courses 1399/2020 (PNU_3991)
+﻿# Winter Semester Courses 1399/2020 (PNU_3991)
 <div dir="rtl">
    
 <a name="TOC"></a>
@@ -244,7 +244,8 @@
 -----------
 <a name="JS"></a>
 <details>
-    <summary>جاوا اسکریپت</summary>
+    <summary>
+جاوا اسکریپت</summary>
 
 > ## آموزش جاوا اسکریپت
 - . [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
