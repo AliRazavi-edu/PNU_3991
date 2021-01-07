@@ -162,8 +162,6 @@
     - [فیلم راهنمای تکمیل فرمها_ارزیابی رزومه و انگیزه نامه](https://drive.google.com/file/d/14ti-erTPe1i6FBRUFZRgrh2GXTFeEnRi/view)
     - [مسیر جایگزین از گیت هاب](https://alirazavi-edu.github.io/PNU_3991/)
 
-
-<iframe src="https://alirazavi-edu.github.io/PNU_3991/" title="Forms Tutorials"></iframe>
   
 [<kbd>↩</kbd>](#TOC)
  
