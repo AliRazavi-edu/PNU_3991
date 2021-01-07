@@ -133,8 +133,10 @@
 <details>
     <summary>سوالات متداول</summary>
 
--   <img src="./assets/Courses_Table_BSc.jpeg" alt="Courses_Table_BSc" />  
--   <img src="./assets/Courses_Table_MSc.jpeg" alt="Courses_Table_BSc" />  
+- سوال : نحوه پر کردن جداول دروس   
+<img src="./assets/Courses_Table_BSc.jpeg" alt="Courses_Table_BSc" />  
+<img src="./assets/Courses_Table_MSc.jpeg" alt="Courses_Table_BSc" />
+    - پاسخ : این جداول باید در تمامی فرم ها بطور کامل برای همه درس های دانشجو در ترم شماره ردیف داشته باشند. یعبارتی اگر دانشجویی بیش از یک درس دارد، شماره ردیف همه دروس خود را در همه فرمها باید وارد نماید  
   
 [<kbd>↩</kbd>](#TOC)
  
