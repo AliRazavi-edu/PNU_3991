@@ -160,8 +160,8 @@
 
 - فرمها را چگونه باید تکمیل نمود
     - [فیلم راهنمای تکمیل فرمها_ارزیابی رزومه و انگیزه نامه](https://drive.google.com/file/d/14ti-erTPe1i6FBRUFZRgrh2GXTFeEnRi/view)
-    - [فیلم راهنمای تکمیل فرمها_خلاصه ارزیابی بخش عمومی](https://drive.google.com/file/d/1HeHRfU05YHOh4zVdbF8_Yv3rFBBYt21_/view)
     - [مسیر جایگزین از گیت هاب](https://alirazavi-edu.github.io/PNU_3991/)
+    - [فیلم راهنمای تکمیل فرمها_خلاصه ارزیابی بخش عمومی](https://drive.google.com/file/d/1HeHRfU05YHOh4zVdbF8_Yv3rFBBYt21_/view)
 
   
 [<kbd>↩</kbd>](#TOC)
