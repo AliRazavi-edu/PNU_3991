@@ -19,6 +19,8 @@
 
 - [LaTex](https://github.com/monocode-ir/PNU_3991_AR/tree/main/SoftwareProjectManagement/LaTeX)
 
+- [tiny project: simple registration system ](https://github.com/monocode-ir/PNU_3991_AR/tree/main/Projects)
+
 -----
 > ارزیابی ها
 
