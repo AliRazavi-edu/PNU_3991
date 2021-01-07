@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -48,7 +48,7 @@
 </head>
 <body>
 
-<!--id="myVideo"-->
+id="myVideo"
 <video autoplay controls  >
     <source src="./_Assessment/assets/XX_CV_CheckList_AR_3991.mp4"  type="video/mp4">
     Your browser does not support HTML5 video.
@@ -59,13 +59,12 @@
     Your browser does not support HTML5 video.
 </video>
 
-<!--<div class="content" dir="rtl">
+<div class="content" dir="rtl">
     <h1>راهنمای تکمیل فرم های عمومی</h1>
 &lt;!&ndash;    <p></p>&ndash;&gt;
 &lt;!&ndash;    <button id="myBtn" onclick="myFunction()">Pause</button>&ndash;&gt;
-</div>-->
+</div>
 
-<!--
 <script>
     var video = document.getElementById("myVideo");
     var btn = document.getElementById("myBtn");
@@ -80,8 +79,42 @@
         }
     }
 </script>
--->
+
+</body>
+</html>-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<h2>Fullscreen with JavaScript</h2>
+<p>Click on the button to open the video in fullscreen mode.</p>
+<button onclick="openFullscreen();">Open Video in Fullscreen Mode</button>
+<p><strong>Tip:</strong> Press the "Esc" key to exit full screen.</p>
+
+<video width="100%" controls id="myvideo">
+    <source src="./_Assessment/assets/SZ_GeneralSection_CheckList_AR_3991.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
+<script>
+    var elem = document.getElementById("myvideo");
+    function openFullscreen() {
+        if (elem.requestFullscreen) {
+            elem.requestFullscreen();
+        } else if (elem.webkitRequestFullscreen) { /* Safari */
+            elem.webkitRequestFullscreen();
+        } else if (elem.msRequestFullscreen) { /* IE11 */
+            elem.msRequestFullscreen();
+        }
+    }
+</script>
+
+<p>Note: Internet Explorer 10 and earlier versions do not support the msRequestFullscreen() method.</p>
 
 </body>
 </html>
-
