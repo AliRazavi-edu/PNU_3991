@@ -60,7 +60,7 @@
    
    #### [نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC)
    - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
-   - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.docxhttps://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.docx)
+   - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.docx)
    #### [روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC)
    - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
    - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_BSc/XX_ResearchAndPresentationMethods_CheckList_AR_3991.docx)
