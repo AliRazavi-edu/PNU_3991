@@ -160,13 +160,7 @@
 
 - فرمها را چگونه باید تکمیل نمود
     - [فیلم راهنمای تکمیل فرمها_ارزیابی رزومه و انگیزه نامه](https://drive.google.com/file/d/14ti-erTPe1i6FBRUFZRgrh2GXTFeEnRi/view)
-
-<div>
-<video width="320" height="240" controls>
-  <source src="./assets/XX_CV_CheckList_AR_3991.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
-</div>
+    - [مسیر جایگزین از گیت هاب](https://alirazavi-edu.github.io/PNU_3991/)
 
 
 <iframe src="https://alirazavi-edu.github.io/PNU_3991/" title="Forms Tutorials"></iframe>
