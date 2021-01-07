@@ -20,7 +20,15 @@
 - [LaTex](https://github.com/monocode-ir/PNU_3991_AR/tree/main/SoftwareProjectManagement/LaTeX)
 
 -----
+> ارزیابی ها
 
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/monocode-ir/PNU_3991_AR/blob/main/Assessment/17_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/monocode-ir/PNU_3991_AR/blob/main/Assessment/17_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_مدیریت پروژه های نرم افزاری](https://github.com/monocode-ir/PNU_3991_AR/blob/main/Assessment/17_SoftwareProjectManagement_CheckList_AR_3991.pdf)
+-----
 
 1. G-SPM-02
     1. [_SPM-24_كاوه نوذراصل](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/1115272_01/24_%D9%83%D8%A7%D9%88%D9%87%20%D9%86%D9%88%D8%B0%D8%B1%D8%A7%D8%B5%D9%84)    
