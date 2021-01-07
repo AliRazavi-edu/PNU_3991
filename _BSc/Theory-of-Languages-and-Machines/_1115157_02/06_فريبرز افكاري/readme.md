@@ -19,7 +19,6 @@
 - [Chapter 6](https://github.com/Fariborz-Afkari/PNU_3991_AR/blob/main/all2.mp3) 
 --------------
 ارزیابی ها
-
 -[ارزیابی رزومه و انگیزه نامه](https://github.com/Fariborz-Afkari/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.docx)
 
 -[ارزیابی رزومه و انگیزه نامه](https://github.com/Fariborz-Afkari/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.docx)
