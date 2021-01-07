@@ -294,6 +294,7 @@
 - [Open source online Markdown editor](https://pandao.github.io/editor.md/en.html)
 - [Markdown to create pages and table of contents](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
 - [Markdown](https://daringfireball.net/projects/markdown/)
+- [آموزش مارک دان – markdown](http://alihossein.ir/tutorials/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%85%D8%A7%D8%B1%DA%A9-%D8%AF%D8%A7%D9%86-markdown)
 <!---
 - [markdownlivepreview](https://markdownlivepreview.com/)
 -->

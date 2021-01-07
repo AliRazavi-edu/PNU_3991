@@ -17,6 +17,7 @@
 - [**فعالیت های مشترک**](#Assessment-General)
 - [**دروس کارشناسی**](#Assessment-BSc)
 - [**دروس کارشناسی ارشد**](#Assessment-MSc)
+- [**سوالات متداول**](#Assessment-FAQ))
 
 
 <a name="Assessment-Notes"></a>
@@ -126,5 +127,15 @@
  
  </details>
    
+   
+<a name="Assessment-FAQ"></a>
+<details>
+    <summary>سوالات متداول</summary>
 
+-     
+  
+[<kbd>↩</kbd>](#TOC)
+ 
+</details>
+   
 </div>
