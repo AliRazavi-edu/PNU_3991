@@ -153,6 +153,7 @@
 - ترجمه
     - [میر محمد کمالی](https://mir-mohammad.github.io/) 
     - [فاطمه وکیلی](https://fatemehvakili.github.io/)   
+    - [محدثه روحانی](https://mohaddeserohani.github.io/Persianresume/)
 
 [<kbd>↩</kbd>](#TOC)
 
