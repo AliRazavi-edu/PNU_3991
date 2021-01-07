@@ -145,9 +145,11 @@
     - [میر محمد کمالی](https://mir-mohammad.github.io/)   
     - [فاطمه وکیلی](https://fatemehvakili.github.io/)   
     - [فاطمه مرادی](https://ftemeh021.github.io/ftemeh-resume/)     
-    - [سحر رجبی](https://saharrajabi.github.io/)   
+    - [سحر رجبی](https://saharrajabi.github.io/)
+       
 - تایپ با لاتک
-    - 
+    - [محدثه روحانی](https://mohaddeserohani.github.io/)
+    
 - ترجمه
     - [میر محمد کمالی](https://mir-mohammad.github.io/) 
     - [فاطمه وکیلی](https://fatemehvakili.github.io/)   
