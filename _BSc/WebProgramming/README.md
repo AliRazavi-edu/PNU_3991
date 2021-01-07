@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 | [HumanComputerInteraction](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/HumanComputerInteraction/README.md#TOC) 
@@ -28,6 +30,7 @@
     8. مشارکت در گروهای درسی
     
 2. **فعالیت های گروهی**
+
     **توجه : این درس بصورت پروژه محور گروهی ارائه میشود**
     1. انتخاب موضوع
     2. ارائه نمونه آموزش پروژه محور از منابع مرتبط
@@ -159,3 +162,6 @@
 </details>
 
 [<kbd>↩</kbd>](#TOC)
+
+</div>
+

@@ -57,7 +57,7 @@
      1. الگوریتم
  - **G-A-02** : 
      1. rabin-carp + Structure of fibonacci heap
-     1. الگوریتم
+     1. Binery search tree
      1. convex-hull
  - **G-A-03** : 
      1. edmonds-karp + convex hull + Robin_karp + kmp + Ford - Fulkerson
@@ -224,8 +224,7 @@
 
 2. G-A02
     1. [_AdvAlg-17_حميد غفاري**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/17_%D8%AD%D9%85%D9%8A%D8%AF%20%D8%BA%D9%81%D8%A7%D8%B1%D9%8A)    
-    1. [_AdvAlg-09_مصطفي زارع دستنائي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/09_%D9%85%D8%B5%D8%B7%D9%81%D9%8A%20%D8%B2%D8%A7%D8%B1%D8%B9%20%D8%AF%D8%B3%D8%AA%D9%86%D8%A7%D8%A6%D9%8A)    
-    1. [_AdvAlg-10_محمود سقرجوقي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/10_%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%B3%D9%82%D8%B1%D8%AC%D9%88%D9%82%D9%8A) 
+    1. [_AdvAlg-09_مصطفي زارع دستنائي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/09_%D9%85%D8%B5%D8%B7%D9%81%D9%8A%20%D8%B2%D8%A7%D8%B1%D8%B9%20%D8%AF%D8%B3%D8%AA%D9%86%D8%A7%D8%A6%D9%8A)     
     
 <a name="G-A03"></a>
 

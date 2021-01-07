@@ -9,9 +9,7 @@
 <br>
 -[sop](https://github.com/hamidkeshavarzkh/SOP)
 <br>
--[Certificate](https://github.com/hamidkeshavarzkh/SOP)
+-[Certificate](https://raw.githubusercontent.com/hamidkeshavarzkh/Certificates/main/hamid%20keshavarz.jpg)
 <br>
--[Type latex page 213-216 pdf]
-<br>
--[Type latex page 213-216 tex]
+-[Latex](https://github.com/hamidkeshavarzkh/Latex.git)
 <br>

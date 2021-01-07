@@ -3,10 +3,11 @@
 ----------
 ### محدثه روحانی
 ---
-- [حساب گیت هاب](https://github.com/MohaddeseRohani)
-- [آدرس رزومه](https://github.com/MohaddeseRohani/mohaddeserohani.github.io)
+- [PNU_3991_AR](https://github.com/MohaddeseRohani/PNU_3991_AR)
+- [Github](https://github.com/MohaddeseRohani)
+- [Resume](https://github.com/MohaddeseRohani/mohaddeserohani.github.io)
 - [SOP](https://mohaddeserohani.github.io/SOP/)
-- [java script license](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/download.jpg)
+- [Certificate](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/download.jpg)
 
 -------------------
 ## گروه ها
