@@ -21,8 +21,8 @@
 - فرم های خود ارزیابی را با دقت تکمیل و همراه مستندات دیگر در گیت هاب شخصی خودتان بصورت تفکیک شده **برای هر درس جداگانه بارگذاری** نمائید
     - [**فرم های ارزیابی کلیه دروس**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_Assessment#TOC)
     - #### نمونه فرمهای ارزیابی تکمیل شده
-        - [**ارزیابی رزومه و انگیزه نامه**](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_CV_CheckList_AR_3991.pdf)
-        - [**خلاصه ارزیابی بخش عمومی**](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_GeneralSection_CheckList_AR_3991.pdf)
+        - [**ارزیابی رزومه و انگیزه نامه**](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_CV_CheckList_AR_3991.pdf)
+        - [**خلاصه ارزیابی بخش عمومی**](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_GeneralSection_CheckList_AR_3991.pdf)
         - [**نمونه درس کارشناسی**]()
         - [**نمونه درس ارشد**](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 
