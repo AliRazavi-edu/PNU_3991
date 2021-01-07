@@ -45,6 +45,12 @@
    - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_GeneralSection_CheckList_AR_3991.pdf)
    - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_GeneralSection_CheckList_AR_3991.docx)
    
+  #### نمونه فرمهای ارزیابی تکمیل شده
+   - [**ارزیابی رزومه و انگیزه نامه**](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_CV_CheckList_AR_3991.pdf)
+   - [**خلاصه ارزیابی بخش عمومی**](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_GeneralSection_CheckList_AR_3991.pdf)
+   - [**نمونه درس کارشناسی**](https://github.com/mir-mohammad/PNU_3991_AR)
+   - [**نمونه درس ارشد**](https://github.com/saharzeinivand/PNU_3991_AR)
+
 [<kbd>↩</kbd>](#TOC)
 
 </details>
