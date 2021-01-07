@@ -133,6 +133,10 @@
 <details>
     <summary>سوالات متداول</summary>
 
+- XX_GeneralSection_CheckList_AR_3991.docx : XX در نام فایل چیست؟
+    - بجای دو ایکس در نام فایل میتوانید ابتدای نام و نام فایل خودتان را با حروف بزرگ جایگزن نمائید
+    - اگر متوجه نشده اید چه کاری درست است میتواند اهمیتی به این موضوع ندهید و آنرا به همین حال رها نمائید 
+
 - سوال : نحوه پر کردن جداول دروس   
 <img src="./assets/Courses_Table_BSc.jpeg" alt="Courses_Table_BSc" width="500" />  
 <img src="./assets/Courses_Table_MSc.jpeg" alt="Courses_Table_BSc" width="500" />
