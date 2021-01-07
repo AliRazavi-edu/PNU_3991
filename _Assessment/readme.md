@@ -162,6 +162,7 @@
     - [فیلم راهنمای تکمیل فرمها_ارزیابی رزومه و انگیزه نامه](https://drive.google.com/file/d/14ti-erTPe1i6FBRUFZRgrh2GXTFeEnRi/view)
     - [مسیر جایگزین از گیت هاب](https://alirazavi-edu.github.io/PNU_3991/)
     - [فیلم راهنمای تکمیل فرمها_خلاصه ارزیابی بخش عمومی](https://drive.google.com/file/d/1HeHRfU05YHOh4zVdbF8_Yv3rFBBYt21_/view)
+    - [فیلم راهنمای تکمیل فرمها_دروس کارشناسی ارشد_متدولوژي ايجاد نرم افزار](https://drive.google.com/file/d/15LByT6kf-k6m5CbIjXU4Sah0r1-Se5NS/view)
 
   
 [<kbd>↩</kbd>](#TOC)
