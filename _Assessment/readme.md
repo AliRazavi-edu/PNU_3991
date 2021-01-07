@@ -159,7 +159,7 @@
 </figure>
 
 - فرمها را چگونه باید تکمیل نمود
-    - [فیلم راهنمای تکمیل فرمها](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/assets/XX_CV_CheckList_AR_3991.mp4)
+    - [فیلم راهنمای تکمیل فرمها](https://drive.google.com/file/d/14ti-erTPe1i6FBRUFZRgrh2GXTFeEnRi/view)
 
 <video width="320" height="240" controls>
   <source src="./assets/XX_CV_CheckList_AR_3991.mp4" type="video/mp4" />
