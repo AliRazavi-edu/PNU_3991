@@ -148,7 +148,7 @@
     - [سحر رجبی](https://saharrajabi.github.io/)
        
 - تایپ با لاتک
-    - [محدثه روحانی](https://mohaddeserohani.github.io/)
+    - [محدثه روحانی](https://mohaddeserohani.github.io/Persianresume/)
     
 - ترجمه
     - [میر محمد کمالی](https://mir-mohammad.github.io/) 
