@@ -145,6 +145,7 @@
   <img src="./assets/Courses_Table_BSc.jpeg" alt="Courses_Table_BSc" style="width:60%" />  
   <figcaption>Fig.1 - BSc Courses.</figcaption>
 </figure>
+
 <figure>
   <img src="./assets/Courses_Table_MSc.jpeg" alt="Courses_Table_BSc" style="width:60%" />
   <figcaption>Fig.2 - MSc Courses.</figcaption>
