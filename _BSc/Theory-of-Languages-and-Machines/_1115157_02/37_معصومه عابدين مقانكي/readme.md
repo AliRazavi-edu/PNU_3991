@@ -10,4 +10,4 @@
 
 - [SOP](https://ma-abedin90.github.io/SOP/)
 
-- [Certificates](https://ma-abedin90.github.io/Certificates/)
+- [Certificates](https://ma-abedin90.github.io/certificates/)
