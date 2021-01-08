@@ -301,7 +301,7 @@
     1. [_LMT-52الهام کرمیان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/52_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)
     1. [_LMT-پوریا بداغی03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/03_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%A8%D8%AF%D8%A7%D8%BA%D9%8A) 
     1. [_UID-الهام کرمیان29](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/29_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)
-    1. [LMT-02_12 محمد بهرامی نژاد ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/12_%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%87%D8%B1%D8%A7%D9%85%D9%8A%20%D9%86%DA%98%D8%A7%D8%AF)
+    1. [_LMT-12 محمد بهرامی نژاد ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/12_%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%87%D8%B1%D8%A7%D9%85%D9%8A%20%D9%86%DA%98%D8%A7%D8%AF)
   
 
 <a name="G-L11"></a>
