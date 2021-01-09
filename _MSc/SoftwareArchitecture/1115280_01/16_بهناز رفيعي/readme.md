@@ -23,7 +23,8 @@
 
     - **G-SA-02** : Composite pattern + Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern + Template Method + Mediator
 
-    - [فایل ارائه  Flyweight pattern]()
+    - [فایل ارائه  Flyweight pattern](https://drive.google.com/file/d/1xrrMltYn4Q6BzuLsZgapw85ncECkM6NL/view?usp=sharing)
+    - [فایل پاورپوینت  Flyweight pattern]()
 
 
 
@@ -33,7 +34,7 @@
        
     - **G-SA-02** : Chapter 2:Architecture in context:The reorientation of software Engineering + Chapter 8: Analaysis
 
-    - [فایل ارائه کتاب ریچارد]()
+    - [فایل ارائه کتاب ریچارد](https://drive.google.com/file/d/1Sb5aEA0voSpxfWdaByg_RpS6pe511CiG/view?usp=sharing)
 
 
 ----------------
