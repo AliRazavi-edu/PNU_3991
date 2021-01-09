@@ -21,6 +21,8 @@
 
 - [LaTex TEX File & Directory](https://github.com/aliakbarkhanmohammadi/PNU_3991_AR/tree/master/LaTex%20Pages%2089-92/)
 
+- [ارائه شفاهی فصل اول از مرجع اصلی درس](https://aparat.com/v/Rwx5z)
+
 
 ------------------
 
