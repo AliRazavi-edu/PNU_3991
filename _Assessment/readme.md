@@ -170,3 +170,12 @@
 </details>
    
 </div>
+
+<div class="video-border">
+     <video id="concept-video" controls poster="">
+     <source src="/assets/fc5f635075022c2391c6530b93d9404026888743-720p.mp4" type="video/mp4">
+         Your browser does not support HTML5 video players.
+     </video>
+</div>
+
+{% include video-stats.html %}
