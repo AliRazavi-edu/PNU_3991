@@ -1,4 +1,4 @@
-﻿
+
 <hr>
 <h1>مجید آقا امینی</h1>
 <ul>
@@ -70,11 +70,10 @@
 </ol>
 <hr>
 <h2><a id="user-content-دروس-ارشد" class="anchor" aria-hidden="true" href="#دروس-ارشد"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>دروس ارشد</h2>
-<p><a href="https://github.com/saharzeinivand/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering">1115026_01	مهندسي نرم افزارپيشرفته	3</a>
-<br>
-1115024_71_166 پايگاه داده پيشرفته  
-<br>
-1115023_80_166 سیستم های عامل پیشرفته <br>
+<p>
+<a href="https://github.com/majid-am/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering">1115026_01	مهندسي نرم افزارپيشرفته	3</a><br>
+<a href="https://github.com/majid-am/PNU_3991_AR/tree/main/AdvanceDataBase">1115024_71_166 پايگاه داده پيشرفته  </a><br>
+<a href="https://github.com/majid-am/PNU_3991_AR/tree/main/AdvanceOS"> 1115023_80_166 سیستم های عامل پیشرفته </a><br>
 </p>
 <hr>
 <h2><a id="user-content-روز-و-ساعت-ارائه-دروس" class="anchor" aria-hidden="true" href="#روز-و-ساعت-ارائه-دروس"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>روز و ساعت ارائه دروس</h2>
@@ -104,7 +103,7 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th>سیستم های عامل پیشرفته</th>
+     <th><a href="https://github.com/majid-am/PNU_3991_AR/tree/main/AdvanceOS"> 1115023_80_166 سیستم های عامل پیشرفته </a></th>
      <th></th>
      <th></th>
      <th></th>
@@ -124,7 +123,7 @@
     <th></th>
     <th></th>
     <th></th>
-     <th>پايگاه داده پيشرفته</th>
+     <th><a href="https://github.com/majid-am/PNU_3991_AR/tree/main/AdvanceDataBase">1115024_71_166 پايگاه داده پيشرفته  </a></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
@@ -132,7 +131,7 @@
      <th></th>
      <th>&nbsp;</th>
      <th>&nbsp;</th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
+    <th><a href="https://github.com/majid-am/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
     <th>پنج شنبه</th>
   </tr>
 </tbody></table>
@@ -168,4 +167,3 @@
 
   </body>
 </html>
-
