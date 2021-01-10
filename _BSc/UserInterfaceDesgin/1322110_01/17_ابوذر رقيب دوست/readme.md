@@ -25,7 +25,9 @@
     1. معرفی یک درس مشابه در دانشگاههای دیگر
         - هر 10 نفر یک درس
         - [Upssala University - Sweden - User Interface Design Course](https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=2IV063)
-    2. انتخاب موضوع کار گروهی
+        - [Tampere University - Finland ](https://trepo.tuni.fi/handle/10024/104835)
+
+   2. انتخاب موضوع کار گروهی
         ```diff
         + پیاده سازی وب سایت خرید آنلاین کالا - فروشگاه لباس
     3. تحلیل نیازها
@@ -65,6 +67,9 @@
          - [وایرفریم صفحه اصلی]
             - [HomeScreen Wireframe-link](https://docs.google.com/presentation/d/1GG3GNLeVq6BlbzQ_L1s5QKyXsvgFoEo-59zauqTFPSg/edit?usp=sharing)
             - [HomeScreen Wireframe-pdf](https://jabozaroid.github.io/wireframe/HomeScreen_wireframe.pdf)
+         - [وایرفریم صفحه جزییات هر محصول]  
+            - [DetailsOfProduct Wireframe-pdf](https://jabozaroid.github.io/wireframe/DetailsOfProduct_wireframe.pdf)
+            - [DetailsOfProduct Wireframe-jpeg](https://jabozaroid.github.io/wireframe/DetailsOfProduct_wireframe.jpeg)
     7. نمونه سازی
         - [صفحه اصلی]
             - [دیزاین صفحه اصلی وب سایت](https://jabozaroid.github.io/graphicdesign/home.pdf)
@@ -79,6 +84,9 @@
     9. ارزیابی
         - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
             - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
+        - [ارزیابی]   
+            - [pdf](https://github.com/JAbozarOid/PNU_3991_AR/blob/main/UserInterfaceDesgin/assessment/PrototypeAssessment.pdf) 
+             
     10. ارائه    
 
 -------------------------
