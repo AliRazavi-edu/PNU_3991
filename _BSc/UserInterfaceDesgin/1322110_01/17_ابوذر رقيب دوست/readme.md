@@ -25,7 +25,9 @@
     1. معرفی یک درس مشابه در دانشگاههای دیگر
         - هر 10 نفر یک درس
         - [Upssala University - Sweden - User Interface Design Course](https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=2IV063)
-    2. انتخاب موضوع کار گروهی
+        - [Tampere University - Finland ](https://trepo.tuni.fi/handle/10024/104835)
+
+   2. انتخاب موضوع کار گروهی
         ```diff
         + پیاده سازی وب سایت خرید آنلاین کالا - فروشگاه لباس
     3. تحلیل نیازها
@@ -79,6 +81,8 @@
     9. ارزیابی
         - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
             - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
+        - [ارزیابی]   
+            - [pdf](https://github.com/JAbozarOid/PNU_3991_AR/blob/main/UserInterfaceDesgin/assessment/PrototypeAssessment.pdf) 
     10. ارائه    
 
 -------------------------
