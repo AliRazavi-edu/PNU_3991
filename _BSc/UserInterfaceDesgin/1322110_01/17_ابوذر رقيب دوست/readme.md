@@ -67,6 +67,9 @@
          - [وایرفریم صفحه اصلی]
             - [HomeScreen Wireframe-link](https://docs.google.com/presentation/d/1GG3GNLeVq6BlbzQ_L1s5QKyXsvgFoEo-59zauqTFPSg/edit?usp=sharing)
             - [HomeScreen Wireframe-pdf](https://jabozaroid.github.io/wireframe/HomeScreen_wireframe.pdf)
+         - [وایرفریم صفحه جزییات هر محصول]  
+            - [DetailsOfProduct Wireframe-pdf](https://jabozaroid.github.io/wireframe/DetailsOfProduct_wireframe.pdf)
+            - [DetailsOfProduct Wireframe-jpeg](https://jabozaroid.github.io/wireframe/DetailsOfProduct_wireframe.jpeg)
     7. نمونه سازی
         - [صفحه اصلی]
             - [دیزاین صفحه اصلی وب سایت](https://jabozaroid.github.io/graphicdesign/home.pdf)
@@ -83,6 +86,7 @@
             - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
         - [ارزیابی]   
             - [pdf](https://github.com/JAbozarOid/PNU_3991_AR/blob/main/UserInterfaceDesgin/assessment/PrototypeAssessment.pdf) 
+             
     10. ارائه    
 
 -------------------------
