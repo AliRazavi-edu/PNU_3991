@@ -24,7 +24,7 @@
 
 ## آمار فعالیت دانشجویان در گیت هاب ترم
 
-- [فهرست دوستاران سایت دروس 3991](https://github.com/AliRazavi-edu/PNU_3991/stargazers)  **(stargazers)**
+- [فهرست **دوستاران** سایت دروس 3991](https://github.com/AliRazavi-edu/PNU_3991/stargazers)  **(stargazers)**
 - [منحنی مشارکت هر دانشجو](https://github.com/AliRazavi-edu/PNU_3991/graphs/contributors)
 - [نمودار فعالیت ها](https://github.com/AliRazavi-edu/PNU_3991/pulse/monthly)
 
@@ -158,10 +158,24 @@
   <figcaption>شکل 2 - دروس کارشناسی ارشد</figcaption>
 </figure>
 
-  
+- فرمها را چگونه باید تکمیل نمود
+    - [فیلم راهنمای تکمیل فرمها_ارزیابی رزومه و انگیزه نامه](https://drive.google.com/file/d/14ti-erTPe1i6FBRUFZRgrh2GXTFeEnRi/view)
+    - [مسیر جایگزین از گیت هاب](https://alirazavi-edu.github.io/PNU_3991/)
+    - [فیلم راهنمای تکمیل فرمها_خلاصه ارزیابی بخش عمومی](https://drive.google.com/file/d/1HeHRfU05YHOh4zVdbF8_Yv3rFBBYt21_/view)
+    - [فیلم راهنمای تکمیل فرمها_دروس کارشناسی ارشد_متدولوژي ايجاد نرم افزار](https://drive.google.com/file/d/15LByT6kf-k6m5CbIjXU4Sah0r1-Se5NS/view)
+
   
 [<kbd>↩</kbd>](#TOC)
  
 </details>
    
 </div>
+
+<div class="video-border">
+     <video id="concept-video" controls poster="">
+     <source src="/assets/fc5f635075022c2391c6530b93d9404026888743-720p.mp4" type="video/mp4">
+         Your browser does not support HTML5 video players.
+     </video>
+</div>
+
+{% include video-stats.html %}

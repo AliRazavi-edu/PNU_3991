@@ -229,8 +229,8 @@
 <a name="G-S01"></a>
 
 7. G-SPM-07
-     1. [_SPM-]()  
-    1. [_SPM-]() 
+     1. [_SPM-12_ويدا سپاسي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/1115272_01/12_%D9%88%D9%8A%D8%AF%D8%A7%20%D8%B3%D9%BE%D8%A7%D8%B3%D9%8A)  
+    1. [_SPM-22_مهدي محمدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/1115272_01/22_%D9%85%D9%87%D8%AF%D9%8A%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A) 
     1. [_SPM-]()  
     
 [<kbd>↩</kbd>](#TOC)

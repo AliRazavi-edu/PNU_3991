@@ -1,0 +1,36 @@
+video {
+    width: 100%;
+    max-height: 100%;
+}
+
+video::-webkit-media-controls-fullscreen-button {
+    display: none;
+}
+
+video.no-play::-webkit-media-controls-play-button,
+video.no-play::-webkit-media-controls-timeline {
+    display: none;
+}
+
+.card {
+    transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+}
+
+.slide-in {
+    animation: slide-in 0.5s forwards;
+    -webkit-animation: slide-in 0.5s forwards;
+}
+    
+@keyframes slide-in {
+    100% { transform: translateX(0%); }
+}
+
+@-webkit-keyframes slide-in {
+    100% { -webkit-transform: translateX(0%); }
+}
+
+.fade-out {
+    opacity: 0;
+    transition: opacity .3s linear;
+}
