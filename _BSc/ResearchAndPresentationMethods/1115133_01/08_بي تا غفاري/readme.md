@@ -3,6 +3,10 @@
 ### بی تا غفاری
  
 - [حساب گیت هاب](https://github.com/bitaghaffari)
+- [رزومه](https://bitaghaffari.github.io/)
+- [انگیزه نامه](https://bitaghaffari.github.io/SOP)
+- [گواهینامه](https://bitaghaffari.github.io/Certificates/)
+- [لاتکس](https://github.com/bitaghaffari/Latex)
 
 ## گروه ها
     

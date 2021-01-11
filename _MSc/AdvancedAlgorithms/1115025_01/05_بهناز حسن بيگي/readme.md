@@ -7,11 +7,15 @@
 - [PNU_3991_AR](https://github.com/bahssanbeygi/PNU_3991_AR)
 - [resume](https://bahssanbeygi.github.io/resume/)
 - [SOP](https://github.com/bahssanbeygi/SOP) 
-- [javascript Certificate](https://github.com/bahssanbeygi/PNU_3991_AR/blob/main/JSceritificate.pdf)
-- [jlord patchwork](https://github.com/bahssanbeygi/PNU_3991_AR/blob/main/patchwork.jpg)
+- [javascript Certificate](https://bahssanbeygi.github.io/JScertificate/)
+- [jlord patchwork](https://bahssanbeygi.github.io/Patchworkpic/)
   
 ------------------
-
+# تمرین ها
+1. [G-A03]
+    1. [Edmonds-karp]
+    1. [------------]
+    1. [Ford-fulkerson](https://github.com/bahssanbeygi/ford-fulkerson)
 
 # گروه ها
 1. [G-A03]

@@ -1,9 +1,10 @@
-# Winter Semester Courses 1399/2020 (PNU_3991)
+﻿# Winter Semester Courses 1399/2020 (PNU_3991)
 <div dir="rtl">
    
 <a name="TOC"></a>
 
 ## فهرست
+- [**ارزیابی**](#Assessment)
 - [روز و ساعت ارائه دروس](#Course-Table)
 - [پروژه های کاربردی](#Student-Prjs)
 - [دورکاری](#ّFreelancers)
@@ -14,6 +15,19 @@
 - [لاتک](#Latex)
 - [مارک داون](#MD)
 - [اچ تی ام ال - سی اس اس](#HTML)
+
+<a name="Assessment"></a>
+## ارزیابی
+- فرم های خود ارزیابی را با دقت تکمیل و همراه مستندات دیگر در گیت هاب شخصی خودتان بصورت تفکیک شده **برای هر درس جداگانه بارگذاری** نمائید
+    - [**فرم های ارزیابی کلیه دروس**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_Assessment#TOC)
+    - #### نمونه فرمهای ارزیابی تکمیل شده
+        - [**ارزیابی رزومه و انگیزه نامه**](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_CV_CheckList_AR_3991.pdf)
+        - [**خلاصه ارزیابی بخش عمومی**](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_GeneralSection_CheckList_AR_3991.pdf)
+        - [**نمونه درس کارشناسی**](https://github.com/mir-mohammad/PNU_3991_AR)
+        - [**نمونه درس ارشد**](https://github.com/saharzeinivand/PNU_3991_AR)
+
+[<kbd>↩</kbd>](#TOC)
+
 
 <a name="Course-Table"></a>
 ## روز و ساعت ارائه دروس
@@ -131,12 +145,15 @@
     - [میر محمد کمالی](https://mir-mohammad.github.io/)   
     - [فاطمه وکیلی](https://fatemehvakili.github.io/)   
     - [فاطمه مرادی](https://ftemeh021.github.io/ftemeh-resume/)     
-    - [سحر رجبی](https://saharrajabi.github.io/)   
+    - [سحر رجبی](https://saharrajabi.github.io/)
+       
 - تایپ با لاتک
-    - 
+    - [محدثه روحانی](https://mohaddeserohani.github.io/Persianresume/)
+    
 - ترجمه
     - [میر محمد کمالی](https://mir-mohammad.github.io/) 
     - [فاطمه وکیلی](https://fatemehvakili.github.io/)   
+    - [محدثه روحانی](https://mohaddeserohani.github.io/Persianresume/)
 
 [<kbd>↩</kbd>](#TOC)
 
@@ -152,20 +169,21 @@
 > ##  GitHub آموزش
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - [TryGit - Learn Git in 15 Minutes](https://try.github.io/)
-- [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
-- [در یوتیوب _آقای عظیمیGitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
-- [All the Git-it Workshop completers!](https://github.com/jlord/patchwork)
+- [در یوتیوب _آقای عظیمی GitHub آموزش](https://www.youtube.com/watch?v=gLmCsU0ezd0&list=PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT&index=2&t=0s&app=desktop)
 - [آموزش میزبانی وب سایت با صفحات در گیت هاب](https://git.ir/teamtreehouse-hosting-a-website-with-github-pages/)
 - [**An interactive git visualization to challenge and educate!**](https://learngitbranching.js.org/?demo)
 
 >## آموزش گیت در سایت پچ ورک
+- [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
+- [All the Git-it Workshop completers!](https://github.com/jlord/patchwork)
 - [میر محمد کمالی_jlordآموزش اضافه کردن نام کاربری به صفحه ی](https://aparat.com/v/fvq5a)
-- [ jlord/patchwork لینک سایت ](https://github.com/jlord/patchwork)
+
 > ##  GitHubآموزش ساخت رزومه در
 - [آموزش ایجاد وبسایت روی گیت هاب_سایت تاب لرن_سیدمصطفی علیایی ](https://toplearn.com/courses/2203/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA-%D8%B1%D9%88%DB%8C-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8 )
 
 > ## دیگر خدمات دهندگان گیت
 - [Bitbucket ](https://bitbucket.org/)
+- [مقایسه خدمات دهندگان مختلف از سایت gitea](https://docs.gitea.io/en-us/comparison/)
 
 > ## انواع مجوزهای کد باز
 - [opensource.org](https://opensource.org/licenses/)
@@ -226,7 +244,8 @@
 -----------
 <a name="JS"></a>
 <details>
-    <summary>جاوا اسکریپت</summary>
+    <summary>
+جاوا اسکریپت</summary>
 
 > ## آموزش جاوا اسکریپت
 - . [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
@@ -276,6 +295,7 @@
 - [Open source online Markdown editor](https://pandao.github.io/editor.md/en.html)
 - [Markdown to create pages and table of contents](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
 - [Markdown](https://daringfireball.net/projects/markdown/)
+- [آموزش مارک دان – markdown](http://alihossein.ir/tutorials/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%85%D8%A7%D8%B1%DA%A9-%D8%AF%D8%A7%D9%86-markdown)
 <!---
 - [markdownlivepreview](https://markdownlivepreview.com/)
 -->
@@ -351,3 +371,6 @@
 
 [<kbd>↩</kbd>](#TOC)
 </div>
+
+
+

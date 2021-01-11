@@ -5,8 +5,10 @@
 # سید مهدی رفعت جاه
 
 - [PNU_3991_AR](https://github.com/setagickeman/PNU_3991_AR)
-- [Resume](https://setagickeman.github.io/r/) 
+- [Resume1](https://setagickeman.github.io/r/) 
+- [Resume2](https://setagickeman.github.io/r/index2.htm) 
 - [SOP](https://setagickeman.github.io/r/sop)
+- [SOP2](https://setagickeman.github.io/r/sop/index2.htm) 
 - [Certificates](https://setagickeman.github.io/r/certificates)
 - [GitHub](https://github.com/setagickeman)
 
