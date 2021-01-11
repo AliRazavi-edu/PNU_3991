@@ -1,5 +1,4 @@
-#سپیده جعفری
+# سپیده جعفری
 
-###[github](http://githb.com/sepideh-jafary)
-
-###[PNU_3991_AR](http://github.com/sepideh-jafary/PNU_3991_AR)
+- [Github](https://github.com/sepideh-jafary)
+- [PNU_3991_AR](https://github.com/sepideh-jafary/PNU_3991_AR)
