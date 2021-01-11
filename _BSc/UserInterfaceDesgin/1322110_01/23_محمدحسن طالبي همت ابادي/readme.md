@@ -14,4 +14,6 @@
 - [اطلاعات بیشتر از پچورک](https://github.com/mohammadhassan-iran/PNU_3991_AR/blob/main/Patchwork.pdf)
 ---
 
-  
+### فیلم های ضبط شده به منظور کمک به همکلاسی ها
+- [فیلم آموزشی ام در مورد آپلود فایل در گیت ](https://youtu.be/_pv5YbDs3H4)
+- [فیلم آموزشی ام در مورد آپلود مدارک در ردیف درسی تان ](https://youtu.be/skUbsJW_E0g)
