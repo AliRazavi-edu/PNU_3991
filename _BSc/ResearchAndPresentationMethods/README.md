@@ -242,7 +242,7 @@
     1. [_RPM-39 طاهره صفری](https://github.com/AliRazavi-edu/PNU_3991/blob/cdb617382a96e82452223befc050d5b7f8a6daca/_BSc/ResearchAndPresentationMethods/1322010_01/39_%D8%B7%D8%A7%D9%87%D8%B1%D9%87%20%D8%B5%D9%81%D8%B1%D9%8A/readme.md)
      
  12. G-R12
-  1. [_HCI-27_ مژگان متقی ثابت]( https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/27_%D9%85%DA%98%DA%AF%D8%A7%D9%86%20%D9%85%D8%AA%D9%82%D9%8A%20%D8%AB%D8%A7%D8%A8%D8%AA)
+   1. [_HCI-27_ مژگان متقی ثابت]( https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/27_%D9%85%DA%98%DA%AF%D8%A7%D9%86%20%D9%85%D8%AA%D9%82%D9%8A%20%D8%AB%D8%A7%D8%A8%D8%AA)
    1. [_HCI -09_المیرا حبیب پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/09_%D8%A7%D9%84%D9%85%D9%8A%D8%B1%D8%A7%20%D8%AD%D8%A8%D9%8A%D8%A8%20%D9%BE%D9%88%D8%B1)
    1. [_HCI -14_فرید رجبی دولت آبادی]( https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/14_%D9%81%D8%B1%D9%8A%D8%AF%20%D8%B1%D8%AC%D8%A8%D9%8A%20%D8%AF%D9%88%D9%84%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%D9%8A)
    1. [_HCI -03_زینب اسحقیان]( https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/03_%D8%B2%D9%8A%D9%86%D8%A8%20%D8%A7%D8%B3%D8%AD%D9%82%D9%8A%D8%A7%D9%86)
@@ -254,7 +254,7 @@
    1. [_TLM-63_ علیرضا منتظران]( https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/63_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D9%85%D9%86%D8%AA%D8%B8%D8%B1%D8%A7%D9%86)
    1. [_UID-08_ امیر حسین پاکند]( https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/08_%D8%A7%D9%85%D9%8A%D8%B1%D8%AD%D8%B3%D9%8A%D9%86%20%D9%BE%D8%A7%D9%83%D9%86%D8%AF)
    
-   13. G-R01
+   13. G-R013
     1. [_RPM02-28_محمد سرمست**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/28_%D9%85%D8%AD%D9%85%D8%AF%20%D8%B3%D8%B1%D9%85%D8%B3%D8%AA)
     1. [_RPM02-06_محمدمهدی اکبری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/06_%D9%85%D8%AD%D9%85%D8%AF%D9%85%D9%87%D8%AF%D9%8A%20%D8%A7%D9%83%D8%A8%D8%B1%D9%8A) 
     1. [_RPM02-11_امین توکلی صومعه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/11_%D8%A7%D9%85%D9%8A%D9%86%20%D8%AA%D9%88%D9%83%D9%84%D9%8A%20%D8%B5%D9%88%D9%85%D8%B9%D9%87)       
