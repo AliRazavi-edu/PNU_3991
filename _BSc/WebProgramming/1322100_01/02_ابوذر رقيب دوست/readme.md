@@ -54,7 +54,6 @@
 
 ## گروه
 1. G-U02
-     
     1. [_UID-17_ابوذر رقيب دوست](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/17_%D8%A7%D8%A8%D9%88%D8%B0%D8%B1%20%D8%B1%D9%82%D9%8A%D8%A8%20%D8%AF%D9%88%D8%B3%D8%AA)
     1. [**_UID-42_فاطمه وكيلي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/42_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%88%D9%83%D9%8A%D9%84%D9%8A)
     1. [_UID-الهام کرمیان29](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/29_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)       
