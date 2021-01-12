@@ -13,7 +13,7 @@
 <ul dir="rtl">
 <li><a href="https://github.com/armaghanGit">آدرس گیت</a></li>
 <li><a href="https://github.com/armaghanGit/PNU-3991-AR.git">آدرس مخزن PNU-3991-AR</a></li>
-<li><a href="https://github.com/armaghanGit/PNU-3991-AR/blob/main/CV/Ahmad.Armghan.CV.Automata.pdf">رزومه - CV</a></li>
+<li><a href="https://armaghangit.github.io/cv/index.html">رزومه - CV</a></li>
 <li><a href="https://github.com/armaghanGit/PNU-3991-AR/blob/main/Sop/SOP.pdf">انگیزه نامه - SOP</a></li>
 
 <li><h4>پروژه تایپ لی تکس از صفحات 9 الی 12 - کتاب Introduction to Automata Theory,Formal Languages and Computation</h4>
@@ -30,3 +30,33 @@
 </ul>
 </li>
 </ul>
+<h2 dir="rtl">اعضای گروه(G-L07)</h2>
+<ol dir="rtl">
+   <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/12_%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%A8%D8%B5%D9%8A%D8%B1%D9%8A">LMT01-12_محمدرضا بصیری</a></li>
+       <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/03_%D8%A7%D8%AD%D9%85%D8%AF%20%D8%A7%D8%B1%D9%85%D8%BA%D8%A7%D9%86">LMT01-03_احمد  ارمغان</a></li>         
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/51_%D8%A7%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%88%D8%B3%D9%87%20%D9%84%D8%B1">LMT02-51_امیر محمد کوسه لر</a></li>
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/35_%D8%B3%D9%8A%D8%AF%D9%85%D8%B3%D8%B9%D9%88%D8%AF%20%D8%B5%D8%A7%D9%84%D8%AD%D9%8A">LMT01-35_سید مسعود صالحی</a></li>
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/20_%D8%AD%D8%B3%D9%8A%D9%86%20%D8%AC%D9%88%D9%87%D8%B1%D9%8A">LMT02-20_حسین جوهری</a></li>
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/23_%D8%B3%D9%8A%D8%AF%D8%AC%D9%84%D8%A7%D9%84%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A">LMT02-26_سید جلال حسینی</a></li>
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/11_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%A8%D8%B4%D9%8A%D8%B1%D9%8A%20%D8%AE%D8%A7%D9%88%D8%B1%D9%8A">LMT02-11_زهرا بشیری خاوری</a></li>
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/43_%D8%B4%D9%87%D9%84%D8%A7%20%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%87%D9%8A">LMT02-43_شهلا فتح الهی</a></li>
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/56_%D8%B1%D9%8A%D8%AD%D8%A7%D9%86%D9%87%20%D9%85%D8%AD%D8%B1%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D8%AF%D9%85">LMT02-56_ریحانه محرابی مقدم</a></li>
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/09_%D9%81%D8%A7%D8%A6%D8%B2%D9%87%20%D8%B5%D9%8A%D8%AF%D9%8A/readme.md">LMT03-08_فائزه سیدی</a></li>
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/01_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%A7%D8%AD%D9%85%D8%AF%D9%8A">LMT01-01_زهرا احمدی</a></li>
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/14_%D8%B3%D9%8A%D8%AF%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AC%D9%88%D8%A7%D8%AF%D9%8A">LMT01-14_سید محمد امین جوادی</a></li>
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/25_%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A">LMT01-25_محمد امین رئیسی</a></li>
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/36_%D9%85%D9%87%D8%B1%D8%AF%D8%A7%D8%AF%20%D8%B5%D9%81%D9%8A%20%D8%AE%D8%A7%D9%86%D9%8A">LMT01-36_مهرداد صفی خانی</a></li>
+         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/41_%D8%B9%D8%B1%D9%81%D8%A7%D9%86%20%D8%B9%D8%B7%D8%A7%D9%85%D9%86%D8%B5%D9%88%D8%B1%D9%8A">LMT01-41_عرفان عطا منصوری</a></li>
+        <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/31_%D9%85%D9%87%D8%B3%D8%A7%20%D8%B2%D9%87%D8%AF%D9%8A%20%D8%B4%D8%A7%D9%8A%D8%B3%D8%AA%D9%87">LMT02-31_مهسا زهدی شایسته</a></li>
+        <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/67_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D9%87%D8%AF%D9%8A%D8%AE%D8%A7%D9%86%D9%84%D9%88">LMT02-67_فاطمه مهدی خانلو</a></li>
+        <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/41_%D8%AD%D8%A7%D9%86%D9%8A%D9%87%20%D8%B9%D9%84%D9%8A%20%D9%86%DA%98%D8%A7%D8%AF">LMT02-41_حانیه علی نژاد</a></li>
+        <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/08_%D9%85%D9%87%D8%AF%D9%8A%20%D8%A7%D9%84%D9%87%D9%85%D8%B1%D8%A7%D8%AF%D9%8A">LMT02-08_مهدی الهمرادی</a></li>
+        <li><a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/UserInterfaceDesgin/1322110_01/04_%D8%AC%D9%8A%D9%84%D8%A7%20%D8%A7%D9%8A%D9%88%D8%A8%D9%8A/readme.md">LMT01-04_جیلا ایوبی</a></li>
+        <li><a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/36_%D9%85%D8%AD%D8%B3%D9%86%20%D8%B4%D9%83%D9%8A%D8%A8%D8%A7/readme.md">LMT02-36_محسن شکیبا</a></li>
+        <li><a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/UserInterfaceDesgin/1322110_01/15_%D8%B5%D8%A8%D8%B1%DA%AF%D9%84%20%D8%B1%D8%AD%D9%8A%D9%85%D9%8A/readme.md">LMT01-15_صبر گل رحیمی</a></li>
+        <li><a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/ResearchAndPresentationMethods/1322010_02/05_%D8%B4%D9%83%D8%B1%D9%8A%D9%87%20%D8%A7%D9%81%D8%AA%D8%AE%D8%A7%D8%B1%D9%8A/readme.md">LMT02-05_شکریه افتخاری</a></li>
+        <li><a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/ResearchAndPresentationMethods/1322010_02/34_%D8%A7%D9%85%D9%8A%D8%B1%20%D8%B6%D9%85%D9%8A%D8%B1%D9%8A/readme.md">LMT02-33_امیر ضمیری</a></li>
+        <li><a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/17_%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%AD%D8%A7%D9%85%D8%AF%D9%8A/readme.md">LMT01-17_محمدرضا حامدی</a></li>
+        <li><a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/ResearchAndPresentationMethods/1322010_02/20_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86%D9%8A/readme.md">LMT02-20_فاطمه دوستانی</a></li>
+        <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/33_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B3%D8%AA%D8%A7%D8%B1%D9%8A%20%D8%A7%D8%B0%D8%B1">LMT02-33_فاطمه ستاری آذر</a></li>
+</ol>
