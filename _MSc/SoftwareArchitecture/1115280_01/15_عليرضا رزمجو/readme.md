@@ -21,7 +21,7 @@
     5. ایجاد ریپازیتوری PNU_3991_AR
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
-
+    8. ارایه الگوریتم Facade در javascript (https://drive.google.com/file/d/1VaLVv-pXCgfdVUW9itnlFUgDe0d1EQrN/view?usp=sharing)
 
     
 2. **پروژه هم خوانی**
@@ -38,7 +38,6 @@
 4. **پروژه های کوچک کاربردی**
     - مشارکت در پروژه های درسی کوچک و مستقل
 
-[**نمونه تحویل فعالیت های انجام شده**](https://github.com/saharzeinivand/PNU_3991_AR/)
 
 -------------------------
 
