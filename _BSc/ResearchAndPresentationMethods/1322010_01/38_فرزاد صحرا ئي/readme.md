@@ -35,8 +35,7 @@
 - [اعتبارسنجی ژورنالها](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/azad/Journal-validation.pdf)
 - [جزئیات مقالات یک](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/azad/paper-details-1.pdf)
 - [جزئیات مقالات دو](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/azad/paper-details-2.pdf)
-
-- [نمونه فرم](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/azad/proposal-arshad-srb (1).pdf)
+- [نمونه فرم](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/azad/proposal-arshad-srb.pdf)
 
      
 ------------------
