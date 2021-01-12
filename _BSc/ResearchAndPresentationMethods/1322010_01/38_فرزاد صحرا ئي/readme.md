@@ -19,8 +19,6 @@
 
 ##  بخش دروس کارشناسی
 - [روش پژوهش و ارائه](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_CV_CheckList_AR_3991.pdf)
-- [کارآموزی](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_CV_CheckList_AR_3991.pdf)
-- [پروژه فناوری اطلاعات](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_CV_CheckList_AR_3991.pdf)
 
      
 ------------------
@@ -35,11 +33,7 @@
 
 ## دروس کارشناسی
 
-[1322029-02     کارآموزی](https://github.com/md-akhi/PNU_3991_AR/tree/main/SoftwareProjectManagement)
-
 [1322010-01    روش پژوهش و ارائه](https://github.com/md-akhi/PNU_3991_AR/tree/main/MscSeminar-1)
-
-[1322035-01    پروژه فناوری اطلاعات](https://github.com/md-akhi/PNU_3991_AR/tree/main/MscSeminar-2)
 
 ------------------
 
