@@ -40,6 +40,7 @@
    #### ارزیابی رزومه و انگیزه نامه
    - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_CV_CheckList_AR_3991.pdf)
    - [Word](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_CV_CheckList_AR_3991.docx)
+   - (https://github.com/sepideh-jafary/PNU_3991-AR/blob/main/%D8%AC%D9%86%D8%B1%D8%A7%D9%84/SJ_CV_CheckList_AR_3991.pdf)
     
    #### خلاصه ارزیابی بخش عمومی
    - [PDF](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_Assessment/_General/XX_GeneralSection_CheckList_AR_3991.pdf)
