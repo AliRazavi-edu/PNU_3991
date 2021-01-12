@@ -9,6 +9,19 @@
  - [SOP](https://farzadsahraei.github.io/sahraei.github.io/docs/SOP.pdf)
  - [Certificates](https://farzadsahraei.github.io/sahraei.github.io/docs/jscertificate.jpeg)
  - [GitHub](https://farzadsahraei.github.io/sahraei.github.io/docs/jlord.png)
+ 
+------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس کارشناسی
+- [روش پژوهش و ارائه](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_CV_CheckList_AR_3991.pdf)
+- [کارآموزی](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_CV_CheckList_AR_3991.pdf)
+- [پروژه فناوری اطلاعات](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_CV_CheckList_AR_3991.pdf)
+
      
 ------------------
 ## گروه ها
