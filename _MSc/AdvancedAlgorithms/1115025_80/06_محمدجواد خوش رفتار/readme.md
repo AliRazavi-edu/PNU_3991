@@ -8,5 +8,5 @@
 - [PNU_3991_AR](https://github.com/javadkh76/PNU_3991_AR)
 - [Resume](https://javadkh76.github.io/) 
 - [SOP](https://javadkh76.github.io/SOP/)
-- [Certificates](https://javadkh76.github.io)
+- [Certificates](https://www.sololearn.com/certificates/course/en/2490541/1024/landscape/png)
 - [GitHub](https://github.com/javadkh76)
