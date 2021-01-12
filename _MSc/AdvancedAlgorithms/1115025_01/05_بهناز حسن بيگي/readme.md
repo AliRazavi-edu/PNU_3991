@@ -6,6 +6,7 @@
 - [github](https://github.com/bahssanbeygi)
 - [PNU_3991_AR](https://github.com/bahssanbeygi/PNU_3991_AR)
 - [resume](https://bahssanbeygi.github.io/resume/)
+- [English resume](https://bahssanbeygi.github.io/resume/resumeen/)
 - [SOP](https://github.com/bahssanbeygi/SOP) 
 - [javascript Certificate](https://bahssanbeygi.github.io/JScertificate/)
 - [jlord patchwork](https://bahssanbeygi.github.io/Patchworkpic/)
