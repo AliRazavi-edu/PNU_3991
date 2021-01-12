@@ -3,5 +3,5 @@
 https://github.com/alishykhhosyni/sop.git
 https://github.com/alishykhhosyni/github.git
 https://github.com/alishykhhosyni/resume.git
-https://github.com/alishykhhosyni/gavascriptcertificate.git
+•[javascript](https://github.com/alishykhhosyni/javascript/blob/main/js.jpeg)
 **********
