@@ -18,7 +18,25 @@
 - [خلاصه ارزیابی بخش عمومی](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
-- [روش پژوهش و ارائه](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_CV_CheckList_AR_3991.pdf)
+- [روش پژوهش و ارائه](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_ResearchAndPresentationMethods_CheckList_AR_3991-1.pdf)
+
+     
+------------------
+## فایل های پروژه
+- [E-Research: Methods, Strategies, and Issues 1st Edition IN LATEX](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/latex.pdf)
+- [E-Research: Methods, Strategies, and Issues 1st Edition بیمر](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/power.pdf)
+
+- [سایر فایلهای پروژه ها](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/Research.rar)
+
+------------------
+## روش پژوهش کارشناسی ارشد دانشگاه آزاد اسلامی
+- [روش تحقیق](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/azad/reseach-article-begin.pdf)
+- [بررسی وضعیت ژورنالها](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/azad/Total-result.pdf)
+- [اعتبارسنجی ژورنالها](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/azad/Journal-validation.pdf)
+- [جزئیات مقالات یک](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/azad/paper-details-1.pdf)
+- [جزئیات مقالات دو](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/azad/paper-details-2.pdf)
+
+- [نمونه فرم](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/azad/proposal-arshad-srb (1).pdf)
 
      
 ------------------
