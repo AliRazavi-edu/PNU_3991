@@ -52,7 +52,7 @@
         - [نمونه قابل قبول](#RelatedRef)
         
  - **G-A-01** : 
-     1. Binary (Max) Heap +
+     1. Binary (Max) Heap + visualgo
      1. الگوریتم
      1. الگوریتم
  - **G-A-02** : 
@@ -218,7 +218,7 @@
 1. G-A01
     1. [_AdvAlg-14_مهرداد مجدي نسب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/14_%D9%85%D9%87%D8%B1%D8%AF%D8%A7%D8%AF%20%D9%85%D8%AC%D8%AF%D9%8A%20%D9%86%D8%B3%D8%A8)    
     1. [_AdvAlg-12_مازيار كيهاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/12_%D9%85%D8%A7%D8%B2%D9%8A%D8%A7%D8%B1%20%D9%83%D9%8A%D9%87%D8%A7%D9%86%D9%8A)    
-    1. []()
+    1. [_AdvAlg-22_مهرداد مجدي نسب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/22_%D9%85%D9%87%D8%B1%D8%AF%D8%A7%D8%AF%20%D9%85%D8%AC%D8%AF%D9%8A%20%D9%86%D8%B3%D8%A8)
         
 <a name="G-A02"></a>
 
