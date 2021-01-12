@@ -24,8 +24,7 @@
 ## مشخصات کارآموزی
  - [شرکت تاژان سیستم](https://tajan.ir)
  - [linkedin](https://www.linkedin.com/in/farzad-sahraei-0923319b/) 
- - [SOP](https://farzadsahraei.github.io/sahraei.github.io/docs/SOP.pdf)
- - [گزارشات و فرمها](https://farzadsahraei.github.io/sahraei.github.io/docs/Forms/Forms.rar)
+ - [گزارشات و فرمها](https://farzadsahraei.github.io/sahraei.github.io/docs/Kar/Forms/Forms.rar)
 
   
 ------------------
