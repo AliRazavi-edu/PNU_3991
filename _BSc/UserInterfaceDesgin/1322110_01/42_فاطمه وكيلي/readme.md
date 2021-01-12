@@ -67,6 +67,21 @@ G-U02
 12. [_Web-02_ابوذر رقيب دوست](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/WebProgramming/1322100_01/02_%D8%A7%D8%A8%D9%88%D8%B0%D8%B1%20%D8%B1%D9%82%D9%8A%D8%A8%20%D8%AF%D9%88%D8%B3%D8%AA)
 <br>
 
+13. [LMT-02_12 محمد بهرامی نژاد ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/12_%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%87%D8%B1%D8%A7%D9%85%D9%8A%20%D9%86%DA%98%D8%A7%D8%AF)
+<br>
+
+14. [UID-12 هادی حقیقت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/12_%D9%87%D8%A7%D8%AF%D9%8A%20%D8%AD%D9%82%D9%8A%D9%82%D8%AA)
+<br>
+
+
+15. [RPM01-14 هادی حقیقت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/14_%D9%87%D8%A7%D8%AF%D9%8A%20%D8%AD%D9%82%D9%8A%D9%82%D8%AA)
+<br>
+
+
+16. [LMT01-20 هادی حقیقت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/20_%D9%87%D8%A7%D8%AF%D9%8A%20%D8%AD%D9%82%D9%8A%D9%82%D8%AA)
+<br>
+
+
 ----------
 
 ##  سیاهه ارزشیابی درس
@@ -123,6 +138,11 @@ G-U02
          - [صفحه اصلی]
             - [HomeScreen Wireframe-link](https://docs.google.com/presentation/d/1GG3GNLeVq6BlbzQ_L1s5QKyXsvgFoEo-59zauqTFPSg/edit?usp=sharing)
             - [HomeScreen Wireframe-pdf](https://jabozaroid.github.io/wireframe/HomeScreen_wireframe.pdf)
+          - [وایرفریم صفحه جزییات هر محصول]  
+            - [DetailsOfProduct Wireframe-pdf](https://jabozaroid.github.io/wireframe/DetailsOfProduct_wireframe.pdf)
+            - [DetailsOfProduct Wireframe-jpeg](https://jabozaroid.github.io/wireframe/DetailsOfProduct_wireframe.jpeg)
+         - [وایرفریم صفحه ثبت نام و ورود]
+            - [Signin/Register Wireframe-pdf](https://jabozaroid.github.io/wireframe/Signin_wireframe.pdf)
        
     7. نمونه سازی
         - [صفحه اصلی]
@@ -136,7 +156,7 @@ G-U02
         - [فروشگاه آنلاین فروش لباس با جاوااسکریپت]
             - [لینک پروژه](https://github.com/JAbozarOid/jsamazona_full_ecommerce) 
     9. ارزیابی
-        - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
-            - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
+        - [Prototype Assessment](https://github.com/FATEMEHVAKILI/PNU_3991_AR/blob/main/UserInterfaceDesign/Prototype%20Assessment/Prototype%20Assessment.pdf) 
+
     10. ارائه    
 </div>
