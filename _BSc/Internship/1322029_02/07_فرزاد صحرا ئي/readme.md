@@ -32,7 +32,7 @@
 
 ## دروس کارشناسی
 
-[1322029-02     کارآموزی](https://github.com/md-akhi/PNU_3991_AR/tree/main/SoftwareProjectManagement)
+[1322029-02     کارآموزی](https://github.com/farzadsahraei/PNU_3991/blob/master/_BSc/Internship/1322029_02/07_%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%20%D8%B5%D8%AD%D8%B1%D8%A7%20%D8%A6%D9%8A/readme.md)
 
 
 ------------------
