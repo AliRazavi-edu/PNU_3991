@@ -84,7 +84,7 @@
    <tr>
      <th ></th>
      <th ></th>
-     <th><a href="https://github.com/ma-abedin90/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
+     <th></th>
     <th></th>
     <th></th>   
     <th>دوشنبه</th>
