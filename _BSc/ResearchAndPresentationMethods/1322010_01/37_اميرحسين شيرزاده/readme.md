@@ -6,7 +6,7 @@
 + [حساب گیت هاب](https://github.com/AmirHosseinShirzadeh)
 + [آدرس رزومه](https://amirhosseinshirzadeh.github.io/resume/)
 + [sop](https://amirhosseinshirzadeh.github.io/SOP/)
-+ [java] (https://www.sololearn.com/Certificate/1024-14772898/pdf/) 
++ [java](https://www.sololearn.com/Certificate/1024-14772898/pdf/) 
 
 -------------------
 ## ترم مهر ماه 1399
@@ -18,8 +18,11 @@
 -----------------
 ## فعالیت گروهی
 +  [پایان نامه](https://upinja.com/do.php?filename=%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%86%D8%A7%D9%85%D9%87_b7b33.pdf)  
-
++  [Latex pages:109-111](https://www.uplooder.net/files/d76f67efe2516c1a164a5dce458a25e6/E-search-1.pdf.html)
 ----------------- 
+## ارزشیابی
++ [فرم ارزشیابی](https://www.uplooder.net/files/59372e9933f37a02da52efb69f047c26/XX-ResearchAndPresentationMethods-CheckList-AR-3991-copy.pdf.html)
+-----------------
 <a name="G-R06"></a>
 
 6. G-R06
