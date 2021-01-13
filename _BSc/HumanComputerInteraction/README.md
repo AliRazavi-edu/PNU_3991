@@ -271,15 +271,13 @@
    1. [_TLM-63_ علیرضا منتظران]( https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/63_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D9%85%D9%86%D8%AA%D8%B8%D8%B1%D8%A7%D9%86)
    1. [_UID-08_ امیر حسین پاکند]( https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/08_%D8%A7%D9%85%D9%8A%D8%B1%D8%AD%D8%B3%D9%8A%D9%86%20%D9%BE%D8%A7%D9%83%D9%86%D8%AF)
 
-
-
     
 <a name="G-H08"></a>
 
 8. G-H08
-    1. []()            
-    1. []()    
-    1. []()
+    1. [_HCI-18_رويا صفري مقدم](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/18_%D8%B1%D9%88%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A%20%D9%85%D9%82%D8%AF%D9%85)            
+    1. [دکتر سیدعلی ابراهیمی رضوی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/18_%D8%B1%D9%88%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A%20%D9%85%D9%82%D8%AF%D9%85)    
+    1. [سحرزینی وند مقدم](https://github.com/saharzeinivand)
     
 </details>
 
