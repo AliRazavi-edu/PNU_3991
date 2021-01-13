@@ -52,7 +52,7 @@
         - [نمونه قابل قبول](#RelatedRef)
         
  - **G-A-01** : 
-     1. Binary (Max) Heap + 
+     1. Binary (Max) Heap + sorting
      1. الگوریتم
      1. الگوریتم
  - **G-A-02** : 
