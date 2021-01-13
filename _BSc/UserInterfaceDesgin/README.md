@@ -232,8 +232,10 @@
     
 
 8. G-U08
-    - []()    
-    - []()    
+    - [_UID-22_رويا صفري مقدم](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/22_%D8%B1%D9%88%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A%20%D9%85%D9%82%D8%AF%D9%85)    
+    - [دکتر سید علی ابراهیمی رضوی](https://github.com/AliRazavi-edu/PNU_3991)
+    - [سحر زینی وندمقدم](https://github.com/saharzeinivand)    
+
 
 9. G-U09
     - []()    
