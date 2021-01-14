@@ -18,7 +18,7 @@
 - [LaTex](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareProjectManagement/LaTeX)
 - [Pressman Presentation](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareProjectManagement/PressMan%20Presentation)
 
-## صفحه ی گیت هاب مدیریت پروژه های نرم افزاری
+## صفحه ی گیت هاب مدیریت پروژه های نرم افزاری-مهرداد مجدی نسب
 - [Software Project Management](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/SoftwareProjectManagement)
 
 ---
