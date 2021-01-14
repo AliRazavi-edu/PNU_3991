@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 # پروانه خانی
 - [PNU_3991_AR](https://github.com/parvanekh/PNU_3991_AR)
