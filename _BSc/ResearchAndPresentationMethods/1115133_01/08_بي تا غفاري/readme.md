@@ -6,7 +6,7 @@
 - [رزومه](https://bitaghaffari.github.io/)
 - [انگیزه نامه](https://bitaghaffari.github.io/SOP)
 - [گواهینامه](https://bitaghaffari.github.io/Certificates/)
-- [لاتکس](https://github.com/bitaghaffari/Latex)
+- [PNU_3991_AR](https://github.com/bitaghaffari/PNU_3991_AR)
 
 ## گروه ها
     

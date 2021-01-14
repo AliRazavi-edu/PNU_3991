@@ -6,7 +6,9 @@
 - [SoloLearnJavaScript](https://alimehraei.github.io/SOLO/)
 - [PatchWork](https://alimehraei.github.io/JLORD/)
 - [GitHub](https://github.com/AliMehraei)
-- [ProjectManagement](https://github.com/AliMehraei/ProjectManagement)
+- [Teamwork project repository](https://github.com/AliRazavi-edu/PRJ_TeamWorking)
+- [Teamwork project website](http://teamjob.ir)
+- [Prototype designing pattern](https://codepen.io/alimehraei/project/editor/DaVrKp)
 --------------
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
