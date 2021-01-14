@@ -3,7 +3,7 @@
    
 <a name="TOC"></a>
 
-## =zahra tamand
+## فهرست
 a name="Course-Table"></a>
 ## روز و ساعت ارائه دروس
 <div dir="ltr">
