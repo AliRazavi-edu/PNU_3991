@@ -65,7 +65,7 @@
      1. الگوریتم
  - **G-A-04** : 
      1. The naive string-matching algorithm + Fibonacci Heaps
-     1. 
+     1. Heap Sort
      1. Fibonacci Heaps
  - **G-A-05** : 
      1. الگوریتم
