@@ -33,6 +33,18 @@
 
 [پروژه فناوری اطلاعات  01-1322035 ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322035_01)
 
+# ارزشیابی دروس
+[خلاصه ارزیابی نمره رزومه و انگیزه نامه](ShSh_CV_CheckList_AR_3991.pdf)
+
+[خلاصه ارزیابی فعالیت های مشترک](ShSh_GeneralSection_CheckList_AR_3991.docx.pdf)
+
+[خلاصه ارزیابی درس ](ShSh_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+
+# پروژه تحقیقی
+[پروژه تحقیق در باره درس پژوهش و ارائه در یکی از دانشگاهای کشور ویا بقیه دنیا](moarefi.pdf)
+
+[dissertation پایان نامه دکترا در باره روش تحقیق و ارائه صفحه 22 کتاب اصلی  55 فایل پی دی اف  کتاب](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/dissertation_final.pdf)
+
 <br>    
     
     
