@@ -3,27 +3,31 @@
 ----------
 ### فاطمه اردستانی
 _ _ _ _ _ _ _ _ _ _
+- [github](https://github.com/Fatemeh-ardestan)
 - [my certificate](IMG-20201227-WA0028.jpg)
 - [Resume](https://fatemeh-ardestan.github.io/)
 - [SOP](https://fatemeh-ardestan.github.io/SOP/)
+- [jlord patchwork](https://raw.githubusercontent.com/Fatemeh-ardestan/PNU_3991_AR/main/Jloard-patchwork.jpg)
 - [PNU_3991_AR](README.md)
-- [پروژه درس تعامل انسان و کامپیوتر و طراحی واسط کاربر-فاطمه اردستانی](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General/FA_CV_CheckList_AR_3991.pdf)
-(https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
+- [پروژه درس تعامل انسان و کامپیوتر و طراحی واسط کاربر-فاطمه اردستانی](https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
 
-> ارزیابی ها
+##  ارزیابی
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General/FA_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General/FA_GeneralSection_CheckList_AR_3991.pdf)
 
+##  بخش دروس کارشناسی
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General%202/FA_HumanComputerInteraction_CheckList_AR_3991%20(1).pdf)
+- [خلاصه ارزیابی درس طراحی واسط کاربر](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General%202/FA_UserInterfaceDesgin_CheckList_AR_3991.pdf)
+
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
 
-[1322110_01 طراحی واسط کاربر ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
+[1322110_01 طراحی واسط کاربر ](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/UserInterfaceDesgin/FA_HumanComputerInteraction_CheckList_AR_3991.pdf.pdf)
 
-[1322108_013 تعامل انسان کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
-
+[1322108_013 تعامل انسان کامپیوتر](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/HumanComputerInteraction/FA_UserInterfaceDesgin_CheckList_AR_3991.pdf.pdf)
  ## روز و ساعت ارائه دروس‬
 
 <div dir="ltr">
@@ -93,5 +97,3 @@ _ _ _ _ _ _ _ _ _ _
     <th>پنج شنبه</th>
   </tr>
 </table>
-
-
