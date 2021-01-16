@@ -28,7 +28,13 @@
    <li>
     <a href='http://mollasadraschool.ir/files/BinaryMaxHeap.html' target='_blank'>
 	    پروژه انفرادی درس الگوریتم پیشرفته
-	    Binary (Max) Heap
+	    Binary (Max) Heap Algorithm
+	</a>
+   </li>
+   <li>
+    <a href='http://mollasadraschool.ir/files/HashTableProject.html' target='_blank'>
+	    پروژه گروهی درس الگوریتم پیشرفته
+	    Hash Table Algorithm
 	</a>
    </li>
 </ul> 
