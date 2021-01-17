@@ -1,0 +1,334 @@
+
+
+\noindent 
+
+\noindent 
+
+\noindent 
+
+\noindent 
+\[1\] 
+
+
+\noindent 
+
+\noindent \textbf{Example 6.44}
+
+\noindent  Example 6.44 Show that L ??$\mathrm{\{}$a${}^{n}$b${}^{n}$c${}^{n}$ where n \underbar{?}1$\mathrm{\}}$ is not context free.
+
+\noindent Solution:
+
+\noindent Step I: Assume that the language set L is a CFL. Let n be a natural number obtained by using the
+
+\noindent pumping lemma.
+
+\noindent Step II: Let z ??a${}^{n}$b${}^{n}$c${}^{n}$. So, {\textbar} z {\textbar} ??3n ??n. According to the pumping lemma for CFL, we can write
+
+\noindent z ??uvwxy, where {\textbar} vx {\textbar} \underbar{?}1.
+
+\noindent Step III: uvwxy ??a${}^{n}$b${}^{n}$c${}^{n}$ . As 1 \underbar{?}?{\textbar} vx {\textbar} \underbar{?}?n, ({\textbar} vwx {\textbar} \underbar{?}?n, so {\textbar} vx {\textbar} \underbar{?}?n) v or x cannot contain all the three symbols a, b, and c. So, v or x will be in any of the following forms.
+
+\noindent 1. Contain only a and b, i.e., in the form a${}^{i}$b${}^{i}$.
+
+\noindent 2. Or contain only b and c, i.e., in the form b${}^{i}$c${}^{i}$.
+
+\noindent 3. Or contain only the repetition of any of the symbols among a, b, and c.
+
+\noindent Let us take the value of k as 2. v${}^{2}$ or x${}^{2}$ will be in the form a${}^{i}$b${}^{i}$ a${}^{i}$b${}^{i}$ (as v is a string here aba is not equal
+
+\noindent to a${}^{2}$ b or ba${}^{2}$) or b${}^{i}$c${}^{i}$ b${}^{i}$c${}^{i}$. So, uv${}^{2}$ wx${}^{2}$ y cannot be in the form a${}^{m}$b${}^{m}$c${}^{m}$. So, uv${}^{2}$ wx${}^{2}$ y $\mathrm{\notin }$?L.
+
+\noindent If v or x contains repetition of any of the symbols among a, b, and c, then v or x will be any of the
+
+\noindent form of a${}^{i\ }$,b${}^{i}$, or c${}^{i}$. Let us take the value of k as 0.uv${}^{0}$ wx${}^{0}$ y ??uwy. In the string, the number of occur-
+
+\noindent of one of the other two symbols in uvy is less than n. So, uv${}^{2}$ wx${}^{2}$ y $\mathrm{\notin }$??L.
+
+\noindent Example 6.45
+
+\noindent  Example 6.45     Prove that the language L ??$\mathrm{\{}$a${}^{i2}$/i \underbar{?}?1 $\mathrm{\}}$ is not context free.
+
+\noindent Solution:
+
+\noindent Step I: Assume that the language set L is a CFL. Let n be a natural number obtained by using the
+
+\noindent pumping lemma.
+
+\noindent Step II: Let z ??a${}^{i2}$. So, {\textbar} z {\textbar} ??2${}^{i}$. Let 2${}^{i}$ ??n. According to the pumping lemma for CFL, we can write
+
+\noindent z ??uvwxy, where {\textbar} vx {\textbar} \underbar{?}1 and {\textbar} vwx {\textbar} \underbar{?}?n.
+
+\noindent Step III: The string z contains only `a', and so v and x will also be a string of only `a'. Let v ??ap and
+
+\noindent x ??a${}^{q}$, where (p ??q) \underbar{?}?1. Since n \underbar{?}?0 and uvwxy ??2${}^{i}$, {\textbar} uv${}^{n}$wx${}^{n}$y {\textbar} ??{\textbar} uvwxy {\textbar} ??{\textbar} v${}^{n-1}$x${}^{n-1}$ {\textbar} ??2${}^{i}$ ??(p ??q)
+
+\noindent (n ?1). As uv${}^{n}$wx${}^{n}$y $\mathrm{\in }$?L, {\textbar} uv${}^{n}$wx${}^{n}$y {\textbar} is also a power of 2, say 2${}^{j}$.
+
+\noindent       (p ??q)(n ??1) ??2${}^{j}$ ??2${}^{i}$
+
+\noindent $\mathrm{\ \ }\mathrm{\Rightarrow }$?(p ??q)(n ??1) ??2${}^{i}$ ??2${}^{j}$
+
+\noindent $\mathrm{\ }\mathrm{\Rightarrow }$?(?(p ??q)2${}^{i}$${}^{\mathrm{\textrm{?}}}$${}^{1\ }$??2${}^{i}$ ??2${}^{j}$
+
+\noindent  $\mathrm{\Rightarrow }$?(?2${}^{i}$ (2(p ??q) ??1) ??2${}^{j}$
+
+\noindent (p ??q) may be even or odd, but 2(p ??q) is always even. However, 2(p ??q) ??1 is odd, which cannot be
+
+\noindent a power of 2. Thus, L is not context free.
+
+\noindent Example 6.46
+
+\noindent Example 6.46 Prove that L = $\mathrm{\{}$0${}^{p}$/where p is prime$\mathrm{\}}$ is not a CFL.
+
+\noindent Solution:
+
+\noindent Step I: Suppose L ??L(G) is context free. Let n be a natural number obtained from the pumping lemma
+
+\noindent for CFL.
+
+\noindent 
+
+\noindent 
+
+\noindent 
+
+\noindent 
+
+\noindent \textbf{\textit{Step II: }}Let p be a number ??n, z ??0${}^{p}$ $\in $?L. By using the pumping lemma for CFL, we can write
+
+\noindent z ??uvwxy, where {\textbar} vx {\textbar} $>$1 and {\textbar} vwx {\textbar} $\le \ $n.
+
+\noindent \textbf{\textit{Step III: }}Let k ??0. From the pumping lemma for CFL, we can write uv${}^{0}$wx${}^{0}$y, i.e., uwy $\in \ $L. As uvy is
+
+\noindent in the form 0${}^{p}$, where p is prime, {\textbar} uwy {\textbar} is also a prime number. Let us take it as q. Let {\textbar} vx {\textbar} ??r. Then,
+
+\noindent {\textbar} uvqwxqy {\textbar} ??q ??qr ??q(1 ??r). This is not prime as it has factors q(1 ??r) including 1 and q(1 ??r). So,
+
+\noindent uv${}^{q}$wx${}^{q}$y $\notin \ $L. This is a contradiction. Therefore, L is not context free.
+
+\noindent \textbf{6.10 Ogden's Lemma for CFL}
+
+\noindent If L is a context-free language, then there exists some positive integer p such that for any string w $\in $?L
+
+\noindent with at least p positions marked, then w can be written as
+
+\noindent w ??uvxyz
+
+\noindent with strings u, v, x, y, and z, such that
+
+\noindent 1. x has at least one marked position,
+
+\noindent 2. either u and v both have marked positions or y and z both have marked positions,
+
+\noindent 3. vxy has at most p marked positions, and
+
+\noindent 4. uv${}^{i}$xy${}^{i}$z is in L for every i $\ge $?0.
+
+\noindent Ogden's lemma can be used to show that certain languages are not context free, in cases where the
+
+\noindent pumping lemma for CFLs is not suffi cient. An example is the language, $\mathrm{\{}$a${}^{i}$b${}^{j}$c${}^{k}$d${}^{l}$: i ??0 or j ??k ??l$\mathrm{\}}$. It is also useful to prove the inherent ambiguity of some languages.
+
+\noindent \textbf{6.11 Decision Problems Related to CFG}
+
+\noindent Decision problems are the problems which can be answered in a `yes' or `no'. There are a number of
+
+\noindent decision problems related to CFG. The following are some of them.
+
+\noindent     1. Whether a given CFG is empty or not. (Does it generate any terminal string?)
+
+\noindent     2. Whether a given CFG is fi nite? (Does it generate up to a certain length word?)
+
+\noindent     3. Whether a particular string w is generated by a given CFG. (Membership)
+
+\noindent     4. Whether a given CFG is ambiguous.
+
+\noindent     5. Whether two given CFG have a common word.
+
+\noindent     6. Whether two different CFG generate the same language.
+
+\noindent     7. Whether the complement of a given CFL is also a CFL.
+
+\noindent   In the following section, we are discussing the fi rst three decision algorithms for CFG.
+
+\noindent \textbf{6.11.1 Emptiness}
+
+\noindent In a CFG $\mathrm{\{}$V${}_{N}$, $\mathit{\Sigma}$, P, S $\mathrm{\}}$, if S generates a string of terminal, then it is non-empty; otherwise, the cor-responding CFL is empty.
+
+\noindent The following algorithm checks whether a CFG is empty or not:
+
+\noindent While (there exist a production in the form NT${}_{i}$ $\to $?T/String of T)  
+
+\noindent 
+
+\noindent 
+
+\noindent 
+
+\noindent 
+
+\noindent 
+
+\noindent 
+
+\noindent $\mathrm{\{}$
+
+\noindent Replace each NT at the right hand side of each production by corresponding T or string of T.
+
+\noindent $\mathrm{\}}$
+
+\noindent if (S generates a string of terminal)
+
+\noindent return non-empty.
+
+\noindent else
+
+\noindent empty.
+
+\noindent \textbf{Example 6.47}
+
+\noindent \textbf{Example 6.47 }Check whether the following CFG is empty or not.
+
+\noindent S $\to $?AB/D
+
+\noindent A $\to $?aBC
+
+\noindent B $\to \ $bC
+
+\noindent C $\to \ $d
+
+\noindent D $\to $?CD
+
+\noindent \textbf{\textit{Solution: }}C $\to $?d is in the form NT$\ \to \ $T. Replacing C $\to $?d in A $\to $?aBC, B $\to $?bC, and D$\ \to \ $CD, we get
+
+\noindent S $\to $?AB/D
+
+\noindent A $\to $aBd
+
+\noindent B $\to $bd
+
+\noindent D $\to $dD
+
+\noindent B $\to $bd is in the form NT $\to $string of terminals. Replacing B $\to $bd in S $\to $AB and A $\to $aBd, we get
+
+\noindent S $\to $Abd/D
+
+\noindent A $\to $abdd
+
+\noindent D $\to $dD
+
+\noindent A $\to $abdd is in the form NT $\to $String of terminals. Replacing A $\to $abdd in S $\to $Abd, we get
+
+\noindent S $\to $abddbd/D
+
+\noindent D $\to $dD
+
+\noindent As S generates a string of terminals, the CFG is non-empty.
+
+\noindent \textbf{Example 6.48}
+
+\noindent \textbf{Example 6.48 }Check whether the following CFG is empty or not.
+
+\noindent S $\to $ABD
+
+\noindent A $\to $BC
+
+\noindent B $\to $aC
+
+\noindent C $\to $b
+
+\noindent D $\to $BD
+
+\noindent \textbf{\textit{Solution: }}C $\to $b is in the form NT $\to $T. Replacing C $\to $b in A $\to $BC, B $\to $aC, we get
+
+\noindent S $\to $ABD
+
+\noindent A $\to $Bb
+
+\noindent B $\to $ab
+
+\noindent D $\to $BD
+
+\noindent 
+
+\noindent 
+
+\noindent 
+
+\noindent 
+
+\noindent 
+
+\noindent 
+
+\noindent B $\to $ab is in the form NT $\to $String of T. Replacing B $\to $ab in S $\to $ABD, A $\to $Bb, D $\to $BD, we get
+
+\noindent S $\to $AabD
+
+\noindent A $\to $abb
+
+\noindent D $\to $abD
+
+\noindent A $\to $abb is in the form NT $\to $String of T. Replacing A $\to $abb in S $\to $AabD, we get
+
+\noindent S $\to $abbabD
+
+\noindent D $\to $abD
+
+\noindent `While' part is complete, S does not produce any terminal string. Thus, the CFG is empty.
+
+\noindent \textbf{6.11.2 Finiteness}
+
+\noindent A language L generated from a given CFG is fi nite if there are no cycles in
+
+\noindent the directed graph generated from the production rules of the given CFG. The
+
+\noindent longest string generated by the grammar is determined by the derivation from
+
+\noindent the start symbol.
+
+\noindent \textit{(The number of vertices of the directed graph is the same as the number}
+
+\noindent \textit{of non-terminals in the grammar. If there is a production rule S }$\to $\textit{AB, the}
+
+\noindent \textit{directed graph is as shown in Fig. 6.15.)}
+
+\noindent \textbf{\textit{6.11.2.1 Infiniteness}}
+
+\noindent A language L generated from a given CFG is infi nite if there is at least one cycle in the directed graph
+
+\noindent generated from the production rules of the given CFG.
+
+\noindent The following examples describe this in detail.
+
+\noindent \textbf{Example 6.49}
+
+\noindent \textbf{Example 6.49 }Verify whether the languages generated by the following grammar are fi nite or not.
+
+\noindent If fi nite, fi nd the longest string generated by the grammar. 
+
+\noindent 
+
+\noindent a) S $\to $AB  b) S $\to $AB
+
+A $\to $BC   A $\to $B
+
+B $\to $C   B $\to $SC/a
+
+C $\to $a   C $\to $AB/b
+
+\noindent 
+
+\noindent \textbf{\textit{Soution:}}
+
+\noindent a) The grammar is not in CNF. Removing the unit productions, the grammar becomes
+
+\noindent S $\to $AB
+
+\noindent A $\to $BC
+
+\noindent B $\to $a
+
+\noindent C $\to $a
+
+\noindent Now the grammar is in CNF. The directed graph for the grammar is shown in Fig. 6.16.
+
