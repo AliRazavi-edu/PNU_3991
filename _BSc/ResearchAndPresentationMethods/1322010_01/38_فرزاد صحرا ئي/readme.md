@@ -115,7 +115,7 @@
   </tr>
    <tr>
     <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement#TOC">مديريت پروژه هاي نرم افزاري</a></th>
+     <th ></th>
      <th ></th>
      <th></th>
     <th></th>
