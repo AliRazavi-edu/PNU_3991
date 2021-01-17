@@ -1,0 +1,234 @@
+% در این فایل، دستورها و تنظیمات مورد نیاز، آورده شده است.
+%-------------------------------------------------------------------------------------------------------------------%
+%%%شعر فارسی
+\usepackage{multirow}
+\usepackage{bidipoem}
+\usepackage{algorithm,algorithmic}
+\usepackage{multicol}
+%%%%%%%%%%%%%%%%%%%%%%%5
+%تبدیل نقطه به ممیز 
+%\TXTmath
+\usepackage[titles]{tocloft} 
+\usepackage{times}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%نوشتن اعداد یونانی
+\makeatletter
+\newcommand*{\rom}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% برای اینکه در عنوان بخش پاورقی بنویسیم
+\usepackage{bidiftnxtra}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%برای نوشتن بخش و... عدد را می‌توان عوض کرد
+\setcounter{tocdepth}{3}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{sectsty}
+%برای این که شماره زیر نویس ها در هر صفحه از یک شروع شود.
+%\usepackage{perpage}
+%\MakePerPage{footnote}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%برای خط کشیدن خط افقی و ساده کردن اعداد
+\newcommand \hcancel[2][black]{\setbox 0=\hbox{#2}%
+ \rlap {\raisebox {.45 \ht 0}{\textcolor{#1}{\rule{\wd 0}{1pt}}}}#2}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ %برای رنگی نوشتن عبارت
+\usepackage{color}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%از این برای خط کشیدن روی عبارت استفاده می‌شود.
+\usepackage[thicklines]{cancel}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%از این برای این که خط رنگی باشد استفاده می‌شود.اگر باشد همه خط ها قرمز وگرنه مشکی می‌شوند.
+%\renewcommand{\CancelColor}{\color{red}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%برای نوشتن ماتریس که کنار و بالاش نوشته باشه
+\usepackage{blkarray} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% در ورژن جدید زی‌پرشین برای تایپ متن‌های ریاضی، این سه بسته، حتماً باید فراخوانی شود
+\usepackage{amsthm,amssymb,amsmath}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% بسته‌ای برای تنطیم حاشیه‌های بالا، پایین، چپ و راست صفحه
+\usepackage[top=40mm, bottom=40mm, left=25mm, right=35mm]{geometry}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% بسته‌‌ای برای ظاهر شدن شکل‌ها و تصاویر متن
+\usepackage{graphicx}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% بسته‌ای برای رسم کادر
+\usepackage{framed} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% بسته‌‌ای برای چاپ شدن خودکار تعداد صفحات در صفحه «معرفی پایان‌نامه»
+\usepackage{lastpage}
+%\usepackage{Persian-bib}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% بسته‌‌ای برای ایجاد دیاگرام‌های مختلف
+\usepackage[all]{xy}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% بسته‌ و دستوراتی برای ایجاد لینک‌های رنگی با امکان جهش
+\usepackage[pagebackref=false,colorlinks,linkcolor=blue,citecolor=magenta]{hyperref}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% چنانچه قصد پرینت گرفتن نوشته خود را دارید، خط بالا را غیرفعال و  از دستور زیر استفاده کنید چون در صورت استفاده از دستور زیر‌‌، 
+% لینک‌ها به رنگ سیاه ظاهر خواهند شد که برای پرینت گرفتن، مناسب‌تر است
+\usepackage[pagebackref=false]{hyperref}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% بسته‌ لازم برای تنظیم سربرگ‌ها
+\usepackage{fancyhdr}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% بسته‌ای برای ظاهر شدن «مراجع» و «نمایه» در فهرست مطالب
+\usepackage[nottoc]{tocbibind}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% دستورات مربوط به ایجاد نمایه
+\usepackage{makeidx}
+\makeindex
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%دستوری برای این که مربع آخر برهان توپر باشد. اگر غیر فعال کنی مربع تو خالی می‌شود.
+%\renewcommand\qedsymbol{\blacksquare}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%برای خط چین 
+\usepackage{arydshln}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% فراخوانی بسته زی‌پرشین و تعریف قلم فارسی و انگلیسی
+\usepackage{xepersian}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%برای اینکه در ماتریس بتوان خطوط عمودی بین چند سطر کشید.
+\settextfont[Scale=1.1]{XB Niloofar}
+% از revision 118 زی‌پرشین به بعد، وارد کردن دستور زیر لازم نیست. توجه داشته باشید که در صورت  غیرفعال کردن این دستور،
+% از فونت پیش‌فرض لاتک برای کلمات انگلیسی استفاده خواهد شد.
+\setlatintextfont[ExternalLocation,BoldFont={lmroman10-bold},BoldItalicFont={lmroman10-bolditalic},ItalicFont={lmroman10-italic}]{lmroman10-regular}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+% چنانچه می‌خواهید اعداد در فرمول‌ها، انگلیسی باشد، خط زیر را غیرفعال کنید
+%\setdigitfont[Scale=1.1]{Yas}
+%برای این که در شماره صفحات، قضیه و ... صفر تو خالی بنویسد.
+\settextfont{Yas}
+\setdigitfont{Yas}
+\DefaultMathsDigits
+%\settextfont[Scale=1.1]{Yas}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+% تعریف قلم‌های فارسی و انگلیسی اضافی برای استفاده در بعضی از قسمت‌های متن
+\defpersianfont\nastaliq[Scale=2]{IranNastaliq}
+\defpersianfont\chapternumber[Scale=1.5]{XB Niloofar}
+\defpersianfont\titr[Scale=1]{XB Titre}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% دستوری برای حذف کلمه «چکیده»
+\renewcommand{\abstractname}{}
+% دستوری برای حذف کلمه «abstract»
+\renewcommand{\latinabstract}{}
+% دستوری برای تغییر نام کلمه «اثبات» به «برهان»
+\renewcommand\proofname{\textbf{برهان}}
+% دستوری برای تغییر نام کلمه «کتاب‌نامه» به «مراجع»
+\renewcommand{\bibname}{مراجع}
+% دستوری برای تعریف واژه‌نامه انگلیسی به فارسی
+\newcommand\persiangloss[2]{#1\dotfill\lr{#2}\\}
+% دستوری برای تعریف واژه‌نامه فارسی به انگلیسی 
+\newcommand\englishgloss[2]{#2\dotfill\lr{#1}\\}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% تعریف و نحوه ظاهر شدن عنوان قضیه‌ها، تعریف‌ها، مثال‌ها و ...
+\theoremstyle{definition}
+\newtheorem{definition}{تعریف}[section]
+\newtheorem{Definition}{Definition}[section]
+\theoremstyle{theorem}
+\newtheorem{theorem}[definition]{قضیه}
+\newtheorem{lemma}[definition]{لم}
+\newtheorem{proposition}[definition]{گزاره}
+\newtheorem{corollary}[definition]{نتیجه}
+\newtheorem{remark}[definition]{توجه}
+\theoremstyle{definition}
+\newtheorem{ex}[definition]{مثال}
+\newtheorem{exa}[definition]{Example}
+\newtheorem{y}[definition]{یادآوری}
+\newtheorem{note}[definition]{نکته}
+\newtheorem{tab}[definition]{تبصره}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% تعریف دستورات جدید برای خلاصه نویسی و راحتی کار در هنگام تایپ فرمول‌های ریاضی
+\newcommand{\bR}{\mathbb{R}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\rM}{\mathrm{M}}
+\newcommand{\rC}{\mathrm{C}}
+\newcommand{\rV}{\mathrm{V}}
+\newcommand{\ls}{\mathrm{LSC}_{+}(X)}
+\newcommand{\ce}{\mathrm{C}^{*}(X)}
+\newcommand{\lsc}{\mathrm{LSC}}
+\newcommand{\fB}{\mathfrak{B}}
+\newcommand{\fM}{\mathfrak{M}}
+\newcommand{\bt}{\begin{theorem}}
+\newcommand{\et}{\end{theorem}}
+\newcommand{\bl}{\begin{lemma}}
+\newcommand{\el}{\end{lemma}}
+\newcommand{\bc}{\begin{corollary}}
+\newcommand{\ec}{\end{corollary}}
+\newcommand{\bp}{\begin{proof}}
+\newcommand{\ep}{\end{proof}}
+\newcommand{\be}{\begin{example}}
+\newcommand{\ee}{\end{example}}
+\newcommand{\bd}{\begin{definition}}
+\newcommand{\ed}{\end{definition}}
+\newcommand{\ba}{\begin{align}}
+\newcommand{\ea}{\end{align}}
+\newcommand{\no}{\nonumber}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% دستورهایی برای سفارشی کردن سربرگ صفحات شماره صفحه بالای صفحه نوشته شود
+
+\csname@twosidetrue\endcsname
+\pagestyle{fancy}
+\fancyhf{} 
+\fancyhead[OL,EL]{\thepage}
+\fancyhead[OR]{\small\rightmark}
+\fancyhead[ER]{\small\leftmark}
+\renewcommand{\chaptermark}[1]{%
+\markboth{\thechapter.\ #1}{}}
+
+%برای این که شماره صفحات پایین نوشته شود.
+%\csname@twosidetrue\endcsname
+%\pagestyle{fancy}
+%\fancyhf{} 
+%\fancyhead[OL,EL]{}
+%\cfoot{\thepage}
+%\fancyhead[OR]{\small\rightmark}
+%\fancyhead[ER]{\small\leftmark}
+%\renewcommand{\chaptermark}[1]{%
+%\markboth{\thechapter.\ #1}{}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% دستورهایی برای سفارشی کردن صفحات اول فصل‌ها
+\makeatletter
+\newcommand\mycustomraggedright{%
+ \if@RTL\raggedleft%
+ \else\raggedright%
+ \fi}
+\def\@part[#1]#2{%
+\ifnum \c@secnumdepth >-2\relax
+\refstepcounter{part}%
+\addcontentsline{toc}{part}{\thepart\hspace{1em}#1}%
+\else
+\addcontentsline{toc}{part}{#1}%
+\fi
+\markboth{}{}%
+{\centering
+\interlinepenalty \@M
+\ifnum \c@secnumdepth >-2\relax
+ \huge\bfseries \partname\nobreakspace\thepart
+\par
+\vskip 20\p@
+\fi
+\huge\bfseries #2\par}%
+\@endpart}
+\def\@makechapterhead#1{%
+\vspace*{200\p@}%
+{\parindent \z@ \mycustomraggedright %\@mycustomfont
+\ifnum \c@secnumdepth >\m@ne
+\if@mainmatter
+
+\Huge\bfseries \@chapapp\space {\chapternumber\thechapter}
+\par\nobreak
+\vskip 20\p@
+\fi
+\fi
+\interlinepenalty\@M 
+\huge \bfseries #1\par\nobreak
+%\vskip 120\p@
+\newpage}}
+\makeatother
