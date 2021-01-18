@@ -26,7 +26,11 @@
 - [E-Research: Methods, Strategies, and Issues 1st Edition IN LATEX](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/latex.pdf)
 - [E-Research: Methods, Strategies, and Issues 1st Edition بیمر](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/power.pdf)
 
-- [سایر فایلهای پروژه ها](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/Research.rar)
+- [Latex Files](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/Latex.rar)
+
+- [Circular Manufacturing Systems](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/CircularManufacturingSystems.pdf)
+
+
 
 ------------------
 ## روش پژوهش کارشناسی ارشد دانشگاه آزاد اسلامی
@@ -42,7 +46,7 @@
 ## گروه ها
 
 1.GPM 00
-     1. 
+     1. فرزاد صحرائی
 
   
 ------------------
@@ -111,7 +115,7 @@
   </tr>
    <tr>
     <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement#TOC">مديريت پروژه هاي نرم افزاري</a></th>
+     <th ></th>
      <th ></th>
      <th></th>
     <th></th>

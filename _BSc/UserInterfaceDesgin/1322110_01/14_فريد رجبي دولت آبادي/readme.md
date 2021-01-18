@@ -1,0 +1,6 @@
+[sop](https://github.com/FaRiD96-19/SOP)
+[pnu_3991_ar](https://github.com/FaRiD96-19/PNU)
+[resume](https://github.com/FaRiD96-19/FaRiD.Rajabi)
+[github](https://github.com/FaRiD96-19)
+[certificate](https://github.com/FaRiD96-19/Certificate)
+[arzyabi](https://github.com/FaRiD96-19/PNU)
