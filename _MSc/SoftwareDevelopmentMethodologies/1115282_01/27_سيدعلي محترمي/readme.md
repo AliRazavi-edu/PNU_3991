@@ -45,11 +45,8 @@
     
 ------------------------------
 ### گروه 
-2. G-S02
-  
-   i. [_SDM-]()    
-    
-   ii. [_SDM-]()
-    
-   iii. [_SDM-26_سيدعلي محترمي](https://github.com/AliRazavi-edu/PNU_3991/edit/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/27_%D8%B3%D9%8A%D8%AF%D8%B9%D9%84%D9%8A%20%D9%85%D8%AD%D8%AA%D8%B1%D9%85%D9%8A/readme.md)
+2. G-S02    
+    1. [_SDM-01_علی ارجمند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/01_%D8%B9%D9%84%D9%8A%20%D8%A7%D8%B1%D8%AC%D9%85%D9%86%D8%AF)
+    1. [_SDM-27_سيدعلي محترمي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/27_%D8%B3%D9%8A%D8%AF%D8%B9%D9%84%D9%8A%20%D9%85%D8%AD%D8%AA%D8%B1%D9%85%D9%8A)
+    1. [_SDM-07_زهرا جمشيدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/07_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AC%D9%85%D8%B4%D9%8A%D8%AF%D9%8A)
        

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 <a name="TOC"></a>
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 | [HumanComputerInteraction](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/HumanComputerInteraction/README.md#TOC) 
@@ -28,6 +30,7 @@
     8. مشارکت در گروهای درسی
     
 2. **فعالیت های گروهی**
+
     **توجه : این درس بصورت پروژه محور گروهی ارائه میشود**
     1. انتخاب موضوع
     2. ارائه نمونه آموزش پروژه محور از منابع مرتبط
@@ -148,6 +151,10 @@
     1. [_LMT-52الهام کرمیان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/52_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)
     1. [_LMT-پوریا بداغی03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/03_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%A8%D8%AF%D8%A7%D8%BA%D9%8A) 
     1. [_UID-الهام کرمیان29](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/29_%D8%A7%D9%84%D9%87%D8%A7%D9%85%20%D9%83%D8%B1%D9%85%D9%8A%D8%A7%D9%86)
+    1. [LMT-02_12 محمد بهرامی نژاد ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/12_%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%87%D8%B1%D8%A7%D9%85%D9%8A%20%D9%86%DA%98%D8%A7%D8%AF)
+    1. [UID-12 هادی حقیقت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/12_%D9%87%D8%A7%D8%AF%D9%8A%20%D8%AD%D9%82%D9%8A%D9%82%D8%AA)
+    1. [RPM01-14 هادی حقیقت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/14_%D9%87%D8%A7%D8%AF%D9%8A%20%D8%AD%D9%82%D9%8A%D9%82%D8%AA)
+    1. [LMT01-20 هادی حقیقت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/20_%D9%87%D8%A7%D8%AF%D9%8A%20%D8%AD%D9%82%D9%8A%D9%82%D8%AA)
 
 <a name="G-W02"></a>
 1. G-W02
@@ -159,3 +166,6 @@
 </details>
 
 [<kbd>↩</kbd>](#TOC)
+
+</div>
+

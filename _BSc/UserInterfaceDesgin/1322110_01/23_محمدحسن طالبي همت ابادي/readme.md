@@ -14,4 +14,13 @@
 - [اطلاعات بیشتر از پچورک](https://github.com/mohammadhassan-iran/PNU_3991_AR/blob/main/Patchwork.pdf)
 ---
 
-  
+### فیلم های ضبط شده به منظور کمک به همکلاسی ها
+- [فیلم آموزشی ام در مورد آپلود فایل در گیت ](https://youtu.be/_pv5YbDs3H4)
+- [فیلم آموزشی ام در مورد آپلود مدارک در ردیف درسی تان ](https://youtu.be/skUbsJW_E0g)
+
+------------------
+### ارزیابی های محمدحسن طالبی همت آبادی
+
+- [خلاصه ارزیابی رزومه و انگیزه نامه ](https://github.com/mohammadhassan-iran/PNU_3991_AR/blob/main/General/MT_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی ](https://github.com/mohammadhassan-iran/PNU_3991_AR/blob/main/General/MT_GeneralSection_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی دروس طراحی واسط کاربر و کارآموزی ](https://github.com/mohammadhassan-iran/PNU_3991_AR/blob/main/General/MT_UserInterfaceDesgin_CheckList_AR_3991.pdf)

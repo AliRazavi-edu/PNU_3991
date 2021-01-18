@@ -52,7 +52,7 @@
         - [نمونه قابل قبول](#RelatedRef)
         
  - **G-A-01** : 
-     1. الگوریتم
+     1. Binary (Max) Heap + sorting
      1. الگوریتم
      1. الگوریتم
  - **G-A-02** : 
@@ -65,7 +65,7 @@
      1. الگوریتم
  - **G-A-04** : 
      1. The naive string-matching algorithm + Fibonacci Heaps
-     1. 
+     1. Heap Sort
      1. Fibonacci Heaps
  - **G-A-05** : 
      1. الگوریتم
@@ -218,14 +218,13 @@
 1. G-A01
     1. [_AdvAlg-14_مهرداد مجدي نسب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/14_%D9%85%D9%87%D8%B1%D8%AF%D8%A7%D8%AF%20%D9%85%D8%AC%D8%AF%D9%8A%20%D9%86%D8%B3%D8%A8)    
     1. [_AdvAlg-12_مازيار كيهاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/12_%D9%85%D8%A7%D8%B2%D9%8A%D8%A7%D8%B1%20%D9%83%D9%8A%D9%87%D8%A7%D9%86%D9%8A)    
-    1. []()
+    
         
 <a name="G-A02"></a>
 
 2. G-A02
     1. [_AdvAlg-17_حميد غفاري**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/17_%D8%AD%D9%85%D9%8A%D8%AF%20%D8%BA%D9%81%D8%A7%D8%B1%D9%8A)    
-    1. [_AdvAlg-09_مصطفي زارع دستنائي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/09_%D9%85%D8%B5%D8%B7%D9%81%D9%8A%20%D8%B2%D8%A7%D8%B1%D8%B9%20%D8%AF%D8%B3%D8%AA%D9%86%D8%A7%D8%A6%D9%8A)    
-    1. [_AdvAlg-10_محمود سقرجوقي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/10_%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%B3%D9%82%D8%B1%D8%AC%D9%88%D9%82%D9%8A) 
+    1. [_AdvAlg-09_مصطفي زارع دستنائي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/09_%D9%85%D8%B5%D8%B7%D9%81%D9%8A%20%D8%B2%D8%A7%D8%B1%D8%B9%20%D8%AF%D8%B3%D8%AA%D9%86%D8%A7%D8%A6%D9%8A)     
     
 <a name="G-A03"></a>
 
@@ -238,9 +237,9 @@
     
 <a name="G-A04"></a>
 
-4. G-A04
-    1. [_AdvAlg- 05 محمد جواد خوش رفتار](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_80/05_%D9%85%D8%AD%D9%85%D8%AF%D8%AC%D9%88%D8%A7%D8%AF%20%D8%AE%D9%88%D8%B4%20%D8%B1%D9%81%D8%AA%D8%A7%D8%B1)    
-    1. [_AdvAlg- 04 فرهاد خواجوي برنا](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_80/04_%D9%81%D8%B1%D9%87%D8%A7%D8%AF%20%D8%AE%D9%88%D8%A7%D8%AC%D9%88%D9%8A%20%D8%A8%D8%B1%D9%86%D8%A7)    
+4. G-A04 
+    1. [_AdvAlg- 06 محمد جواد خوش رفتار](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_80/06_%D9%85%D8%AD%D9%85%D8%AF%D8%AC%D9%88%D8%A7%D8%AF%20%D8%AE%D9%88%D8%B4%20%D8%B1%D9%81%D8%AA%D8%A7%D8%B1)    
+    1. [_AdvAlg- 05 فرهاد خواجوي برنا](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_80/05_%D9%81%D8%B1%D9%87%D8%A7%D8%AF%20%D8%AE%D9%88%D8%A7%D8%AC%D9%88%D9%8A%20%D8%A8%D8%B1%D9%86%D8%A7)
     1. []()
      
 <a name="G-A05"></a>
