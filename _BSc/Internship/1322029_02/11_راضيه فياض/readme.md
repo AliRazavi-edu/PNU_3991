@@ -23,3 +23,9 @@
 
 - [کارآموزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship#TOC)
 -----------------------
+## گروه بندی
+
+1. [راضیه فیاض](https://github.com/rahafyz)
+2. [علی امیری](https://github.com/aliihunter)
+3. [محمد امیری](https://github.com/mamadbatman)
+
