@@ -1,33 +1,44 @@
+
 # PNU_3991_AR
----------
-### صديقه دارايي زاده
+
+<div dir="rtl">
  
----
+ -------------
+### صديقه دارايي زاده
+-----
 - [github](https://github.com/sedighedaraeizade)
 - [PNU_3991_AR](https://github.com/sedighedaraeizade/PNU-3991-AR/)
-- [resume]()
-- [SOP]() 
+- [Resume](https://sedighedaraeizade.github.io/Resume/)
+- [SOP](https://sedighedaraeizade.github.io/Sop/) 
 - [javascript Certificate](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/cert-1024-20742831.pdf)
-- [jlord patchwork]()
-  
+- [jlord patchwork](patchwork.jpg)
 ------------------
 
-# تمرین ها
 
-# گروه ها
-------------------
-## Winter Semester Courses 1399/2020
+-----------------------------
+## دروس ارشد  
 
-## دروس کارشناسی ارشد
+پروژه کوچک
 
-[1115025_01_166   الگوریتم پیشرفته ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
-<br>
-[1115023_01_166 سیستم عامل پیشرفته ]
-<br>
-[1115024_71_166 پایگاه داده پیشرفته ]
-<br>
+- [PRJ_TeamWorking](https://github.com/AliRazavi-edu/PRJ_TeamWorking)
 
---------------
+همخوانی
+
+- [REP_CollaborativeReading](https://github.com/AliRazavi-edu/REP_CollaborativeReading)
+- [CollaborativeReading](https://accounts.crowdin.com/login)
+
+--------------------------
+
+## گروه
+
+1. G-A01
+
+    1. [_ASE-05-زهراباقری نسب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/02_%D9%81%D9%87%D9%8A%D9%85%D9%87%20%D8%A7%D8%A8%D9%88%D8%AD%D9%85%D8%B2%D9%87)
+    1. [_ASE-07_مرضیه بهالو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/04_%D8%A7%D9%85%D9%8A%D8%AF%20%D8%A7%D9%83%D8%A8%D8%B1%D8%B2%D8%A7%D8%AF%D9%87) 
+    1. [_ASE-08_بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/12_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%AE%D9%88%D8%A7%D8%AC%D9%87%20%DA%AF%D9%8A)
+    1. [_ASE-13_صدیقه دارایی زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/16_%D8%B3%D8%AD%D8%B1%20%D8%B2%D9%8A%D9%86%D9%8A%20%D9%88%D9%86%D8%AF%D9%85%D9%82%D8%AF%D9%85)       
+    1. [_ASE-14_علیرضا رزمجو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/24_%D9%83%D9%84%D8%AB%D9%88%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A)
+-----------------------
 
 ## روز و ساعت ارائه دروس
 
