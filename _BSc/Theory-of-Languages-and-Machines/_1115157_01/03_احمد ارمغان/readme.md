@@ -71,3 +71,67 @@
         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/ResearchAndPresentationMethods/1322010_02/20_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86%D9%8A/readme.md">LMT02-20_فاطمه دوستانی</a></li>
         <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/33_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B3%D8%AA%D8%A7%D8%B1%D9%8A%20%D8%A7%D8%B0%D8%B1">LMT02-33_فاطمه ستاری آذر</a></li>
 </ol>
+
+<h3 dir="rtl">روز و ساعت ارائه درس</h3>
+<table calss="margin-left:auto; margin-right:auto;" dir="rtl" >
+  <tr>
+    <th>روز</th>
+    <th>8-10</th>
+    <th>10-12</th>
+    <th >12-14</th>
+    <th >14-16</th>
+    <th >16-18</th>
+  </tr>
+  <tr>
+  </tr>
+   <tr>
+    <th>شنبه</th>
+    <th ></th>
+    <th></th>
+    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
+    <th ></th>
+    <th ></th>
+  </tr>
+   <tr>
+      <th>یک شنبه</th>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th ></th>    
+  </tr>
+   <tr>
+      <th>دوشنبه</th>
+     <th ></th>
+     <th ></th>
+     <th></th>
+     <th ></th>
+     <th ></th>    
+  </tr>
+   <tr>
+      <th>سه شنبه</th>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th ></th>    
+ </tr>
+  <tr>
+     <th>چهارشنبه</th>
+   <th ></th>
+   <th ></th>
+   <th ></th>
+   <th ></th>
+   <th ></th>
+ </tr>
+ <tr>
+<th>پنجشنبه</th>
+  <th ></th>
+  <th ></th>
+  <th ></th>
+  <th ></th>
+  <th ></th>
+  
+  </tr>
+</table>
+
