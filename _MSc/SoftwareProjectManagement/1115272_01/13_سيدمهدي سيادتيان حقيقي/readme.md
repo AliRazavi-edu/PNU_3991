@@ -10,7 +10,7 @@
 - [Resume](http://Siadatian.github.io/Resume/Index.html) 
 - [SOP](http://Siadatian.github.io/SOP/Index.html)
 - [Certificates](https://siadatian.github.io/Certificate/JS%20Certificate.pdf)
-- [GitHub Page](https://github.com/Siadatian)
+- [GitHub Page](https://siadatian.github.io/)
 
 </div>
 
