@@ -25,8 +25,9 @@
 ## فایل های پروژه
 - [E-Research: Methods, Strategies, and Issues 1st Edition IN LATEX](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/latex.pdf)
 - [E-Research: Methods, Strategies, and Issues 1st Edition بیمر](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/power.pdf)
-
+- [ارائه شفاهی](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/eresearch.mp4)
 - [Latex Files](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/Latex.rar)
+
 
 - [Circular Manufacturing Systems](https://farzadsahraei.github.io/sahraei.github.io/docs/Research/CircularManufacturingSystems.pdf)
 
