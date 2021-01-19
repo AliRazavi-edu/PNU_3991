@@ -5,9 +5,9 @@
 
 - [GitHub](https://github.com/mahi-hosseini/)
 
-- [Resume](https://mahi-hosseini.github.io/)
+- [Resume](https://mahi-hosseini.github.io/Mahi-hoseini.github.io/)
 
-- [SOP](https://github.com/mahi-hosseini/SOP/)
+- [SOP](https://mahi-hosseini.github.io/SOP/)
 
 - [certificates](http://www.sololearn.com/certificate/1024-20275259/pdf)
 
