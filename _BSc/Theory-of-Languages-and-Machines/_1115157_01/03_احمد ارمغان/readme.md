@@ -1,8 +1,7 @@
 <h1 dir="rtl" >نظریه زبان و ماشین</h1>
 <h4 dir="rtl">
 در علوم نظری رایانه، نظریهٔ اتوماتا (به انگلیسی: Automata theory) یا نظریهٔ ماشین‌ها عبارت است از بررسی ریاضی ماشین‌های محاسبه‌گر انتزاعی و توانایی‌های آن‌ها برای حل مسایل. به این ماشین‌های انتزاعی اتوماتا گفته می‌شود. این نظریه بسیار نزدیک به نظریهٔ زبان صوری است. به‌طوری‌که اتوماتا اغلب توسط دستهٔ زبان‌های رسمی قابل تشخیص دسته‌بندی می‌شوند. اتوماتا نقش اساسی در طراحی کامپایلر و تجزیه کردن (parsing) ایفا می‌کند. زبان‌هایی که توسط این ماشین‌ها بررسی می‌شوند زبان‌های فرمال هستند.
-پروژه و کارهای کلاسی درس نظریه زبان و ماشین
-</h4>
+<h4 dir="rtl">پروژه و کارهای کلاسی درس نظریه زبان و ماشین</h4>
 <hr>
 <h2 dir="rtl" style="color:red;font-family:tahoma; font-size:4em;">مشخصات دانشجو</h2>
 <p dir="rtl">نام : احمد</p>
@@ -28,6 +27,18 @@
 <li><a href="https://armaghangit.github.io/files/cert-1014-20598451.jpg">مدرک فراگیری زبان نشانه گذاری HTML</a></li>
 <li><a href="https://armaghangit.github.io/patchWork/index.html">مشارک در کارگاه یادگیری گیت - Patchwork</a></li>
 </ul>
+</li>
+<li><h4>ارزیابی</h4>
+<ul dir="rtl">
+<li><a href="https://github.com/armaghanGit/PNU-3991-AR/blob/main/Assessment/XX_CV_CheckList_AR_3991.pdf">ارزیابی رزومه و انگیزه نامه </a></li>
+<li><a href="https://github.com/armaghanGit/PNU-3991-AR/blob/main/Assessment/XX_GeneralSection_CheckList_AR_3991.pdf">خلاصه ارزیابی بخش عمومی</a></li>
+<li><a href="https://github.com/armaghanGit/PNU-3991-AR/blob/main/Assessment/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf">خلاصه ارزیابی درس نظریه زبان و ماشین</a></li>
+</ul>
+<li><h4>پروژه ها</h4>
+<ul dir="rtl">
+<li><a href="https://github.com/armaghanGit/ShrinkLink">مخزن پروژه لینک کوتاه</a></li>
+</ul>
+</li>
 </li>
 </ul>
 <h2 dir="rtl">اعضای گروه(G-L07)</h2>
