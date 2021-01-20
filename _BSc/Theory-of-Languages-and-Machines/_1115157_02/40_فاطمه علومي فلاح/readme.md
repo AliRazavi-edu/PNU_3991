@@ -5,8 +5,12 @@
 - [GitHub](https://github.com/fatemeoloumi)
 - [Certificate](https://fatemeoloumi.github.io/PNU_3991_AR/certificateOfJavascript.pdf)
 - [patchwork](patchwork.png)
+## لاتک(نظریه زبان)
 - [Latex(tex)](fatemeolomi.tex)
 - [Latex(pdf)](fatemeolomi.pdf)
+## لاتک(روش پژوهش)
+- [Latex(tex)](lattex.tex)
+- [Latex(pdf)](latex2.pdf)
 -----------
 > ارزیابی ها
 ## بخش عمومی 
@@ -14,4 +18,4 @@
 - [خلاصه ارزیابی بخش عمومی](1_5186354639791980842.docx)
 ## بخش کارشناسی
 - [خلاصه ارزیابی درس نظریه زبان](1_5186354639791980843.docx)
-
+- [خلاصه ارزیابی درس روش پژوهش](XX_ResearchAndPresentationMethods_CheckList_AR_3991.docx)
