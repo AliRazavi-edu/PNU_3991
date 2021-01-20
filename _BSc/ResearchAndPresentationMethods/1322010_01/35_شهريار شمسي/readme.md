@@ -4,9 +4,11 @@
  
  
  ----------------------
-### شهریار شمسی 
+ ## شهریار شمسی 
 شماره دانشجویی : 963930790
  -----------------------
+ ## سیاهه ارزشیابی درس
+## **فعالیت های مشترک همه دانشجویان*
 - [گیتاب](https://github.com/shin-shamsi/)
 - [jlord/patchwork](jloradpatchwork.jpg)
 - [PNU_3991_AR](https://github.com/shin-shamsi/PNU_3991_AR)
@@ -17,8 +19,8 @@
 - [مدرک SQL](sql.jpg)
 - [مدرک C++](cert-1051-C++.jpg)
 - [مدرک PHP](PHP.jpg)
-- [ ببیمر ولاتک فارسی](shin-shamsislide.pdf)
-- [ببیمر ولاتک انگلیسی](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/shin-shamsislidevoice.pdf) 
+- [ ببیمر و لاتک فارسی](shin-shamsislide.pdf)
+- [ببیمر و لاتک انگلیسی](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/shin-shamsislidevoice.pdf) 
 - [ارائه شفاهی اسلاید ساخته شده توسط بیمر ](eraeh.m4v)
 - [ فایل لاتک ](shin-shamsi.pdf)
 
@@ -34,7 +36,66 @@
 # درس کارشناسی
 [روش پژوهش و اراِئه 01-1322010](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 
-[پروژه فناوری اطلاعات  01-1322035 ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322035_01)
+[پروژه فناوری اطلاعات  01-1322035 ](end.jpg)
+## روز و ساعت ارائه دروس
+<table style="width:100%">
+  <tr>
+    <th >16-18</th>
+    <th >14-16</th>
+    <th >12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+     <th ></th>
+     <th ><a  href="https://github.com/faeze-qlr/PNU_3991_AR/tree/main/pazhuhesh">درس پژوهش و ارائه</a></th>
+     <th></th>
+     <th></th>
+    <th ></th>   
+    <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>سه شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+     <th ></th>
+    <th>چهارشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+     <th ></th>
+     <th ></th>
+     <th></th>
+    <th></th>
+    <th>پنج شنبه</th>
+  </tr>
+</table>
 
 # ارزشیابی دروس
 [خلاصه ارزیابی نمره رزومه و انگیزه نامه](ShSh_CV_CheckList_AR_3991.pdf)
@@ -43,10 +104,13 @@
 
 [خلاصه ارزیابی درس ](ShSh_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
+## **فعالیت های گروهی دانشجویان*
 # پروژه تحقیقی
-[پروژه تحقیق در باره درس پژوهش و ارائه در یکی از دانشگاهای کشور ویا بقیه دنیا](moarefi.pdf)
+[پروژه تحقیق در باره درس پژوهش و ارائه در دانشگاه آدلاید استرالیا](adelaiduniversity.pdf)
 
 [dissertation پایان نامه دکترا در باره روش تحقیق و ارائه صفحه 22 کتاب اصلی  55 فایل پی دی اف  کتاب](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/dissertation_final.pdf)
+
+
 
 <br>    
     
