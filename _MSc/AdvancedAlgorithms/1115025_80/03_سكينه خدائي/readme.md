@@ -5,7 +5,7 @@
  <br> ارزیابی ها 
  <br> بخش عمومی
 </p>
--[ارزیابی رزومه و انگیزه نامه]https://github.com/sarakhodaei58/PNU_3991_AR/blob/main/General/SK_CV_CheckList_AR_3991.pdf
+-[ارزیابی رزومه و انگیزه نامه]https://github.com/sarakhodaei58/PNU_3991_AR/blob/main/General/SKH_CV_CheckList_AR_3991.pdf
 
 -[خلاصه ارزیابی بخش عمومی]https://github.com/sarakhodaei58/PNU_3991_AR/blob/main/General/SKH_GeneralSection_CheckList_AR_3991.pdf
 
