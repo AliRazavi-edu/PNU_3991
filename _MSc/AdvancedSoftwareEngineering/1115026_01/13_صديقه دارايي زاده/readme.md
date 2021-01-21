@@ -4,18 +4,14 @@
  
 ---
 - [github](https://github.com/sedighedaraeizade)
-- [PNU_3991_AR](https://github.com/sedighedaraeizade/PNU-3991-AR/)
-- [resume]()
-- [SOP]() 
+- [PNU_3991_AR](https://github.com/sedighedaraeizade/PNU-3991-AR)
+- [resume](https://sedighedaraeizade.github.io/Resume/)
+- [SOP](https://sedighedaraeizade.github.io/Sop/) 
 - [javascript Certificate](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/cert-1024-20742831.pdf)
-- [jlord patchwork]()
+- [jlord patchwork](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/patchwork.jpg)
   
 ------------------
 
-# تمرین ها
-
-# گروه ها
-------------------
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی ارشد
