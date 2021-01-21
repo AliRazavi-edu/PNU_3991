@@ -4,8 +4,8 @@
 # داود نصری
 - [PNU_3991_AR](https://davoodnasri33.github.io/PNU_3991_AR/)
 - [Resume](https://davoodnasri33.github.io/davoodResume/) 
-- [SOP](https://davoodnasri33.github.io/SOP/)
-- [CERTIFICATES](https://davoodnasri33.github.io/CERTIFICATES/)
+- [SOP](https://davoodnasri33.github.io/sop/)
+- [CERTIFICATES](https://github.com/davoodnasri33/certificates)
 - [GitHub](https://github.com/davoodnasri33)
 
 
