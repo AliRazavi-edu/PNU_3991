@@ -37,7 +37,7 @@
 2. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
     - شماره ردیف دانشجو به پیمانه 11 
      ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
-    - [**ارائه شفاهی پاور فصل 2 **]()
+    - [**ارائه شفاهی پاور فصل 2 **](https://mohsengoli.wistia.com/projects/q2yvikhby0)
    
 3. **ارائه نوشتاری درس از منابع دیگر با لاتک** 
     - [ارائه نوشتاری با لاتک از صفحه 225 تا صفحه 228 ](https://github.com/MohsenGol/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/Pages%20of%20Book%20by%20Latex%20225-228) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
