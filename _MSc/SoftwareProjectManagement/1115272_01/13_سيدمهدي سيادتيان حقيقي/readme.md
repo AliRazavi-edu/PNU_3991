@@ -9,8 +9,8 @@
 - [PNU Repository](https://github.com/Siadatian/PNU_3991_AR)
 - [Resume](http://Siadatian.github.io/Resume/Index.html) 
 - [SOP](http://Siadatian.github.io/SOP/Index.html)
-- [Certificates](http://Siadatian.github.io/Certificate)
-- [GitHub Page](https://github.com/Siadatian)
+- [Certificates](https://siadatian.github.io/Certificate/JS%20Certificate.pdf)
+- [GitHub Page](https://siadatian.github.io/)
 
 </div>
 

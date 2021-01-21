@@ -9,6 +9,8 @@
 <body style="direction:rtl">
 
 <ul style="direction:rtl" type="square">
+ <a href="https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B1%D9%88%D8%B4%20%D9%BE%DA%98%D9%88%D9%87%D8%B4%201.docx">معرفی یک درس مشابه در دانشگاه دیگر</a>
+
 <li style=" direction:rtl;" >
 <a href="https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/slide.pdf">ارائه شفاهی</a>
 </li>

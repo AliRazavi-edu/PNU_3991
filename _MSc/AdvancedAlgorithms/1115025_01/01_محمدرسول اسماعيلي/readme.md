@@ -13,9 +13,18 @@
 - [jlord patchwork](https://rasool-esmaili.github.io/Patchworkpic/)
   
 ------------------
-# گروه ها
+## تمرین ها
 
-------------------
+- [َAlgorithm In JS](https://github.com/rasool-esmaili/js-fibonacci-heap)
+- [َTeach linked list](https://m.aparat.com/v/S4Ouk)
+
+
+--------------
+
+## پروژه
+- [َNiazmandiha](https://github.com/rasool-esmaili/niazmandiha)
+
+--------------
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی ارشد
