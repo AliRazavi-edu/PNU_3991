@@ -16,7 +16,7 @@
 
 ## دروس کارشناسی ارشد
 
-[1115026_01_166 مهندسی نرم افزار پیشرفته](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/13_%D8%B5%D8%AF%D9%8A%D9%82%D9%87%20%D8%AF%D8%A7%D8%B1%D8%A7%D9%8A%D9%8A%20%D8%B2%D8%A7%D8%AF%D9%87)
+[1115026_01_166 مهندسی نرم افزار پیشرفته](https://github.com/sedighedaraeizade/PNU-3991-AR/tree/main/Advanced%20Software%20Engineer)
 
 [1115025_01_166   الگوریتم پیشرفته ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
 <br>
@@ -55,8 +55,7 @@
     <th></th>
     <th></th>
     <th><a href="https://github.com/sedighedaraeizade/PNU-3991-AR/tree/main/Advanced%20Software%20Engineer" > مهندسی نرم افزار پیشرفته<br>دکتر رضوی</th>
-    
-    <th>پنج شنبه</th>
+     <th>پنج شنبه</th>
   </tr>
 </table>
 
