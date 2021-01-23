@@ -1,3 +1,5 @@
+<div dir="rtl">
+ 
 # PNU_3991_AR
 ---------
 ### نرجس میرسالاری
@@ -28,17 +30,22 @@
 --------------------------
 
 # تمرین ها
-1. [G-A03تمرینات گروهی ]
-    1. [Binary search tree](https://www.aparat.com/v/mE1XP)
-    1. [Bubble sort](https://aparat.com/v/jk90Q)
-    1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
+
+-----------------
+
+## تمرین فردی
+
+   1. [Robin - karp](https://aparat.com/v/xhLI7)
+    
+-------------------
+
+## G-A03 تمرینات گروهی 
+
+   1. [Binary search tree](https://www.aparat.com/v/mE1XP)
+   1. [Bubble sort](https://aparat.com/v/jk90Q)
+   1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
     
  ------------------
- 1. [تمرین فردی]
-     1. [Robin - karp](https://aparat.com/v/xhLI7)
-    
-
-------------------
 # گروه ها
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
 
@@ -47,7 +54,8 @@
     1. [_AdvAlg_06_آرزو درويشي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/06_%D8%A7%D8%B1%D8%B2%D9%88%20%D8%AF%D8%B1%D9%88%D9%8A%D8%B4%D9%8A)    
     1. [_AdvAlg_03_محيا بهمني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/03_%D9%85%D8%AD%D9%8A%D8%A7%20%D8%A8%D9%87%D9%85%D9%86%D9%8A)
     1. [_AdvAlg_04_پروین حاجت پور بیرگانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/04_%D9%BE%D8%B1%D9%88%D9%8A%D9%86%20%D8%AD%D8%A7%D8%AC%D8%AA%20%D9%BE%D9%88%D8%B1%D8%A8%D9%8A%D8%B1%DA%AF%D8%A7%D9%86%D9%8A)
-    1. [_AdvAlg_16_نرگس مرادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_80/16_%D9%86%D8%B1%DA%AF%D8%B3%20%D9%85%D8%B1%D8%A7%D8%AF%D9%8A) 
+    1. [_AdvAlg_16_نرگس مرادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_80/16_%D9%86%D8%B1%DA%AF%D8%B3%20%D9%85%D8%B1%D8%A7%D8%AF%D9%8A)
+     1. [_AdvAlg_0_صديقه دارايي زاده]()
 -------------
 ## Winter Semester Courses 1399/2020
 
