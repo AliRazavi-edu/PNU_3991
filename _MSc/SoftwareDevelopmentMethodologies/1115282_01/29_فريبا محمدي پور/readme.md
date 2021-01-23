@@ -6,7 +6,7 @@
 - [PNU_3991_AR](https://github.com/fmohammadipour/PNU_3991_AR)
 - [Resume](https://fmohammadipour.github.io) 
 - [SOP](https://fmohammadipour.github.io/#sop)
-- [Certificates](https://fmohammadipour.github.io/Certificates/)
+- [Certificates](https://github.com/fmohammadipour/PNU_3991_AR/tree/main/_Certificate)
 - [GitHub](https://github.com/fmohammadipour)
 --------------------------
 ## سیاهه ارزشیابی درس
