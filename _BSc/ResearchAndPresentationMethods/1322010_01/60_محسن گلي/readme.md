@@ -39,7 +39,7 @@
     2. **جستجوی منابع دیگر** 
         - هر گروه، روش پژوهش یک پایان نامه ارشد یا دکترا در رشته مهندسی نرم افزار از دانشگاههای معتبر را عیناً(بدون ترجمه یا تحلیل) معرفی نماید
             - [RIT-Rochester Institute of Technology](https://scholarworks.rit.edu/theses/10263/)
-                - [Understanding gaps between established Software Engineering Process-Research Methodology-Chapter 3-Page 6](https://github.com/MohsenGol/PNU_3991_AR-ResearchAndPresentationMethods) 
+                - [Understanding gaps between established Software Engineering Process-Research Methodology-Chapter 3-Page 6](https://github.com/MohsenGol/PNU_3991_AR/tree/main/ResearchAndPresentationMethods) 
         - [E-Research: Methods, Strategies, and Issues 1st Edition](https://archive.org/details/eresearchmethods0000ande/page/n9/mode/1up) 
         
     3. **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی**
