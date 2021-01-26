@@ -22,4 +22,4 @@
 > فرم ها
 
 ##  بخش عمومی
-- [فرم طرح پروژه](https://github.com/miladazad/PNU_3991_AR/blob/main/milad-azadnia.pdf.pdf)
+- [فرم طرح پروژه](https://github.com/miladazad/PNU_3991_AR/blob/main/milad-azadnia.pdf)
