@@ -12,6 +12,8 @@
 - [نمونه کار ترجمه مقاله از انگلیسی به فارسی](https://github.com/mohammadhassan-iran/PNU_3991_AR/blob/main/Translation.pdf)
 - [پچورک](https://github.com/mohammadhassan-iran/PNU_3991_AR/blob/main/Patchwork.png)
 - [اطلاعات بیشتر از پچورک](https://github.com/mohammadhassan-iran/PNU_3991_AR/blob/main/Patchwork.pdf)
+- [گزارش کارآموزی](https://github.com/mohammadhassan-iran/PNU_3991_AR/blob/main/internship.pdf)
+
 
 ---
 ### فیلم های ضبط شده به منظور کمک به همکلاسی ها
