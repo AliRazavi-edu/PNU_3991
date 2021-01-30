@@ -18,8 +18,12 @@
 - [خلاصه ارزیابی بخش عمومی](https://farzadsahraei.github.io/sahraei.github.io/docs/XX_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
-
-
+# پروژه فناوری اطلاعات
+# موضوع پروژه
+## پیاده سازی سری زمانی تک متغیره با زبان پایتون
+- [پیاده سازی سری زمانی تک متغیره با زبان پایتون](https://github.com/farzadsahraei/TimeSerise)
+- [گزارش پروژه](https://farzadsahraei.github.io/sahraei.github.io/docs/Project/ProjectReport.pdf)
+- [شیرازه گزارش پروژه](https://farzadsahraei.github.io/sahraei.github.io/docs/Project/shiraze.pdf)
      
 
 
