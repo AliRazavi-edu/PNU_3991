@@ -11,3 +11,7 @@
 
 #فرم ارزش یابی 
  •[Check list](https://github.com/alishykhhosyni/check-list/blob/main/۱ارزش یابی.docx)                            
+****************************                        
+تمرین درس الگربتم پیشرفته 
+•[binary tree](https://aparat.com/v/7Lkhr)               
+ ***********************
