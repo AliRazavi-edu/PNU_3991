@@ -43,10 +43,81 @@
 
 ## دروس کارشناسی
 
-[1322029-02     کارآموزی](https://github.com/farzadsahraei/PNU_3991/blob/master/_BSc/Internship/1322029_02/07_%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%20%D8%B5%D8%AD%D8%B1%D8%A7%20%D8%A6%D9%8A/readme.md)
+[1322029-02     کارآموزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship/1322029_02/07_%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%20%D8%B5%D8%AD%D8%B1%D8%A7%20%D8%A6%D9%8A)
 
+[1322010-01    روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/38_%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%20%D8%B5%D8%AD%D8%B1%D8%A7%20%D8%A6%D9%8A)
+
+[1322035-01    پروژه فناوری اطلاعات](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322035_01/07_%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%20%D8%B5%D8%AD%D8%B1%D8%A7%20%D8%A6%D9%8A)
 
 ------------------
+
+[<kbd>↩</kbd>](#TOC)
+
+
+<a name="Course-Table"></a>
+## روز و ساعت ارائه دروس
+<div dir="ltr">
+<table style="width:100%">
+  <tr>
+    <th >16-18</th>
+    <th >14-16</th>
+    <th >12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+     <th ></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship/1322029_02/07_%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%20%D8%B5%D8%AD%D8%B1%D8%A7%20%D8%A6%D9%8A">روش پژوهش و ارائه01-1322010</a></th>
+     <th></th>
+     <th></th>
+    <th ></th>   
+    <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>سه شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+     <th ></th>
+    <th>چهارشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+     <th ></th>
+     <th ></th>
+     <th></th>
+    <th></th>
+    <th>پنج شنبه</th>
+  </tr>
+</table>
+</div>
+
+[<kbd>↩</kbd>](#TOC)
 
 
 
