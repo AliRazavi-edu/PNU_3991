@@ -18,6 +18,7 @@
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/miladazad/PNU_3991_AR/blob/main/MA_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/miladazad/PNU_3991_AR/blob/main/MA_GeneralSection_CheckList_AR_3991.pdf)
+- [کلاس و شماره فهرست](https://github.com/miladazad/PNU_3991_AR/blob/main/Courses_Table_BSc.jpg)
 ------------------
 > فرم ها
 
