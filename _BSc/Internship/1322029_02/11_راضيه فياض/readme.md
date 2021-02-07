@@ -23,9 +23,14 @@
 
 - [کارآموزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship#TOC)
 -----------------------
+# فرم‌ها و گزارش کارآموزی
+- [**فرم‌های کارآموزی**](https://github.com/rahafyz/PNU_3991_AR/tree/main/%D9%81%D8%B1%D9%85%E2%80%8C%D9%87%D8%A7%DB%8C%20%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D9%88%D8%B2%DB%8C)
+- [**گزارش کارآموزی**](https://github.com/rahafyz/PNU_3991_AR/blob/main/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D9%88%D8%B2%DB%8C.pdf) 
+--------------------------
 ## گروه بندی
 
 1. [راضیه فیاض](https://github.com/rahafyz)
 2. [علی امیری](https://github.com/aliihunter)
 3. [محمد امیری](https://github.com/mamadbatman)
+
 
