@@ -26,19 +26,20 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * [x] ![CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/css.logo.png)__[CSS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/CSS.JPG)__
    * [x] ![JS](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/JS.logo.png)__[Javascript](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Certificates/JS.jpg)__
    * [ ] ![PHP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/php.logo.png)__PHP__ :soon:
+   * [x] __[Internship](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/The%20internship/Forms/03.jpg)__
    
 * __[Courses](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses)__ <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/03.gif" align="right" width="150" />
    * __[Undergraduate project](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project)__
       * [ ] __Forms__ :soon:
       * [ ] __Report__     :soon:
-      * [ ] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project/Documents)__ :books:
+      * [x] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project/Documents)__ :books:
       * [ ] __Evaluation__ :soon:
       
    * __[The internship](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)__
-      * [ ] __Forms__ :soon:
+      * [x] __[Forms](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Forms)__
       * [ ] __Report__     :soon:
-      * [ ] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Documents)__ :books:
-      * [ ] __Evaluation__ :soon:
+      * [x] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Documents)__ :books:
+      * [x] __[Evaluation](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Internship.jpg)__
 
 * __[Evaluations](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)__ 
 
@@ -48,19 +49,20 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    
    * __[Specialized section](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)__
       * __Project lesson__ :soon:
-      * __Internship lesson__ :soon:
+      * __[Internship lesson](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Internship.jpg)__
       
 ***
 
 ## _Day and hour of lessons_
 
-|Course                                  |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
-|:--------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
-|__Undergraduate project__   :clock7: :clock8:|19 - 20|19 - 20|19 - 20|19 - 20  |:zzz:   |:zzz: |19 - 20 |
-|__The internship__   :clock9: :clock1:  |9 - 13 |9 - 13 |9 - 13 |9 - 13   |:zzz:   |:zzz: |9 - 13  |
+|Course                                     |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
+|:-----------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
+|__Undergraduate project__ :clock7: :clock8:|19 - 20|19 - 20|19 - 20|19 - 20  |:zzz:   |:zzz: |19 - 20 |
+|__The internship__   :clock8: :clock1:     |8 - 13 |8 - 13 |8 - 13 |8 - 13   |:zzz:   |:zzz: |8 - 13  |
 
 ***
 __[WhatsApp: @mhmd](https://wa.me/+989215166403)__ 
 
-__[Telegram: @m_ahmadian_h](https://telegram.me/m_ahmadian_h)__ :no_entry:
+__[Telegram: @Fx_programmer](https://telegram.me/Fx_programmer)__ :no_entry:
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
+
