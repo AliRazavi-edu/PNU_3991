@@ -31,13 +31,13 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * __[Undergraduate project](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project)__
       * [ ] __Forms__ :soon:
       * [ ] __Report__     :soon:
-      * [ ] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project/Documents)__ :books:
+      * [x] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project/Documents)__ :books:
       * [ ] __Evaluation__ :soon:
       
    * __[The internship](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)__
       * [ ] __Forms__ :soon:
       * [ ] __Report__     :soon:
-      * [ ] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Documents)__ :books:
+      * [x] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Documents)__ :books:
       * [ ] __Evaluation__ :soon:
 
 * __[Evaluations](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)__ 
@@ -54,13 +54,14 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 
 ## _Day and hour of lessons_
 
-|Course                                  |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
-|:--------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
-|__Undergraduate project__   :clock7: :clock8:|19 - 20|19 - 20|19 - 20|19 - 20  |:zzz:   |:zzz: |19 - 20 |
-|__The internship__   :clock9: :clock1:  |9 - 13 |9 - 13 |9 - 13 |9 - 13   |:zzz:   |:zzz: |9 - 13  |
+|Course                                     |Sunday |Monday |Tuesday|Wednesday|Thursday|Friday|Saturday|
+|:-----------------------------------------:|:-----:|:-----:|:-----:|:-------:|:------:|:----:|:------:|
+|__Undergraduate project__ :clock7: :clock8:|19 - 20|19 - 20|19 - 20|19 - 20  |:zzz:   |:zzz: |19 - 20 |
+|__The internship__   :clock9: :clock1:     |8 - 13 |8 - 13 |8 - 13 |8 - 13   |:zzz:   |:zzz: |8 - 13  |
 
 ***
 __[WhatsApp: @mhmd](https://wa.me/+989215166403)__ 
 
-__[Telegram: @m_ahmadian_h](https://telegram.me/m_ahmadian_h)__ :no_entry:
+__[Telegram: @Fx_programmer](https://telegram.me/Fx_programmer)__ :no_entry:
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
+
