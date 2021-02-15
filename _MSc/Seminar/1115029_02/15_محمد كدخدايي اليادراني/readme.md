@@ -32,7 +32,9 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/mohammadkad/PNU_3991_AR/blob/main/_General/MK_GeneralSection_CheckList_AR_3991.pdf)
 
 ## بخش دروس ارشد
-- [خلاصه ارزیابی درس_سمینار]()
+- [گزارش تحقیق درس سمینار](https://github.com/mohammadkad/PNU_3991_AR/blob/main/_General/Report__MohammadKadkhodaei_NoCopy.pdf)
+- [فایل ارائه](https://github.com/mohammadkad/PNU_3991_AR/blob/main/_General/PowerPoint_MohammadKadkhodaei.pdf)
+
 
 ---------
 
