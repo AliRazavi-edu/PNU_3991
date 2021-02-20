@@ -41,6 +41,7 @@
 - [ارائه تصویری](https://youtu.be/PzTIebUQJR4)
 - [پیاده سازی](https://github.com/mohammadkad/MKE)
 
+- [ارزیابی سمینار](https://github.com/mohammadkad/PNU_3991_AR/blob/main/_General/MK_Seminar_Scoring_AR_3991.pdf)
 
 ---------
 
