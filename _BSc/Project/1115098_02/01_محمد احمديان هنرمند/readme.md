@@ -1,11 +1,13 @@
 ![banner](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/banner.gif) 
 
-[![ME](https://img.shields.io/badge/ME-60-yellow)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me)
+[![ME](https://img.shields.io/badge/ME-70-yellow)](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me)
 [![Certificates](https://img.shields.io/badge/Certificates-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Certificates)
-[![project](https://img.shields.io/badge/project-80-green)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project)
+[![project](https://img.shields.io/badge/project-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project)
 [![internship](https://img.shields.io/badge/internship-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)
-[![Evaluations](https://img.shields.io/badge/Evaluations-75-green)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)
-[![References](https://img.shields.io/badge/References-90-green)](https://github.com/AliRazavi-edu/PNU_3991)
+[![Evaluations](https://img.shields.io/badge/Evaluations-100-blue)](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment)
+[![References](https://img.shields.io/badge/References-100-blue)](https://github.com/AliRazavi-edu/PNU_3991)
+
+<a name="logo"></a>
 
 # _PNU_3991_AR_ :wave:
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/banner.png" align="right"  width="140" />
@@ -29,7 +31,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 
    * __[Resume](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/resume.pdf)__
    * __[SOP](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/me/SOP.pdf)__
-   * __Site__ :soon:
+   * __Website__ :soon:
 
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
 * __[Certificates](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Certificates)__  :trophy:
@@ -48,7 +50,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
       * [x] __[Forms](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project/Forms)__
       * [x] __[Report](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Courses/Undergraduate%20Project/Report.pdf)__
       * [x] __[Documents](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/Undergraduate%20Project/Documents)__ :books:
-      * [ ] __Evaluation__ :soon:
+      * [x] __Evaluation__(At the disposal of the master)
       
    * __[The internship](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship)__
       * [x] __[Forms](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Courses/The%20internship/Forms)__ :clipboard:
@@ -71,7 +73,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
       * __[General Section CheckList](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/MA_GeneralSection_CheckList_AR_3991.pdf)__
    
    * __[Specialized section](https://github.com/m-ahmadian-h/PNU_3991_AR/tree/main/Assessment/Specialized%20section)__
-      * __Project lesson__ :soon:
+      * __Project lesson__(At the disposal of the master)
       * __[Internship lesson](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/Assessment/Internship.jpg)__
 
 :small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
@@ -82,6 +84,7 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
    * __[Internship forms](https://github.com/AliRazavi-edu/PNU_3991/raw/master/_BSc/Internship/PNU_BSc_Internship_Forms.zip)__ 
    * __[project forms](http://pnu.ac.ir/portal/file/?1072267/attachments-fgtnbdcl.zip)__ 
 
+[:top:](#logo)
       
 ***
 
@@ -100,3 +103,5 @@ Summary of 7th semester activities in Payame Noor University of Iran, North Tehr
 ![gmail](https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/img/gmail.svg)  __[Email](mailto:m.ahmadian.h@gmail.com): m.ahmadian.h@gmail.com__
 <img src="https://github.com/m-ahmadian-h/PNU_3991_AR/blob/main/gif/04.gif" align="right" width="150" />
 
+<br><br>
+<p align="center">life is a crafted narrative written by God</p>
