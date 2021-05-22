@@ -1,12 +1,5 @@
-﻿# Winter Semester Courses 1399/2020 (PNU_3991)
-<div dir="rtl">
-   
-<a name="TOC"></a>
-
-## فهرست
-
-[<kbd>↩</kbd>](#TOC)
-</div>
-
-
-
+﻿#  سمیه بیات
+- [PNU_3991_AR](https://github.com/bayat87/PNU_3991_AR)
+- [Resume](https://bayat87.github.io)
+- [Webite](http://tpm1400.ir)
+- [GitHub](https://github.com/bayat87)
