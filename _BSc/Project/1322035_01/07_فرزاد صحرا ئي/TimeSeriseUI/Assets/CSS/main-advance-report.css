@@ -1,0 +1,58 @@
+﻿.icon-form-add-subject-btn-16
+{
+    display: block;
+    width: 24px;
+    height: 24px;
+    margin: 0px auto;
+    background-image: url("../img/form-plus.png");
+}
+
+.icon-form-add-subject-btn-16:hover
+{
+    background-image: url("../img/form-plus-hover.png") !important;
+}
+
+
+.icon-form-delete-subject-btn-16
+{
+    display: block;
+    width: 24px;
+    height: 24px;
+    margin: 0px auto;
+    background-image: url("../img/form-minus.png");
+}
+
+.icon-form-delete-subject-btn-16:hover
+{
+    background-image: url("../img/form-minus-hover.png") !important;
+}
+
+
+.icon-sheet-add-subject-btn-16
+{
+    display: block;
+    width: 16px;
+    height: 16px;
+    margin: 0px auto;
+    background-image: url("../img/sheet-add.png");
+}
+
+.icon-sheet-add-subject-btn-16:hover
+{
+    background-image: url("../img/sheet-add-hover.png") !important;
+}
+
+.right-float {
+    float: right;
+}
+.left-float {
+    float: left;
+}
+.form TR TD:last-child {
+width: 50%;
+}
+
+.dir-ltr
+        {
+            direction:ltr !important;
+        }

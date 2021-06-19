@@ -1,0 +1,36 @@
+﻿
+
+
+.ui-tabs{
+    float:left;
+    width: 100%;
+}
+
+
+
+.ui-tabs .ui-tabs-nav li { 
+    float:right;
+}
+
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button
+{
+    font-size: 8pt;
+    font-family: tahoma;
+}
+
+@media print{
+
+.ui-tabs-nav
+    {
+        display: none;
+    }
+
+    .ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    {
+        display: block !important;
+    }
+    tr
+    {
+         display: table-row !important;
+    }
+}

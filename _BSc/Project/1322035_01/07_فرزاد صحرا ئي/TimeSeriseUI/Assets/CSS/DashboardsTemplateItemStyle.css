@@ -1,0 +1,71 @@
+﻿#containerchart {
+    direction: rtl;
+    background-color: white;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.containerChart {
+    margin: 0 auto;
+    /*padding: 5px;*/
+    max-height: 400px;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+    .wrapper ul {
+        display: grid;
+        padding: 0;
+    }
+
+    .wrapper li {
+        display: inline-flex;
+    }
+
+.container-table {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    display: table;
+}
+
+
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.circle {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    margin: auto 0;
+    margin-left: 5px;
+}
+
+#indicator-title {
+    transform: rotate(-90deg);
+    display: block;
+    border-radius: 5px 5px 5px;
+    white-space: nowrap;
+    height: 40px;
+    padding: 0 10px;
+    min-width: 100px;
+    cursor: context-menu;
+    line-height: 35px;
+    background-color: #ddcbef;
+    box-shadow: -3px 3px 10px #888383;
+    font-weight: bold;
+}
+
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-11, .col-md-12 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+g.highcharts-axis-labels.highcharts-xaxis-labels text {
+    text-anchor: middle !important;
+}
+

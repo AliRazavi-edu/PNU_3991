@@ -1,0 +1,15 @@
+﻿.parentDiv {
+    width: 100%;
+    float: right;
+}
+
+.childTitleDiv {
+    width: 20%;
+    float: right;
+    font-weight: bold;
+}
+
+.childInfoDiv {
+    width: 80%;
+    float: right;
+}

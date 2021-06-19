@@ -1,0 +1,27 @@
+﻿body {
+    text-align:right;
+}
+
+*, ::after, ::before {
+        box-sizing: unset;
+}
+.fade
+{
+    background-color: #0000004a;
+}
+.modal.show .modal-dialog {
+    top: 100px;
+}
+.modal-header {
+    direction:rtl;
+    font-family: titr, tahoma;
+    background-color:#efefef;
+}
+.modal-footer {
+    justify-content:flex-start !important;
+    background-color:#efefef;
+}
+.modal-header .close {
+    padding: 1rem;
+    margin: -1rem auto -1rem -1rem !important;
+}
