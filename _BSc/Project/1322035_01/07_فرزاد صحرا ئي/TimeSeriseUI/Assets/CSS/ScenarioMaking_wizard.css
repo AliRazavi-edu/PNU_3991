@@ -1,0 +1,228 @@
+﻿/*@font-face {
+            font-family: 'myIranianSans';
+            src: url('/Assets/fonts/IranianSans/IranianSans.eot');
+            src: url('/Assets/fonts/IranianSans/IranianSans.eot.eot?#iefix') format('embedded-opentype'), url('/Assets/fonts/IranianSans/IranianSans.eot.woff2') format('woff2'), url('/Assets/fonts/IranianSans/IranianSans.eot.woff') format('woff'), url('/Assets/fonts/IranianSans/IranianSans.eot.ttf') format('truetype'), url('Assets/fonts/IranianSans/IranianSans.eot.svg#besom_2regular') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }*/
+.page-wrapper {
+    text-align: right;
+}
+
+.form-title {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.tj-lv-title {
+    width: 100% !important;
+    height: auto !important;
+}
+
+section {
+    padding: 60px 0;
+}
+
+    section .section-title {
+        text-align: center;
+        color: #007b5e;
+        margin-bottom: 50px;
+        text-transform: uppercase;
+    }
+
+#tabs .container {
+    background: #e0e0e0;
+    color: #000;
+}
+
+    #tabs .container .form-register {
+        border-radius: 10px;
+        background-color: #fff;
+        box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+    }
+
+#tabs h6.section-title {
+    color: #eee;
+}
+
+#tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #f3f3f3;
+    /*background-color: #235177;*/
+    /*background-color: #34495e !important;*/
+    background-color: #3a539b !important;
+    /*border-color: transparent transparent #f3f3f3;
+    border-bottom: 3px solid #ff6a00 !important;*/
+    font-size: 15px;
+    font-weight: bold;
+    /*border-color: #f17822 !important;*/
+    box-shadow: 0 0 6px 3px #ff9478 !important;
+}
+
+#tabs .nav-tabs .nav-link {
+    border: 2px solid #59758e;
+    /*border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;*/
+    border-radius: 1.25rem;
+    color: #eee;
+    font-size: 15px;
+    /*border-bottom: 2px solid #ff6a00;*/
+    font-family: MYIRANMarker !important;
+    /*background-color: #67809f;*/
+    background-color: #5c97bf;
+    margin: 0px 5px;
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,0.2),0 5px 20px 0 rgba(0,0,0,0.19);
+}
+
+#tabs .nav-tabs {
+    /*background-color: #498cc5;*/
+    /*background-color: #67809f;*/
+    color: #dee2e6;
+    direction: rtl;
+}
+
+.ChartBoxStyle {
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+    margin: 5px;
+    padding: 5px;
+    overflow: auto;
+}
+
+.containerChart {
+    margin: 10px 0;
+}
+
+
+.step-nav-btn {
+    padding: 10px;
+    margin-left: 10px;
+    width: 88px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    border-radius: 7px;
+    background-color: #eaab26;
+    border-color: #dfa22c;
+}
+
+    .step-nav-btn:hover {
+        background-color: #b77d1a;
+        border-color: #fbac24;
+    }
+
+    .step-nav-btn:active {
+        background-color: #b77d1a !important;
+        border-color: #fbac24 !important;
+    }
+    .step-nav-btn:focus {
+        box-shadow: 0 0 0 0.2rem #ffbf0057 !important;
+    }
+.btn-prev-step {
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+.btn-next-step {
+    padding-right: 7px;
+    font-size: 15px;
+}
+
+.step-navigator a:hover .fa {
+    font-size: 22px !important;
+    vertical-align: -6px;
+    padding-left: 0px;
+}
+
+.substep-navigator {
+    text-align: center;
+}
+
+.substep-nab-btn {
+    padding-right: 8px;
+    margin-left: 10px;
+    width: 65px;
+    height: 30px;
+    display: inline-flex;
+    align-items: center;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    background-color: #eaab26;
+    border-color: #dfa22c;
+}
+
+    .substep-nab-btn:hover {
+        background-color: #b77d1a;
+        border-color: #fbac24;
+    }
+
+    .substep-nab-btn:active {
+        background-color: #b77d1a !important;
+        border-color: #fbac24 !important;
+    }
+    .substep-nab-btn:focus {
+        box-shadow: 0 0 0 0.2rem #ffbf0057 !important;
+    }
+.btn-next-substep {
+    padding-right: 7px;
+    font-size: 15px;
+}
+
+.btn-prev-substep {
+    font-size: 14px;
+    padding-left: 8px;
+}
+
+.substep-navigator a:hover .fa {
+    font-size: 18px !important;
+    vertical-align: -6px;
+    padding-left: 2px;
+}
+
+.container {
+    max-width: 100% !important;
+}
+
+.tab-content .tab-pane .row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+#tabs .container .form-register .sub-step {
+    padding: 10px;
+}
+
+#tabs .container .form-register .sub-step-detail {
+    border: 1px solid #c3c3c3;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.row {
+    direction: rtl;
+}
+
+.step-navigator {
+    text-align: end;
+}
+
+.step-header {
+    display: flex;
+    align-items: center
+}
+
+.sub-step-header {
+    width: 100%;
+    margin: 10px !important;
+}
+.Scenario-main-div {
+    padding-top: 10px;
+    background-color: lavenderblush;
+}
+.Scenario-main-div .nav-tabs {
+    border:none;
+}
+.aspNetDisabled {
+    cursor:not-allowed!important;
+}
+

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PythonCaller.Models.TimeSeriesResultModel" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Models\TimeSeriesResultModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.PyConverter" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAIKBAAAAAAAAAIAAAAAABAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.PyClrTypeBase" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQIAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.PyClrType" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAIIAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.StringType" Collapsed="true">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.BooleanType" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.Int32Type" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.Int64Type" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.FloatType" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.DoubleType" Collapsed="true">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.PyPropetryAttribute" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.ClrMemberInfo" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQgQAAAAAAAAAAAAAAAAAAAAAAAAAEACAAIAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.ClrPropertyInfo" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.ClrFieldInfo" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.ObjectType&lt;T&gt;" Collapsed="true">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.PyListType&lt;T&gt;" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIQAAAAAAAAAIAACAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Python.Runtime.PyDictType&lt;K, V&gt;" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIQAAAAAAAAAIAACAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>PyConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PythonCaller.PythonHelper" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>PythonHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PythonCaller.TimeSeries" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TimeSeries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

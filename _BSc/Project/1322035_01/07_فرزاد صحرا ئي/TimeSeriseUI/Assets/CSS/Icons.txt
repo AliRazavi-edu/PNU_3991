@@ -1,0 +1,135 @@
+/* Icon 16
+=============================================*/
+.icon-16, .icon-circle-dark-green-16, .icon-circle-green-16, .icon-circle-dark-blue-16, .icon-circle-blue-16, .icon-circle-yellow-16, .icon-circle-red-16, .icon-add-16, .icon-edit-16, .icon-delete-16, .icon-remove-16, .icon-search-16, .icon-back-16 {
+    display: block;
+    width: 16px;
+    height: 16px;
+    border: none;
+    background: none;
+    background-image: url("../img/icon-sheet.png");
+    background-repeat: no-repeat;
+}
+
+.icon-circle-dark-green-16 {
+    background-position: 0px -136px;
+}
+
+.icon-circle-green-16 {
+    background-position: -16px -136px;
+}
+
+.icon-circle-dark-blue-16 {
+    background-position: -32px -136px;
+}
+
+.icon-circle-blue-16 {
+    background-position: -48px -136px;
+}
+
+.icon-circle-yellow-16 {
+    background-position: -64px -136px;
+}
+
+.icon-circle-red-16 {
+    background-position: -80px -136px;
+}
+
+/* Action icon start from 60
+====================*/
+.icon-add-16 {
+    background-position: -96px -136px;
+}
+
+.icon-add-16:hover {
+    background-position: -96px -152px;
+}
+
+.icon-edit-16 {
+    background-position: -112px -136px;
+}
+
+.icon-edit-16:hover {
+    background-position: -112px -152px;
+}
+
+.icon-delete-16 {
+    background-position: -128px -136px;
+}
+
+.icon-delete-16:hover {
+    background-position: -128px -152px;
+}
+
+.icon-remove-16 {
+    background-position: -144px -136px;
+}
+
+.icon-remove-16:hover {
+    background-position: -144px -152px;
+}
+
+.icon-search-16 {
+    background-position: -160px -136px;
+}
+
+.icon-search-16:hover {
+    background-position: -160px -152px;
+}
+
+.icon-back-16 {
+    background-position: -176px -136px;
+}
+
+.icon-back-16:hover {
+    background-position: -176px -152px;
+}
+
+/* Icon 24
+=============================================*/
+.icon-24, .icon-menu-expand-24, .icon-menu-collapse-24, .icon-info-24, .icon-filter-24 {
+    display: block;
+    width: 24px;
+    height: 24px;
+    background-image: url("../img/icon-sheet.png");
+    background-repeat: no-repeat;
+}
+
+.icon-menu-expand-24 {
+    background-position: -456px -112px;
+}
+
+.icon-menu-expand-24.passive:hover {
+    background-position: -456px -88px;
+}
+
+.icon-menu-collapse-24 {
+    background-position: -432px -112px;
+}
+
+.icon-menu-collapse-24.passive:hover {
+    background-position: -432px -88px;
+}
+
+.icon-info-24 {
+    background-position: -192px -64px;
+}
+
+.icon-info-24.passive {
+    background-position: -192px -112px;
+}
+
+.icon-info-24.passive:hover {
+    background-position: -192px -88px;
+}
+
+.icon-info-24.live, .icon-info-24:hover {
+    background-position: -192px -88px;
+}
+
+.icon-filter-24 {
+    background-position: -240px -64px;
+}
+
+.icon-filter-24.live, .icon-filter-24:hover {
+    background-position: -240px -88px;
+}

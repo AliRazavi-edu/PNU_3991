@@ -1,0 +1,114 @@
+﻿.alignCenter {
+    text-align: center;
+    vertical-align: middle
+}
+
+.btn-group input {
+    background-color: #4CAF50; /* Green background */
+    border: 1px solid green; /* Green border */
+    color: white; /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+    width: 130px;
+}
+
+    .btn-group input:not(:last-child) {
+        border-right: none; /* Prevent double borders */
+    }
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Add a background color on hover */
+.btn-group input:hover {
+    background-color: #3e8e41;
+}
+
+.level1 * {
+    background-color: #bddbb6 !important;
+}
+
+
+.level2 * {
+    background-color: #b6bde2 !important;
+}
+
+.level3 * {
+    background-color: #e2bacf !important;
+}
+
+.level4 * {
+    background-color: #f4c9c8 !important;
+}
+
+.level5 * {
+    background-color: #f7e4cd !important;
+}
+
+.level6 * {
+    background-color: #f7efe6 !important;
+}
+
+.level7 * {
+    background-color: ##f7efe6 !important;
+}
+
+.level8 * {
+    background-color: #edeff8 !important;
+}
+
+.level9 * {
+    background-color: #edeff8 !important;
+}
+
+
+
+.StyledTable TABLE TBODY TD {
+    border: 1px solid #ccc;
+}
+
+.StyledTable {
+    direction: rtl;
+    overflow: auto;
+    width: 100%;
+    position: relative;
+    /*height: 500px;*/
+}
+
+    .StyledTable * {
+        height: 30px;
+        text-align: center;
+        background-color: whitesmoke;
+    }
+
+    .StyledTable > table > tbody > tr > td:first-child {
+        width: 20px !important;
+    }
+
+.titleColumn {
+    width: 45%;
+    text-align: right;
+    cursor: pointer;
+}
+
+    .titleColumn * {
+        vertical-align: middle;
+    }
+
+.percent * {
+    unicode-bidi: plaintext;
+}
+
+.modal-dialog {
+    overflow-y: initial !important
+}
+
+.modal-body {
+    max-height: 500px;
+    overflow-y: auto;
+}

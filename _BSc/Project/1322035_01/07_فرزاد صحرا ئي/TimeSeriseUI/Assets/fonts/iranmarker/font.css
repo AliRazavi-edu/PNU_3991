@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MYIRANMarker';
+  src: url('IRANMarker.eot');
+  src: url('IRANMarker.eot?#iefix') format('embedded-opentype'),
+       url('IRANMarker.svg#IRANMarker') format('svg'),
+       url('IRANMarker.ttf') format('truetype'),
+       url('IRANMarker.woff') format('woff'),
+       url('IRANMarker.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

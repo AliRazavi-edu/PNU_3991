@@ -1,0 +1,95 @@
+﻿.table-style {
+    direction: rtl !important;
+    width: 100% !important;
+    border-collapse: collapse !important;
+}
+
+    .table-style td, .table-style th {
+        border: 1px solid #d8d8d8 !important; /* #ddd #eae5df */
+        padding-top: 5px !important;
+        padding-bottom: 5px !important;
+    }
+
+    .table-style tr:nth-child(even) {
+        background-color: #f2f2f2 !important;
+    }
+
+    .table-style tr:nth-child(odd) {
+        background-color: #fff !important;
+    }
+
+    .table-style tr:hover {
+        background-color: #ddd !important;
+        cursor: pointer !important;
+    }
+
+input[type=text], input[type=password], select, textarea {
+    padding: 2px !important;
+    padding-right: 5px !important;
+    border-radius: 3px;
+    border: 1px solid #c3c3c3;
+    /*width: calc(100% - 16px);*/
+    cursor: pointer;
+}
+
+/*input[type=text].ui-autocomplete-input {
+        width: calc(100% - 16px) !important;
+    }
+
+    input[type=text].datepicker-textbox {
+        width: calc(100% - 8px) !important;
+    }*/
+
+.menu-root {
+    margin: 0 !important;
+}
+
+.sidebar-toolbox {
+    height: 0 !important;
+}
+
+textarea {
+    width: 98% !important;
+    resize: vertical;
+    font-size: small;
+}
+
+    input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus {
+        background-color: #e4f9ff;
+        border: 1px solid #b9cbff;
+    }
+
+.grid-collapsed-box span {
+    line-height: 16px;
+}
+
+.grid-collapsed-box {
+    height: 37px;
+}
+
+/*
+html {
+    overflow: hidden;
+}
+    
+.page-content-container {
+    height: 600px !important;
+    overflow: auto !important;
+}
+
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ccc;
+}
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #999;
+    }
+*/
