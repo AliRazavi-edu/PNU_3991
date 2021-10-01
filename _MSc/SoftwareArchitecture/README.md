@@ -90,6 +90,7 @@
 
 > 1115280-01 -درس معماري نرم افزار 
 
+- [پاورپوینت ها](https://people.eecs.ku.edu/~saiedian/Teaching/Fa18/818/Lectures/SAP-Practice/)
 - [پاورپوینت ها](https://people.eecs.ku.edu/~hossein/Teaching/Sp13/818/Lectures/SA-Practice/)
     
 ###    (Software Architecture in Practice Third Edition-Len Bass )
